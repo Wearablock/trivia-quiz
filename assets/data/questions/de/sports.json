@@ -1,0 +1,32 @@
+{
+  "q_spo_001": {
+    "question": "Wie viele Spieler hat eine Fußballmannschaft auf dem Spielfeld?",
+    "correct": "11",
+    "wrong": ["9", "10", "12"],
+    "explanation": "Jede Fußballmannschaft hat 11 Spieler auf dem Feld, einschließlich des Torwarts."
+  },
+  "q_spo_002": {
+    "question": "In welcher Sportart führt man einen Slam Dunk aus?",
+    "correct": "Basketball",
+    "wrong": ["Volleyball", "Tennis", "Baseball"],
+    "explanation": "Ein Slam Dunk ist eine Basketballbewegung, bei der ein Spieler springt und den Ball direkt durch den Korb wirft."
+  },
+  "q_spo_003": {
+    "question": "Welches Land hat die meisten FIFA-Weltmeistertitel gewonnen?",
+    "correct": "Brasilien",
+    "wrong": ["Deutschland", "Italien", "Argentinien"],
+    "explanation": "Brasilien hat die FIFA-Weltmeisterschaft 5 Mal gewonnen (1958, 1962, 1970, 1994, 2002)."
+  },
+  "q_spo_004": {
+    "question": "Was ist die höchste Punktzahl beim 10-Pin-Bowling?",
+    "correct": "300",
+    "wrong": ["200", "250", "350"],
+    "explanation": "Ein perfektes Spiel beim Bowling erzielt 300 Punkte mit 12 aufeinanderfolgenden Strikes."
+  },
+  "q_spo_005": {
+    "question": "Welches Grand-Slam-Tennisturnier wird auf Sandplätzen gespielt?",
+    "correct": "French Open",
+    "wrong": ["Wimbledon", "US Open", "Australian Open"],
+    "explanation": "Die French Open in Roland Garros ist das einzige Grand-Slam-Turnier, das auf Sand gespielt wird."
+  }
+}

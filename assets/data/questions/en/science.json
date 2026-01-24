@@ -1,0 +1,32 @@
+{
+  "q_sci_001": {
+    "question": "What is the chemical symbol for water?",
+    "correct": "H2O",
+    "wrong": ["CO2", "NaCl", "O2"],
+    "explanation": "Water consists of two hydrogen atoms and one oxygen atom."
+  },
+  "q_sci_002": {
+    "question": "What planet is known as the Red Planet?",
+    "correct": "Mars",
+    "wrong": ["Venus", "Jupiter", "Saturn"],
+    "explanation": "Mars appears red due to iron oxide (rust) on its surface."
+  },
+  "q_sci_003": {
+    "question": "What is the hardest natural substance on Earth?",
+    "correct": "Diamond",
+    "wrong": ["Gold", "Iron", "Quartz"],
+    "explanation": "Diamond rates 10 on the Mohs hardness scale, the maximum rating."
+  },
+  "q_sci_004": {
+    "question": "What is the speed of light in a vacuum?",
+    "correct": "299,792 km/s",
+    "wrong": ["150,000 km/s", "500,000 km/s", "1,000,000 km/s"],
+    "explanation": "Light travels at approximately 299,792 kilometers per second in a vacuum."
+  },
+  "q_sci_005": {
+    "question": "What is the smallest unit of matter?",
+    "correct": "Atom",
+    "wrong": ["Molecule", "Cell", "Electron"],
+    "explanation": "While subatomic particles exist, atoms are the smallest units that retain chemical properties."
+  }
+}

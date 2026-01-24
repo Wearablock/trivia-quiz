@@ -1,0 +1,32 @@
+{
+  "q_foo_001": {
+    "question": "Sushi có nguồn gốc từ quốc gia nào?",
+    "correct": "Nhật Bản",
+    "wrong": ["Trung Quốc", "Hàn Quốc", "Thái Lan"],
+    "explanation": "Sushi có nguồn gốc từ Nhật Bản, với các hình thức ban đầu có từ thế kỷ thứ 8."
+  },
+  "q_foo_002": {
+    "question": "Nguyên liệu chính trong guacamole là gì?",
+    "correct": "Quả bơ",
+    "wrong": ["Cà chua", "Ớt", "Hành tây"],
+    "explanation": "Guacamole là món chấm Mexico được làm chủ yếu từ quả bơ nghiền."
+  },
+  "q_foo_003": {
+    "question": "Vitamin nào có nhiều trong các loại trái cây họ cam quýt?",
+    "correct": "Vitamin C",
+    "wrong": ["Vitamin A", "Vitamin D", "Vitamin B12"],
+    "explanation": "Các loại trái cây họ cam quýt như cam và chanh là nguồn giàu Vitamin C."
+  },
+  "q_foo_004": {
+    "question": "Loại mì ống nào có hình dạng giống hạt gạo nhỏ?",
+    "correct": "Orzo",
+    "wrong": ["Penne", "Fusilli", "Farfalle"],
+    "explanation": "Orzo là loại mì ống có hình dạng giống hạt gạo, thường được dùng trong súp và salad."
+  },
+  "q_foo_005": {
+    "question": "Gia vị nào tạo màu vàng cho cà ri?",
+    "correct": "Nghệ",
+    "wrong": ["Ớt bột", "Thì là", "Rau mùi"],
+    "explanation": "Nghệ chứa curcumin, tạo nên màu vàng đặc trưng cho cà ri."
+  }
+}

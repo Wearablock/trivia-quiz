@@ -1,0 +1,70 @@
+{
+  "@@locale": "fr",
+  "appTitle": "Quiz Culture Générale",
+  "home": "Accueil",
+  "stats": "Statistiques",
+  "review": "Révision",
+  "settings": "Paramètres",
+  "quickQuiz": "Quiz Rapide",
+  "quickQuizDescription": "10 questions aléatoires de toutes catégories",
+  "categories": "Catégories",
+  "yourStats": "Vos statistiques",
+  "answered": "Répondu",
+  "correct": "Correct",
+  "questions": "questions",
+  "question": "Question {current} sur {total}",
+  "@question": {
+    "placeholders": {
+      "current": {"type": "int"},
+      "total": {"type": "int"}
+    }
+  },
+  "correctAnswer": "Correct!",
+  "wrongAnswer": "Incorrect!",
+  "theCorrectAnswerIs": "La bonne réponse est: {answer}",
+  "@theCorrectAnswerIs": {
+    "placeholders": {
+      "answer": {"type": "String"}
+    }
+  },
+  "next": "Suivant",
+  "finish": "Terminer",
+  "quizComplete": "Quiz terminé!",
+  "yourScore": "Votre score",
+  "outOf": "{correct} sur {total}",
+  "@outOf": {
+    "placeholders": {
+      "correct": {"type": "int"},
+      "total": {"type": "int"}
+    }
+  },
+  "playAgain": "Rejouer",
+  "backToHome": "Retour à l'accueil",
+  "wrongAnswers": "Mauvaises réponses",
+  "noWrongAnswers": "Pas encore de mauvaises réponses!",
+  "reviewAll": "Tout réviser",
+  "start": "Commencer",
+  "wrongCount": "{count} erreur(s)",
+  "@wrongCount": {
+    "placeholders": {
+      "count": {"type": "int"}
+    }
+  },
+  "recentWrong": "Erreurs récentes",
+  "yourAnswer": "Votre réponse",
+  "correctAnswerLabel": "Bonne réponse",
+  "hoursAgo": "il y a {hours} heures",
+  "@hoursAgo": {
+    "placeholders": {
+      "hours": {"type": "int"}
+    }
+  },
+  "categoryGeography": "Géographie",
+  "categoryHistory": "Histoire",
+  "categoryScience": "Sciences",
+  "categoryArts": "Arts & Culture",
+  "categorySports": "Sports",
+  "categoryNature": "Nature",
+  "categoryTechnology": "Technologie",
+  "categoryFood": "Gastronomie & Lifestyle"
+}

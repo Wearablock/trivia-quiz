@@ -1,0 +1,70 @@
+{
+  "@@locale": "ru",
+  "appTitle": "Глобальная Викторина",
+  "home": "Главная",
+  "stats": "Статистика",
+  "review": "Повтор",
+  "settings": "Настройки",
+  "quickQuiz": "Быстрая викторина",
+  "quickQuizDescription": "10 случайных вопросов из всех категорий",
+  "categories": "Категории",
+  "yourStats": "Ваша статистика",
+  "answered": "Отвечено",
+  "correct": "Правильно",
+  "questions": "вопросов",
+  "question": "Вопрос {current} из {total}",
+  "@question": {
+    "placeholders": {
+      "current": {"type": "int"},
+      "total": {"type": "int"}
+    }
+  },
+  "correctAnswer": "Правильно!",
+  "wrongAnswer": "Неправильно!",
+  "theCorrectAnswerIs": "Правильный ответ: {answer}",
+  "@theCorrectAnswerIs": {
+    "placeholders": {
+      "answer": {"type": "String"}
+    }
+  },
+  "next": "Далее",
+  "finish": "Завершить",
+  "quizComplete": "Викторина завершена!",
+  "yourScore": "Ваш результат",
+  "outOf": "{correct} из {total}",
+  "@outOf": {
+    "placeholders": {
+      "correct": {"type": "int"},
+      "total": {"type": "int"}
+    }
+  },
+  "playAgain": "Играть снова",
+  "backToHome": "На главную",
+  "wrongAnswers": "Неправильные ответы",
+  "noWrongAnswers": "Пока нет неправильных ответов!",
+  "reviewAll": "Повторить все",
+  "start": "Начать",
+  "wrongCount": "{count} неправильно",
+  "@wrongCount": {
+    "placeholders": {
+      "count": {"type": "int"}
+    }
+  },
+  "recentWrong": "Недавние ошибки",
+  "yourAnswer": "Ваш ответ",
+  "correctAnswerLabel": "Правильный ответ",
+  "hoursAgo": "{hours} часов назад",
+  "@hoursAgo": {
+    "placeholders": {
+      "hours": {"type": "int"}
+    }
+  },
+  "categoryGeography": "География",
+  "categoryHistory": "История",
+  "categoryScience": "Наука",
+  "categoryArts": "Искусство и культура",
+  "categorySports": "Спорт",
+  "categoryNature": "Природа",
+  "categoryTechnology": "Технологии",
+  "categoryFood": "Еда и образ жизни"
+}

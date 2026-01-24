@@ -1,0 +1,70 @@
+{
+  "@@locale": "ja",
+  "appTitle": "グローバルトリビアクイズ",
+  "home": "ホーム",
+  "stats": "統計",
+  "review": "復習",
+  "settings": "設定",
+  "quickQuiz": "クイッククイズ",
+  "quickQuizDescription": "全カテゴリからランダム10問",
+  "categories": "カテゴリ",
+  "yourStats": "あなたの統計",
+  "answered": "回答数",
+  "correct": "正解率",
+  "questions": "問題",
+  "question": "{total}問中{current}問目",
+  "@question": {
+    "placeholders": {
+      "current": {"type": "int"},
+      "total": {"type": "int"}
+    }
+  },
+  "correctAnswer": "正解！",
+  "wrongAnswer": "不正解！",
+  "theCorrectAnswerIs": "正解: {answer}",
+  "@theCorrectAnswerIs": {
+    "placeholders": {
+      "answer": {"type": "String"}
+    }
+  },
+  "next": "次へ",
+  "finish": "完了",
+  "quizComplete": "クイズ完了！",
+  "yourScore": "スコア",
+  "outOf": "{total}問中{correct}問正解",
+  "@outOf": {
+    "placeholders": {
+      "correct": {"type": "int"},
+      "total": {"type": "int"}
+    }
+  },
+  "playAgain": "もう一度",
+  "backToHome": "ホームへ",
+  "wrongAnswers": "間違えた問題",
+  "noWrongAnswers": "間違えた問題はありません！",
+  "reviewAll": "全て復習",
+  "start": "開始",
+  "wrongCount": "{count}問不正解",
+  "@wrongCount": {
+    "placeholders": {
+      "count": {"type": "int"}
+    }
+  },
+  "recentWrong": "最近の不正解",
+  "yourAnswer": "あなたの答え",
+  "correctAnswerLabel": "正解",
+  "hoursAgo": "{hours}時間前",
+  "@hoursAgo": {
+    "placeholders": {
+      "hours": {"type": "int"}
+    }
+  },
+  "categoryGeography": "地理",
+  "categoryHistory": "歴史",
+  "categoryScience": "科学",
+  "categoryArts": "芸術・文化",
+  "categorySports": "スポーツ",
+  "categoryNature": "自然",
+  "categoryTechnology": "技術",
+  "categoryFood": "食・生活"
+}

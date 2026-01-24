@@ -1,0 +1,32 @@
+{
+  "q_nat_001": {
+    "question": "Động vật có vú lớn nhất trên thế giới là gì?",
+    "correct": "Cá voi xanh",
+    "wrong": ["Voi", "Hươu cao cổ", "Hà mã"],
+    "explanation": "Cá voi xanh có thể dài hơn 30 mét và nặng tới 200 tấn."
+  },
+  "q_nat_002": {
+    "question": "Nhện có bao nhiêu chân?",
+    "correct": "8",
+    "wrong": ["6", "10", "12"],
+    "explanation": "Tất cả nhện đều thuộc lớp hình nhện và có 8 chân."
+  },
+  "q_nat_003": {
+    "question": "Loài cây cao nhất thế giới là gì?",
+    "correct": "Cây Sequoia đỏ ven biển",
+    "wrong": ["Cây Sequoia khổng lồ", "Cây bạch đàn", "Cây thông Douglas"],
+    "explanation": "Cây Sequoia đỏ ven biển có thể cao hơn 115 mét."
+  },
+  "q_nat_004": {
+    "question": "Thực vật hấp thụ khí gì từ khí quyển?",
+    "correct": "Carbon Dioxide",
+    "wrong": ["Oxy", "Nitơ", "Hydro"],
+    "explanation": "Thực vật sử dụng carbon dioxide trong quá trình quang hợp để tạo ra oxy và glucose."
+  },
+  "q_nat_005": {
+    "question": "Động vật trên cạn nhanh nhất là gì?",
+    "correct": "Báo gê-pa",
+    "wrong": ["Sư tử", "Linh dương", "Ngựa"],
+    "explanation": "Báo gê-pa có thể đạt tốc độ lên tới 112 km/h."
+  }
+}

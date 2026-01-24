@@ -1,0 +1,70 @@
+{
+  "@@locale": "zh_Hant",
+  "appTitle": "全球知識問答",
+  "home": "首頁",
+  "stats": "統計",
+  "review": "複習",
+  "settings": "設定",
+  "quickQuiz": "快速問答",
+  "quickQuizDescription": "所有類別隨機10題",
+  "categories": "類別",
+  "yourStats": "你的統計",
+  "answered": "已答題",
+  "correct": "正確率",
+  "questions": "題目",
+  "question": "第{current}題，共{total}題",
+  "@question": {
+    "placeholders": {
+      "current": {"type": "int"},
+      "total": {"type": "int"}
+    }
+  },
+  "correctAnswer": "正確！",
+  "wrongAnswer": "錯誤！",
+  "theCorrectAnswerIs": "正確答案: {answer}",
+  "@theCorrectAnswerIs": {
+    "placeholders": {
+      "answer": {"type": "String"}
+    }
+  },
+  "next": "下一題",
+  "finish": "完成",
+  "quizComplete": "問答完成！",
+  "yourScore": "得分",
+  "outOf": "{total}題中答對{correct}題",
+  "@outOf": {
+    "placeholders": {
+      "correct": {"type": "int"},
+      "total": {"type": "int"}
+    }
+  },
+  "playAgain": "再玩一次",
+  "backToHome": "返回首頁",
+  "wrongAnswers": "錯題",
+  "noWrongAnswers": "還沒有錯題！",
+  "reviewAll": "全部複習",
+  "start": "開始",
+  "wrongCount": "{count}題錯誤",
+  "@wrongCount": {
+    "placeholders": {
+      "count": {"type": "int"}
+    }
+  },
+  "recentWrong": "最近錯題",
+  "yourAnswer": "你的答案",
+  "correctAnswerLabel": "正確答案",
+  "hoursAgo": "{hours}小時前",
+  "@hoursAgo": {
+    "placeholders": {
+      "hours": {"type": "int"}
+    }
+  },
+  "categoryGeography": "地理",
+  "categoryHistory": "歷史",
+  "categoryScience": "科學",
+  "categoryArts": "藝術文化",
+  "categorySports": "體育",
+  "categoryNature": "自然",
+  "categoryTechnology": "技術",
+  "categoryFood": "美食生活"
+}

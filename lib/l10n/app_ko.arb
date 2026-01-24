@@ -1,0 +1,70 @@
+{
+  "@@locale": "ko",
+  "appTitle": "글로벌 상식 퀴즈",
+  "home": "홈",
+  "stats": "통계",
+  "review": "오답",
+  "settings": "설정",
+  "quickQuiz": "빠른 퀴즈",
+  "quickQuizDescription": "모든 카테고리에서 랜덤 10문제",
+  "categories": "카테고리",
+  "yourStats": "내 통계",
+  "answered": "푼 문제",
+  "correct": "정답률",
+  "questions": "문제",
+  "question": "{total}문제 중 {current}번",
+  "@question": {
+    "placeholders": {
+      "current": {"type": "int"},
+      "total": {"type": "int"}
+    }
+  },
+  "correctAnswer": "정답입니다!",
+  "wrongAnswer": "틀렸습니다!",
+  "theCorrectAnswerIs": "정답: {answer}",
+  "@theCorrectAnswerIs": {
+    "placeholders": {
+      "answer": {"type": "String"}
+    }
+  },
+  "next": "다음",
+  "finish": "완료",
+  "quizComplete": "퀴즈 완료!",
+  "yourScore": "점수",
+  "outOf": "{total}문제 중 {correct}개 정답",
+  "@outOf": {
+    "placeholders": {
+      "correct": {"type": "int"},
+      "total": {"type": "int"}
+    }
+  },
+  "playAgain": "다시 풀기",
+  "backToHome": "홈으로",
+  "wrongAnswers": "틀린 문제",
+  "noWrongAnswers": "틀린 문제가 없습니다!",
+  "reviewAll": "전체 복습",
+  "start": "시작",
+  "wrongCount": "{count}개 오답",
+  "@wrongCount": {
+    "placeholders": {
+      "count": {"type": "int"}
+    }
+  },
+  "recentWrong": "최근 오답",
+  "yourAnswer": "내 답",
+  "correctAnswerLabel": "정답",
+  "hoursAgo": "{hours}시간 전",
+  "@hoursAgo": {
+    "placeholders": {
+      "hours": {"type": "int"}
+    }
+  },
+  "categoryGeography": "지리",
+  "categoryHistory": "역사",
+  "categoryScience": "과학",
+  "categoryArts": "예술/문화",
+  "categorySports": "스포츠",
+  "categoryNature": "자연",
+  "categoryTechnology": "기술/발명",
+  "categoryFood": "음식/생활"
+}

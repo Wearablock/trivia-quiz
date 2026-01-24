@@ -1,0 +1,70 @@
+{
+  "@@locale": "ar",
+  "appTitle": "مسابقة المعلومات العامة",
+  "home": "الرئيسية",
+  "stats": "الإحصائيات",
+  "review": "المراجعة",
+  "settings": "الإعدادات",
+  "quickQuiz": "اختبار سريع",
+  "quickQuizDescription": "10 أسئلة عشوائية من جميع الفئات",
+  "categories": "الفئات",
+  "yourStats": "إحصائياتك",
+  "answered": "تمت الإجابة",
+  "correct": "صحيح",
+  "questions": "أسئلة",
+  "question": "السؤال {current} من {total}",
+  "@question": {
+    "placeholders": {
+      "current": {"type": "int"},
+      "total": {"type": "int"}
+    }
+  },
+  "correctAnswer": "صحيح!",
+  "wrongAnswer": "خطأ!",
+  "theCorrectAnswerIs": "الإجابة الصحيحة هي: {answer}",
+  "@theCorrectAnswerIs": {
+    "placeholders": {
+      "answer": {"type": "String"}
+    }
+  },
+  "next": "التالي",
+  "finish": "إنهاء",
+  "quizComplete": "اكتمل الاختبار!",
+  "yourScore": "نتيجتك",
+  "outOf": "{correct} من {total}",
+  "@outOf": {
+    "placeholders": {
+      "correct": {"type": "int"},
+      "total": {"type": "int"}
+    }
+  },
+  "playAgain": "العب مرة أخرى",
+  "backToHome": "العودة للرئيسية",
+  "wrongAnswers": "الإجابات الخاطئة",
+  "noWrongAnswers": "لا توجد إجابات خاطئة بعد!",
+  "reviewAll": "مراجعة الكل",
+  "start": "ابدأ",
+  "wrongCount": "{count} خطأ",
+  "@wrongCount": {
+    "placeholders": {
+      "count": {"type": "int"}
+    }
+  },
+  "recentWrong": "الأخطاء الأخيرة",
+  "yourAnswer": "إجابتك",
+  "correctAnswerLabel": "الإجابة الصحيحة",
+  "hoursAgo": "منذ {hours} ساعات",
+  "@hoursAgo": {
+    "placeholders": {
+      "hours": {"type": "int"}
+    }
+  },
+  "categoryGeography": "الجغرافيا",
+  "categoryHistory": "التاريخ",
+  "categoryScience": "العلوم",
+  "categoryArts": "الفنون والثقافة",
+  "categorySports": "الرياضة",
+  "categoryNature": "الطبيعة",
+  "categoryTechnology": "التكنولوجيا",
+  "categoryFood": "الطعام ونمط الحياة"
+}

@@ -1,0 +1,70 @@
+{
+  "@@locale": "de",
+  "appTitle": "Globales Wissensquiz",
+  "home": "Startseite",
+  "stats": "Statistik",
+  "review": "Überprüfung",
+  "settings": "Einstellungen",
+  "quickQuiz": "Schnelles Quiz",
+  "quickQuizDescription": "10 zufällige Fragen aus allen Kategorien",
+  "categories": "Kategorien",
+  "yourStats": "Deine Statistik",
+  "answered": "Beantwortet",
+  "correct": "Richtig",
+  "questions": "Fragen",
+  "question": "Frage {current} von {total}",
+  "@question": {
+    "placeholders": {
+      "current": {"type": "int"},
+      "total": {"type": "int"}
+    }
+  },
+  "correctAnswer": "Richtig!",
+  "wrongAnswer": "Falsch!",
+  "theCorrectAnswerIs": "Die richtige Antwort ist: {answer}",
+  "@theCorrectAnswerIs": {
+    "placeholders": {
+      "answer": {"type": "String"}
+    }
+  },
+  "next": "Weiter",
+  "finish": "Beenden",
+  "quizComplete": "Quiz abgeschlossen!",
+  "yourScore": "Dein Ergebnis",
+  "outOf": "{correct} von {total}",
+  "@outOf": {
+    "placeholders": {
+      "correct": {"type": "int"},
+      "total": {"type": "int"}
+    }
+  },
+  "playAgain": "Nochmal spielen",
+  "backToHome": "Zurück zur Startseite",
+  "wrongAnswers": "Falsche Antworten",
+  "noWrongAnswers": "Noch keine falschen Antworten!",
+  "reviewAll": "Alle überprüfen",
+  "start": "Start",
+  "wrongCount": "{count} falsch",
+  "@wrongCount": {
+    "placeholders": {
+      "count": {"type": "int"}
+    }
+  },
+  "recentWrong": "Kürzlich falsch",
+  "yourAnswer": "Deine Antwort",
+  "correctAnswerLabel": "Richtige Antwort",
+  "hoursAgo": "vor {hours} Stunden",
+  "@hoursAgo": {
+    "placeholders": {
+      "hours": {"type": "int"}
+    }
+  },
+  "categoryGeography": "Geographie",
+  "categoryHistory": "Geschichte",
+  "categoryScience": "Wissenschaft",
+  "categoryArts": "Kunst & Kultur",
+  "categorySports": "Sport",
+  "categoryNature": "Natur",
+  "categoryTechnology": "Technologie",
+  "categoryFood": "Essen & Lifestyle"
+}

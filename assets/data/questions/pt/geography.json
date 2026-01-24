@@ -1,0 +1,32 @@
+{
+  "q_geo_001": {
+    "question": "Qual e a capital da Franca?",
+    "correct": "Paris",
+    "wrong": ["Londres", "Berlim", "Madrid"],
+    "explanation": "Paris e a capital da Franca desde o final do seculo X."
+  },
+  "q_geo_002": {
+    "question": "Qual e o maior oceano da Terra?",
+    "correct": "Oceano Pacifico",
+    "wrong": ["Oceano Atlantico", "Oceano Indico", "Oceano Artico"],
+    "explanation": "O Oceano Pacifico cobre aproximadamente 165 milhoes de quilometros quadrados."
+  },
+  "q_geo_003": {
+    "question": "Qual pais tem a maior linha costeira do mundo?",
+    "correct": "Canada",
+    "wrong": ["Russia", "Australia", "Indonesia"],
+    "explanation": "O Canada tem mais de 202.080 km de linha costeira."
+  },
+  "q_geo_004": {
+    "question": "Qual e a capital da Australia?",
+    "correct": "Camberra",
+    "wrong": ["Sydney", "Melbourne", "Brisbane"],
+    "explanation": "Camberra foi selecionada como capital em 1908 como um compromisso entre Sydney e Melbourne."
+  },
+  "q_geo_005": {
+    "question": "Qual rio atravessa o maior numero de paises?",
+    "correct": "Danubio",
+    "wrong": ["Nilo", "Amazonas", "Reno"],
+    "explanation": "O Danubio atravessa 10 paises na Europa."
+  }
+}

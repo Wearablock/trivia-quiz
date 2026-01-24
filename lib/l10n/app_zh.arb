@@ -1,0 +1,70 @@
+{
+  "@@locale": "zh",
+  "appTitle": "全球知识问答",
+  "home": "首页",
+  "stats": "统计",
+  "review": "复习",
+  "settings": "设置",
+  "quickQuiz": "快速问答",
+  "quickQuizDescription": "所有类别随机10题",
+  "categories": "类别",
+  "yourStats": "你的统计",
+  "answered": "已答题",
+  "correct": "正确率",
+  "questions": "题目",
+  "question": "第{current}题，共{total}题",
+  "@question": {
+    "placeholders": {
+      "current": {"type": "int"},
+      "total": {"type": "int"}
+    }
+  },
+  "correctAnswer": "正确！",
+  "wrongAnswer": "错误！",
+  "theCorrectAnswerIs": "正确答案: {answer}",
+  "@theCorrectAnswerIs": {
+    "placeholders": {
+      "answer": {"type": "String"}
+    }
+  },
+  "next": "下一题",
+  "finish": "完成",
+  "quizComplete": "问答完成！",
+  "yourScore": "得分",
+  "outOf": "{total}题中答对{correct}题",
+  "@outOf": {
+    "placeholders": {
+      "correct": {"type": "int"},
+      "total": {"type": "int"}
+    }
+  },
+  "playAgain": "再玩一次",
+  "backToHome": "返回首页",
+  "wrongAnswers": "错题",
+  "noWrongAnswers": "还没有错题！",
+  "reviewAll": "全部复习",
+  "start": "开始",
+  "wrongCount": "{count}题错误",
+  "@wrongCount": {
+    "placeholders": {
+      "count": {"type": "int"}
+    }
+  },
+  "recentWrong": "最近错题",
+  "yourAnswer": "你的答案",
+  "correctAnswerLabel": "正确答案",
+  "hoursAgo": "{hours}小时前",
+  "@hoursAgo": {
+    "placeholders": {
+      "hours": {"type": "int"}
+    }
+  },
+  "categoryGeography": "地理",
+  "categoryHistory": "历史",
+  "categoryScience": "科学",
+  "categoryArts": "艺术文化",
+  "categorySports": "体育",
+  "categoryNature": "自然",
+  "categoryTechnology": "技术",
+  "categoryFood": "美食生活"
+}

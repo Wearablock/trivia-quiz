@@ -1,0 +1,70 @@
+{
+  "@@locale": "vi",
+  "appTitle": "Đố Vui Kiến Thức",
+  "home": "Trang chủ",
+  "stats": "Thống kê",
+  "review": "Ôn tập",
+  "settings": "Cài đặt",
+  "quickQuiz": "Đố nhanh",
+  "quickQuizDescription": "10 câu hỏi ngẫu nhiên từ tất cả danh mục",
+  "categories": "Danh mục",
+  "yourStats": "Thống kê của bạn",
+  "answered": "Đã trả lời",
+  "correct": "Đúng",
+  "questions": "câu hỏi",
+  "question": "Câu {current} trên {total}",
+  "@question": {
+    "placeholders": {
+      "current": {"type": "int"},
+      "total": {"type": "int"}
+    }
+  },
+  "correctAnswer": "Chính xác!",
+  "wrongAnswer": "Sai!",
+  "theCorrectAnswerIs": "Đáp án đúng là: {answer}",
+  "@theCorrectAnswerIs": {
+    "placeholders": {
+      "answer": {"type": "String"}
+    }
+  },
+  "next": "Tiếp",
+  "finish": "Hoàn thành",
+  "quizComplete": "Hoàn thành bài đố!",
+  "yourScore": "Điểm của bạn",
+  "outOf": "{correct} trên {total}",
+  "@outOf": {
+    "placeholders": {
+      "correct": {"type": "int"},
+      "total": {"type": "int"}
+    }
+  },
+  "playAgain": "Chơi lại",
+  "backToHome": "Về trang chủ",
+  "wrongAnswers": "Câu trả lời sai",
+  "noWrongAnswers": "Chưa có câu trả lời sai!",
+  "reviewAll": "Ôn tập tất cả",
+  "start": "Bắt đầu",
+  "wrongCount": "{count} sai",
+  "@wrongCount": {
+    "placeholders": {
+      "count": {"type": "int"}
+    }
+  },
+  "recentWrong": "Sai gần đây",
+  "yourAnswer": "Câu trả lời của bạn",
+  "correctAnswerLabel": "Đáp án đúng",
+  "hoursAgo": "{hours} giờ trước",
+  "@hoursAgo": {
+    "placeholders": {
+      "hours": {"type": "int"}
+    }
+  },
+  "categoryGeography": "Địa lý",
+  "categoryHistory": "Lịch sử",
+  "categoryScience": "Khoa học",
+  "categoryArts": "Nghệ thuật & Văn hóa",
+  "categorySports": "Thể thao",
+  "categoryNature": "Thiên nhiên",
+  "categoryTechnology": "Công nghệ",
+  "categoryFood": "Ẩm thực & Phong cách sống"
+}

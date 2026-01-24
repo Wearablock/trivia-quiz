@@ -1,0 +1,32 @@
+{
+  "q_foo_001": {
+    "question": "Da quale paese ha origine il sushi?",
+    "correct": "Giappone",
+    "wrong": ["Cina", "Corea", "Thailandia"],
+    "explanation": "Il sushi ha origine in Giappone, con le prime forme risalenti all'VIII secolo."
+  },
+  "q_foo_002": {
+    "question": "Qual e l'ingrediente principale del guacamole?",
+    "correct": "Avocado",
+    "wrong": ["Pomodoro", "Peperone", "Cipolla"],
+    "explanation": "Il guacamole e una salsa messicana fatta principalmente con avocado schiacciato."
+  },
+  "q_foo_003": {
+    "question": "Quale vitamina si trova in abbondanza negli agrumi?",
+    "correct": "Vitamina C",
+    "wrong": ["Vitamina A", "Vitamina D", "Vitamina B12"],
+    "explanation": "Gli agrumi come arance e limoni sono ricche fonti di vitamina C."
+  },
+  "q_foo_004": {
+    "question": "Quale tipo di pasta ha la forma di piccoli chicchi di riso?",
+    "correct": "Orzo",
+    "wrong": ["Penne", "Fusilli", "Farfalle"],
+    "explanation": "L'orzo e una pasta a forma di chicco di riso spesso usata in zuppe e insalate."
+  },
+  "q_foo_005": {
+    "question": "Quale spezia conferisce al curry il suo colore giallo?",
+    "correct": "Curcuma",
+    "wrong": ["Paprica", "Cumino", "Coriandolo"],
+    "explanation": "La curcuma contiene curcumina, che conferisce al curry il suo distintivo colore giallo."
+  }
+}

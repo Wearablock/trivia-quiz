@@ -1,0 +1,70 @@
+{
+  "@@locale": "pt",
+  "appTitle": "Quiz de Trivia Global",
+  "home": "Início",
+  "stats": "Estatísticas",
+  "review": "Revisão",
+  "settings": "Configurações",
+  "quickQuiz": "Quiz Rápido",
+  "quickQuizDescription": "10 perguntas aleatórias de todas as categorias",
+  "categories": "Categorias",
+  "yourStats": "Suas estatísticas",
+  "answered": "Respondidas",
+  "correct": "Corretas",
+  "questions": "perguntas",
+  "question": "Pergunta {current} de {total}",
+  "@question": {
+    "placeholders": {
+      "current": {"type": "int"},
+      "total": {"type": "int"}
+    }
+  },
+  "correctAnswer": "Correto!",
+  "wrongAnswer": "Incorreto!",
+  "theCorrectAnswerIs": "A resposta correta é: {answer}",
+  "@theCorrectAnswerIs": {
+    "placeholders": {
+      "answer": {"type": "String"}
+    }
+  },
+  "next": "Próximo",
+  "finish": "Finalizar",
+  "quizComplete": "Quiz concluído!",
+  "yourScore": "Sua pontuação",
+  "outOf": "{correct} de {total}",
+  "@outOf": {
+    "placeholders": {
+      "correct": {"type": "int"},
+      "total": {"type": "int"}
+    }
+  },
+  "playAgain": "Jogar novamente",
+  "backToHome": "Voltar ao início",
+  "wrongAnswers": "Respostas erradas",
+  "noWrongAnswers": "Ainda não há respostas erradas!",
+  "reviewAll": "Revisar tudo",
+  "start": "Começar",
+  "wrongCount": "{count} errada(s)",
+  "@wrongCount": {
+    "placeholders": {
+      "count": {"type": "int"}
+    }
+  },
+  "recentWrong": "Erros recentes",
+  "yourAnswer": "Sua resposta",
+  "correctAnswerLabel": "Resposta correta",
+  "hoursAgo": "há {hours} horas",
+  "@hoursAgo": {
+    "placeholders": {
+      "hours": {"type": "int"}
+    }
+  },
+  "categoryGeography": "Geografia",
+  "categoryHistory": "História",
+  "categoryScience": "Ciências",
+  "categoryArts": "Arte e Cultura",
+  "categorySports": "Esportes",
+  "categoryNature": "Natureza",
+  "categoryTechnology": "Tecnologia",
+  "categoryFood": "Gastronomia e Estilo de Vida"
+}

@@ -1,0 +1,108 @@
+{
+  "categories": [
+    {
+      "id": "geography",
+      "order": 1,
+      "name": {
+        "ko": "지리",
+        "en": "Geography",
+        "ja": "地理",
+        "zh-Hans": "地理",
+        "zh-Hant": "地理"
+      },
+      "color": "#2E7D32",
+      "icon": "public"
+    },
+    {
+      "id": "history",
+      "order": 2,
+      "name": {
+        "ko": "역사",
+        "en": "History",
+        "ja": "歴史",
+        "zh-Hans": "历史",
+        "zh-Hant": "歷史"
+      },
+      "color": "#8B4513",
+      "icon": "history"
+    },
+    {
+      "id": "science",
+      "order": 3,
+      "name": {
+        "ko": "과학",
+        "en": "Science",
+        "ja": "科学",
+        "zh-Hans": "科学",
+        "zh-Hant": "科學"
+      },
+      "color": "#1565C0",
+      "icon": "science"
+    },
+    {
+      "id": "arts",
+      "order": 4,
+      "name": {
+        "ko": "예술/문화",
+        "en": "Arts & Culture",
+        "ja": "芸術・文化",
+        "zh-Hans": "艺术文化",
+        "zh-Hant": "藝術文化"
+      },
+      "color": "#7B1FA2",
+      "icon": "palette"
+    },
+    {
+      "id": "sports",
+      "order": 5,
+      "name": {
+        "ko": "스포츠",
+        "en": "Sports",
+        "ja": "スポーツ",
+        "zh-Hans": "体育",
+        "zh-Hant": "體育"
+      },
+      "color": "#C62828",
+      "icon": "sports_soccer"
+    },
+    {
+      "id": "nature",
+      "order": 6,
+      "name": {
+        "ko": "자연",
+        "en": "Nature",
+        "ja": "自然",
+        "zh-Hans": "自然",
+        "zh-Hant": "自然"
+      },
+      "color": "#388E3C",
+      "icon": "eco"
+    },
+    {
+      "id": "technology",
+      "order": 7,
+      "name": {
+        "ko": "기술/발명",
+        "en": "Technology",
+        "ja": "技術",
+        "zh-Hans": "技术",
+        "zh-Hant": "技術"
+      },
+      "color": "#0277BD",
+      "icon": "memory"
+    },
+    {
+      "id": "food",
+      "order": 8,
+      "name": {
+        "ko": "음식/생활",
+        "en": "Food & Lifestyle",
+        "ja": "食・生活",
+        "zh-Hans": "美食生活",
+        "zh-Hant": "美食生活"
+      },
+      "color": "#EF6C00",
+      "icon": "restaurant"
+    }
+  ]
+}

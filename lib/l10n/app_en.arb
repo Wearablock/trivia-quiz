@@ -1,0 +1,70 @@
+{
+  "@@locale": "en",
+  "appTitle": "Global Trivia Quiz",
+  "home": "Home",
+  "stats": "Stats",
+  "review": "Review",
+  "settings": "Settings",
+  "quickQuiz": "Quick Quiz",
+  "quickQuizDescription": "10 random questions from all categories",
+  "categories": "Categories",
+  "yourStats": "Your Stats",
+  "answered": "Answered",
+  "correct": "Correct",
+  "questions": "questions",
+  "question": "Question {current} of {total}",
+  "@question": {
+    "placeholders": {
+      "current": {"type": "int"},
+      "total": {"type": "int"}
+    }
+  },
+  "correctAnswer": "Correct!",
+  "wrongAnswer": "Wrong!",
+  "theCorrectAnswerIs": "The correct answer is: {answer}",
+  "@theCorrectAnswerIs": {
+    "placeholders": {
+      "answer": {"type": "String"}
+    }
+  },
+  "next": "Next",
+  "finish": "Finish",
+  "quizComplete": "Quiz Complete!",
+  "yourScore": "Your Score",
+  "outOf": "{correct} out of {total}",
+  "@outOf": {
+    "placeholders": {
+      "correct": {"type": "int"},
+      "total": {"type": "int"}
+    }
+  },
+  "playAgain": "Play Again",
+  "backToHome": "Back to Home",
+  "wrongAnswers": "Wrong Answers",
+  "noWrongAnswers": "No wrong answers yet!",
+  "reviewAll": "Review All",
+  "start": "Start",
+  "wrongCount": "{count} wrong",
+  "@wrongCount": {
+    "placeholders": {
+      "count": {"type": "int"}
+    }
+  },
+  "recentWrong": "Recent Wrong",
+  "yourAnswer": "Your answer",
+  "correctAnswerLabel": "Correct answer",
+  "hoursAgo": "{hours} hours ago",
+  "@hoursAgo": {
+    "placeholders": {
+      "hours": {"type": "int"}
+    }
+  },
+  "categoryGeography": "Geography",
+  "categoryHistory": "History",
+  "categoryScience": "Science",
+  "categoryArts": "Arts & Culture",
+  "categorySports": "Sports",
+  "categoryNature": "Nature",
+  "categoryTechnology": "Technology",
+  "categoryFood": "Food & Lifestyle"
+}

@@ -1,0 +1,70 @@
+{
+  "@@locale": "id",
+  "appTitle": "Kuis Trivia Global",
+  "home": "Beranda",
+  "stats": "Statistik",
+  "review": "Ulasan",
+  "settings": "Pengaturan",
+  "quickQuiz": "Kuis Cepat",
+  "quickQuizDescription": "10 pertanyaan acak dari semua kategori",
+  "categories": "Kategori",
+  "yourStats": "Statistik Anda",
+  "answered": "Dijawab",
+  "correct": "Benar",
+  "questions": "pertanyaan",
+  "question": "Pertanyaan {current} dari {total}",
+  "@question": {
+    "placeholders": {
+      "current": {"type": "int"},
+      "total": {"type": "int"}
+    }
+  },
+  "correctAnswer": "Benar!",
+  "wrongAnswer": "Salah!",
+  "theCorrectAnswerIs": "Jawaban yang benar adalah: {answer}",
+  "@theCorrectAnswerIs": {
+    "placeholders": {
+      "answer": {"type": "String"}
+    }
+  },
+  "next": "Lanjut",
+  "finish": "Selesai",
+  "quizComplete": "Kuis Selesai!",
+  "yourScore": "Skor Anda",
+  "outOf": "{correct} dari {total}",
+  "@outOf": {
+    "placeholders": {
+      "correct": {"type": "int"},
+      "total": {"type": "int"}
+    }
+  },
+  "playAgain": "Main Lagi",
+  "backToHome": "Kembali ke Beranda",
+  "wrongAnswers": "Jawaban Salah",
+  "noWrongAnswers": "Belum ada jawaban salah!",
+  "reviewAll": "Ulang Semua",
+  "start": "Mulai",
+  "wrongCount": "{count} salah",
+  "@wrongCount": {
+    "placeholders": {
+      "count": {"type": "int"}
+    }
+  },
+  "recentWrong": "Kesalahan Terbaru",
+  "yourAnswer": "Jawaban Anda",
+  "correctAnswerLabel": "Jawaban yang benar",
+  "hoursAgo": "{hours} jam yang lalu",
+  "@hoursAgo": {
+    "placeholders": {
+      "hours": {"type": "int"}
+    }
+  },
+  "categoryGeography": "Geografi",
+  "categoryHistory": "Sejarah",
+  "categoryScience": "Sains",
+  "categoryArts": "Seni & Budaya",
+  "categorySports": "Olahraga",
+  "categoryNature": "Alam",
+  "categoryTechnology": "Teknologi",
+  "categoryFood": "Makanan & Gaya Hidup"
+}

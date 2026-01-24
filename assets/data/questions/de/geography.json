@@ -1,0 +1,32 @@
+{
+  "q_geo_001": {
+    "question": "Was ist die Hauptstadt von Frankreich?",
+    "correct": "Paris",
+    "wrong": ["London", "Berlin", "Madrid"],
+    "explanation": "Paris ist seit dem späten 10. Jahrhundert die Hauptstadt Frankreichs."
+  },
+  "q_geo_002": {
+    "question": "Welcher ist der größte Ozean der Erde?",
+    "correct": "Pazifischer Ozean",
+    "wrong": ["Atlantischer Ozean", "Indischer Ozean", "Arktischer Ozean"],
+    "explanation": "Der Pazifische Ozean bedeckt etwa 165 Millionen Quadratkilometer."
+  },
+  "q_geo_003": {
+    "question": "Welches Land hat die längste Küstenlinie der Welt?",
+    "correct": "Kanada",
+    "wrong": ["Russland", "Australien", "Indonesien"],
+    "explanation": "Kanada hat über 202.080 km Küstenlinie."
+  },
+  "q_geo_004": {
+    "question": "Was ist die Hauptstadt von Australien?",
+    "correct": "Canberra",
+    "wrong": ["Sydney", "Melbourne", "Brisbane"],
+    "explanation": "Canberra wurde 1908 als Kompromiss zwischen Sydney und Melbourne zur Hauptstadt gewählt."
+  },
+  "q_geo_005": {
+    "question": "Welcher Fluss fließt durch die meisten Länder?",
+    "correct": "Donau",
+    "wrong": ["Nil", "Amazonas", "Rhein"],
+    "explanation": "Die Donau fließt durch 10 Länder in Europa."
+  }
+}

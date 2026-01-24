@@ -1,0 +1,70 @@
+{
+  "@@locale": "th",
+  "appTitle": "ควิซความรู้รอบโลก",
+  "home": "หน้าแรก",
+  "stats": "สถิติ",
+  "review": "ทบทวน",
+  "settings": "ตั้งค่า",
+  "quickQuiz": "ควิซด่วน",
+  "quickQuizDescription": "10 คำถามสุ่มจากทุกหมวด",
+  "categories": "หมวดหมู่",
+  "yourStats": "สถิติของคุณ",
+  "answered": "ตอบแล้ว",
+  "correct": "ถูกต้อง",
+  "questions": "คำถาม",
+  "question": "คำถามที่ {current} จาก {total}",
+  "@question": {
+    "placeholders": {
+      "current": {"type": "int"},
+      "total": {"type": "int"}
+    }
+  },
+  "correctAnswer": "ถูกต้อง!",
+  "wrongAnswer": "ผิด!",
+  "theCorrectAnswerIs": "คำตอบที่ถูกต้องคือ: {answer}",
+  "@theCorrectAnswerIs": {
+    "placeholders": {
+      "answer": {"type": "String"}
+    }
+  },
+  "next": "ถัดไป",
+  "finish": "เสร็จสิ้น",
+  "quizComplete": "ควิซเสร็จสมบูรณ์!",
+  "yourScore": "คะแนนของคุณ",
+  "outOf": "{correct} จาก {total}",
+  "@outOf": {
+    "placeholders": {
+      "correct": {"type": "int"},
+      "total": {"type": "int"}
+    }
+  },
+  "playAgain": "เล่นอีกครั้ง",
+  "backToHome": "กลับหน้าแรก",
+  "wrongAnswers": "คำตอบที่ผิด",
+  "noWrongAnswers": "ยังไม่มีคำตอบที่ผิด!",
+  "reviewAll": "ทบทวนทั้งหมด",
+  "start": "เริ่ม",
+  "wrongCount": "{count} ผิด",
+  "@wrongCount": {
+    "placeholders": {
+      "count": {"type": "int"}
+    }
+  },
+  "recentWrong": "ผิดล่าสุด",
+  "yourAnswer": "คำตอบของคุณ",
+  "correctAnswerLabel": "คำตอบที่ถูกต้อง",
+  "hoursAgo": "{hours} ชั่วโมงที่แล้ว",
+  "@hoursAgo": {
+    "placeholders": {
+      "hours": {"type": "int"}
+    }
+  },
+  "categoryGeography": "ภูมิศาสตร์",
+  "categoryHistory": "ประวัติศาสตร์",
+  "categoryScience": "วิทยาศาสตร์",
+  "categoryArts": "ศิลปะและวัฒนธรรม",
+  "categorySports": "กีฬา",
+  "categoryNature": "ธรรมชาติ",
+  "categoryTechnology": "เทคโนโลยี",
+  "categoryFood": "อาหารและไลฟ์สไตล์"
+}

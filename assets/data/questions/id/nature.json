@@ -1,0 +1,32 @@
+{
+  "q_nat_001": {
+    "question": "Apa mamalia terbesar di dunia?",
+    "correct": "Paus Biru",
+    "wrong": ["Gajah", "Jerapah", "Kuda Nil"],
+    "explanation": "Paus biru dapat mencapai panjang lebih dari 30 meter dan berat hingga 200 ton."
+  },
+  "q_nat_002": {
+    "question": "Berapa jumlah kaki laba-laba?",
+    "correct": "8",
+    "wrong": ["6", "10", "12"],
+    "explanation": "Semua laba-laba adalah arakhnida dan memiliki 8 kaki."
+  },
+  "q_nat_003": {
+    "question": "Apa spesies pohon tertinggi di dunia?",
+    "correct": "Redwood Pantai",
+    "wrong": ["Sequoia Raksasa", "Eukaliptus", "Cemara Douglas"],
+    "explanation": "Redwood Pantai dapat tumbuh lebih dari 115 meter."
+  },
+  "q_nat_004": {
+    "question": "Gas apa yang diserap tumbuhan dari atmosfer?",
+    "correct": "Karbon Dioksida",
+    "wrong": ["Oksigen", "Nitrogen", "Hidrogen"],
+    "explanation": "Tumbuhan menggunakan karbon dioksida dalam fotosintesis untuk menghasilkan oksigen dan glukosa."
+  },
+  "q_nat_005": {
+    "question": "Apa hewan darat tercepat?",
+    "correct": "Cheetah",
+    "wrong": ["Singa", "Kijang", "Kuda"],
+    "explanation": "Cheetah dapat mencapai kecepatan hingga 112 km/jam."
+  }
+}
