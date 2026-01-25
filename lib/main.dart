@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';
+import 'package:flutter_native_splash/flutter_native_splash.dart';
 import 'l10n/generated/app_localizations.dart';
 import 'core/theme/app_theme.dart';
 import 'core/services/ad_service.dart';
@@ -9,7 +10,9 @@ import 'features/main/main_shell.dart';
 import 'providers/repository_providers.dart';
 
 void main() async {
-  WidgetsFlutterBinding.ensureInitialized();
+  // 스플래시 화면 유지
+  WidgetsBinding widgetsBinding = WidgetsFlutterBinding.ensureInitialized();
+  FlutterNativeSplash.preserve(widgetsBinding: widgetsBinding);
 
   // TODO: Firebase initialization (uncomment after firebase setup)
   // await Firebase.initializeApp(
@@ -20,6 +23,9 @@ void main() async {
   // AdMob 초기화
   await AdService().initialize();
   AdService().preloadAds();
+
+  // 스플래시 화면 종료
+  FlutterNativeSplash.remove();
 
   runApp(
     const ProviderScope(
