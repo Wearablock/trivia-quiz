@@ -221,6 +221,9 @@ class AppLocalizationsTh extends AppLocalizations {
   String get watchAdForHint => 'ดูโฆษณาเพื่อดูคำใบ้';
 
   @override
+  String get tapToShowHint => 'แตะเพื่อดูคำใบ้';
+
+  @override
   String get watching => 'กำลังดู';
 
   @override

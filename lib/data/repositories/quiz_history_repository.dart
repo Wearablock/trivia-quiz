@@ -1,6 +1,7 @@
 import '../database/daos/quiz_history_dao.dart';
 import '../database/app_database.dart';
 import '../models/quiz_session.dart';
+import '../../core/utils/category_utils.dart';
 
 class QuizHistoryRepository {
   final QuizHistoryDao _dao;
@@ -87,22 +88,6 @@ class QuizHistoryRepository {
 
   /// 문제 ID에서 카테고리 추출
   String _extractCategoryFromQuestionId(String questionId) {
-    const prefixMap = {
-      'q_geo_': 'geography',
-      'q_his_': 'history',
-      'q_sci_': 'science',
-      'q_art_': 'arts',
-      'q_spo_': 'sports',
-      'q_nat_': 'nature',
-      'q_tec_': 'technology',
-      'q_foo_': 'food',
-    };
-
-    for (final entry in prefixMap.entries) {
-      if (questionId.startsWith(entry.key)) {
-        return entry.value;
-      }
-    }
-    return 'unknown';
+    return CategoryUtils.extractCategoryIdOrUnknown(questionId);
   }
 }

@@ -96,6 +96,7 @@
   "timeUp": "時間切れ！",
   "showHint": "ヒントを見る",
   "watchAdForHint": "広告を見てヒントを確認",
+  "tapToShowHint": "タップしてヒントを表示",
   "watching": "視聴中",
   "loading": "読み込み中...",
   "adLoadingMessage": "広告を読み込んでいます。しばらくしてからお試しください。",

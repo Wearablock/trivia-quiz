@@ -222,6 +222,9 @@ class AppLocalizationsAr extends AppLocalizations {
   String get watchAdForHint => 'شاهد إعلاناً لرؤية التلميح';
 
   @override
+  String get tapToShowHint => 'اضغط لعرض التلميح';
+
+  @override
   String get watching => 'جاري المشاهدة';
 
   @override

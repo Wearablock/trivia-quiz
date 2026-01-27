@@ -525,6 +525,12 @@ abstract class AppLocalizations {
   /// **'Watch an ad to see the hint'**
   String get watchAdForHint;
 
+  /// No description provided for @tapToShowHint.
+  ///
+  /// In en, this message translates to:
+  /// **'Tap to show hint'**
+  String get tapToShowHint;
+
   /// No description provided for @watching.
   ///
   /// In en, this message translates to:

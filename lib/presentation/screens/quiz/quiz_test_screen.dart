@@ -345,11 +345,12 @@ class _AnsweredView extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final state = ref.watch(quizProvider);
+    final session = state.session;
     final question = state.currentQuestion;
     final isCorrect = state.isCorrect;
     final selectedAnswer = state.selectedAnswer;
 
-    if (question == null) return const SizedBox.shrink();
+    if (question == null || session == null) return const SizedBox.shrink();
 
     return Column(
       crossAxisAlignment: CrossAxisAlignment.stretch,
@@ -417,7 +418,7 @@ class _AnsweredView extends StatelessWidget {
             padding: const EdgeInsets.symmetric(vertical: 16),
           ),
           child: Text(
-            state.session!.currentIndex + 1 >= state.session!.totalCount
+            session.currentIndex + 1 >= session.totalCount
                 ? 'See Results'
                 : 'Next Question',
           ),

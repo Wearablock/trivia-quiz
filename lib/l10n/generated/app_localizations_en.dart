@@ -222,6 +222,9 @@ class AppLocalizationsEn extends AppLocalizations {
   String get watchAdForHint => 'Watch an ad to see the hint';
 
   @override
+  String get tapToShowHint => 'Tap to show hint';
+
+  @override
   String get watching => 'Watching';
 
   @override

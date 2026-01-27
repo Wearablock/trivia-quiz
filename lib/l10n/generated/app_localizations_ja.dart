@@ -220,6 +220,9 @@ class AppLocalizationsJa extends AppLocalizations {
   String get watchAdForHint => '広告を見てヒントを確認';
 
   @override
+  String get tapToShowHint => 'タップしてヒントを表示';
+
+  @override
   String get watching => '視聴中';
 
   @override

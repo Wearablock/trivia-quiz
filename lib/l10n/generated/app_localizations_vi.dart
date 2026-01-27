@@ -222,6 +222,9 @@ class AppLocalizationsVi extends AppLocalizations {
   String get watchAdForHint => 'Xem quảng cáo để xem gợi ý';
 
   @override
+  String get tapToShowHint => 'Chạm để xem gợi ý';
+
+  @override
   String get watching => 'Đang xem';
 
   @override

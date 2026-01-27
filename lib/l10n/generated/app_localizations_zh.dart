@@ -220,6 +220,9 @@ class AppLocalizationsZh extends AppLocalizations {
   String get watchAdForHint => '观看广告以查看提示';
 
   @override
+  String get tapToShowHint => '点击查看提示';
+
+  @override
   String get watching => '观看中';
 
   @override
@@ -521,6 +524,9 @@ class AppLocalizationsZhHant extends AppLocalizationsZh {
 
   @override
   String get watchAdForHint => '觀看廣告以查看提示';
+
+  @override
+  String get tapToShowHint => '點擊查看提示';
 
   @override
   String get watching => '觀看中';

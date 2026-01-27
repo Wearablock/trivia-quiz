@@ -44,5 +44,11 @@ app.*.map.json
 /android/app/profile
 /android/app/release
 
+# iOS build artifacts
+ios/ExportOptions.plist
+
+# Fastlane (CI/CD, screenshots - app-specific config)
+**/fastlane/
+
 # Development guides (local only)
 /guides/

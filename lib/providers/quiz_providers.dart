@@ -93,16 +93,17 @@ final hintTextProvider = Provider<String?>((ref) {
 /// 퀴즈 결과 (완료 시)
 final quizResultProvider = Provider<QuizResultData?>((ref) {
   final state = ref.watch(quizProvider);
-  if (state.phase != QuizPhase.completed || state.session == null) {
+  final session = state.session;
+  if (state.phase != QuizPhase.completed || session == null) {
     return null;
   }
 
   return QuizResultData(
-    totalCount: state.session!.totalCount,
-    correctCount: state.session!.correctCount,
-    wrongCount: state.session!.wrongCount,
-    accuracy: state.session!.accuracy,
-    duration: state.session!.duration,
+    totalCount: session.totalCount,
+    correctCount: session.correctCount,
+    wrongCount: session.wrongCount,
+    accuracy: session.accuracy,
+    duration: session.duration,
   );
 });
 

@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
+import '../../../../core/config/ad_config.dart';
 import '../../../../core/services/ad_service.dart';
 import '../../../../core/services/feedback_service.dart';
 import '../../../../providers/quiz_providers.dart';
@@ -69,10 +70,13 @@ class _HintButtonState extends State<_HintButton> {
     final adService = AdService();
     final l10n = AppLocalizations.of(context)!;
 
+    // 광고 비활성화 시 바로 사용 가능
+    final adsDisabled = !AdConfig.adsEnabled;
+
     return ListenableBuilder(
       listenable: adService,
       builder: (context, _) {
-        final isAdReady = adService.isRewardedAdReady;
+        final isAdReady = adsDisabled || adService.isRewardedAdReady;
 
         return Card(
           child: ListTile(
@@ -82,7 +86,9 @@ class _HintButtonState extends State<_HintButton> {
             ),
             title: Text(l10n.showHint),
             subtitle: Text(
-              isAdReady ? l10n.watchAdForHint : l10n.loading,
+              adsDisabled
+                  ? l10n.tapToShowHint
+                  : (isAdReady ? l10n.watchAdForHint : l10n.loading),
               style: TextStyle(
                 fontSize: 12,
                 color: Colors.grey.shade600,
@@ -96,8 +102,13 @@ class _HintButtonState extends State<_HintButton> {
                   )
                 : ElevatedButton.icon(
                     onPressed: isAdReady ? _showRewardedAd : null,
-                    icon: const Icon(Icons.play_circle_outline, size: 18),
-                    label: Text(isAdReady ? l10n.watching : l10n.loading),
+                    icon: Icon(
+                      adsDisabled ? Icons.lightbulb : Icons.play_circle_outline,
+                      size: 18,
+                    ),
+                    label: Text(adsDisabled
+                        ? l10n.showHint
+                        : (isAdReady ? l10n.watching : l10n.loading)),
                     style: ElevatedButton.styleFrom(
                       padding: const EdgeInsets.symmetric(
                         horizontal: 12,

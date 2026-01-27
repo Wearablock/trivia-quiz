@@ -1,9 +1,11 @@
 import 'dart:convert';
 import 'dart:math';
+import 'package:flutter/foundation.dart';
 import 'package:flutter/services.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import '../models/question.dart';
 import '../../core/constants/remote_config.dart';
+import '../../core/utils/category_utils.dart';
 
 class QuestionRepository {
   /// 로케일별 문제 캐시: {locale: {categoryId: {questionId: QuestionContent}}}
@@ -110,17 +112,7 @@ class QuestionRepository {
     List<String>? answeredIds,
   }) async {
     final allQuestions = <Question>[];
-    final categories = categoryIds ??
-        [
-          'geography',
-          'history',
-          'science',
-          'arts',
-          'sports',
-          'nature',
-          'technology',
-          'food',
-        ];
+    final categories = categoryIds ?? CategoryUtils.allCategoryIds;
 
     for (final categoryId in categories) {
       try {
@@ -130,8 +122,8 @@ class QuestionRepository {
           shuffle: false,
         );
         allQuestions.addAll(questions);
-      } catch (_) {
-        // 카테고리 로드 실패 시 무시
+      } catch (e) {
+        debugPrint('[QuestionRepository] 카테고리 로드 실패 ($categoryId): $e');
       }
     }
 
@@ -197,8 +189,8 @@ class QuestionRepository {
       final key =
           '${RemoteConfig.localDataPrefix}${effectiveLocale}_$categoryId';
       jsonString = prefs.getString(key);
-    } catch (_) {
-      // SharedPreferences 오류 시 무시
+    } catch (e) {
+      debugPrint('[QuestionRepository] SharedPreferences 오류: $e');
     }
 
     // 3순위: Assets (앱 번들)
@@ -247,7 +239,8 @@ class QuestionRepository {
     try {
       await rootBundle.loadString(path);
       return true;
-    } catch (_) {
+    } catch (e) {
+      // 에셋 미존재는 정상 케이스 (폴백 로직 사용)
       return false;
     }
   }
@@ -255,23 +248,7 @@ class QuestionRepository {
   /// 문제 ID에서 카테고리 ID 추출
   /// 예: "q_geo_001" -> "geography"
   String? _extractCategoryId(String questionId) {
-    const prefixMap = {
-      'q_geo_': 'geography',
-      'q_his_': 'history',
-      'q_sci_': 'science',
-      'q_art_': 'arts',
-      'q_spo_': 'sports',
-      'q_nat_': 'nature',
-      'q_tec_': 'technology',
-      'q_foo_': 'food',
-    };
-
-    for (final entry in prefixMap.entries) {
-      if (questionId.startsWith(entry.key)) {
-        return entry.value;
-      }
-    }
-    return null;
+    return CategoryUtils.extractCategoryId(questionId);
   }
 
   /// 문제 ID에서 난이도 추출 (기본값: 2)

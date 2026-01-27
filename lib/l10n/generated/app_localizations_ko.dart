@@ -220,6 +220,9 @@ class AppLocalizationsKo extends AppLocalizations {
   String get watchAdForHint => '광고를 시청하고 힌트를 확인하세요';
 
   @override
+  String get tapToShowHint => '탭하여 힌트 보기';
+
+  @override
   String get watching => '시청 중';
 
   @override

@@ -222,6 +222,9 @@ class AppLocalizationsId extends AppLocalizations {
   String get watchAdForHint => 'Tonton iklan untuk melihat petunjuk';
 
   @override
+  String get tapToShowHint => 'Ketuk untuk melihat petunjuk';
+
+  @override
   String get watching => 'Menonton';
 
   @override

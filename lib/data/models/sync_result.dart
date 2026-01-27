@@ -87,14 +87,17 @@ class VersionInfo {
     );
   }
 
-  Map<String, dynamic> toJson() => {
-        'version': version,
-        if (minAppVersion != null) 'minAppVersion': minAppVersion,
-        'releaseDate': releaseDate,
-        if (changelog != null) 'changelog': changelog,
-        if (dataFiles != null)
-          'dataFiles': dataFiles!.map((k, v) => MapEntry(k, v.toJson())),
-      };
+  Map<String, dynamic> toJson() {
+    final files = dataFiles;
+    return {
+      'version': version,
+      if (minAppVersion != null) 'minAppVersion': minAppVersion,
+      'releaseDate': releaseDate,
+      if (changelog != null) 'changelog': changelog,
+      if (files != null)
+        'dataFiles': files.map((k, v) => MapEntry(k, v.toJson())),
+    };
+  }
 }
 
 /// 파일 정보 모델

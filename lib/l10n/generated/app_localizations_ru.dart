@@ -223,6 +223,9 @@ class AppLocalizationsRu extends AppLocalizations {
   String get watchAdForHint => 'Посмотрите рекламу, чтобы увидеть подсказку';
 
   @override
+  String get tapToShowHint => 'Нажмите для подсказки';
+
+  @override
   String get watching => 'Просмотр';
 
   @override

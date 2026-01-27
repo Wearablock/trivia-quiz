@@ -96,6 +96,7 @@
   "timeUp": "Temps écoulé !",
   "showHint": "Afficher l'indice",
   "watchAdForHint": "Regardez une pub pour voir l'indice",
+  "tapToShowHint": "Appuyez pour voir l'indice",
   "watching": "Visionnage",
   "loading": "Chargement...",
   "adLoadingMessage": "Chargement de la pub. Veuillez réessayer dans un instant.",

@@ -96,6 +96,7 @@
   "timeUp": "时间到！",
   "showHint": "查看提示",
   "watchAdForHint": "观看广告以查看提示",
+  "tapToShowHint": "点击查看提示",
   "watching": "观看中",
   "loading": "加载中...",
   "adLoadingMessage": "正在加载广告，请稍后重试。",

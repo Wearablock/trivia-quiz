@@ -1,6 +1,8 @@
+import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import '../../../../core/theme/app_colors.dart';
+import '../../../../core/utils/category_utils.dart';
 import '../../../../l10n/generated/app_localizations.dart';
 import '../../../../providers/repository_providers.dart';
 
@@ -73,7 +75,9 @@ class WrongAnswerTile extends ConsumerWidget {
       if (questions.isNotEmpty) {
         return questions.first.question;
       }
-    } catch (_) {}
+    } catch (e) {
+      debugPrint('[WrongAnswerTile] 문제 텍스트 로드 실패 ($questionId): $e');
+    }
     return '...';
   }
 
@@ -84,23 +88,7 @@ class WrongAnswerTile extends ConsumerWidget {
   }
 
   String _extractCategoryId(String questionId) {
-    const prefixMap = {
-      'q_geo_': 'geography',
-      'q_his_': 'history',
-      'q_sci_': 'science',
-      'q_art_': 'arts',
-      'q_spo_': 'sports',
-      'q_nat_': 'nature',
-      'q_tec_': 'technology',
-      'q_foo_': 'food',
-    };
-
-    for (final entry in prefixMap.entries) {
-      if (questionId.startsWith(entry.key)) {
-        return entry.value;
-      }
-    }
-    return 'unknown';
+    return CategoryUtils.extractCategoryIdOrUnknown(questionId);
   }
 
   String _getCategoryName(String categoryId, AppLocalizations l10n) {

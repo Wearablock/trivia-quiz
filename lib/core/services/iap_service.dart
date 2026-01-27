@@ -2,8 +2,12 @@ import 'dart:async';
 import 'package:flutter/foundation.dart';
 import 'package:in_app_purchase/in_app_purchase.dart';
 import 'package:shared_preferences/shared_preferences.dart';
+import '../config/app_config.dart';
 
 /// 인앱 결제 서비스
+///
+/// IAP 설정은 [AppConfig]에서 관리됩니다.
+/// 새로운 앱을 만들 때는 [AppConfig]의 상품 ID만 수정하세요.
 class IAPService {
   // ============================================================
   // 싱글톤 패턴
@@ -18,10 +22,10 @@ class IAPService {
   // ============================================================
 
   /// 광고 제거 상품 ID (스토어에 등록한 ID와 일치해야 함)
-  static const String removeAdsProductId = 'trivia_quiz_remove_ads';
+  static const String removeAdsProductId = AppConfig.removeAdsProductId;
 
   /// 프리미엄 상태 저장 키
-  static const String _premiumKey = 'is_premium';
+  static const String _premiumKey = AppConfig.premiumStorageKey;
 
   // ============================================================
   // 상태
@@ -49,11 +53,8 @@ class IAPService {
 
   /// 광고 제거 상품
   ProductDetails? get removeAdsProduct {
-    try {
-      return _products.firstWhere((p) => p.id == removeAdsProductId);
-    } catch (_) {
-      return null;
-    }
+    final index = _products.indexWhere((p) => p.id == removeAdsProductId);
+    return index >= 0 ? _products[index] : null;
   }
 
   /// 프리미엄 상태 변경 콜백 (Provider 연동용)

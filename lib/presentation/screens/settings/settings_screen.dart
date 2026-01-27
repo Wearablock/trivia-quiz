@@ -226,8 +226,9 @@ class SettingsScreen extends ConsumerWidget {
       'id': 'Bahasa Indonesia',
     };
 
-    final key = locale.countryCode != null && locale.countryCode!.isNotEmpty
-        ? '${locale.languageCode}_${locale.countryCode}'
+    final countryCode = locale.countryCode;
+    final key = countryCode != null && countryCode.isNotEmpty
+        ? '${locale.languageCode}_$countryCode'
         : locale.languageCode;
     return languageNames[key] ?? locale.toLanguageTag();
   }
@@ -257,8 +258,9 @@ class SettingsScreen extends ConsumerWidget {
               }
 
               final locale = TriviaQuizApp.supportedLocales[index - 1];
-              final localeString = locale.countryCode != null && locale.countryCode!.isNotEmpty
-                  ? '${locale.languageCode}_${locale.countryCode}'
+              final countryCode = locale.countryCode;
+              final localeString = countryCode != null && countryCode.isNotEmpty
+                  ? '${locale.languageCode}_$countryCode'
                   : locale.languageCode;
 
               return RadioListTile<String?>(

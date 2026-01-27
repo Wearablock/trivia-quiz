@@ -84,40 +84,54 @@ class QuizHistoryDao extends DatabaseAccessor<AppDatabase>
 
   /// 특정 문제를 맞춘 적이 있는지 확인
   Future<bool> hasCorrectlyAnswered(String questionId) async {
-    final count = await (select(quizHistory)
-          ..where((t) =>
-              t.questionId.equals(questionId) & t.isCorrect.equals(true)))
-        .get();
-    return count.isNotEmpty;
+    final query = select(quizHistory)
+      ..where((t) =>
+          t.questionId.equals(questionId) & t.isCorrect.equals(true))
+      ..limit(1);
+    final result = await query.getSingleOrNull();
+    return result != null;
   }
 
-  /// 카테고리별 통계 조회
+  /// 카테고리별 통계 조회 (SQL 집계 함수 사용)
   Future<CategoryStats> getCategoryStats(String categoryId) async {
-    final results = await (select(quizHistory)
-          ..where((t) => t.categoryId.equals(categoryId)))
-        .get();
+    final totalCount = quizHistory.id.count();
+    final correctSum = quizHistory.isCorrect.cast<int>().sum();
 
-    final correctCount = results.where((r) => r.isCorrect).length;
+    final query = selectOnly(quizHistory)
+      ..where(quizHistory.categoryId.equals(categoryId))
+      ..addColumns([totalCount, correctSum]);
+
+    final result = await query.getSingle();
+    final total = result.read(totalCount) ?? 0;
+    final correct = result.read(correctSum) ?? 0;
 
     return CategoryStats(
       categoryId: categoryId,
-      totalAnswered: results.length,
-      correctCount: correctCount,
-      wrongCount: results.length - correctCount,
+      totalAnswered: total,
+      correctCount: correct,
+      wrongCount: total - correct,
     );
   }
 
-  /// 전체 통계 조회
+  /// 전체 통계 조회 (SQL 집계 함수 사용)
   Future<OverallStats> getOverallStats() async {
-    final results = await select(quizHistory).get();
-    final correctCount = results.where((r) => r.isCorrect).length;
-    final uniqueQuestions = results.map((r) => r.questionId).toSet().length;
+    final totalCount = quizHistory.id.count();
+    final correctSum = quizHistory.isCorrect.cast<int>().sum();
+    final uniqueCount = quizHistory.questionId.count(distinct: true);
+
+    final query = selectOnly(quizHistory)
+      ..addColumns([totalCount, correctSum, uniqueCount]);
+
+    final result = await query.getSingle();
+    final total = result.read(totalCount) ?? 0;
+    final correct = result.read(correctSum) ?? 0;
+    final unique = result.read(uniqueCount) ?? 0;
 
     return OverallStats(
-      totalAnswered: results.length,
-      correctCount: correctCount,
-      wrongCount: results.length - correctCount,
-      uniqueQuestions: uniqueQuestions,
+      totalAnswered: total,
+      correctCount: correct,
+      wrongCount: total - correct,
+      uniqueQuestions: unique,
     );
   }
 
@@ -147,16 +161,17 @@ class QuizHistoryDao extends DatabaseAccessor<AppDatabase>
         .toList();
   }
 
-  /// 푼 문제 ID 목록
+  /// 푼 문제 ID 목록 (DISTINCT 사용)
   Future<List<String>> getAnsweredQuestionIds({String? categoryId}) async {
-    var query = select(quizHistory);
+    final query = selectOnly(quizHistory, distinct: true)
+      ..addColumns([quizHistory.questionId]);
 
     if (categoryId != null) {
-      query = query..where((t) => t.categoryId.equals(categoryId));
+      query.where(quizHistory.categoryId.equals(categoryId));
     }
 
     final results = await query.get();
-    return results.map((r) => r.questionId).toSet().toList();
+    return results.map((r) => r.read(quizHistory.questionId)!).toList();
   }
 
   /// 최근 틀린 문제 기록 (UI 표시용)
@@ -195,17 +210,25 @@ class QuizHistoryDao extends DatabaseAccessor<AppDatabase>
         .watch();
   }
 
-  /// 전체 통계 스트림
+  /// 전체 통계 스트림 (SQL 집계 함수 사용)
   Stream<OverallStats> watchOverallStats() {
-    return select(quizHistory).watch().map((results) {
-      final correctCount = results.where((r) => r.isCorrect).length;
-      final uniqueQuestions = results.map((r) => r.questionId).toSet().length;
+    final totalCount = quizHistory.id.count();
+    final correctSum = quizHistory.isCorrect.cast<int>().sum();
+    final uniqueCount = quizHistory.questionId.count(distinct: true);
+
+    final query = selectOnly(quizHistory)
+      ..addColumns([totalCount, correctSum, uniqueCount]);
+
+    return query.watchSingle().map((result) {
+      final total = result.read(totalCount) ?? 0;
+      final correct = result.read(correctSum) ?? 0;
+      final unique = result.read(uniqueCount) ?? 0;
 
       return OverallStats(
-        totalAnswered: results.length,
-        correctCount: correctCount,
-        wrongCount: results.length - correctCount,
-        uniqueQuestions: uniqueQuestions,
+        totalAnswered: total,
+        correctCount: correct,
+        wrongCount: total - correct,
+        uniqueQuestions: unique,
       );
     });
   }

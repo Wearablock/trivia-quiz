@@ -1,7 +1,11 @@
 import 'dart:io';
 import 'package:flutter/foundation.dart';
+import 'app_config.dart';
 
 /// 광고 설정 및 ID 관리
+///
+/// 광고 ID 값은 [AppConfig]에서 관리됩니다.
+/// 새로운 앱을 만들 때는 [AppConfig]의 광고 ID만 수정하세요.
 class AdConfig {
   AdConfig._();
 
@@ -12,7 +16,8 @@ class AdConfig {
   static bool get isTestMode => kDebugMode;
 
   /// 전면 광고 최소 간격 (초)
-  static const int interstitialMinIntervalSeconds = 60;
+  static const int interstitialMinIntervalSeconds =
+      AppConfig.interstitialMinIntervalSeconds;
 
   // ============================================================
   // 배너 광고 ID
@@ -20,12 +25,12 @@ class AdConfig {
   static String get bannerAdUnitId {
     if (isTestMode) {
       return Platform.isAndroid
-          ? 'ca-app-pub-3940256099942544/6300978111' // Android 테스트
-          : 'ca-app-pub-3940256099942544/2934735716'; // iOS 테스트
+          ? AppConfig.testBannerAdIdAndroid
+          : AppConfig.testBannerAdIdIos;
     }
     return Platform.isAndroid
-        ? 'ca-app-pub-8841058711613546/1726640787' // Android 실제 ID
-        : 'ca-app-pub-8841058711613546/2575536644'; // iOS 실제 ID
+        ? AppConfig.bannerAdIdAndroid
+        : AppConfig.bannerAdIdIos;
   }
 
   // ============================================================
@@ -34,12 +39,12 @@ class AdConfig {
   static String get interstitialAdUnitId {
     if (isTestMode) {
       return Platform.isAndroid
-          ? 'ca-app-pub-3940256099942544/1033173712' // Android 테스트
-          : 'ca-app-pub-3940256099942544/4411468910'; // iOS 테스트
+          ? AppConfig.testInterstitialAdIdAndroid
+          : AppConfig.testInterstitialAdIdIos;
     }
     return Platform.isAndroid
-        ? 'ca-app-pub-8841058711613546/9413559115' // Android 실제 ID
-        : 'ca-app-pub-8841058711613546/8020586390'; // iOS 실제 ID
+        ? AppConfig.interstitialAdIdAndroid
+        : AppConfig.interstitialAdIdIos;
   }
 
   // ============================================================
@@ -48,12 +53,12 @@ class AdConfig {
   static String get rewardedAdUnitId {
     if (isTestMode) {
       return Platform.isAndroid
-          ? 'ca-app-pub-3940256099942544/5224354917' // Android 테스트
-          : 'ca-app-pub-3940256099942544/1712485313'; // iOS 테스트
+          ? AppConfig.testRewardedAdIdAndroid
+          : AppConfig.testRewardedAdIdIos;
     }
     return Platform.isAndroid
-        ? 'ca-app-pub-8841058711613546/4915254367' // Android 실제 ID
-        : 'ca-app-pub-8841058711613546/3836647423'; // iOS 실제 ID
+        ? AppConfig.rewardedAdIdAndroid
+        : AppConfig.rewardedAdIdIos;
   }
 
   // ============================================================

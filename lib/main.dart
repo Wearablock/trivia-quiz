@@ -4,6 +4,7 @@ import 'package:flutter_localizations/flutter_localizations.dart';
 import 'package:flutter_native_splash/flutter_native_splash.dart';
 import 'package:upgrader/upgrader.dart';
 import 'l10n/generated/app_localizations.dart';
+import 'core/config/app_config.dart';
 import 'core/theme/app_theme.dart';
 import 'core/services/ad_service.dart';
 import 'core/services/feedback_service.dart';
@@ -101,7 +102,7 @@ class TriviaQuizApp extends ConsumerWidget {
     });
 
     return MaterialApp(
-      title: 'Trivia Quiz',
+      title: AppConfig.appName,
       debugShowCheckedModeBanner: false,
 
       // Theme

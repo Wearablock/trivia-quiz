@@ -71,10 +71,10 @@ class QuizState extends Equatable {
   // === Getters ===
 
   /// 현재 문제
-  Question? get currentQuestion =>
-      session != null && !session!.isCompleted
-          ? session!.currentQuestion
-          : null;
+  Question? get currentQuestion {
+    final s = session;
+    return s != null && !s.isCompleted ? s.currentQuestion : null;
+  }
 
   /// 현재 문제 번호 (1-based)
   int get currentNumber => session?.currentNumber ?? 0;

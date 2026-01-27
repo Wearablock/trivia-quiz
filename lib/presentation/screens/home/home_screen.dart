@@ -25,16 +25,6 @@ class HomeScreen extends ConsumerWidget {
             SliverAppBar(
               floating: true,
               title: Text(l10n.appTitle),
-              actions: [
-                IconButton(
-                  icon: const Icon(Icons.leaderboard_outlined),
-                  onPressed: () {
-                    ScaffoldMessenger.of(context).showSnackBar(
-                      SnackBar(content: Text(l10n.leaderboardComingSoon)),
-                    );
-                  },
-                ),
-              ],
             ),
 
             // Content

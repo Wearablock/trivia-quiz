@@ -224,6 +224,9 @@ class AppLocalizationsPt extends AppLocalizations {
   String get watchAdForHint => 'Assista um anúncio para ver a dica';
 
   @override
+  String get tapToShowHint => 'Toque para ver a dica';
+
+  @override
   String get watching => 'Assistindo';
 
   @override

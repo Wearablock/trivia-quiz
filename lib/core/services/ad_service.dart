@@ -107,7 +107,7 @@ class AdService extends ChangeNotifier {
 
     final AdSize adSize = adaptiveSize ?? AdSize.banner;
 
-    _bannerAd = BannerAd(
+    final bannerAd = BannerAd(
       adUnitId: AdConfig.bannerAdUnitId,
       size: adSize,
       request: const AdRequest(),
@@ -124,8 +124,9 @@ class AdService extends ChangeNotifier {
         },
       ),
     );
+    _bannerAd = bannerAd;
 
-    await _bannerAd!.load();
+    await bannerAd.load();
   }
 
   // ============================================================
@@ -187,13 +188,14 @@ class AdService extends ChangeNotifier {
       }
     }
 
-    if (!_isInterstitialAdReady || _interstitialAd == null) {
+    final interstitialAd = _interstitialAd;
+    if (!_isInterstitialAdReady || interstitialAd == null) {
       debugPrint('[AdService] 전면 광고 미준비');
       return false;
     }
 
     _lastInterstitialShowTime = DateTime.now();
-    await _interstitialAd!.show();
+    await interstitialAd.show();
     return true;
   }
 
@@ -257,14 +259,15 @@ class AdService extends ChangeNotifier {
       return true;
     }
 
-    if (!_isRewardedAdReady || _rewardedAd == null) {
+    final rewardedAd = _rewardedAd;
+    if (!_isRewardedAdReady || rewardedAd == null) {
       debugPrint('[AdService] 보상형 광고 미준비');
       return false;
     }
 
     bool rewarded = false;
 
-    await _rewardedAd!.show(
+    await rewardedAd.show(
       onUserEarnedReward: (ad, reward) {
         rewarded = true;
         onRewarded();

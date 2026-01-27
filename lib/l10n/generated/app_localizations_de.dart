@@ -223,6 +223,9 @@ class AppLocalizationsDe extends AppLocalizations {
   String get watchAdForHint => 'Werbung ansehen für Hinweis';
 
   @override
+  String get tapToShowHint => 'Tippen für Hinweis';
+
+  @override
   String get watching => 'Ansehen';
 
   @override

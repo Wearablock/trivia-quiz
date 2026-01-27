@@ -224,6 +224,9 @@ class AppLocalizationsIt extends AppLocalizations {
       'Guarda una pubblicità per vedere il suggerimento';
 
   @override
+  String get tapToShowHint => 'Tocca per vedere il suggerimento';
+
+  @override
   String get watching => 'Guardando';
 
   @override

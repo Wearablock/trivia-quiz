@@ -28,11 +28,8 @@ class CategoryRepository {
   /// 특정 카테고리 조회
   Future<Category?> getCategoryById(String id) async {
     final categories = await getCategories();
-    try {
-      return categories.firstWhere((c) => c.id == id);
-    } catch (_) {
-      return null;
-    }
+    final index = categories.indexWhere((c) => c.id == id);
+    return index >= 0 ? categories[index] : null;
   }
 
   /// 캐시 초기화

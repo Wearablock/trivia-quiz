@@ -224,6 +224,9 @@ class AppLocalizationsFr extends AppLocalizations {
   String get watchAdForHint => 'Regardez une pub pour voir l\'indice';
 
   @override
+  String get tapToShowHint => 'Appuyez pour voir l\'indice';
+
+  @override
   String get watching => 'Visionnage';
 
   @override

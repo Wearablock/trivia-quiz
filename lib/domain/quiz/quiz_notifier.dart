@@ -180,12 +180,13 @@ class QuizNotifier extends StateNotifier<QuizState> {
   /// 답변 선택
   void selectAnswer(String answer) {
     if (state.phase != QuizPhase.answering) return;
-    if (state.session == null) return;
+    final session = state.session;
+    if (session == null) return;
 
     _stopTimer();
 
     // 세션에 답변 기록
-    state.session!.submitAnswer(answer);
+    session.submitAnswer(answer);
 
     state = state.copyWith(
       phase: QuizPhase.answered,
@@ -232,16 +233,17 @@ class QuizNotifier extends StateNotifier<QuizState> {
   /// 다음 문제로 이동
   void nextQuestion() {
     if (state.phase != QuizPhase.answered) return;
-    if (state.session == null) return;
+    final session = state.session;
+    if (session == null) return;
 
-    state.session!.moveToNext();
+    session.moveToNext();
 
-    if (state.session!.isCompleted) {
+    if (session.isCompleted) {
       state = state.copyWith(phase: QuizPhase.completed);
     } else {
       state = state.copyWith(
         phase: QuizPhase.answering,
-        currentOptions: state.session!.currentQuestion.getShuffledOptions(),
+        currentOptions: session.currentQuestion.getShuffledOptions(),
         clearSelectedAnswer: true,
         hintUsed: false,
         hintVisible: false,
