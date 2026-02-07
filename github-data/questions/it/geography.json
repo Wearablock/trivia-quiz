@@ -34,6 +34,41 @@
     "explanation": "Il Danubio attraversa 10 paesi in Europa.",
     "hint": "Questo fiume europeo nasce in Germania e sfocia nel Mar Nero."
   },
+  "q_geo_006": {
+    "question": "Qual e il deserto caldo piu grande del mondo?",
+    "correct": "Sahara",
+    "wrong": ["Deserto Arabico", "Gobi", "Kalahari"],
+    "hint": "Questo deserto africano e quasi grande quanto gli Stati Uniti.",
+    "explanation": "Il Sahara copre circa 9,2 milioni di chilometri quadrati nel Nord Africa."
+  },
+  "q_geo_007": {
+    "question": "Qual e il paese piu piccolo del mondo per superficie?",
+    "correct": "Citta del Vaticano",
+    "wrong": ["Monaco", "San Marino", "Liechtenstein"],
+    "hint": "Questo paese si trova interamente all'interno della citta di Roma.",
+    "explanation": "La Citta del Vaticano occupa solo 0,44 chilometri quadrati ed e la sede della Chiesa Cattolica Romana."
+  },
+  "q_geo_008": {
+    "question": "Quale stretto separa l'Europa dall'Asia?",
+    "correct": "Bosforo",
+    "wrong": ["Stretto di Gibilterra", "Stretto di Malacca", "Stretto di Hormuz"],
+    "hint": "Questa stretta via d'acqua attraversa la citta di Istanbul.",
+    "explanation": "Il Bosforo divide Istanbul e separa la Turchia europea dalla Turchia asiatica."
+  },
+  "q_geo_009": {
+    "question": "Qual e il fiume piu lungo del Sud America?",
+    "correct": "Rio delle Amazzoni",
+    "wrong": ["Parana", "Orinoco", "Sao Francisco"],
+    "hint": "Questo fiume trasporta piu acqua di qualsiasi altro e attraversa la piu grande foresta pluviale del mondo.",
+    "explanation": "Il Rio delle Amazzoni si estende per circa 6.400 km e ha la portata maggiore di tutti i fiumi."
+  },
+  "q_geo_010": {
+    "question": "Quale paese ha il maggior numero di fusi orari?",
+    "correct": "Francia",
+    "wrong": ["Russia", "Stati Uniti", "Regno Unito"],
+    "hint": "I suoi territori d'oltremare si estendono dai Caraibi al Pacifico.",
+    "explanation": "La Francia ha 12 fusi orari grazie ai suoi territori d'oltremare, piu degli 11 della Russia."
+  },
   "q_geo_100": {
     "question": "Qual e la montagna piu alta del mondo?",
     "correct": "Monte Everest",

@@ -34,6 +34,41 @@
     "explanation": "Le Danube traverse 10 pays en Europe.",
     "hint": "Ce fleuve europeen prend sa source en Allemagne et se jette dans la mer Noire."
   },
+  "q_geo_006": {
+    "question": "Quel est le plus grand desert chaud du monde ?",
+    "correct": "Sahara",
+    "wrong": ["Desert d'Arabie", "Gobi", "Kalahari"],
+    "hint": "Ce desert africain est presque aussi grand que les Etats-Unis.",
+    "explanation": "Le Sahara couvre environ 9,2 millions de kilometres carres en Afrique du Nord."
+  },
+  "q_geo_007": {
+    "question": "Quel est le plus petit pays du monde par superficie ?",
+    "correct": "Cite du Vatican",
+    "wrong": ["Monaco", "Saint-Marin", "Liechtenstein"],
+    "hint": "Ce pays est entierement situe dans la ville de Rome.",
+    "explanation": "La Cite du Vatican ne couvre que 0,44 kilometre carre et est le siege de l'Eglise catholique romaine."
+  },
+  "q_geo_008": {
+    "question": "Quel detroit separe l'Europe de l'Asie ?",
+    "correct": "Bosphore",
+    "wrong": ["Detroit de Gibraltar", "Detroit de Malacca", "Detroit d'Ormuz"],
+    "hint": "Cette voie d'eau etroite traverse la ville d'Istanbul.",
+    "explanation": "Le Bosphore divise Istanbul et separe la Turquie europeenne de la Turquie asiatique."
+  },
+  "q_geo_009": {
+    "question": "Quel est le plus long fleuve d'Amerique du Sud ?",
+    "correct": "Amazone",
+    "wrong": ["Parana", "Orenoque", "Sao Francisco"],
+    "hint": "Ce fleuve transporte plus d'eau que tout autre et traverse la plus grande foret tropicale du monde.",
+    "explanation": "L'Amazone s'etend sur environ 6 400 km et possede le plus grand debit de tous les fleuves."
+  },
+  "q_geo_010": {
+    "question": "Quel pays possede le plus grand nombre de fuseaux horaires ?",
+    "correct": "France",
+    "wrong": ["Russie", "Etats-Unis", "Royaume-Uni"],
+    "hint": "Ses territoires d'outre-mer s'etendent des Caraibes au Pacifique.",
+    "explanation": "La France possede 12 fuseaux horaires grace a ses territoires d'outre-mer, plus que les 11 de la Russie."
+  },
   "q_geo_100": {
     "question": "Quelle est la plus haute montagne du monde ?",
     "correct": "Mont Everest",

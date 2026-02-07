@@ -33,5 +33,40 @@
     "wrong": ["Impero Ottomano", "Impero Romano", "Impero Persiano"],
     "explanation": "Gengis Khan fondo e governo l'Impero Mongolo, il piu grande impero terrestre contiguo della storia.",
     "hint": "Questo impero nacque nelle steppe dell'Asia centrale, terra di guerrieri nomadi a cavallo."
+  },
+  "q_his_006": {
+    "question": "Chi fu la prima persona a mettere piede sulla Luna?",
+    "correct": "Neil Armstrong",
+    "wrong": ["Buzz Aldrin", "Yuri Gagarin", "John Glenn"],
+    "hint": "Disse: 'Un piccolo passo per l'uomo, un grande balzo per l'umanita.'",
+    "explanation": "Neil Armstrong divenne la prima persona a camminare sulla Luna il 20 luglio 1969, durante la missione Apollo 11."
+  },
+  "q_his_007": {
+    "question": "Quale nave affondo durante il suo viaggio inaugurale nel 1912?",
+    "correct": "RMS Titanic",
+    "wrong": ["RMS Lusitania", "HMS Britannic", "SS Andrea Doria"],
+    "hint": "Fu definita 'inaffondabile' e colpi un iceberg nell'Atlantico del Nord.",
+    "explanation": "Il Titanic affondo il 15 aprile 1912 dopo aver colpito un iceberg, causando la morte di oltre 1.500 persone."
+  },
+  "q_his_008": {
+    "question": "In quale secolo inizio il Rinascimento?",
+    "correct": "XIV secolo",
+    "wrong": ["XII secolo", "XVI secolo", "XV secolo"],
+    "hint": "Inizio in Italia, in particolare a Firenze, e significa 'rinascita'.",
+    "explanation": "Il Rinascimento inizio nel XIV secolo in Italia e segno una transizione culturale dal Medioevo."
+  },
+  "q_his_009": {
+    "question": "Chi scopri la penicillina?",
+    "correct": "Alexander Fleming",
+    "wrong": ["Louis Pasteur", "Robert Koch", "Joseph Lister"],
+    "hint": "La scopri accidentalmente dalla muffa che cresceva su una capsula di Petri nel 1928.",
+    "explanation": "Alexander Fleming scopri la penicillina nel 1928, rivoluzionando la medicina con il primo vero antibiotico."
+  },
+  "q_his_010": {
+    "question": "Quale meraviglia del mondo antico si trovava ad Alessandria d'Egitto?",
+    "correct": "Il Faro",
+    "wrong": ["Il Colosso", "I Giardini Pensili", "Il Tempio di Artemide"],
+    "hint": "Questa struttura guidava i marinai nel trafficato porto e superava i 100 metri di altezza.",
+    "explanation": "Il Faro di Alessandria (Pharos) fu costruito intorno al 280 a.C. ed era una delle strutture piu alte del mondo antico."
   }
 }

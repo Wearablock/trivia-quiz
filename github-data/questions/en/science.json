@@ -40,5 +40,40 @@
     "wrong": ["1 million °C", "100 million °C", "6,000 °C"],
     "hint": "It's hot enough to fuse hydrogen atoms into helium.",
     "explanation": "The Sun's core reaches about 15 million degrees Celsius, enabling nuclear fusion."
+  },
+  "q_sci_006": {
+    "question": "What is the most abundant gas in Earth's atmosphere?",
+    "correct": "Nitrogen",
+    "wrong": ["Oxygen", "Carbon Dioxide", "Argon"],
+    "hint": "It makes up about 78% of the air we breathe.",
+    "explanation": "Nitrogen makes up approximately 78% of Earth's atmosphere, while oxygen makes up about 21%."
+  },
+  "q_sci_007": {
+    "question": "What is the chemical symbol for gold?",
+    "correct": "Au",
+    "wrong": ["Go", "Gd", "Ag"],
+    "hint": "It comes from the Latin word 'aurum'.",
+    "explanation": "Gold's chemical symbol Au is derived from the Latin word 'aurum', meaning 'shining dawn'."
+  },
+  "q_sci_008": {
+    "question": "Which planet has the most moons in our solar system?",
+    "correct": "Saturn",
+    "wrong": ["Jupiter", "Uranus", "Neptune"],
+    "hint": "This ringed planet has over 140 known moons including Titan.",
+    "explanation": "Saturn has over 140 confirmed moons, surpassing Jupiter's count, with Titan being the largest."
+  },
+  "q_sci_009": {
+    "question": "What does DNA stand for?",
+    "correct": "Deoxyribonucleic Acid",
+    "wrong": ["Dioxynitric Acid", "Deoxyribose Nucleic Atom", "Dynamic Nucleic Acid"],
+    "hint": "It has a double-helix structure and carries genetic information.",
+    "explanation": "DNA (Deoxyribonucleic Acid) carries the genetic instructions for all living organisms."
+  },
+  "q_sci_010": {
+    "question": "What is the boiling point of water at sea level?",
+    "correct": "100°C",
+    "wrong": ["90°C", "110°C", "120°C"],
+    "hint": "In Fahrenheit, this temperature is 212 degrees.",
+    "explanation": "Water boils at 100°C (212°F) at standard atmospheric pressure at sea level."
   }
 }

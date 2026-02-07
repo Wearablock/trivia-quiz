@@ -33,5 +33,40 @@
     "wrong": ["Impresionismo", "Cubismo", "Expresionismo"],
     "explanation": "Dali fue una figura destacada del movimiento surrealista, conocido por sus imagenes impactantes.",
     "hint": "Este movimiento explora los suenos y el subconsciente; piensa en relojes derretidos."
+  },
+  "q_art_006": {
+    "question": "Quien pinto 'La Noche Estrellada'?",
+    "correct": "Vincent van Gogh",
+    "wrong": ["Claude Monet", "Paul Cezanne", "Edgar Degas"],
+    "hint": "Este pintor neerlandes se corto parte de la oreja.",
+    "explanation": "Van Gogh pinto La Noche Estrellada en 1889 durante su estancia en el asilo de Saint-Remy-de-Provence."
+  },
+  "q_art_007": {
+    "question": "Que instrumento musical tiene 88 teclas?",
+    "correct": "Piano",
+    "wrong": ["Organo", "Clavecin", "Acordeon"],
+    "hint": "Tiene teclas blancas y negras y fue inventado en Italia alrededor de 1700.",
+    "explanation": "Un piano moderno estandar tiene 52 teclas blancas y 36 negras, sumando 88 en total."
+  },
+  "q_art_008": {
+    "question": "Quien esculpio 'El Pensador'?",
+    "correct": "Auguste Rodin",
+    "wrong": ["Donatello", "Bernini", "Henry Moore"],
+    "hint": "Este escultor frances es a menudo llamado el padre de la escultura moderna.",
+    "explanation": "Rodin creo El Pensador en 1904, originalmente como parte de una obra mayor llamada Las Puertas del Infierno."
+  },
+  "q_art_009": {
+    "question": "Que novela comienza con 'Llamadme Ismael'?",
+    "correct": "Moby Dick",
+    "wrong": ["La Isla del Tesoro", "El Viejo y el Mar", "Robinson Crusoe"],
+    "hint": "Esta novela trata sobre la obsesion de un capitan por una ballena blanca.",
+    "explanation": "Moby Dick de Herman Melville, publicada en 1851, comienza con una de las frases mas famosas de la literatura."
+  },
+  "q_art_010": {
+    "question": "Quien compuso 'Las Cuatro Estaciones'?",
+    "correct": "Antonio Vivaldi",
+    "wrong": ["Johann Sebastian Bach", "Georg Friedrich Handel", "Franz Schubert"],
+    "hint": "Este compositor barroco italiano era un sacerdote pelirrojo apodado 'Il Prete Rosso'.",
+    "explanation": "Vivaldi compuso Las Cuatro Estaciones alrededor de 1723, un conjunto de cuatro conciertos para violin."
   }
 }

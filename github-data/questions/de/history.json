@@ -33,5 +33,40 @@
     "wrong": ["Osmanisches Reich", "Römisches Reich", "Persisches Reich"],
     "explanation": "Dschingis Khan gründete und regierte das Mongolische Reich, das größte zusammenhängende Landreich der Geschichte.",
     "hint": "Dieses Reich hatte seinen Ursprung in den Steppen Zentralasiens."
+  },
+  "q_his_006": {
+    "question": "Wer war der erste Mensch, der den Mond betrat?",
+    "correct": "Neil Armstrong",
+    "wrong": ["Buzz Aldrin", "Juri Gagarin", "John Glenn"],
+    "hint": "Er sagte: 'Das ist ein kleiner Schritt für einen Menschen, aber ein großer Sprung für die Menschheit.'",
+    "explanation": "Neil Armstrong betrat am 20. Juli 1969 während der Apollo-11-Mission als erster Mensch den Mond."
+  },
+  "q_his_007": {
+    "question": "Welches Schiff sank 1912 auf seiner Jungfernfahrt?",
+    "correct": "RMS Titanic",
+    "wrong": ["RMS Lusitania", "HMS Britannic", "SS Andrea Doria"],
+    "hint": "Es wurde als 'unsinkbar' bezeichnet und kollidierte mit einem Eisberg im Nordatlantik.",
+    "explanation": "Die Titanic sank am 15. April 1912 nach einer Kollision mit einem Eisberg, wobei über 1.500 Menschen starben."
+  },
+  "q_his_008": {
+    "question": "In welchem Jahrhundert begann die Renaissance?",
+    "correct": "14. Jahrhundert",
+    "wrong": ["12. Jahrhundert", "16. Jahrhundert", "15. Jahrhundert"],
+    "hint": "Sie begann in Italien, insbesondere in Florenz, und bedeutet 'Wiedergeburt'.",
+    "explanation": "Die Renaissance begann im 14. Jahrhundert in Italien und markierte einen kulturellen Wandel vom Mittelalter zur Neuzeit."
+  },
+  "q_his_009": {
+    "question": "Wer entdeckte das Penicillin?",
+    "correct": "Alexander Fleming",
+    "wrong": ["Louis Pasteur", "Robert Koch", "Joseph Lister"],
+    "hint": "Er entdeckte es zufällig durch Schimmel, der 1928 in einer Petrischale wuchs.",
+    "explanation": "Alexander Fleming entdeckte 1928 das Penicillin und revolutionierte die Medizin mit dem ersten echten Antibiotikum."
+  },
+  "q_his_010": {
+    "question": "Welches antike Weltwunder befand sich in Alexandria, Ägypten?",
+    "correct": "Der Leuchtturm",
+    "wrong": ["Der Koloss", "Die Hängenden Gärten", "Der Tempel der Artemis"],
+    "hint": "Dieses Bauwerk war über 100 Meter hoch und leitete Seeleute in den Hafen.",
+    "explanation": "Der Leuchtturm von Alexandria (Pharos) wurde um 280 v. Chr. erbaut und war eines der höchsten Bauwerke der antiken Welt."
   }
 }

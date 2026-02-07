@@ -33,5 +33,40 @@
     "wrong": ["Löwe", "Gazelle", "Pferd"],
     "explanation": "Geparden können Geschwindigkeiten von bis zu 112 km/h erreichen.",
     "hint": "Diese gefleckte Raubkatze lebt in Afrika und kann nur kurze Sprints laufen."
+  },
+  "q_nat_006": {
+    "question": "Was ist die größte Haiart?",
+    "correct": "Walhai",
+    "wrong": ["Weißer Hai", "Hammerhai", "Tigerhai"],
+    "hint": "Trotz seiner enormen Größe ist dieser Hai ein sanfter Filtrierer, der Plankton frisst.",
+    "explanation": "Walhaie können bis zu 12 Meter lang werden und sind die größten Fische im Ozean."
+  },
+  "q_nat_007": {
+    "question": "Welcher Vogel kann rückwärts fliegen?",
+    "correct": "Kolibri",
+    "wrong": ["Eisvogel", "Schwalbe", "Spatz"],
+    "hint": "Dieser winzige Vogel schlägt bis zu 80 Mal pro Sekunde mit den Flügeln und ernährt sich von Nektar.",
+    "explanation": "Kolibris sind die einzigen Vögel, die dank ihrer einzigartigen Flügelstruktur schweben und rückwärts fliegen können."
+  },
+  "q_nat_008": {
+    "question": "Was ist das härteste natürliche Gestein?",
+    "correct": "Granit",
+    "wrong": ["Marmor", "Kalkstein", "Sandstein"],
+    "hint": "Dieses Eruptivgestein wird häufig für Küchenarbeitsplatten und Denkmäler verwendet.",
+    "explanation": "Granit ist eines der härtesten natürlichen Gesteine und entstand aus abgekühltem Magma tief in der Erde."
+  },
+  "q_nat_009": {
+    "question": "Wie lange kann eine Kakerlake ohne Kopf überleben?",
+    "correct": "Etwa eine Woche",
+    "wrong": ["Ein paar Sekunden", "Etwa eine Stunde", "Etwa einen Monat"],
+    "hint": "Diese Insekten atmen durch kleine Öffnungen in ihrem Körper, nicht durch den Mund.",
+    "explanation": "Kakerlaken können etwa eine Woche ohne Kopf überleben, da sie durch Stigmen in ihrem Körper atmen."
+  },
+  "q_nat_010": {
+    "question": "Welcher Ozean ist der tiefste?",
+    "correct": "Pazifischer Ozean",
+    "wrong": ["Atlantischer Ozean", "Indischer Ozean", "Südlicher Ozean"],
+    "hint": "Der Marianengraben, der tiefste Punkt der Erde, befindet sich in diesem Ozean.",
+    "explanation": "Der Pazifische Ozean enthält den Marianengraben mit einer Tiefe von etwa 11.034 Metern am Challengertief."
   }
 }

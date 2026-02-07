@@ -34,6 +34,41 @@
     "explanation": "Sông Danube chảy qua 10 quốc gia ở châu Âu.",
     "hint": "Con sông châu Âu này bắt nguồn từ Đức và đổ ra Biển Đen, đi qua Vienna và Budapest."
   },
+  "q_geo_006": {
+    "question": "Sa mạc nóng lớn nhất thế giới là gì?",
+    "correct": "Sahara",
+    "wrong": ["Gobi", "Kalahari", "Arabian"],
+    "explanation": "Sa mạc Sahara ở Bắc Phi có diện tích khoảng 9,2 triệu km vuông, là sa mạc nóng lớn nhất thế giới.",
+    "hint": "Sa mạc Bắc Phi này có diện tích gần bằng toàn bộ Hoa Kỳ."
+  },
+  "q_geo_007": {
+    "question": "Quốc gia nhỏ nhất thế giới về diện tích là gì?",
+    "correct": "Thành Vatican",
+    "wrong": ["Monaco", "San Marino", "Liechtenstein"],
+    "explanation": "Thành Vatican có diện tích chỉ khoảng 0,44 km vuông, nằm hoàn toàn trong thành phố Rome.",
+    "hint": "Quốc gia này là trụ sở của Giáo hoàng và nằm hoàn toàn trong thành phố Rome, Ý."
+  },
+  "q_geo_008": {
+    "question": "Eo biển nào ngăn cách châu Âu và châu Á ở Thổ Nhĩ Kỳ?",
+    "correct": "Eo biển Bosphorus",
+    "wrong": ["Eo biển Gibraltar", "Eo biển Malacca", "Eo biển Hormuz"],
+    "explanation": "Eo biển Bosphorus ở Istanbul, Thổ Nhĩ Kỳ nối Biển Đen với Biển Marmara và ngăn cách hai châu lục.",
+    "hint": "Eo biển này chảy qua thành phố Istanbul, nơi duy nhất trên thế giới nằm trên hai châu lục."
+  },
+  "q_geo_009": {
+    "question": "Con sông dài nhất ở Nam Mỹ là gì?",
+    "correct": "Sông Amazon",
+    "wrong": ["Sông Paraná", "Sông Orinoco", "Sông São Francisco"],
+    "explanation": "Sông Amazon dài khoảng 6.400 km và có lưu vực sông lớn nhất thế giới.",
+    "hint": "Con sông này chảy qua rừng nhiệt đới lớn nhất thế giới và đổ ra Đại Tây Dương."
+  },
+  "q_geo_010": {
+    "question": "Quốc gia nào có nhiều múi giờ nhất?",
+    "correct": "Pháp",
+    "wrong": ["Nga", "Hoa Kỳ", "Trung Quốc"],
+    "explanation": "Pháp có 12 múi giờ nhờ các lãnh thổ hải ngoại trải dài khắp thế giới.",
+    "hint": "Nhờ các lãnh thổ hải ngoại ở Thái Bình Dương, Ấn Độ Dương và châu Mỹ, quốc gia châu Âu này vượt qua cả Nga."
+  },
   "q_geo_100": {
     "question": "Ngọn núi cao nhất thế giới là gì?",
     "correct": "Đỉnh Everest",

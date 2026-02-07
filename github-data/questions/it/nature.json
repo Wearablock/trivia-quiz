@@ -33,5 +33,40 @@
     "wrong": ["Leone", "Gazzella", "Cavallo"],
     "explanation": "I ghepardi possono raggiungere velocita fino a 112 km/h.",
     "hint": "Questo felino africano ha un corpo snello e macchie nere sul mantello giallo."
+  },
+  "q_nat_006": {
+    "question": "Qual e la specie di squalo piu grande?",
+    "correct": "Squalo balena",
+    "wrong": ["Grande squalo bianco", "Squalo martello", "Squalo tigre"],
+    "hint": "Nonostante le sue dimensioni enormi, questo squalo e un pacifico filtratore che si nutre di plancton.",
+    "explanation": "Gli squali balena possono crescere fino a 12 metri di lunghezza e sono i pesci piu grandi dell'oceano."
+  },
+  "q_nat_007": {
+    "question": "Quale uccello puo volare all'indietro?",
+    "correct": "Colibri",
+    "wrong": ["Martin pescatore", "Rondine", "Passero"],
+    "hint": "Questo piccolo uccello batte le ali fino a 80 volte al secondo e si nutre di nettare.",
+    "explanation": "I colibri sono gli unici uccelli capaci di volo stazionario prolungato e di volare all'indietro grazie alla loro struttura alare unica."
+  },
+  "q_nat_008": {
+    "question": "Qual e la roccia naturale piu dura?",
+    "correct": "Granito",
+    "wrong": ["Marmo", "Calcare", "Arenaria"],
+    "hint": "Questa roccia ignea e comunemente usata per piani di cucina e monumenti.",
+    "explanation": "Il granito e una delle rocce naturali piu dure, formata dal magma raffreddato nelle profondita della Terra."
+  },
+  "q_nat_009": {
+    "question": "Quanto tempo puo sopravvivere uno scarafaggio senza testa?",
+    "correct": "Circa una settimana",
+    "wrong": ["Pochi secondi", "Circa un'ora", "Circa un mese"],
+    "hint": "Questi insetti respirano attraverso piccoli fori nei segmenti del corpo, non attraverso la bocca.",
+    "explanation": "Gli scarafaggi possono sopravvivere circa una settimana senza testa perche respirano attraverso spiracoli sul corpo."
+  },
+  "q_nat_010": {
+    "question": "Qual e l'oceano piu profondo?",
+    "correct": "Oceano Pacifico",
+    "wrong": ["Oceano Atlantico", "Oceano Indiano", "Oceano Meridionale"],
+    "hint": "La Fossa delle Marianne, il punto piu profondo della Terra, si trova in questo oceano.",
+    "explanation": "L'Oceano Pacifico contiene la Fossa delle Marianne, che raggiunge una profondita di circa 11.034 metri nel Challenger Deep."
   }
 }

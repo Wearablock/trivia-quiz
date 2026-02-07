@@ -34,6 +34,41 @@
     "explanation": "Sebbene esistano particelle subatomiche, gli atomi sono le unita piu piccole che mantengono le proprieta chimiche.",
     "hint": "Il suo nome deriva dal greco 'atomos' che significa indivisibile."
   },
+  "q_sci_006": {
+    "question": "Qual e il gas piu abbondante nell'atmosfera terrestre?",
+    "correct": "Azoto",
+    "wrong": ["Ossigeno", "Anidride carbonica", "Argon"],
+    "hint": "Costituisce circa il 78% dell'aria che respiriamo.",
+    "explanation": "L'azoto costituisce circa il 78% dell'atmosfera terrestre, mentre l'ossigeno ne rappresenta circa il 21%."
+  },
+  "q_sci_007": {
+    "question": "Qual e il simbolo chimico dell'oro?",
+    "correct": "Au",
+    "wrong": ["Go", "Gd", "Ag"],
+    "hint": "Deriva dalla parola latina 'aurum'.",
+    "explanation": "Il simbolo chimico dell'oro, Au, deriva dalla parola latina 'aurum', che significa 'alba luminosa'."
+  },
+  "q_sci_008": {
+    "question": "Quale pianeta ha il maggior numero di lune nel nostro sistema solare?",
+    "correct": "Saturno",
+    "wrong": ["Giove", "Urano", "Nettuno"],
+    "hint": "Questo pianeta con gli anelli ha oltre 140 lune conosciute, tra cui Titano.",
+    "explanation": "Saturno ha oltre 140 lune confermate, superando il conteggio di Giove, con Titano come la piu grande."
+  },
+  "q_sci_009": {
+    "question": "Cosa significa DNA?",
+    "correct": "Acido desossiribonucleico",
+    "wrong": ["Acido diossinitrico", "Acido desossiribosio nucleico", "Acido nucleico dinamico"],
+    "hint": "Ha una struttura a doppia elica e trasporta le informazioni genetiche.",
+    "explanation": "Il DNA (acido desossiribonucleico) contiene le istruzioni genetiche di tutti gli organismi viventi."
+  },
+  "q_sci_010": {
+    "question": "Qual e il punto di ebollizione dell'acqua a livello del mare?",
+    "correct": "100 °C",
+    "wrong": ["90 °C", "110 °C", "120 °C"],
+    "hint": "In Fahrenheit, questa temperatura e di 212 gradi.",
+    "explanation": "L'acqua bolle a 100 °C (212 °F) alla pressione atmosferica standard a livello del mare."
+  },
   "q_sci_100": {
     "question": "Qual e la temperatura approssimativa del nucleo del Sole?",
     "correct": "15 milioni °C",

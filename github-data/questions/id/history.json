@@ -33,5 +33,40 @@
     "wrong": ["Kekaisaran Ottoman", "Kekaisaran Romawi", "Kekaisaran Persia"],
     "explanation": "Genghis Khan mendirikan dan memerintah Kekaisaran Mongol, kekaisaran daratan terbesar yang bersebelahan dalam sejarah.",
     "hint": "Kekaisaran ini berasal dari Asia Tengah dan dikenal dengan pasukan berkuda yang menakutkan."
+  },
+  "q_his_006": {
+    "question": "Siapa orang pertama yang menginjakkan kaki di Bulan?",
+    "correct": "Neil Armstrong",
+    "wrong": ["Buzz Aldrin", "Yuri Gagarin", "John Glenn"],
+    "hint": "Dia berkata: 'Ini satu langkah kecil bagi seorang manusia, satu lompatan besar bagi umat manusia.'",
+    "explanation": "Neil Armstrong menjadi orang pertama yang berjalan di Bulan pada tanggal 20 Juli 1969 dalam misi Apollo 11."
+  },
+  "q_his_007": {
+    "question": "Kapal apa yang tenggelam pada pelayaran pertamanya di tahun 1912?",
+    "correct": "Titanic",
+    "wrong": ["Lusitania", "Britannic", "Andrea Doria"],
+    "hint": "Disebut 'tidak dapat tenggelam', kapal ini menabrak gunung es di Atlantik Utara.",
+    "explanation": "Kapal Titanic tenggelam pada tanggal 15 April 1912 setelah menabrak gunung es, menewaskan lebih dari 1.500 orang."
+  },
+  "q_his_008": {
+    "question": "Pada abad keberapa Renaisans dimulai?",
+    "correct": "Abad ke-14",
+    "wrong": ["Abad ke-12", "Abad ke-16", "Abad ke-15"],
+    "hint": "Dimulai di Italia, khususnya di Florence, dan kata ini berarti 'kelahiran kembali'.",
+    "explanation": "Renaisans dimulai pada abad ke-14 di Italia, menandai transisi budaya dari Abad Pertengahan."
+  },
+  "q_his_009": {
+    "question": "Siapa yang menemukan penisilin?",
+    "correct": "Alexander Fleming",
+    "wrong": ["Louis Pasteur", "Robert Koch", "Joseph Lister"],
+    "hint": "Dia menemukannya secara tidak sengaja dari jamur yang tumbuh di cawan petri pada tahun 1928.",
+    "explanation": "Alexander Fleming menemukan penisilin pada tahun 1928, merevolusi dunia kedokteran dengan antibiotik pertama yang sesungguhnya."
+  },
+  "q_his_010": {
+    "question": "Keajaiban dunia kuno mana yang terletak di Alexandria, Mesir?",
+    "correct": "Mercusuar",
+    "wrong": ["Patung Raksasa", "Taman Gantung", "Kuil Artemis"],
+    "hint": "Bangunan ini memandu para pelaut menuju pelabuhan yang ramai dan tingginya lebih dari 100 meter.",
+    "explanation": "Mercusuar Alexandria (Pharos) dibangun sekitar tahun 280 SM, menjadi salah satu bangunan tertinggi di dunia kuno."
   }
 }

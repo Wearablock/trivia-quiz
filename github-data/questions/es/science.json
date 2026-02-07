@@ -34,6 +34,41 @@
     "explanation": "Aunque existen particulas subatomicas, los atomos son las unidades mas pequenas que conservan propiedades quimicas.",
     "hint": "Su nombre viene del griego 'indivisible' y contiene protones, neutrones y electrones."
   },
+  "q_sci_006": {
+    "question": "Cual es el gas mas abundante en la atmosfera terrestre?",
+    "correct": "Nitrogeno",
+    "wrong": ["Oxigeno", "Dioxido de carbono", "Argon"],
+    "hint": "Representa aproximadamente el 78% del aire que respiramos.",
+    "explanation": "El nitrogeno constituye aproximadamente el 78% de la atmosfera terrestre, mientras que el oxigeno representa alrededor del 21%."
+  },
+  "q_sci_007": {
+    "question": "Cual es el simbolo quimico del oro?",
+    "correct": "Au",
+    "wrong": ["Go", "Gd", "Ag"],
+    "hint": "Proviene de la palabra latina 'aurum'.",
+    "explanation": "El simbolo quimico del oro, Au, deriva de la palabra latina 'aurum', que significa 'amanecer brillante'."
+  },
+  "q_sci_008": {
+    "question": "Que planeta tiene mas lunas en nuestro sistema solar?",
+    "correct": "Saturno",
+    "wrong": ["Jupiter", "Urano", "Neptuno"],
+    "hint": "Este planeta con anillos tiene mas de 140 lunas conocidas, incluyendo Titan.",
+    "explanation": "Saturno tiene mas de 140 lunas confirmadas, superando la cantidad de Jupiter, siendo Titan la mas grande."
+  },
+  "q_sci_009": {
+    "question": "Que significa ADN?",
+    "correct": "Acido desoxirribonucleico",
+    "wrong": ["Acido dioxinitrico", "Acido desoxirribosa nucleico", "Acido nucleico dinamico"],
+    "hint": "Tiene una estructura de doble helice y transporta la informacion genetica.",
+    "explanation": "El ADN (acido desoxirribonucleico) contiene las instrucciones geneticas de todos los organismos vivos."
+  },
+  "q_sci_010": {
+    "question": "Cual es el punto de ebullicion del agua a nivel del mar?",
+    "correct": "100 °C",
+    "wrong": ["90 °C", "110 °C", "120 °C"],
+    "hint": "En Fahrenheit, esta temperatura es de 212 grados.",
+    "explanation": "El agua hierve a 100 °C (212 °F) a la presion atmosferica estandar a nivel del mar."
+  },
   "q_sci_100": {
     "question": "Cual es la temperatura aproximada del nucleo del Sol?",
     "correct": "15 millones °C",

@@ -33,5 +33,40 @@
     "wrong": ["Impressionismus", "Kubismus", "Expressionismus"],
     "explanation": "Dalí war eine führende Figur der surrealistischen Bewegung, bekannt für seine eindrucksvollen Bilder.",
     "hint": "Diese Kunstrichtung zeigt traumartige, unwirkliche Szenen und wurde von Sigmund Freuds Theorien beeinflusst."
+  },
+  "q_art_006": {
+    "question": "Wer malte 'Die Sternennacht'?",
+    "correct": "Vincent van Gogh",
+    "wrong": ["Claude Monet", "Paul Cézanne", "Edgar Degas"],
+    "hint": "Dieser niederländische Maler schnitt sich einen Teil seines Ohres ab.",
+    "explanation": "Van Gogh malte Die Sternennacht 1889 während seines Aufenthalts in einer Heilanstalt in Saint-Rémy-de-Provence."
+  },
+  "q_art_007": {
+    "question": "Welches Musikinstrument hat 88 Tasten?",
+    "correct": "Klavier",
+    "wrong": ["Orgel", "Cembalo", "Akkordeon"],
+    "hint": "Es hat schwarze und weiße Tasten und wurde um 1700 in Italien erfunden.",
+    "explanation": "Ein modernes Standardklavier hat 52 weiße und 36 schwarze Tasten, insgesamt 88."
+  },
+  "q_art_008": {
+    "question": "Wer schuf die Skulptur 'Der Denker'?",
+    "correct": "Auguste Rodin",
+    "wrong": ["Donatello", "Bernini", "Henry Moore"],
+    "hint": "Dieser französische Bildhauer wird oft als Vater der modernen Skulptur bezeichnet.",
+    "explanation": "Rodin schuf Der Denker 1904, ursprünglich als Teil eines größeren Werkes namens Das Höllentor."
+  },
+  "q_art_009": {
+    "question": "Welcher Roman beginnt mit 'Nennt mich Ismael'?",
+    "correct": "Moby-Dick",
+    "wrong": ["Die Schatzinsel", "Der alte Mann und das Meer", "Robinson Crusoe"],
+    "hint": "Dieser Roman handelt von der Besessenheit eines Kapitäns mit einem weißen Wal.",
+    "explanation": "Herman Melvilles Moby-Dick, veröffentlicht 1851, beginnt mit einem der berühmtesten Sätze der Literatur."
+  },
+  "q_art_010": {
+    "question": "Wer komponierte 'Die vier Jahreszeiten'?",
+    "correct": "Antonio Vivaldi",
+    "wrong": ["Johann Sebastian Bach", "Georg Friedrich Händel", "Franz Schubert"],
+    "hint": "Dieser italienische Barockkomponist war ein rothaariger Priester mit dem Spitznamen 'Der rote Priester'.",
+    "explanation": "Vivaldi komponierte Die vier Jahreszeiten um 1723, bestehend aus vier Violinkonzerten."
   }
 }

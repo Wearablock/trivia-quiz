@@ -33,5 +33,40 @@
     "wrong": ["Ớt bột", "Thì là", "Rau mùi"],
     "explanation": "Nghệ chứa curcumin, tạo nên màu vàng đặc trưng cho cà ri.",
     "hint": "Gia vị này có rễ củ màu cam vàng, được dùng nhiều trong ẩm thực Ấn Độ và có tính chống viêm."
+  },
+  "q_foo_006": {
+    "question": "Sau nước, đồ uống nào được tiêu thụ nhiều nhất trên thế giới?",
+    "correct": "Trà",
+    "wrong": ["Cà phê", "Bia", "Sữa"],
+    "explanation": "Trà là đồ uống được tiêu thụ nhiều nhất trên thế giới sau nước, với lịch sử hàng nghìn năm.",
+    "hint": "Đồ uống này có nguồn gốc từ Trung Quốc và thường được pha bằng lá khô ngâm trong nước nóng."
+  },
+  "q_foo_007": {
+    "question": "Quốc gia nào sản xuất cà phê nhiều nhất thế giới?",
+    "correct": "Brazil",
+    "wrong": ["Colombia", "Việt Nam", "Ethiopia"],
+    "explanation": "Brazil là nước sản xuất cà phê lớn nhất thế giới, chiếm khoảng một phần ba sản lượng toàn cầu.",
+    "hint": "Quốc gia Nam Mỹ này cũng là nước lớn nhất lục địa và nổi tiếng với lễ hội carnival."
+  },
+  "q_foo_008": {
+    "question": "Wasabi được làm từ phần nào của cây?",
+    "correct": "Rễ",
+    "wrong": ["Lá", "Hoa", "Hạt"],
+    "explanation": "Wasabi được làm từ rễ cây wasabi (thân rễ), tạo ra vị cay nồng đặc trưng.",
+    "hint": "Gia vị Nhật Bản màu xanh lá cay này được mài từ phần ngầm dưới đất của cây."
+  },
+  "q_foo_009": {
+    "question": "Loại quả nào được mệnh danh là 'Vua của các loại trái cây'?",
+    "correct": "Sầu riêng",
+    "wrong": ["Xoài", "Dứa", "Mít"],
+    "explanation": "Sầu riêng được mệnh danh là 'Vua của các loại trái cây' ở Đông Nam Á nhờ kích thước lớn và mùi vị mạnh mẽ.",
+    "hint": "Loại quả có gai này nổi tiếng với mùi rất nồng và bị cấm ở nhiều khách sạn và phương tiện giao thông công cộng."
+  },
+  "q_foo_010": {
+    "question": "Nguyên liệu chính của hummus là gì?",
+    "correct": "Đậu gà",
+    "wrong": ["Đậu lăng", "Đậu đen", "Đậu tây"],
+    "explanation": "Hummus là món ăn Trung Đông được làm chủ yếu từ đậu gà xay nhuyễn, trộn với tahini, chanh và tỏi.",
+    "hint": "Món chấm Trung Đông này được làm từ loại đậu tròn màu be, thường ăn kèm bánh mì pita."
   }
 }

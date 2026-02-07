@@ -32,22 +32,8 @@ void main() async {
   // IAP 초기화
   await IAPService().initialize();
 
-  // 스플래시 화면 종료
-  FlutterNativeSplash.remove();
-
-  runApp(
-    const ProviderScope(
-      child: TriviaQuizApp(),
-    ),
-  );
-
-  // 앱 시작 후 백그라운드에서 퀴즈 데이터 동기화
-  _syncQuizDataInBackground();
-}
-
-/// 백그라운드에서 퀴즈 데이터 동기화
-void _syncQuizDataInBackground() {
-  Future.microtask(() async {
+  // 퀴즈 데이터 원격 동기화 (스플래시 화면 유지 중)
+  try {
     final syncService = RemoteSyncService();
     final result = await syncService.syncFromRemote();
 
@@ -59,7 +45,18 @@ void _syncQuizDataInBackground() {
     } else if (result.status == SyncStatus.failed) {
       debugPrint('[Main] Sync failed: ${result.errorMessage}');
     }
-  });
+  } catch (e) {
+    debugPrint('[Main] Sync error: $e');
+  }
+
+  // 스플래시 화면 종료
+  FlutterNativeSplash.remove();
+
+  runApp(
+    const ProviderScope(
+      child: TriviaQuizApp(),
+    ),
+  );
 }
 
 class TriviaQuizApp extends ConsumerWidget {

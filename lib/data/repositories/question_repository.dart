@@ -1,7 +1,6 @@
 import 'dart:convert';
 import 'dart:math';
 import 'package:flutter/foundation.dart';
-import 'package:flutter/services.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import '../models/question.dart';
 import '../../core/constants/remote_config.dart';
@@ -168,7 +167,7 @@ class QuestionRepository {
   }
 
   /// 카테고리 콘텐츠 로드 (캐싱)
-  /// 우선순위: 메모리 캐시 → 로컬 저장소 (SharedPreferences) → Assets
+  /// 우선순위: 메모리 캐시 → 로컬 저장소 (SharedPreferences)
   Future<Map<String, QuestionContent>> _loadCategoryContent(
     String categoryId,
     String locale,
@@ -193,10 +192,10 @@ class QuestionRepository {
       debugPrint('[QuestionRepository] SharedPreferences 오류: $e');
     }
 
-    // 3순위: Assets (앱 번들)
-    jsonString ??= await rootBundle.loadString(
-      'assets/data/questions/$effectiveLocale/$categoryId.json',
-    );
+    // 데이터 없으면 빈 Map 반환
+    if (jsonString == null) {
+      return {};
+    }
 
     final jsonData = json.decode(jsonString) as Map<String, dynamic>;
 
@@ -215,34 +214,26 @@ class QuestionRepository {
 
   /// 유효한 로케일 결정 (폴백 로직)
   Future<String> _getEffectiveLocale(String locale, String categoryId) async {
+    final prefs = await SharedPreferences.getInstance();
+
     // 요청된 로케일 먼저 시도
-    if (await _assetExists(
-        'assets/data/questions/$locale/$categoryId.json')) {
+    final key = '${RemoteConfig.localDataPrefix}${locale}_$categoryId';
+    if (prefs.getString(key) != null) {
       return locale;
     }
 
     // 언어 코드만 시도 (예: zh-Hant -> zh)
     if (locale.contains('-')) {
       final langCode = locale.split('-').first;
-      if (await _assetExists(
-          'assets/data/questions/$langCode/$categoryId.json')) {
+      final langKey =
+          '${RemoteConfig.localDataPrefix}${langCode}_$categoryId';
+      if (prefs.getString(langKey) != null) {
         return langCode;
       }
     }
 
     // 영어 폴백
     return 'en';
-  }
-
-  /// 에셋 존재 여부 확인
-  Future<bool> _assetExists(String path) async {
-    try {
-      await rootBundle.loadString(path);
-      return true;
-    } catch (e) {
-      // 에셋 미존재는 정상 케이스 (폴백 로직 사용)
-      return false;
-    }
   }
 
   /// 문제 ID에서 카테고리 ID 추출

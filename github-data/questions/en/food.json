@@ -33,5 +33,40 @@
     "wrong": ["Paprika", "Cumin", "Coriander"],
     "hint": "This root spice contains curcumin and is also used in traditional medicine.",
     "explanation": "Turmeric contains curcumin, which gives curry its distinctive yellow color."
+  },
+  "q_foo_006": {
+    "question": "What is the most consumed beverage in the world after water?",
+    "correct": "Tea",
+    "wrong": ["Coffee", "Beer", "Milk"],
+    "hint": "This drink originated in China thousands of years ago and comes in green, black, and white varieties.",
+    "explanation": "Tea is the most widely consumed beverage after water, with origins in China dating back to 2737 BCE."
+  },
+  "q_foo_007": {
+    "question": "Which country is the largest producer of coffee?",
+    "correct": "Brazil",
+    "wrong": ["Colombia", "Ethiopia", "Vietnam"],
+    "hint": "This South American country is also famous for samba and carnival.",
+    "explanation": "Brazil has been the world's largest coffee producer for over 150 years, growing about a third of the world's supply."
+  },
+  "q_foo_008": {
+    "question": "What is wasabi traditionally made from?",
+    "correct": "A plant root",
+    "wrong": ["Green chili peppers", "Mustard seeds", "Horseradish and food coloring"],
+    "hint": "Real wasabi is extremely expensive and must be freshly grated from a rhizome.",
+    "explanation": "True wasabi is made from the grated rhizome of the Wasabia japonica plant, though most restaurant wasabi is actually colored horseradish."
+  },
+  "q_foo_009": {
+    "question": "Which fruit is known as the 'king of fruits' in Southeast Asia?",
+    "correct": "Durian",
+    "wrong": ["Mango", "Jackfruit", "Papaya"],
+    "hint": "This fruit is famous for its strong smell and is banned in many hotels and public transport.",
+    "explanation": "Durian is called the king of fruits in Southeast Asia despite its pungent odor that divides opinion."
+  },
+  "q_foo_010": {
+    "question": "What is the main ingredient in hummus?",
+    "correct": "Chickpeas",
+    "wrong": ["Lentils", "White beans", "Fava beans"],
+    "hint": "This Middle Eastern dip is also made with tahini, lemon juice, and garlic.",
+    "explanation": "Hummus is a Levantine dip made primarily from cooked and mashed chickpeas blended with tahini."
   }
 }

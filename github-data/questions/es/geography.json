@@ -34,6 +34,41 @@
     "explanation": "El Danubio atraviesa 10 paises en Europa.",
     "hint": "Este rio europeo pasa por Viena, Budapest y Belgrado."
   },
+  "q_geo_006": {
+    "question": "Cual es el desierto calido mas grande del mundo?",
+    "correct": "Sahara",
+    "wrong": ["Desierto de Arabia", "Gobi", "Kalahari"],
+    "hint": "Este desierto africano es casi tan grande como los Estados Unidos.",
+    "explanation": "El Sahara cubre aproximadamente 9,2 millones de kilometros cuadrados en el norte de Africa."
+  },
+  "q_geo_007": {
+    "question": "Cual es el pais mas pequeno del mundo por superficie?",
+    "correct": "Ciudad del Vaticano",
+    "wrong": ["Monaco", "San Marino", "Liechtenstein"],
+    "hint": "Este pais esta completamente dentro de la ciudad de Roma.",
+    "explanation": "La Ciudad del Vaticano ocupa solo 0,44 kilometros cuadrados y es la sede de la Iglesia Catolica Romana."
+  },
+  "q_geo_008": {
+    "question": "Que estrecho separa Europa de Asia?",
+    "correct": "Bosforo",
+    "wrong": ["Estrecho de Gibraltar", "Estrecho de Malaca", "Estrecho de Ormuz"],
+    "hint": "Esta via de agua estrecha atraviesa la ciudad de Estambul.",
+    "explanation": "El Bosforo divide Estambul y separa la Turquia europea de la Turquia asiatica."
+  },
+  "q_geo_009": {
+    "question": "Cual es el rio mas largo de America del Sur?",
+    "correct": "Amazonas",
+    "wrong": ["Parana", "Orinoco", "Sao Francisco"],
+    "hint": "Este rio transporta mas agua que cualquier otro y atraviesa la selva tropical mas grande del mundo.",
+    "explanation": "El Amazonas se extiende por unos 6.400 km y tiene el mayor caudal de todos los rios."
+  },
+  "q_geo_010": {
+    "question": "Que pais tiene el mayor numero de husos horarios?",
+    "correct": "Francia",
+    "wrong": ["Rusia", "Estados Unidos", "Reino Unido"],
+    "hint": "Sus territorios de ultramar se extienden desde el Caribe hasta el Pacifico.",
+    "explanation": "Francia tiene 12 husos horarios gracias a sus territorios de ultramar, mas que los 11 de Rusia."
+  },
   "q_geo_100": {
     "question": "Cual es la montana mas alta del mundo?",
     "correct": "Monte Everest",

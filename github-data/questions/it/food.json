@@ -33,5 +33,40 @@
     "wrong": ["Paprica", "Cumino", "Coriandolo"],
     "explanation": "La curcuma contiene curcumina, che conferisce al curry il suo distintivo colore giallo.",
     "hint": "Questa spezia e chiamata anche 'zafferano delle Indie' e ha proprieta antinfiammatorie."
+  },
+  "q_foo_006": {
+    "question": "Qual e la bevanda piu consumata al mondo dopo l'acqua?",
+    "correct": "Te",
+    "wrong": ["Caffe", "Birra", "Latte"],
+    "hint": "Questa bevanda ha origini in Cina ed esiste in varieta verde, nera e bianca.",
+    "explanation": "Il te e la bevanda piu consumata dopo l'acqua, con origini in Cina risalenti al 2737 a.C."
+  },
+  "q_foo_007": {
+    "question": "Quale paese e il maggior produttore di caffe al mondo?",
+    "correct": "Brasile",
+    "wrong": ["Colombia", "Etiopia", "Vietnam"],
+    "hint": "Questo paese sudamericano e famoso anche per il samba e il carnevale.",
+    "explanation": "Il Brasile e il maggior produttore di caffe da oltre 150 anni, producendo circa un terzo della fornitura mondiale."
+  },
+  "q_foo_008": {
+    "question": "Da cosa e tradizionalmente fatto il wasabi?",
+    "correct": "Una radice di pianta",
+    "wrong": ["Peperoncini verdi", "Semi di senape", "Rafano e colorante alimentare"],
+    "hint": "Il vero wasabi e molto costoso e deve essere grattugiato fresco da un rizoma.",
+    "explanation": "Il vero wasabi e fatto dal rizoma della pianta Wasabia japonica, anche se la maggior parte dei ristoranti usa rafano con colorante."
+  },
+  "q_foo_009": {
+    "question": "Quale frutto e soprannominato il 're dei frutti' nel Sud-est asiatico?",
+    "correct": "Durian",
+    "wrong": ["Mango", "Giaca", "Papaya"],
+    "hint": "Questo frutto e famoso per il suo odore forte ed e vietato in molti hotel.",
+    "explanation": "Il durian e chiamato re dei frutti nel Sud-est asiatico nonostante il suo odore pungente che divide le opinioni."
+  },
+  "q_foo_010": {
+    "question": "Qual e l'ingrediente principale dell'hummus?",
+    "correct": "Ceci",
+    "wrong": ["Lenticchie", "Fagioli bianchi", "Fave"],
+    "hint": "Questa salsa mediorientale contiene anche tahini, succo di limone e aglio.",
+    "explanation": "L'hummus e una salsa levantina fatta principalmente di ceci cotti e schiacciati mescolati con tahini."
   }
 }

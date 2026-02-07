@@ -33,5 +33,40 @@
     "wrong": ["Paprika", "Cumin", "Coriandre"],
     "explanation": "Le curcuma contient de la curcumine, qui donne au curry sa couleur jaune distinctive.",
     "hint": "Cette epice doree est aussi utilisee en medecine traditionnelle indienne pour ses proprietes anti-inflammatoires."
+  },
+  "q_foo_006": {
+    "question": "Quelle est la boisson la plus consommee au monde apres l'eau ?",
+    "correct": "The",
+    "wrong": ["Cafe", "Biere", "Lait"],
+    "hint": "Cette boisson est originaire de Chine et existe en varietes verte, noire et blanche.",
+    "explanation": "Le the est la boisson la plus consommee apres l'eau, avec des origines en Chine datant de 2737 av. J.-C."
+  },
+  "q_foo_007": {
+    "question": "Quel pays est le plus grand producteur de cafe au monde ?",
+    "correct": "Bresil",
+    "wrong": ["Colombie", "Ethiopie", "Vietnam"],
+    "hint": "Ce pays sud-americain est aussi celebre pour la samba et le carnaval.",
+    "explanation": "Le Bresil est le plus grand producteur de cafe depuis plus de 150 ans, produisant environ un tiers de l'approvisionnement mondial."
+  },
+  "q_foo_008": {
+    "question": "A partir de quoi le wasabi est-il traditionnellement fabrique ?",
+    "correct": "Une racine de plante",
+    "wrong": ["Piments verts", "Graines de moutarde", "Raifort et colorant alimentaire"],
+    "hint": "Le vrai wasabi est tres cher et doit etre fraichement rape a partir d'un rhizome.",
+    "explanation": "Le vrai wasabi est fait a partir du rhizome de la plante Wasabia japonica, bien que la plupart des restaurants utilisent du raifort colore."
+  },
+  "q_foo_009": {
+    "question": "Quel fruit est surnomme le 'roi des fruits' en Asie du Sud-Est ?",
+    "correct": "Durian",
+    "wrong": ["Mangue", "Jacquier", "Papaye"],
+    "hint": "Ce fruit est celebre pour son odeur forte et est interdit dans de nombreux hotels.",
+    "explanation": "Le durian est appele roi des fruits en Asie du Sud-Est malgre son odeur penetrante qui divise les opinions."
+  },
+  "q_foo_010": {
+    "question": "Quel est l'ingredient principal du houmous ?",
+    "correct": "Pois chiches",
+    "wrong": ["Lentilles", "Haricots blancs", "Feves"],
+    "hint": "Ce dip du Moyen-Orient est aussi prepare avec du tahini, du jus de citron et de l'ail.",
+    "explanation": "Le houmous est un dip levantin fait principalement de pois chiches cuits et ecrases melanges avec du tahini."
   }
 }

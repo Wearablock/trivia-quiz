@@ -34,6 +34,41 @@
     "explanation": "Obwohl subatomare Teilchen existieren, sind Atome die kleinsten Einheiten, die chemische Eigenschaften behalten.",
     "hint": "Der Name stammt aus dem Griechischen und bedeutet 'unteilbar'."
   },
+  "q_sci_006": {
+    "question": "Was ist das häufigste Gas in der Erdatmosphäre?",
+    "correct": "Stickstoff",
+    "wrong": ["Sauerstoff", "Kohlendioxid", "Argon"],
+    "hint": "Es macht etwa 78 % der Luft aus, die wir atmen.",
+    "explanation": "Stickstoff macht etwa 78 % der Erdatmosphäre aus, während Sauerstoff etwa 21 % ausmacht."
+  },
+  "q_sci_007": {
+    "question": "Was ist das chemische Symbol für Gold?",
+    "correct": "Au",
+    "wrong": ["Go", "Gd", "Ag"],
+    "hint": "Es leitet sich vom lateinischen Wort 'aurum' ab.",
+    "explanation": "Das chemische Symbol Au für Gold stammt vom lateinischen Wort 'aurum', was 'leuchtende Morgenröte' bedeutet."
+  },
+  "q_sci_008": {
+    "question": "Welcher Planet hat die meisten Monde in unserem Sonnensystem?",
+    "correct": "Saturn",
+    "wrong": ["Jupiter", "Uranus", "Neptun"],
+    "hint": "Dieser Planet mit Ringen hat über 140 bekannte Monde, darunter Titan.",
+    "explanation": "Saturn hat über 140 bestätigte Monde und übertrifft damit Jupiter. Der größte ist Titan."
+  },
+  "q_sci_009": {
+    "question": "Wofür steht DNA?",
+    "correct": "Desoxyribonukleinsäure",
+    "wrong": ["Dioxysalpetersäure", "Desoxyribose-Nukleatom", "Dynamische Nukleinsäure"],
+    "hint": "Sie hat eine Doppelhelixstruktur und trägt genetische Informationen.",
+    "explanation": "DNA (Desoxyribonukleinsäure) trägt die genetischen Anweisungen für alle lebenden Organismen."
+  },
+  "q_sci_010": {
+    "question": "Was ist der Siedepunkt von Wasser auf Meereshöhe?",
+    "correct": "100 °C",
+    "wrong": ["90 °C", "110 °C", "120 °C"],
+    "hint": "In Fahrenheit sind das 212 Grad.",
+    "explanation": "Wasser siedet bei 100 °C (212 °F) bei Standard-Atmosphärendruck auf Meereshöhe."
+  },
   "q_sci_100": {
     "question": "Wie hoch ist die ungefähre Temperatur im Sonnenkern?",
     "correct": "15 Millionen °C",

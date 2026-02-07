@@ -33,5 +33,40 @@
     "wrong": ["Leao", "Gazela", "Cavalo"],
     "explanation": "Os guepardos podem atingir velocidades de ate 112 km/h.",
     "hint": "Este felino africano tem manchas pretas e e conhecido por sua incrivel aceleracao."
+  },
+  "q_nat_006": {
+    "question": "Qual e a maior especie de tubarao?",
+    "correct": "Tubarao-baleia",
+    "wrong": ["Grande tubarao branco", "Tubarao-martelo", "Tubarao-tigre"],
+    "hint": "Apesar de seu tamanho massivo, este tubarao e um pacifico filtrador que se alimenta de plancton.",
+    "explanation": "Os tubaroes-baleia podem crescer ate 12 metros de comprimento e sao os maiores peixes do oceano."
+  },
+  "q_nat_007": {
+    "question": "Qual ave pode voar para tras?",
+    "correct": "Beija-flor",
+    "wrong": ["Martim-pescador", "Andorinha", "Pardal"],
+    "hint": "Esta pequena ave bate as asas ate 80 vezes por segundo e se alimenta de nectar.",
+    "explanation": "Os beija-flores sao as unicas aves capazes de voo pairado sustentado e de voar para tras gracas a sua estrutura alar unica."
+  },
+  "q_nat_008": {
+    "question": "Qual e a rocha natural mais dura?",
+    "correct": "Granito",
+    "wrong": ["Marmore", "Calcario", "Arenito"],
+    "hint": "Esta rocha ignea e comumente usada em bancadas de cozinha e monumentos.",
+    "explanation": "O granito e uma das rochas naturais mais duras, formada a partir de magma resfriado nas profundezas da Terra."
+  },
+  "q_nat_009": {
+    "question": "Quanto tempo uma barata pode sobreviver sem cabeca?",
+    "correct": "Cerca de uma semana",
+    "wrong": ["Alguns segundos", "Cerca de uma hora", "Cerca de um mes"],
+    "hint": "Estes insetos respiram por pequenos orificios em seus segmentos corporais, nao pela boca.",
+    "explanation": "As baratas podem sobreviver cerca de uma semana sem cabeca porque respiram atraves de espiraculos em seu corpo."
+  },
+  "q_nat_010": {
+    "question": "Qual e o oceano mais profundo?",
+    "correct": "Oceano Pacifico",
+    "wrong": ["Oceano Atlantico", "Oceano Indico", "Oceano Austral"],
+    "hint": "A Fossa das Marianas, o ponto mais profundo da Terra, esta localizada neste oceano.",
+    "explanation": "O Oceano Pacifico contem a Fossa das Marianas, atingindo uma profundidade de cerca de 11.034 metros no Challenger Deep."
   }
 }

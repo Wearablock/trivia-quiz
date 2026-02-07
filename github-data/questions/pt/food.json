@@ -33,5 +33,40 @@
     "wrong": ["Paprica", "Cominho", "Coentro"],
     "explanation": "O acafrao-da-terra contem curcumina, que da ao curry sua cor amarela caracteristica.",
     "hint": "Este tempero tambem e conhecido como curcuma e tem propriedades anti-inflamatorias."
+  },
+  "q_foo_006": {
+    "question": "Qual e a bebida mais consumida no mundo depois da agua?",
+    "correct": "Cha",
+    "wrong": ["Cafe", "Cerveja", "Leite"],
+    "hint": "Esta bebida originou-se na China e existe em variedades verde, preta e branca.",
+    "explanation": "O cha e a bebida mais consumida depois da agua, com origens na China que remontam a 2737 a.C."
+  },
+  "q_foo_007": {
+    "question": "Qual pais e o maior produtor de cafe do mundo?",
+    "correct": "Brasil",
+    "wrong": ["Colombia", "Etiopia", "Vietna"],
+    "hint": "Este pais sul-americano tambem e famoso pelo samba e pelo carnaval.",
+    "explanation": "O Brasil e o maior produtor de cafe ha mais de 150 anos, produzindo cerca de um terco do suprimento mundial."
+  },
+  "q_foo_008": {
+    "question": "A partir de que o wasabi e tradicionalmente feito?",
+    "correct": "Uma raiz de planta",
+    "wrong": ["Pimentas verdes", "Sementes de mostarda", "Raiz-forte e corante"],
+    "hint": "O wasabi autentico e muito caro e deve ser ralado fresco a partir de um rizoma.",
+    "explanation": "O wasabi real e feito do rizoma da planta Wasabia japonica, embora a maioria dos restaurantes use raiz-forte com corante."
+  },
+  "q_foo_009": {
+    "question": "Qual fruta e conhecida como o 'rei das frutas' no Sudeste Asiatico?",
+    "correct": "Durian",
+    "wrong": ["Manga", "Jaca", "Mamao"],
+    "hint": "Esta fruta e famosa por seu cheiro forte e e proibida em muitos hoteis.",
+    "explanation": "O durian e chamado de rei das frutas no Sudeste Asiatico, apesar de seu odor penetrante que divide opinioes."
+  },
+  "q_foo_010": {
+    "question": "Qual e o ingrediente principal do homus?",
+    "correct": "Grao-de-bico",
+    "wrong": ["Lentilhas", "Feijao branco", "Favas"],
+    "hint": "Este dip do Oriente Medio tambem leva tahini, suco de limao e alho.",
+    "explanation": "O homus e um dip levantino feito principalmente de grao-de-bico cozido e amassado misturado com tahini."
   }
 }

@@ -33,5 +33,40 @@
     "wrong": ["Steve Jobs", "Mark Zuckerberg", "Jeff Bezos"],
     "explanation": "Bill Gates và Paul Allen sáng lập Microsoft vào năm 1975.",
     "hint": "Một trong hai người này từng là người giàu nhất thế giới nhiều năm và sáng lập quỹ từ thiện lớn nhất."
+  },
+  "q_tec_006": {
+    "question": "Wi-Fi là viết tắt của gì?",
+    "correct": "Wireless Fidelity",
+    "wrong": ["Wide Frequency", "Wired Filter", "Wireless Function"],
+    "hint": "Công nghệ này cho phép các thiết bị kết nối internet không dây.",
+    "explanation": "Wi-Fi là viết tắt của Wireless Fidelity, sử dụng sóng vô tuyến để kết nối mạng."
+  },
+  "q_tec_007": {
+    "question": "Công ty nào phát triển hệ điều hành Android?",
+    "correct": "Google",
+    "wrong": ["Apple", "Samsung", "Microsoft"],
+    "hint": "Tên công ty này là thuật ngữ toán học chỉ số 10 mũ 100.",
+    "explanation": "Google mua lại Android Inc. vào năm 2005 và ra mắt điện thoại Android đầu tiên vào năm 2008."
+  },
+  "q_tec_008": {
+    "question": "Máy tính lập trình được đầu tiên có tên là gì?",
+    "correct": "Z3",
+    "wrong": ["ENIAC", "UNIVAC", "Colossus"],
+    "hint": "Được Konrad Zuse chế tạo tại Đức vào năm 1941.",
+    "explanation": "Z3 hoàn thành năm 1941 bởi Konrad Zuse được coi là máy tính lập trình được và tự động đầu tiên trên thế giới."
+  },
+  "q_tec_009": {
+    "question": "GPS là viết tắt của gì?",
+    "correct": "Hệ thống Định vị Toàn cầu",
+    "wrong": ["Vệ tinh Đa năng", "Hệ thống Xử lý Toàn cầu", "Tín hiệu Địa vật lý"],
+    "hint": "Hệ thống dẫn đường vệ tinh này ban đầu được phát triển bởi quân đội Hoa Kỳ.",
+    "explanation": "GPS (Hệ thống Định vị Toàn cầu) sử dụng mạng lưới vệ tinh để cung cấp thông tin vị trí và thời gian ở mọi nơi trên Trái Đất."
+  },
+  "q_tec_010": {
+    "question": "Ai được công nhận là cha đẻ của World Wide Web?",
+    "correct": "Tim Berners-Lee",
+    "wrong": ["Vint Cerf", "Steve Wozniak", "Larry Page"],
+    "hint": "Ông phát minh ra nó tại CERN năm 1989 và tạo ra trình duyệt web đầu tiên.",
+    "explanation": "Tim Berners-Lee phát minh ra World Wide Web năm 1989 khi làm việc tại CERN ở Thụy Sĩ."
   }
 }

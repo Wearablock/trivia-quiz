@@ -33,5 +33,40 @@
     "wrong": ["Impressionismo", "Cubismo", "Expressionismo"],
     "explanation": "Dali foi uma figura importante do movimento Surrealista, conhecido por suas imagens marcantes.",
     "hint": "Este movimento explorava o mundo dos sonhos e do inconsciente, com imagens oniricas e fantasticas."
+  },
+  "q_art_006": {
+    "question": "Quem pintou 'A Noite Estrelada'?",
+    "correct": "Vincent van Gogh",
+    "wrong": ["Claude Monet", "Paul Cezanne", "Edgar Degas"],
+    "hint": "Este pintor holandes cortou parte da propria orelha.",
+    "explanation": "Van Gogh pintou A Noite Estrelada em 1889 durante sua estadia no asilo de Saint-Remy-de-Provence."
+  },
+  "q_art_007": {
+    "question": "Qual instrumento musical tem 88 teclas?",
+    "correct": "Piano",
+    "wrong": ["Orgao", "Cravo", "Acordeao"],
+    "hint": "Possui teclas brancas e pretas e foi inventado na Italia por volta de 1700.",
+    "explanation": "Um piano moderno padrao tem 52 teclas brancas e 36 pretas, totalizando 88."
+  },
+  "q_art_008": {
+    "question": "Quem esculpiu 'O Pensador'?",
+    "correct": "Auguste Rodin",
+    "wrong": ["Donatello", "Bernini", "Henry Moore"],
+    "hint": "Este escultor frances e frequentemente chamado de pai da escultura moderna.",
+    "explanation": "Rodin criou O Pensador em 1904, originalmente como parte de uma obra maior chamada As Portas do Inferno."
+  },
+  "q_art_009": {
+    "question": "Qual romance comeca com 'Chamem-me Ismael'?",
+    "correct": "Moby Dick",
+    "wrong": ["A Ilha do Tesouro", "O Velho e o Mar", "Robinson Crusoe"],
+    "hint": "Este romance conta a obsessao de um capitao por uma baleia branca.",
+    "explanation": "Moby Dick de Herman Melville, publicado em 1851, comeca com uma das frases mais famosas da literatura."
+  },
+  "q_art_010": {
+    "question": "Quem compôs 'As Quatro Estacoes'?",
+    "correct": "Antonio Vivaldi",
+    "wrong": ["Johann Sebastian Bach", "Georg Friedrich Handel", "Franz Schubert"],
+    "hint": "Este compositor barroco italiano era um padre ruivo apelidado de 'Il Prete Rosso'.",
+    "explanation": "Vivaldi compôs As Quatro Estacoes por volta de 1723, um conjunto de quatro concertos para violino."
   }
 }

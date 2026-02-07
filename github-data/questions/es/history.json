@@ -33,5 +33,40 @@
     "wrong": ["Imperio Otomano", "Imperio Romano", "Imperio Persa"],
     "explanation": "Gengis Kan fundo y goberno el Imperio Mongol, el imperio terrestre contiguo mas grande de la historia.",
     "hint": "Este imperio se origino en las estepas de Asia Central y sus guerreros eran famosos jinetes."
+  },
+  "q_his_006": {
+    "question": "Quien fue la primera persona en pisar la Luna?",
+    "correct": "Neil Armstrong",
+    "wrong": ["Buzz Aldrin", "Yuri Gagarin", "John Glenn"],
+    "hint": "Dijo: 'Es un pequeno paso para el hombre, un gran salto para la humanidad.'",
+    "explanation": "Neil Armstrong se convirtio en la primera persona en caminar sobre la Luna el 20 de julio de 1969, durante la mision Apollo 11."
+  },
+  "q_his_007": {
+    "question": "Que barco se hundio en su viaje inaugural en 1912?",
+    "correct": "RMS Titanic",
+    "wrong": ["RMS Lusitania", "HMS Britannic", "SS Andrea Doria"],
+    "hint": "Fue llamado 'insumergible' y choco contra un iceberg en el Atlantico Norte.",
+    "explanation": "El Titanic se hundio el 15 de abril de 1912 tras chocar contra un iceberg, causando la muerte de mas de 1.500 personas."
+  },
+  "q_his_008": {
+    "question": "En que siglo comenzo el Renacimiento?",
+    "correct": "Siglo XIV",
+    "wrong": ["Siglo XII", "Siglo XVI", "Siglo XV"],
+    "hint": "Comenzo en Italia, especialmente en Florencia, y significa 'renacer'.",
+    "explanation": "El Renacimiento comenzo en el siglo XIV en Italia y marco una transicion cultural desde la Edad Media."
+  },
+  "q_his_009": {
+    "question": "Quien descubrio la penicilina?",
+    "correct": "Alexander Fleming",
+    "wrong": ["Louis Pasteur", "Robert Koch", "Joseph Lister"],
+    "hint": "La descubrio accidentalmente a partir de moho que crecia en una placa de Petri en 1928.",
+    "explanation": "Alexander Fleming descubrio la penicilina en 1928, revolucionando la medicina con el primer antibiotico verdadero."
+  },
+  "q_his_010": {
+    "question": "Que maravilla del mundo antiguo se encontraba en Alejandria, Egipto?",
+    "correct": "El Faro",
+    "wrong": ["El Coloso", "Los Jardines Colgantes", "El Templo de Artemisa"],
+    "hint": "Esta estructura guiaba a los marineros al concurrido puerto y media mas de 100 metros de alto.",
+    "explanation": "El Faro de Alejandria (Pharos) fue construido alrededor del 280 a.C. y fue una de las estructuras mas altas del mundo antiguo."
   }
 }

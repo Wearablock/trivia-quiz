@@ -34,6 +34,41 @@
     "explanation": "O Danubio atravessa 10 paises na Europa.",
     "hint": "Este rio europeu passa por Viena, Budapeste e Belgrado."
   },
+  "q_geo_006": {
+    "question": "Qual e o maior deserto quente do mundo?",
+    "correct": "Saara",
+    "wrong": ["Deserto da Arabia", "Gobi", "Kalahari"],
+    "hint": "Este deserto africano e quase tao grande quanto os Estados Unidos.",
+    "explanation": "O Saara cobre aproximadamente 9,2 milhoes de quilometros quadrados no norte da Africa."
+  },
+  "q_geo_007": {
+    "question": "Qual e o menor pais do mundo em area?",
+    "correct": "Cidade do Vaticano",
+    "wrong": ["Monaco", "San Marino", "Liechtenstein"],
+    "hint": "Este pais esta inteiramente dentro da cidade de Roma.",
+    "explanation": "A Cidade do Vaticano ocupa apenas 0,44 quilometros quadrados e e a sede da Igreja Catolica Romana."
+  },
+  "q_geo_008": {
+    "question": "Qual estreito separa a Europa da Asia?",
+    "correct": "Bosforo",
+    "wrong": ["Estreito de Gibraltar", "Estreito de Malaca", "Estreito de Ormuz"],
+    "hint": "Esta via aquatica estreita atravessa a cidade de Istambul.",
+    "explanation": "O Bosforo divide Istambul e separa a Turquia europeia da Turquia asiatica."
+  },
+  "q_geo_009": {
+    "question": "Qual e o rio mais longo da America do Sul?",
+    "correct": "Amazonas",
+    "wrong": ["Parana", "Orinoco", "Sao Francisco"],
+    "hint": "Este rio transporta mais agua do que qualquer outro e atravessa a maior floresta tropical do mundo.",
+    "explanation": "O Amazonas se estende por cerca de 6.400 km e tem a maior vazao de todos os rios."
+  },
+  "q_geo_010": {
+    "question": "Qual pais tem o maior numero de fusos horarios?",
+    "correct": "Franca",
+    "wrong": ["Russia", "Estados Unidos", "Reino Unido"],
+    "hint": "Seus territorios ultramarinos se estendem do Caribe ao Pacifico.",
+    "explanation": "A Franca tem 12 fusos horarios gracas aos seus territorios ultramarinos, mais do que os 11 da Russia."
+  },
   "q_geo_100": {
     "question": "Qual e a montanha mais alta do mundo?",
     "correct": "Monte Everest",

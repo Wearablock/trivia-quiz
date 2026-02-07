@@ -33,5 +33,40 @@
     "wrong": ["Wimbledon", "US Open", "Australian Open"],
     "hint": "Rafael Nadal has won this tournament a record number of times at Roland Garros.",
     "explanation": "The French Open at Roland Garros is the only Grand Slam played on clay."
+  },
+  "q_spo_006": {
+    "question": "How many rings are on the Olympic flag?",
+    "correct": "5",
+    "wrong": ["4", "6", "7"],
+    "hint": "Each ring represents a continent that participates in the Olympic Games.",
+    "explanation": "The five Olympic rings represent the five continents: Africa, Americas, Asia, Europe, and Oceania."
+  },
+  "q_spo_007": {
+    "question": "In which sport is a 'birdie' a term for one under par?",
+    "correct": "Golf",
+    "wrong": ["Badminton", "Tennis", "Cricket"],
+    "hint": "This sport is played on courses with 18 holes and uses clubs to hit a small ball.",
+    "explanation": "In golf, a birdie means completing a hole in one stroke fewer than par."
+  },
+  "q_spo_008": {
+    "question": "Which country invented the sport of cricket?",
+    "correct": "England",
+    "wrong": ["India", "Australia", "South Africa"],
+    "hint": "This sport dates back to the 16th century and is the national summer sport of this country.",
+    "explanation": "Cricket originated in England in the late 16th century and spread through the British Empire."
+  },
+  "q_spo_009": {
+    "question": "How long is a marathon in kilometers?",
+    "correct": "42.195 km",
+    "wrong": ["40 km", "45 km", "50 km"],
+    "hint": "The distance was standardized at the 1908 London Olympics.",
+    "explanation": "A marathon is 42.195 km (26.2 miles), a distance set at the 1908 London Olympics to finish in front of the royal box."
+  },
+  "q_spo_010": {
+    "question": "Which sport uses the largest playing field?",
+    "correct": "Polo",
+    "wrong": ["Soccer", "Rugby", "American Football"],
+    "hint": "This sport is played on horseback and the field can be up to 275 meters long.",
+    "explanation": "A polo field is the largest playing field in organized sport, measuring up to 275 by 180 meters."
   }
 }

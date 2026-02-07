@@ -33,5 +33,40 @@
     "wrong": ["Lion", "Gazelle", "Cheval"],
     "explanation": "Les guepards peuvent atteindre des vitesses allant jusqu'a 112 km/h.",
     "hint": "Ce felin africain tachete peut atteindre 112 km/h en quelques secondes."
+  },
+  "q_nat_006": {
+    "question": "Quelle est la plus grande espece de requin ?",
+    "correct": "Requin-baleine",
+    "wrong": ["Grand requin blanc", "Requin-marteau", "Requin-tigre"],
+    "hint": "Malgre sa taille massive, ce requin est un paisible filtreur qui se nourrit de plancton.",
+    "explanation": "Les requins-baleines peuvent atteindre 12 metres de long et sont les plus grands poissons de l'ocean."
+  },
+  "q_nat_007": {
+    "question": "Quel oiseau peut voler en arriere ?",
+    "correct": "Colibri",
+    "wrong": ["Martin-pecheur", "Hirondelle", "Moineau"],
+    "hint": "Ce petit oiseau bat des ailes jusqu'a 80 fois par seconde et se nourrit de nectar.",
+    "explanation": "Les colibris sont les seuls oiseaux capables de vol stationnaire prolonge et de voler en arriere grace a leur structure alaire unique."
+  },
+  "q_nat_008": {
+    "question": "Quelle est la roche naturelle la plus dure ?",
+    "correct": "Granite",
+    "wrong": ["Marbre", "Calcaire", "Gres"],
+    "hint": "Cette roche ignee est couramment utilisee pour les plans de travail de cuisine et les monuments.",
+    "explanation": "Le granite est l'une des roches naturelles les plus dures, formee a partir de magma refroidi en profondeur dans la Terre."
+  },
+  "q_nat_009": {
+    "question": "Combien de temps un cafard peut-il survivre sans sa tete ?",
+    "correct": "Environ une semaine",
+    "wrong": ["Quelques secondes", "Environ une heure", "Environ un mois"],
+    "hint": "Ces insectes respirent par de petits orifices dans leurs segments corporels, pas par leur bouche.",
+    "explanation": "Les cafards peuvent survivre environ une semaine sans tete car ils respirent par des spiracles situes sur leur corps."
+  },
+  "q_nat_010": {
+    "question": "Quel est l'ocean le plus profond ?",
+    "correct": "Ocean Pacifique",
+    "wrong": ["Ocean Atlantique", "Ocean Indien", "Ocean Austral"],
+    "hint": "La fosse des Mariannes, le point le plus profond de la Terre, se trouve dans cet ocean.",
+    "explanation": "L'ocean Pacifique contient la fosse des Mariannes, atteignant une profondeur d'environ 11 034 metres au Challenger Deep."
   }
 }

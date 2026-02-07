@@ -33,5 +33,40 @@
     "wrong": ["Ottoman Empire", "Roman Empire", "Persian Empire"],
     "hint": "This empire originated from the steppes of Central Asia.",
     "explanation": "Genghis Khan founded and ruled the Mongol Empire, the largest contiguous land empire in history."
+  },
+  "q_his_006": {
+    "question": "Who was the first person to set foot on the Moon?",
+    "correct": "Neil Armstrong",
+    "wrong": ["Buzz Aldrin", "Yuri Gagarin", "John Glenn"],
+    "hint": "He said 'That's one small step for man, one giant leap for mankind.'",
+    "explanation": "Neil Armstrong became the first person to walk on the Moon on July 20, 1969, during the Apollo 11 mission."
+  },
+  "q_his_007": {
+    "question": "Which ship sank on its maiden voyage in 1912?",
+    "correct": "RMS Titanic",
+    "wrong": ["RMS Lusitania", "HMS Britannic", "SS Andrea Doria"],
+    "hint": "It was called 'unsinkable' and hit an iceberg in the North Atlantic.",
+    "explanation": "The Titanic sank on April 15, 1912, after striking an iceberg, killing over 1,500 people."
+  },
+  "q_his_008": {
+    "question": "In which century did the Renaissance begin?",
+    "correct": "14th century",
+    "wrong": ["12th century", "16th century", "15th century"],
+    "hint": "It started in Italy, particularly in Florence, and means 'rebirth'.",
+    "explanation": "The Renaissance began in the 14th century in Italy and marked a cultural shift from the Middle Ages."
+  },
+  "q_his_009": {
+    "question": "Who discovered penicillin?",
+    "correct": "Alexander Fleming",
+    "wrong": ["Louis Pasteur", "Robert Koch", "Joseph Lister"],
+    "hint": "He discovered it accidentally from mold growing on a petri dish in 1928.",
+    "explanation": "Alexander Fleming discovered penicillin in 1928, revolutionizing medicine with the first true antibiotic."
+  },
+  "q_his_010": {
+    "question": "Which ancient wonder was located in Alexandria, Egypt?",
+    "correct": "The Lighthouse",
+    "wrong": ["The Colossus", "The Hanging Gardens", "The Temple of Artemis"],
+    "hint": "This structure guided sailors into the busy harbor and stood over 100 meters tall.",
+    "explanation": "The Lighthouse of Alexandria (Pharos) was built around 280 BCE and was one of the tallest structures of the ancient world."
   }
 }

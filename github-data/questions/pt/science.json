@@ -34,6 +34,41 @@
     "explanation": "Embora existam particulas subatomicas, os atomos sao as menores unidades que mantem propriedades quimicas.",
     "hint": "Esta unidade e composta por protons, neutrons e eletrons, e seu nome vem do grego 'indivisivel'."
   },
+  "q_sci_006": {
+    "question": "Qual e o gas mais abundante na atmosfera terrestre?",
+    "correct": "Nitrogenio",
+    "wrong": ["Oxigenio", "Dioxido de carbono", "Argonio"],
+    "hint": "Representa cerca de 78% do ar que respiramos.",
+    "explanation": "O nitrogenio constitui aproximadamente 78% da atmosfera terrestre, enquanto o oxigenio representa cerca de 21%."
+  },
+  "q_sci_007": {
+    "question": "Qual e o simbolo quimico do ouro?",
+    "correct": "Au",
+    "wrong": ["Go", "Gd", "Ag"],
+    "hint": "Vem da palavra latina 'aurum'.",
+    "explanation": "O simbolo quimico do ouro, Au, deriva da palavra latina 'aurum', que significa 'aurora brilhante'."
+  },
+  "q_sci_008": {
+    "question": "Qual planeta tem mais luas em nosso sistema solar?",
+    "correct": "Saturno",
+    "wrong": ["Jupiter", "Urano", "Netuno"],
+    "hint": "Este planeta com aneis tem mais de 140 luas conhecidas, incluindo Tita.",
+    "explanation": "Saturno tem mais de 140 luas confirmadas, superando a contagem de Jupiter, sendo Tita a maior."
+  },
+  "q_sci_009": {
+    "question": "O que significa DNA?",
+    "correct": "Acido desoxirribonucleico",
+    "wrong": ["Acido dioxinitrico", "Acido desoxirribose nucleico", "Acido nucleico dinamico"],
+    "hint": "Tem uma estrutura de dupla helice e carrega informacao genetica.",
+    "explanation": "O DNA (acido desoxirribonucleico) contem as instrucoes geneticas de todos os organismos vivos."
+  },
+  "q_sci_010": {
+    "question": "Qual e o ponto de ebulicao da agua ao nivel do mar?",
+    "correct": "100 °C",
+    "wrong": ["90 °C", "110 °C", "120 °C"],
+    "hint": "Em Fahrenheit, esta temperatura e de 212 graus.",
+    "explanation": "A agua ferve a 100 °C (212 °F) na pressao atmosferica padrao ao nivel do mar."
+  },
   "q_sci_100": {
     "question": "Qual e a temperatura aproximada do nucleo do Sol?",
     "correct": "15 milhoes °C",

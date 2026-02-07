@@ -33,5 +33,40 @@
     "wrong": ["Steve Jobs", "Mark Zuckerberg", "Jeff Bezos"],
     "hint": "They started the company in 1975 in Albuquerque, New Mexico.",
     "explanation": "Bill Gates and Paul Allen founded Microsoft in 1975."
+  },
+  "q_tec_006": {
+    "question": "What does 'Wi-Fi' stand for?",
+    "correct": "Wireless Fidelity",
+    "wrong": ["Wide Frequency", "Wired Filter", "Wireless Function"],
+    "hint": "This technology allows devices to connect to the internet without cables.",
+    "explanation": "Wi-Fi stands for Wireless Fidelity and uses radio waves to provide network connectivity."
+  },
+  "q_tec_007": {
+    "question": "Which company developed the Android operating system?",
+    "correct": "Google",
+    "wrong": ["Apple", "Samsung", "Microsoft"],
+    "hint": "This company's name is also a mathematical term for 10 to the power of 100.",
+    "explanation": "Google acquired Android Inc. in 2005 and released the first Android phone in 2008."
+  },
+  "q_tec_008": {
+    "question": "What was the first programmable computer called?",
+    "correct": "Z3",
+    "wrong": ["ENIAC", "UNIVAC", "Colossus"],
+    "hint": "It was created by Konrad Zuse in Germany in 1941.",
+    "explanation": "The Z3, completed in 1941 by Konrad Zuse, is considered the world's first working programmable, fully automatic computer."
+  },
+  "q_tec_009": {
+    "question": "What does 'GPS' stand for?",
+    "correct": "Global Positioning System",
+    "wrong": ["General Purpose Satellite", "Global Processing System", "Geo-Physical Signal"],
+    "hint": "This satellite-based navigation system was originally developed by the US military.",
+    "explanation": "GPS (Global Positioning System) uses a network of satellites to provide location and time information anywhere on Earth."
+  },
+  "q_tec_010": {
+    "question": "Who is known as the father of the World Wide Web?",
+    "correct": "Tim Berners-Lee",
+    "wrong": ["Vint Cerf", "Steve Wozniak", "Larry Page"],
+    "hint": "He invented it at CERN in 1989 and created the first web browser.",
+    "explanation": "Tim Berners-Lee invented the World Wide Web in 1989 while working at CERN in Switzerland."
   }
 }

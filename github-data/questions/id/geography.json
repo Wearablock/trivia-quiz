@@ -34,6 +34,41 @@
     "explanation": "Sungai Donau mengalir melalui 10 negara di Eropa.",
     "hint": "Sungai ini mengalir di Eropa dan menginspirasi waltz terkenal karya Johann Strauss II."
   },
+  "q_geo_006": {
+    "question": "Apa gurun panas terbesar di dunia?",
+    "correct": "Sahara",
+    "wrong": ["Gobi", "Kalahari", "Arabia"],
+    "explanation": "Gurun Sahara di Afrika Utara mencakup sekitar 9,2 juta kilometer persegi, menjadikannya gurun panas terbesar di dunia.",
+    "hint": "Gurun Afrika Utara ini luasnya hampir sama dengan seluruh wilayah Amerika Serikat."
+  },
+  "q_geo_007": {
+    "question": "Apa negara terkecil di dunia berdasarkan luas wilayah?",
+    "correct": "Vatikan",
+    "wrong": ["Monako", "San Marino", "Liechtenstein"],
+    "explanation": "Vatikan memiliki luas hanya sekitar 0,44 kilometer persegi, seluruhnya terletak di dalam kota Roma.",
+    "hint": "Negara ini adalah markas besar Paus dan seluruhnya berada di dalam kota Roma, Italia."
+  },
+  "q_geo_008": {
+    "question": "Selat apa yang memisahkan Eropa dan Asia di Turki?",
+    "correct": "Selat Bosphorus",
+    "wrong": ["Selat Gibraltar", "Selat Malaka", "Selat Hormuz"],
+    "explanation": "Selat Bosphorus di Istanbul, Turki menghubungkan Laut Hitam dengan Laut Marmara dan memisahkan dua benua.",
+    "hint": "Selat ini melintasi kota Istanbul, satu-satunya kota di dunia yang terletak di dua benua."
+  },
+  "q_geo_009": {
+    "question": "Apa sungai terpanjang di Amerika Selatan?",
+    "correct": "Sungai Amazon",
+    "wrong": ["Sungai Paraná", "Sungai Orinoco", "Sungai São Francisco"],
+    "explanation": "Sungai Amazon sepanjang sekitar 6.400 km dan memiliki cekungan sungai terbesar di dunia.",
+    "hint": "Sungai ini mengalir melalui hutan hujan tropis terbesar di dunia dan bermuara di Samudra Atlantik."
+  },
+  "q_geo_010": {
+    "question": "Negara mana yang memiliki zona waktu paling banyak?",
+    "correct": "Prancis",
+    "wrong": ["Rusia", "Amerika Serikat", "Tiongkok"],
+    "explanation": "Prancis memiliki 12 zona waktu berkat wilayah-wilayah seberang lautnya yang tersebar di seluruh dunia.",
+    "hint": "Berkat wilayah seberang laut di Pasifik, Samudra Hindia, dan Amerika, negara Eropa ini melampaui Rusia."
+  },
   "q_geo_100": {
     "question": "Apa gunung tertinggi di dunia?",
     "correct": "Gunung Everest",

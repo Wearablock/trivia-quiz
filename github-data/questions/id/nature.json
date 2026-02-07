@@ -33,5 +33,40 @@
     "wrong": ["Singa", "Kijang", "Kuda"],
     "explanation": "Cheetah dapat mencapai kecepatan hingga 112 km/jam.",
     "hint": "Kucing besar Afrika ini memiliki bintik-bintik hitam dan garis air mata di wajahnya."
+  },
+  "q_nat_006": {
+    "question": "Apa spesies hiu terbesar?",
+    "correct": "Hiu Paus",
+    "wrong": ["Hiu Putih Besar", "Hiu Martil", "Hiu Harimau"],
+    "hint": "Meskipun berukuran sangat besar, hiu ini adalah pemakan filter yang jinak dan hanya memakan plankton.",
+    "explanation": "Hiu paus dapat mencapai panjang hingga 12 meter dan merupakan ikan terbesar di samudra."
+  },
+  "q_nat_007": {
+    "question": "Burung apa yang bisa terbang mundur?",
+    "correct": "Burung Kolibri",
+    "wrong": ["Burung Raja Udang", "Burung Layang-layang", "Burung Gereja"],
+    "hint": "Burung kecil ini dapat mengepakkan sayapnya hingga 80 kali per detik dan menghisap nektar bunga.",
+    "explanation": "Burung kolibri adalah satu-satunya burung yang dapat terbang diam di tempat dan terbang mundur berkat struktur sayap yang unik."
+  },
+  "q_nat_008": {
+    "question": "Apa batu alam terkeras?",
+    "correct": "Granit",
+    "wrong": ["Marmer", "Batu Kapur", "Batu Pasir"],
+    "hint": "Batu beku ini sering digunakan untuk permukaan dapur dan monumen.",
+    "explanation": "Granit adalah salah satu batu alam terkeras, terbentuk dari magma yang mendingin jauh di dalam bumi."
+  },
+  "q_nat_009": {
+    "question": "Berapa lama kecoa dapat hidup tanpa kepala?",
+    "correct": "Sekitar satu minggu",
+    "wrong": ["Beberapa detik", "Sekitar satu jam", "Sekitar satu bulan"],
+    "hint": "Serangga ini bernapas melalui lubang-lubang kecil di tubuhnya, bukan melalui mulut.",
+    "explanation": "Kecoa dapat hidup sekitar satu minggu tanpa kepala karena bernapas melalui spirakel di tubuhnya."
+  },
+  "q_nat_010": {
+    "question": "Samudra mana yang paling dalam?",
+    "correct": "Samudra Pasifik",
+    "wrong": ["Samudra Atlantik", "Samudra Hindia", "Samudra Selatan"],
+    "hint": "Palung Mariana, titik terdalam di Bumi, terletak di samudra ini.",
+    "explanation": "Samudra Pasifik memiliki Palung Mariana yang dalamnya sekitar 11.034 meter di Challenger Deep."
   }
 }

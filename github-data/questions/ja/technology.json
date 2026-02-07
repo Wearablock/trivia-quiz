@@ -33,5 +33,40 @@
     "wrong": ["スティーブ・ジョブズ", "マーク・ザッカーバーグ", "ジェフ・ベゾス"],
     "hint": "1975年にニューメキシコ州アルバカーキで会社を始めました。",
     "explanation": "ビル・ゲイツとポール・アレンは1975年にMicrosoftを設立しました。"
+  },
+  "q_tec_006": {
+    "question": "「Wi-Fi」は何の略ですか？",
+    "correct": "Wireless Fidelity",
+    "wrong": ["Wide Frequency", "Wired Filter", "Wireless Function"],
+    "hint": "ケーブルなしでインターネットに接続できる技術です。",
+    "explanation": "Wi-FiはWireless Fidelityの略で、電波を利用してネットワーク接続を提供します。"
+  },
+  "q_tec_007": {
+    "question": "Androidオペレーティングシステムを開発した企業はどこですか？",
+    "correct": "Google",
+    "wrong": ["Apple", "Samsung", "Microsoft"],
+    "hint": "この企業名は10の100乗を意味する数学用語でもあります。",
+    "explanation": "Googleは2005年にAndroidを買収し、2008年に最初のAndroidスマートフォンを発売しました。"
+  },
+  "q_tec_008": {
+    "question": "最初のプログラム可能なコンピューターの名前は何ですか？",
+    "correct": "Z3",
+    "wrong": ["ENIAC", "UNIVAC", "コロッサス"],
+    "hint": "1941年にドイツでコンラート・ツーゼが作りました。",
+    "explanation": "1941年にコンラート・ツーゼが完成させたZ3は、世界初のプログラム可能な完全自動コンピューターとされています。"
+  },
+  "q_tec_009": {
+    "question": "「GPS」は何の略ですか？",
+    "correct": "Global Positioning System",
+    "wrong": ["General Purpose Satellite", "Global Processing System", "Geo-Physical Signal"],
+    "hint": "もともと米軍用に開発された衛星ベースの航法システムです。",
+    "explanation": "GPS（全地球測位システム）は衛星ネットワークを使用して、地球上のどこでも位置と時間の情報を提供します。"
+  },
+  "q_tec_010": {
+    "question": "ワールドワイドウェブの父と呼ばれる人は誰ですか？",
+    "correct": "ティム・バーナーズ＝リー",
+    "wrong": ["ヴィント・サーフ", "スティーブ・ウォズニアック", "ラリー・ペイジ"],
+    "hint": "1989年にCERNでこれを発明し、最初のウェブブラウザを作りました。",
+    "explanation": "ティム・バーナーズ＝リーは1989年にスイスのCERNで働きながらワールドワイドウェブを発明しました。"
   }
 }

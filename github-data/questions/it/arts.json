@@ -33,5 +33,40 @@
     "wrong": ["Impressionismo", "Cubismo", "Espressionismo"],
     "explanation": "Dali fu una figura di spicco del movimento surrealista, noto per le sue immagini sorprendenti.",
     "hint": "Questo movimento esplorava il mondo dei sogni e dell'inconscio."
+  },
+  "q_art_006": {
+    "question": "Chi ha dipinto 'La Notte Stellata'?",
+    "correct": "Vincent van Gogh",
+    "wrong": ["Claude Monet", "Paul Cezanne", "Edgar Degas"],
+    "hint": "Questo pittore olandese si taglio parte dell'orecchio.",
+    "explanation": "Van Gogh dipinse La Notte Stellata nel 1889 durante il suo soggiorno nel manicomio di Saint-Remy-de-Provence."
+  },
+  "q_art_007": {
+    "question": "Quale strumento musicale ha 88 tasti?",
+    "correct": "Pianoforte",
+    "wrong": ["Organo", "Clavicembalo", "Fisarmonica"],
+    "hint": "Ha tasti bianchi e neri e fu inventato in Italia intorno al 1700.",
+    "explanation": "Un pianoforte moderno standard ha 52 tasti bianchi e 36 neri, per un totale di 88."
+  },
+  "q_art_008": {
+    "question": "Chi ha scolpito 'Il Pensatore'?",
+    "correct": "Auguste Rodin",
+    "wrong": ["Donatello", "Bernini", "Henry Moore"],
+    "hint": "Questo scultore francese e spesso chiamato il padre della scultura moderna.",
+    "explanation": "Rodin creo Il Pensatore nel 1904, originariamente come parte di un'opera piu grande chiamata La Porta dell'Inferno."
+  },
+  "q_art_009": {
+    "question": "Quale romanzo inizia con 'Chiamatemi Ismaele'?",
+    "correct": "Moby Dick",
+    "wrong": ["L'Isola del Tesoro", "Il Vecchio e il Mare", "Robinson Crusoe"],
+    "hint": "Questo romanzo racconta l'ossessione di un capitano per una balena bianca.",
+    "explanation": "Moby Dick di Herman Melville, pubblicato nel 1851, inizia con una delle frasi piu famose della letteratura."
+  },
+  "q_art_010": {
+    "question": "Chi ha composto 'Le Quattro Stagioni'?",
+    "correct": "Antonio Vivaldi",
+    "wrong": ["Johann Sebastian Bach", "Georg Friedrich Handel", "Franz Schubert"],
+    "hint": "Questo compositore barocco italiano era un prete dai capelli rossi soprannominato 'Il Prete Rosso'.",
+    "explanation": "Vivaldi compose Le Quattro Stagioni intorno al 1723, un insieme di quattro concerti per violino."
   }
 }

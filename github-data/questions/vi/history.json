@@ -33,5 +33,40 @@
     "wrong": ["Đế chế Ottoman", "Đế chế La Mã", "Đế chế Ba Tư"],
     "explanation": "Thành Cát Tư Hãn sáng lập và cai trị Đế chế Mông Cổ, đế chế lục địa liền kề lớn nhất trong lịch sử.",
     "hint": "Đế chế này có nguồn gốc từ các bộ lạc du mục thảo nguyên Trung Á, nổi tiếng với kỵ binh thiện chiến."
+  },
+  "q_his_006": {
+    "question": "Ai là người đầu tiên đặt chân lên Mặt Trăng?",
+    "correct": "Neil Armstrong",
+    "wrong": ["Buzz Aldrin", "Yuri Gagarin", "John Glenn"],
+    "hint": "Ông nói: 'Đây là bước chân nhỏ của một người, nhưng là bước nhảy vọt vĩ đại của nhân loại.'",
+    "explanation": "Neil Armstrong trở thành người đầu tiên đi trên Mặt Trăng vào ngày 20 tháng 7 năm 1969 trong sứ mệnh Apollo 11."
+  },
+  "q_his_007": {
+    "question": "Con tàu nào bị chìm trong chuyến đi đầu tiên vào năm 1912?",
+    "correct": "Titanic",
+    "wrong": ["Lusitania", "Britannic", "Andrea Doria"],
+    "hint": "Được gọi là 'không thể chìm', con tàu này đâm vào tảng băng trôi ở Bắc Đại Tây Dương.",
+    "explanation": "Tàu Titanic chìm vào ngày 15 tháng 4 năm 1912 sau khi đâm vào tảng băng trôi, khiến hơn 1.500 người thiệt mạng."
+  },
+  "q_his_008": {
+    "question": "Thời kỳ Phục Hưng bắt đầu vào thế kỷ nào?",
+    "correct": "Thế kỷ 14",
+    "wrong": ["Thế kỷ 12", "Thế kỷ 16", "Thế kỷ 15"],
+    "hint": "Bắt đầu ở Ý, đặc biệt là ở Florence, và từ này có nghĩa là 'sự tái sinh'.",
+    "explanation": "Thời kỳ Phục Hưng bắt đầu vào thế kỷ 14 ở Ý, đánh dấu sự chuyển đổi văn hóa từ thời Trung Cổ."
+  },
+  "q_his_009": {
+    "question": "Ai đã phát hiện ra penicillin?",
+    "correct": "Alexander Fleming",
+    "wrong": ["Louis Pasteur", "Robert Koch", "Joseph Lister"],
+    "hint": "Ông phát hiện ra nó tình cờ từ nấm mốc phát triển trên đĩa Petri vào năm 1928.",
+    "explanation": "Alexander Fleming phát hiện ra penicillin năm 1928, cách mạng hóa y học với kháng sinh thực sự đầu tiên."
+  },
+  "q_his_010": {
+    "question": "Kỳ quan nào của thế giới cổ đại nằm ở Alexandria, Ai Cập?",
+    "correct": "Ngọn hải đăng",
+    "wrong": ["Tượng thần khổng lồ", "Vườn treo", "Đền thờ Artemis"],
+    "hint": "Công trình này dẫn đường cho thủy thủ vào cảng sầm uất, cao hơn 100 mét.",
+    "explanation": "Ngọn hải đăng Alexandria (Pharos) được xây dựng khoảng năm 280 trước Công nguyên, là một trong những công trình cao nhất thế giới cổ đại."
   }
 }

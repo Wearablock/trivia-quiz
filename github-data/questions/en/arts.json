@@ -33,5 +33,40 @@
     "wrong": ["Impressionism", "Cubism", "Expressionism"],
     "hint": "This movement explored dreams and the unconscious mind in art.",
     "explanation": "Dalí was a leading figure in the Surrealist movement known for his striking imagery."
+  },
+  "q_art_006": {
+    "question": "Who painted 'The Starry Night'?",
+    "correct": "Vincent van Gogh",
+    "wrong": ["Claude Monet", "Paul Cézanne", "Edgar Degas"],
+    "hint": "This Dutch painter cut off part of his own ear and painted many self-portraits.",
+    "explanation": "Van Gogh painted The Starry Night in 1889 while staying at an asylum in Saint-Rémy-de-Provence."
+  },
+  "q_art_007": {
+    "question": "Which musical instrument has 88 keys?",
+    "correct": "Piano",
+    "wrong": ["Organ", "Harpsichord", "Accordion"],
+    "hint": "It has both black and white keys and was invented in Italy around 1700.",
+    "explanation": "A standard modern piano has 88 keys: 52 white and 36 black."
+  },
+  "q_art_008": {
+    "question": "Who sculpted 'The Thinker'?",
+    "correct": "Auguste Rodin",
+    "wrong": ["Donatello", "Bernini", "Henry Moore"],
+    "hint": "This French sculptor is often called the father of modern sculpture.",
+    "explanation": "Rodin created The Thinker in 1904, originally as part of a larger work called The Gates of Hell."
+  },
+  "q_art_009": {
+    "question": "Which novel begins with 'Call me Ishmael'?",
+    "correct": "Moby-Dick",
+    "wrong": ["Treasure Island", "The Old Man and the Sea", "Robinson Crusoe"],
+    "hint": "This novel is about a sea captain's obsession with a white whale.",
+    "explanation": "Herman Melville's Moby-Dick, published in 1851, opens with one of literature's most famous lines."
+  },
+  "q_art_010": {
+    "question": "Who composed 'The Four Seasons'?",
+    "correct": "Antonio Vivaldi",
+    "wrong": ["Johann Sebastian Bach", "George Frideric Handel", "Franz Schubert"],
+    "hint": "This Italian Baroque composer was a red-haired priest nicknamed 'The Red Priest'.",
+    "explanation": "Vivaldi composed The Four Seasons around 1723, a set of four violin concertos."
   }
 }

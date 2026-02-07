@@ -33,5 +33,40 @@
     "wrong": ["Leon", "Gacela", "Caballo"],
     "explanation": "Los guepardos pueden alcanzar velocidades de hasta 112 km/h.",
     "hint": "Este felino africano tiene manchas negras y un cuerpo aerodinamico para la velocidad."
+  },
+  "q_nat_006": {
+    "question": "Cual es la especie de tiburon mas grande?",
+    "correct": "Tiburon ballena",
+    "wrong": ["Gran tiburon blanco", "Tiburon martillo", "Tiburon tigre"],
+    "hint": "A pesar de su tamano masivo, este tiburon es un pacifico filtrador que se alimenta de plancton.",
+    "explanation": "Los tiburones ballena pueden crecer hasta 12 metros de largo y son los peces mas grandes del oceano."
+  },
+  "q_nat_007": {
+    "question": "Que ave puede volar hacia atras?",
+    "correct": "Colibri",
+    "wrong": ["Martin pescador", "Golondrina", "Gorrion"],
+    "hint": "Esta diminuta ave bate sus alas hasta 80 veces por segundo y se alimenta de nectar.",
+    "explanation": "Los colibries son las unicas aves capaces de vuelo estacionario sostenido y de volar hacia atras gracias a su estructura alar unica."
+  },
+  "q_nat_008": {
+    "question": "Cual es la roca natural mas dura?",
+    "correct": "Granito",
+    "wrong": ["Marmol", "Caliza", "Arenisca"],
+    "hint": "Esta roca ignea se usa comunmente para encimeras de cocina y monumentos.",
+    "explanation": "El granito es una de las rocas naturales mas duras, formada a partir de magma enfriado en las profundidades de la Tierra."
+  },
+  "q_nat_009": {
+    "question": "Cuanto tiempo puede sobrevivir una cucaracha sin cabeza?",
+    "correct": "Aproximadamente una semana",
+    "wrong": ["Unos segundos", "Aproximadamente una hora", "Aproximadamente un mes"],
+    "hint": "Estos insectos respiran por pequenos orificios en sus segmentos corporales, no por la boca.",
+    "explanation": "Las cucarachas pueden sobrevivir aproximadamente una semana sin cabeza porque respiran a traves de espiraculos en su cuerpo."
+  },
+  "q_nat_010": {
+    "question": "Cual es el oceano mas profundo?",
+    "correct": "Oceano Pacifico",
+    "wrong": ["Oceano Atlantico", "Oceano Indico", "Oceano Austral"],
+    "hint": "La Fosa de las Marianas, el punto mas profundo de la Tierra, se encuentra en este oceano.",
+    "explanation": "El Oceano Pacifico contiene la Fosa de las Marianas, que alcanza una profundidad de unos 11.034 metros en el Challenger Deep."
   }
 }

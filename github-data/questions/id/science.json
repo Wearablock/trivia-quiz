@@ -34,6 +34,41 @@
     "explanation": "Meskipun partikel subatomik ada, atom adalah unit terkecil yang mempertahankan sifat kimia.",
     "hint": "Namanya berasal dari bahasa Yunani yang berarti 'tidak dapat dibagi' dan terdiri dari proton, neutron, dan elektron."
   },
+  "q_sci_006": {
+    "question": "Gas apa yang paling banyak terdapat di atmosfer Bumi?",
+    "correct": "Nitrogen",
+    "wrong": ["Oksigen", "Karbon Dioksida", "Argon"],
+    "hint": "Menyusun sekitar 78% udara yang kita hirup.",
+    "explanation": "Nitrogen menyusun sekitar 78% atmosfer Bumi, sementara oksigen menyusun sekitar 21%."
+  },
+  "q_sci_007": {
+    "question": "Apa simbol kimia untuk emas?",
+    "correct": "Au",
+    "wrong": ["Go", "Gd", "Ag"],
+    "hint": "Berasal dari kata Latin 'aurum'.",
+    "explanation": "Simbol kimia emas Au berasal dari kata Latin 'aurum' yang berarti 'cahaya fajar'."
+  },
+  "q_sci_008": {
+    "question": "Planet mana yang memiliki bulan paling banyak di Tata Surya?",
+    "correct": "Saturnus",
+    "wrong": ["Jupiter", "Uranus", "Neptunus"],
+    "hint": "Planet bercincin ini memiliki lebih dari 140 bulan yang diketahui, termasuk Titan.",
+    "explanation": "Saturnus memiliki lebih dari 140 bulan yang telah dikonfirmasi, lebih banyak dari Jupiter, dengan Titan sebagai yang terbesar."
+  },
+  "q_sci_009": {
+    "question": "Apa kepanjangan dari DNA?",
+    "correct": "Asam Deoksiribonukleat",
+    "wrong": ["Asam Dioksi Nitrat", "Atom Nukleat Deoksiribosa", "Asam Nukleat Dinamis"],
+    "hint": "Memiliki struktur heliks ganda dan menyimpan informasi genetik.",
+    "explanation": "DNA (Asam Deoksiribonukleat) menyimpan instruksi genetik untuk semua organisme hidup."
+  },
+  "q_sci_010": {
+    "question": "Berapa titik didih air pada permukaan laut?",
+    "correct": "100 °C",
+    "wrong": ["90 °C", "110 °C", "120 °C"],
+    "hint": "Setara dengan 212 derajat Fahrenheit.",
+    "explanation": "Air mendidih pada suhu 100 °C (212 °F) pada tekanan atmosfer standar permukaan laut."
+  },
   "q_sci_100": {
     "question": "Berapa perkiraan suhu inti Matahari?",
     "correct": "15 juta °C",

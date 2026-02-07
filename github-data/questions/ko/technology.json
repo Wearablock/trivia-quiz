@@ -33,5 +33,40 @@
     "wrong": ["스티브 잡스", "마크 저커버그", "제프 베조스"],
     "hint": "1975년 뉴멕시코주 앨버커키에서 회사를 시작했습니다.",
     "explanation": "빌 게이츠와 폴 앨런은 1975년에 마이크로소프트를 설립했습니다."
+  },
+  "q_tec_006": {
+    "question": "'Wi-Fi'는 무엇의 약자인가요?",
+    "correct": "Wireless Fidelity",
+    "wrong": ["Wide Frequency", "Wired Filter", "Wireless Function"],
+    "hint": "케이블 없이 인터넷에 연결할 수 있게 해주는 기술입니다.",
+    "explanation": "Wi-Fi는 Wireless Fidelity의 약자로 무선 전파를 이용해 네트워크 연결을 제공합니다."
+  },
+  "q_tec_007": {
+    "question": "안드로이드 운영체제를 개발한 회사는 어디인가요?",
+    "correct": "구글",
+    "wrong": ["애플", "삼성", "마이크로소프트"],
+    "hint": "이 회사의 이름은 10의 100제곱을 뜻하는 수학 용어이기도 합니다.",
+    "explanation": "구글은 2005년 안드로이드를 인수했으며 2008년에 첫 안드로이드 폰을 출시했습니다."
+  },
+  "q_tec_008": {
+    "question": "최초의 프로그래밍 가능한 컴퓨터의 이름은 무엇인가요?",
+    "correct": "Z3",
+    "wrong": ["ENIAC", "UNIVAC", "콜로서스"],
+    "hint": "1941년 독일에서 콘라트 추제가 만들었습니다.",
+    "explanation": "1941년 콘라트 추제가 완성한 Z3는 세계 최초의 프로그래밍 가능한 완전 자동 컴퓨터로 여겨집니다."
+  },
+  "q_tec_009": {
+    "question": "'GPS'는 무엇의 약자인가요?",
+    "correct": "Global Positioning System",
+    "wrong": ["General Purpose Satellite", "Global Processing System", "Geo-Physical Signal"],
+    "hint": "원래 미 군사용으로 개발된 위성 기반 항법 시스템입니다.",
+    "explanation": "GPS(위성항법시스템)는 위성 네트워크를 이용하여 지구 어디서나 위치와 시간 정보를 제공합니다."
+  },
+  "q_tec_010": {
+    "question": "월드 와이드 웹의 아버지로 불리는 사람은 누구인가요?",
+    "correct": "팀 버너스리",
+    "wrong": ["빈트 서프", "스티브 워즈니악", "래리 페이지"],
+    "hint": "1989년 CERN에서 이것을 발명하고 최초의 웹 브라우저를 만들었습니다.",
+    "explanation": "팀 버너스리는 1989년 스위스 CERN에서 근무하면서 월드 와이드 웹을 발명했습니다."
   }
 }

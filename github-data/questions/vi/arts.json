@@ -33,5 +33,40 @@
     "wrong": ["Ấn tượng", "Lập thể", "Biểu hiện"],
     "explanation": "Dalí là nhân vật hàng đầu trong phong trào Siêu thực, nổi tiếng với những hình ảnh ấn tượng.",
     "hint": "Trường phái này khám phá thế giới giấc mơ và tiềm thức, với bức tranh 'Những chiếc đồng hồ mềm' là tác phẩm tiêu biểu."
+  },
+  "q_art_006": {
+    "question": "Ai đã vẽ bức tranh 'Đêm đầy sao'?",
+    "correct": "Vincent van Gogh",
+    "wrong": ["Claude Monet", "Paul Cézanne", "Paul Gauguin"],
+    "explanation": "Van Gogh vẽ bức 'Đêm đầy sao' năm 1889 khi đang ở viện tâm thần Saint-Rémy-de-Provence.",
+    "hint": "Họa sĩ người Hà Lan hậu Ấn tượng này nổi tiếng với việc tự cắt tai mình."
+  },
+  "q_art_007": {
+    "question": "Đàn piano tiêu chuẩn có bao nhiêu phím?",
+    "correct": "88",
+    "wrong": ["76", "92", "64"],
+    "explanation": "Đàn piano hiện đại tiêu chuẩn có 88 phím: 52 phím trắng và 36 phím đen.",
+    "hint": "Số phím bao gồm 52 phím trắng và 36 phím đen, trải dài hơn 7 quãng tám."
+  },
+  "q_art_008": {
+    "question": "Ai đã sáng tạo bức tượng 'Người suy tư'?",
+    "correct": "Auguste Rodin",
+    "wrong": ["Michelangelo", "Donatello", "Bernini"],
+    "explanation": "Rodin sáng tạo bức 'Người suy tư' vào khoảng năm 1880, ban đầu là một phần của tác phẩm 'Cánh cổng Địa ngục'.",
+    "hint": "Nhà điêu khắc người Pháp này được coi là cha đẻ của điêu khắc hiện đại."
+  },
+  "q_art_009": {
+    "question": "Dòng đầu tiên nổi tiếng 'Gọi tôi là Ishmael' mở đầu cuốn tiểu thuyết nào?",
+    "correct": "Moby Dick",
+    "wrong": ["Robinson Crusoe", "Đảo Giấu Vàng", "Ông già và Biển cả"],
+    "explanation": "'Moby Dick' được Herman Melville viết năm 1851, kể về cuộc truy đuổi một con cá voi trắng khổng lồ.",
+    "hint": "Cuốn tiểu thuyết này kể về hành trình của thuyền trưởng Ahab truy đuổi một con cá voi trắng khổng lồ."
+  },
+  "q_art_010": {
+    "question": "Ai đã sáng tác bộ bốn concerto violin 'Bốn mùa'?",
+    "correct": "Antonio Vivaldi",
+    "wrong": ["Johann Sebastian Bach", "Wolfgang Amadeus Mozart", "George Frideric Handel"],
+    "explanation": "'Bốn mùa' được Vivaldi sáng tác năm 1723, là một trong những tác phẩm nhạc cổ điển được công nhận rộng rãi nhất.",
+    "hint": "Nhà soạn nhạc và nghệ sĩ vĩ cầm người Ý thời Baroque này được gọi là 'Linh mục Đỏ' vì mái tóc đỏ."
   }
 }

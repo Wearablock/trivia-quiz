@@ -33,5 +33,40 @@
     "wrong": ["Wimbledon", "US Open", "Australian Open"],
     "explanation": "O Roland Garros (Aberto da Franca) e o unico Grand Slam jogado em saibro.",
     "hint": "Este torneio acontece em Paris e a superficie de jogo e de terra batida avermelhada."
+  },
+  "q_spo_006": {
+    "question": "Quantos aneis ha na bandeira olimpica?",
+    "correct": "5",
+    "wrong": ["4", "6", "7"],
+    "hint": "Cada anel representa um continente que participa dos Jogos Olimpicos.",
+    "explanation": "Os cinco aneis olimpicos representam os cinco continentes: Africa, Americas, Asia, Europa e Oceania."
+  },
+  "q_spo_007": {
+    "question": "Em qual esporte um 'birdie' significa uma tacada abaixo do par?",
+    "correct": "Golfe",
+    "wrong": ["Badminton", "Tenis", "Criquete"],
+    "hint": "Este esporte e jogado em campos com 18 buracos usando tacos e uma pequena bola.",
+    "explanation": "No golfe, um birdie significa completar um buraco com uma tacada a menos que o par."
+  },
+  "q_spo_008": {
+    "question": "Qual pais inventou o esporte do criquete?",
+    "correct": "Inglaterra",
+    "wrong": ["India", "Australia", "Africa do Sul"],
+    "hint": "Este esporte remonta ao seculo XVI e e o esporte nacional de verao deste pais.",
+    "explanation": "O criquete se originou na Inglaterra no final do seculo XVI e se espalhou pelo Imperio Britanico."
+  },
+  "q_spo_009": {
+    "question": "Qual e o comprimento de uma maratona em quilometros?",
+    "correct": "42,195 km",
+    "wrong": ["40 km", "45 km", "50 km"],
+    "hint": "A distancia foi padronizada nos Jogos Olimpicos de Londres em 1908.",
+    "explanation": "Uma maratona tem 42,195 km (26,2 milhas), distancia estabelecida nos Jogos Olimpicos de Londres de 1908."
+  },
+  "q_spo_010": {
+    "question": "Qual esporte usa o maior campo de jogo?",
+    "correct": "Polo",
+    "wrong": ["Futebol", "Rugbi", "Futebol americano"],
+    "hint": "Este esporte e praticado a cavalo e o campo pode ter ate 275 metros de comprimento.",
+    "explanation": "Um campo de polo e o maior campo de jogo no esporte organizado, medindo ate 275 por 180 metros."
   }
 }

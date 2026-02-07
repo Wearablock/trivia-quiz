@@ -33,5 +33,40 @@
     "wrong": ["史蒂夫·乔布斯", "马克·扎克伯格", "杰夫·贝佐斯"],
     "hint": "他们于1975年在新墨西哥州阿尔伯克基创办了公司。",
     "explanation": "比尔·盖茨和保罗·艾伦于1975年创立了微软。"
+  },
+  "q_tec_006": {
+    "question": "「Wi-Fi」代表什么？",
+    "correct": "Wireless Fidelity",
+    "wrong": ["Wide Frequency", "Wired Filter", "Wireless Function"],
+    "hint": "这项技术允许设备无需电缆即可连接互联网。",
+    "explanation": "Wi-Fi代表Wireless Fidelity，利用无线电波提供网络连接。"
+  },
+  "q_tec_007": {
+    "question": "哪家公司开发了安卓操作系统？",
+    "correct": "谷歌",
+    "wrong": ["苹果", "三星", "微软"],
+    "hint": "这家公司的名字也是一个数学术语，表示10的100次方。",
+    "explanation": "谷歌于2005年收购了Android公司，并于2008年发布了第一款安卓手机。"
+  },
+  "q_tec_008": {
+    "question": "第一台可编程计算机叫什么名字？",
+    "correct": "Z3",
+    "wrong": ["ENIAC", "UNIVAC", "巨人"],
+    "hint": "它由康拉德·楚泽于1941年在德国制造。",
+    "explanation": "康拉德·楚泽于1941年完成的Z3被认为是世界上第一台可编程的全自动计算机。"
+  },
+  "q_tec_009": {
+    "question": "「GPS」代表什么？",
+    "correct": "全球定位系统",
+    "wrong": ["通用卫星", "全球处理系统", "地球物理信号"],
+    "hint": "这个基于卫星的导航系统最初由美国军方开发。",
+    "explanation": "GPS（全球定位系统）使用卫星网络在地球任何地方提供位置和时间信息。"
+  },
+  "q_tec_010": {
+    "question": "谁被称为万维网之父？",
+    "correct": "蒂姆·伯纳斯-李",
+    "wrong": ["温顿·瑟夫", "史蒂夫·沃兹尼亚克", "拉里·佩奇"],
+    "hint": "他于1989年在CERN发明了万维网并创建了第一个网页浏览器。",
+    "explanation": "蒂姆·伯纳斯-李于1989年在瑞士CERN工作期间发明了万维网。"
   }
 }

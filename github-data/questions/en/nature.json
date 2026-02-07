@@ -33,5 +33,40 @@
     "wrong": ["Lion", "Gazelle", "Horse"],
     "hint": "This spotted big cat can run at 70 mph in short bursts.",
     "explanation": "Cheetahs can reach speeds up to 70 mph (112 km/h)."
+  },
+  "q_nat_006": {
+    "question": "What is the largest species of shark?",
+    "correct": "Whale Shark",
+    "wrong": ["Great White Shark", "Hammerhead Shark", "Tiger Shark"],
+    "hint": "Despite its massive size, this shark is a gentle filter feeder that eats plankton.",
+    "explanation": "Whale sharks can grow up to 12 meters long and are the largest fish in the ocean."
+  },
+  "q_nat_007": {
+    "question": "Which bird can fly backwards?",
+    "correct": "Hummingbird",
+    "wrong": ["Kingfisher", "Swallow", "Sparrow"],
+    "hint": "This tiny bird beats its wings up to 80 times per second and feeds on nectar.",
+    "explanation": "Hummingbirds are the only birds that can sustain hovering and fly backwards thanks to their unique wing structure."
+  },
+  "q_nat_008": {
+    "question": "What is the hardest natural rock?",
+    "correct": "Granite",
+    "wrong": ["Marble", "Limestone", "Sandstone"],
+    "hint": "This igneous rock is commonly used for kitchen countertops and monuments.",
+    "explanation": "Granite is one of the hardest natural rocks, formed from cooled magma deep within the Earth."
+  },
+  "q_nat_009": {
+    "question": "How long can a cockroach survive without its head?",
+    "correct": "About a week",
+    "wrong": ["A few seconds", "About an hour", "About a month"],
+    "hint": "These insects breathe through small holes in their body segments, not through their mouth.",
+    "explanation": "Cockroaches can survive about a week without their head because they breathe through spiracles in their body."
+  },
+  "q_nat_010": {
+    "question": "Which ocean is the deepest?",
+    "correct": "Pacific Ocean",
+    "wrong": ["Atlantic Ocean", "Indian Ocean", "Southern Ocean"],
+    "hint": "The Mariana Trench, the deepest point on Earth, is located in this ocean.",
+    "explanation": "The Pacific Ocean contains the Mariana Trench, reaching a depth of about 11,034 meters at the Challenger Deep."
   }
 }

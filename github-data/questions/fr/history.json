@@ -33,5 +33,40 @@
     "wrong": ["Empire ottoman", "Empire romain", "Empire perse"],
     "explanation": "Gengis Khan a fonde et dirige l'Empire mongol, le plus grand empire terrestre contigu de l'histoire.",
     "hint": "Cet empire originaire des steppes d'Asie centrale s'etendait de la Chine jusqu'a l'Europe de l'Est."
+  },
+  "q_his_006": {
+    "question": "Qui fut la premiere personne a marcher sur la Lune ?",
+    "correct": "Neil Armstrong",
+    "wrong": ["Buzz Aldrin", "Youri Gagarine", "John Glenn"],
+    "hint": "Il a dit : 'C'est un petit pas pour l'homme, un bond de geant pour l'humanite.'",
+    "explanation": "Neil Armstrong est devenu la premiere personne a marcher sur la Lune le 20 juillet 1969, lors de la mission Apollo 11."
+  },
+  "q_his_007": {
+    "question": "Quel navire a coule lors de son voyage inaugural en 1912 ?",
+    "correct": "RMS Titanic",
+    "wrong": ["RMS Lusitania", "HMS Britannic", "SS Andrea Doria"],
+    "hint": "Il etait qualifie d'insubmersible et a heurte un iceberg dans l'Atlantique Nord.",
+    "explanation": "Le Titanic a coule le 15 avril 1912 apres avoir heurte un iceberg, causant la mort de plus de 1 500 personnes."
+  },
+  "q_his_008": {
+    "question": "A quel siecle la Renaissance a-t-elle debute ?",
+    "correct": "XIVe siecle",
+    "wrong": ["XIIe siecle", "XVIe siecle", "XVe siecle"],
+    "hint": "Elle a commence en Italie, notamment a Florence, et signifie 'renaissance'.",
+    "explanation": "La Renaissance a debute au XIVe siecle en Italie et a marque une transition culturelle depuis le Moyen Age."
+  },
+  "q_his_009": {
+    "question": "Qui a decouvert la penicilline ?",
+    "correct": "Alexander Fleming",
+    "wrong": ["Louis Pasteur", "Robert Koch", "Joseph Lister"],
+    "hint": "Il l'a decouverte accidentellement a partir de moisissures sur une boite de Petri en 1928.",
+    "explanation": "Alexander Fleming a decouvert la penicilline en 1928, revolutionnant la medecine avec le premier veritable antibiotique."
+  },
+  "q_his_010": {
+    "question": "Quelle merveille du monde antique se trouvait a Alexandrie, en Egypte ?",
+    "correct": "Le Phare",
+    "wrong": ["Le Colosse", "Les Jardins suspendus", "Le Temple d'Artemis"],
+    "hint": "Cette structure guidait les marins dans le port anime et mesurait plus de 100 metres de haut.",
+    "explanation": "Le Phare d'Alexandrie (Pharos) a ete construit vers 280 av. J.-C. et etait l'une des plus hautes structures du monde antique."
   }
 }

@@ -33,5 +33,40 @@
     "wrong": ["史蒂夫·乔布斯", "馬克·扎克伯格", "傑夫·貝佐斯"],
     "hint": "他們於1975年在新墨西哥州阿爾伯克基創辦了公司。",
     "explanation": "比爾·蓋茲和保羅·艾倫於1975年創立了微軟。"
+  },
+  "q_tec_006": {
+    "question": "「Wi-Fi」代表什麼？",
+    "correct": "Wireless Fidelity",
+    "wrong": ["Wide Frequency", "Wired Filter", "Wireless Function"],
+    "hint": "這項技術允許裝置無需纜線即可連接網路。",
+    "explanation": "Wi-Fi代表Wireless Fidelity，利用無線電波提供網路連線。"
+  },
+  "q_tec_007": {
+    "question": "哪家公司開發了Android作業系統？",
+    "correct": "Google",
+    "wrong": ["Apple", "Samsung", "Microsoft"],
+    "hint": "這家公司的名字也是一個數學術語，表示10的100次方。",
+    "explanation": "Google於2005年收購了Android公司，並於2008年發布了第一款Android手機。"
+  },
+  "q_tec_008": {
+    "question": "第一台可程式化電腦叫什麼名字？",
+    "correct": "Z3",
+    "wrong": ["ENIAC", "UNIVAC", "巨人"],
+    "hint": "它由康拉德·楚澤於1941年在德國製造。",
+    "explanation": "康拉德·楚澤於1941年完成的Z3被認為是世界上第一台可程式化的全自動電腦。"
+  },
+  "q_tec_009": {
+    "question": "「GPS」代表什麼？",
+    "correct": "全球定位系統",
+    "wrong": ["通用衛星", "全球處理系統", "地球物理訊號"],
+    "hint": "這個基於衛星的導航系統最初由美國軍方開發。",
+    "explanation": "GPS（全球定位系統）使用衛星網路在地球任何地方提供位置和時間資訊。"
+  },
+  "q_tec_010": {
+    "question": "誰被稱為全球資訊網之父？",
+    "correct": "提姆·柏內茲-李",
+    "wrong": ["溫頓·瑟夫", "史蒂夫·沃茲乕亞克", "賴利·佩奇"],
+    "hint": "他於1989年在CERN發明了全球資訊網並建立了第一個網頁瀏覽器。",
+    "explanation": "提姆·柏內茲-李於1989年在瑞士CERN工作期間發明了全球資訊網。"
   }
 }

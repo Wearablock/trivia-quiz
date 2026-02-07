@@ -34,6 +34,41 @@
     "explanation": "Bien que des particules subatomiques existent, les atomes sont les plus petites unites conservant des proprietes chimiques.",
     "hint": "Son nom vient du grec 'atomos' signifiant 'indivisible'."
   },
+  "q_sci_006": {
+    "question": "Quel est le gaz le plus abondant dans l'atmosphere terrestre ?",
+    "correct": "Azote",
+    "wrong": ["Oxygene", "Dioxyde de carbone", "Argon"],
+    "hint": "Il represente environ 78 % de l'air que nous respirons.",
+    "explanation": "L'azote represente environ 78 % de l'atmosphere terrestre, tandis que l'oxygene en represente environ 21 %."
+  },
+  "q_sci_007": {
+    "question": "Quel est le symbole chimique de l'or ?",
+    "correct": "Au",
+    "wrong": ["Go", "Gd", "Ag"],
+    "hint": "Il vient du mot latin 'aurum'.",
+    "explanation": "Le symbole chimique de l'or, Au, derive du mot latin 'aurum', signifiant 'aube brillante'."
+  },
+  "q_sci_008": {
+    "question": "Quelle planete possede le plus de lunes dans notre systeme solaire ?",
+    "correct": "Saturne",
+    "wrong": ["Jupiter", "Uranus", "Neptune"],
+    "hint": "Cette planete a anneaux possede plus de 140 lunes connues, dont Titan.",
+    "explanation": "Saturne possede plus de 140 lunes confirmees, depassant le nombre de Jupiter, Titan etant la plus grande."
+  },
+  "q_sci_009": {
+    "question": "Que signifie ADN ?",
+    "correct": "Acide desoxyribonucleique",
+    "wrong": ["Acide dioxynitrique", "Acide desoxyribose nucleique", "Acide nucleique dynamique"],
+    "hint": "Il a une structure en double helice et transporte l'information genetique.",
+    "explanation": "L'ADN (acide desoxyribonucleique) contient les instructions genetiques de tous les organismes vivants."
+  },
+  "q_sci_010": {
+    "question": "Quel est le point d'ebullition de l'eau au niveau de la mer ?",
+    "correct": "100 °C",
+    "wrong": ["90 °C", "110 °C", "120 °C"],
+    "hint": "En Fahrenheit, cette temperature est de 212 degres.",
+    "explanation": "L'eau bout a 100 °C (212 °F) a la pression atmospherique standard au niveau de la mer."
+  },
   "q_sci_100": {
     "question": "Quelle est la temperature approximative du noyau du Soleil ?",
     "correct": "15 millions °C",

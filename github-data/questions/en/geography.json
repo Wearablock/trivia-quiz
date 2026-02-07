@@ -40,5 +40,40 @@
     "wrong": ["K2", "Kangchenjunga", "Lhotse"],
     "hint": "Located in the Himalayas on the border of Nepal and Tibet.",
     "explanation": "Mount Everest stands at 8,849 meters (29,032 feet) above sea level."
+  },
+  "q_geo_006": {
+    "question": "Which desert is the largest hot desert in the world?",
+    "correct": "Sahara",
+    "wrong": ["Arabian", "Gobi", "Kalahari"],
+    "hint": "This African desert is almost as large as the entire United States.",
+    "explanation": "The Sahara Desert covers approximately 9.2 million square kilometers across North Africa."
+  },
+  "q_geo_007": {
+    "question": "What is the smallest country in the world by area?",
+    "correct": "Vatican City",
+    "wrong": ["Monaco", "San Marino", "Liechtenstein"],
+    "hint": "This country is located entirely within the city of Rome.",
+    "explanation": "Vatican City covers only 0.44 square kilometers and is the headquarters of the Roman Catholic Church."
+  },
+  "q_geo_008": {
+    "question": "Which strait separates Europe from Asia?",
+    "correct": "Bosphorus",
+    "wrong": ["Strait of Gibraltar", "Strait of Malacca", "Strait of Hormuz"],
+    "hint": "This narrow waterway runs through the city of Istanbul.",
+    "explanation": "The Bosphorus strait divides Istanbul and separates European Turkey from Asian Turkey."
+  },
+  "q_geo_009": {
+    "question": "What is the longest river in South America?",
+    "correct": "Amazon",
+    "wrong": ["Paraná", "Orinoco", "São Francisco"],
+    "hint": "This river carries more water than any other river and flows through the world's largest rainforest.",
+    "explanation": "The Amazon River stretches approximately 6,400 km and has the largest discharge of any river."
+  },
+  "q_geo_010": {
+    "question": "Which country has the most time zones?",
+    "correct": "France",
+    "wrong": ["Russia", "United States", "United Kingdom"],
+    "hint": "Its overseas territories span across the globe from the Caribbean to the Pacific.",
+    "explanation": "France has 12 time zones due to its overseas territories, more than any other country including Russia's 11."
   }
 }

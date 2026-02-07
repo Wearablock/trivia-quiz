@@ -33,5 +33,40 @@
     "wrong": ["Steve Jobs", "Mark Zuckerberg", "Jeff Bezos"],
     "explanation": "Bill Gates et Paul Allen ont fonde Microsoft en 1975.",
     "hint": "L'un d'eux est devenu l'homme le plus riche du monde et est celebre pour sa fondation philanthropique."
+  },
+  "q_tec_006": {
+    "question": "Que signifie 'Wi-Fi' ?",
+    "correct": "Wireless Fidelity",
+    "wrong": ["Wide Frequency", "Wired Filter", "Wireless Function"],
+    "hint": "Cette technologie permet aux appareils de se connecter a Internet sans cable.",
+    "explanation": "Wi-Fi signifie Wireless Fidelity et utilise des ondes radio pour fournir une connectivite reseau."
+  },
+  "q_tec_007": {
+    "question": "Quelle entreprise a developpe le systeme d'exploitation Android ?",
+    "correct": "Google",
+    "wrong": ["Apple", "Samsung", "Microsoft"],
+    "hint": "Le nom de cette entreprise est aussi un terme mathematique pour 10 puissance 100.",
+    "explanation": "Google a rachete Android Inc. en 2005 et a lance le premier telephone Android en 2008."
+  },
+  "q_tec_008": {
+    "question": "Comment s'appelait le premier ordinateur programmable ?",
+    "correct": "Z3",
+    "wrong": ["ENIAC", "UNIVAC", "Colossus"],
+    "hint": "Il a ete cree par Konrad Zuse en Allemagne en 1941.",
+    "explanation": "Le Z3, acheve en 1941 par Konrad Zuse, est considere comme le premier ordinateur programmable et entierement automatique au monde."
+  },
+  "q_tec_009": {
+    "question": "Que signifie 'GPS' ?",
+    "correct": "Global Positioning System",
+    "wrong": ["General Purpose Satellite", "Global Processing System", "Geo-Physical Signal"],
+    "hint": "Ce systeme de navigation par satellite a ete developpe a l'origine par l'armee americaine.",
+    "explanation": "Le GPS (Global Positioning System) utilise un reseau de satellites pour fournir des informations de localisation et de temps partout sur Terre."
+  },
+  "q_tec_010": {
+    "question": "Qui est considere comme le pere du World Wide Web ?",
+    "correct": "Tim Berners-Lee",
+    "wrong": ["Vint Cerf", "Steve Wozniak", "Larry Page"],
+    "hint": "Il l'a invente au CERN en 1989 et a cree le premier navigateur web.",
+    "explanation": "Tim Berners-Lee a invente le World Wide Web en 1989 alors qu'il travaillait au CERN en Suisse."
   }
 }

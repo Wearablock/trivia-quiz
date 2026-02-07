@@ -33,5 +33,40 @@
     "wrong": ["Impressionnisme", "Cubisme", "Expressionnisme"],
     "explanation": "Dali etait une figure majeure du mouvement surrealiste, connu pour ses images saisissantes.",
     "hint": "Ce mouvement explore les reves et l'inconscient, avec des images oniriques et bizarres."
+  },
+  "q_art_006": {
+    "question": "Qui a peint 'La Nuit etoilee' ?",
+    "correct": "Vincent van Gogh",
+    "wrong": ["Claude Monet", "Paul Cezanne", "Edgar Degas"],
+    "hint": "Ce peintre neerlandais s'est coupe une partie de l'oreille.",
+    "explanation": "Van Gogh a peint La Nuit etoilee en 1889 lors de son sejour a l'asile de Saint-Remy-de-Provence."
+  },
+  "q_art_007": {
+    "question": "Quel instrument de musique possede 88 touches ?",
+    "correct": "Piano",
+    "wrong": ["Orgue", "Clavecin", "Accordeon"],
+    "hint": "Il possede des touches noires et blanches et a ete invente en Italie vers 1700.",
+    "explanation": "Un piano moderne standard possede 52 touches blanches et 36 touches noires, soit 88 au total."
+  },
+  "q_art_008": {
+    "question": "Qui a sculpte 'Le Penseur' ?",
+    "correct": "Auguste Rodin",
+    "wrong": ["Donatello", "Le Bernin", "Henry Moore"],
+    "hint": "Ce sculpteur francais est souvent appele le pere de la sculpture moderne.",
+    "explanation": "Rodin a cree Le Penseur en 1904, a l'origine comme partie d'une oeuvre plus grande appelee La Porte de l'Enfer."
+  },
+  "q_art_009": {
+    "question": "Quel roman commence par 'Appelez-moi Ismael' ?",
+    "correct": "Moby Dick",
+    "wrong": ["L'Ile au tresor", "Le Vieil Homme et la Mer", "Robinson Crusoe"],
+    "hint": "Ce roman raconte l'obsession d'un capitaine pour une baleine blanche.",
+    "explanation": "Moby Dick d'Herman Melville, publie en 1851, commence par l'une des phrases les plus celebres de la litterature."
+  },
+  "q_art_010": {
+    "question": "Qui a compose 'Les Quatre Saisons' ?",
+    "correct": "Antonio Vivaldi",
+    "wrong": ["Jean-Sebastien Bach", "Georg Friedrich Haendel", "Franz Schubert"],
+    "hint": "Ce compositeur baroque italien etait un pretre roux surnomme 'Le Pretre roux'.",
+    "explanation": "Vivaldi a compose Les Quatre Saisons vers 1723, un ensemble de quatre concertos pour violon."
   }
 }

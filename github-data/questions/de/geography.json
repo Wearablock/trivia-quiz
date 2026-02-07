@@ -34,6 +34,41 @@
     "explanation": "Die Donau fließt durch 10 Länder in Europa.",
     "hint": "Dieser europäische Fluss entspringt im Schwarzwald und mündet ins Schwarze Meer."
   },
+  "q_geo_006": {
+    "question": "Welche ist die größte heiße Wüste der Welt?",
+    "correct": "Sahara",
+    "wrong": ["Arabische Wüste", "Gobi", "Kalahari"],
+    "hint": "Diese afrikanische Wüste ist fast so groß wie die gesamten Vereinigten Staaten.",
+    "explanation": "Die Sahara erstreckt sich über etwa 9,2 Millionen Quadratkilometer in Nordafrika."
+  },
+  "q_geo_007": {
+    "question": "Was ist das kleinste Land der Welt nach Fläche?",
+    "correct": "Vatikanstadt",
+    "wrong": ["Monaco", "San Marino", "Liechtenstein"],
+    "hint": "Dieses Land liegt vollständig innerhalb der Stadt Rom.",
+    "explanation": "Die Vatikanstadt umfasst nur 0,44 Quadratkilometer und ist der Sitz der römisch-katholischen Kirche."
+  },
+  "q_geo_008": {
+    "question": "Welche Meerenge trennt Europa von Asien?",
+    "correct": "Bosporus",
+    "wrong": ["Straße von Gibraltar", "Straße von Malakka", "Straße von Hormus"],
+    "hint": "Diese schmale Wasserstraße verläuft durch die Stadt Istanbul.",
+    "explanation": "Der Bosporus teilt Istanbul und trennt die europäische Türkei von der asiatischen Türkei."
+  },
+  "q_geo_009": {
+    "question": "Was ist der längste Fluss Südamerikas?",
+    "correct": "Amazonas",
+    "wrong": ["Paraná", "Orinoco", "São Francisco"],
+    "hint": "Dieser Fluss führt mehr Wasser als jeder andere und fließt durch den größten Regenwald der Welt.",
+    "explanation": "Der Amazonas erstreckt sich über etwa 6.400 km und hat den größten Abfluss aller Flüsse."
+  },
+  "q_geo_010": {
+    "question": "Welches Land hat die meisten Zeitzonen?",
+    "correct": "Frankreich",
+    "wrong": ["Russland", "Vereinigte Staaten", "Vereinigtes Königreich"],
+    "hint": "Seine Überseegebiete erstrecken sich von der Karibik bis zum Pazifik.",
+    "explanation": "Frankreich hat dank seiner Überseegebiete 12 Zeitzonen, mehr als Russlands 11."
+  },
   "q_geo_100": {
     "question": "Was ist der höchste Berg der Welt?",
     "correct": "Mount Everest",

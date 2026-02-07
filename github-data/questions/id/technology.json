@@ -33,5 +33,40 @@
     "wrong": ["Steve Jobs", "Mark Zuckerberg", "Jeff Bezos"],
     "explanation": "Bill Gates dan Paul Allen mendirikan Microsoft pada tahun 1975.",
     "hint": "Dua sahabat masa kecil ini memulai perusahaan di garasi dan salah satunya menjadi orang terkaya di dunia."
+  },
+  "q_tec_006": {
+    "question": "Apa kepanjangan dari Wi-Fi?",
+    "correct": "Wireless Fidelity",
+    "wrong": ["Wide Frequency", "Wired Filter", "Wireless Function"],
+    "hint": "Teknologi ini memungkinkan perangkat terhubung ke internet secara nirkabel.",
+    "explanation": "Wi-Fi adalah singkatan dari Wireless Fidelity, menggunakan gelombang radio untuk koneksi jaringan."
+  },
+  "q_tec_007": {
+    "question": "Perusahaan mana yang mengembangkan sistem operasi Android?",
+    "correct": "Google",
+    "wrong": ["Apple", "Samsung", "Microsoft"],
+    "hint": "Nama perusahaan ini merupakan istilah matematika yang merujuk pada angka 10 pangkat 100.",
+    "explanation": "Google mengakuisisi Android Inc. pada tahun 2005 dan meluncurkan ponsel Android pertama pada tahun 2008."
+  },
+  "q_tec_008": {
+    "question": "Apa nama komputer pertama yang dapat diprogram?",
+    "correct": "Z3",
+    "wrong": ["ENIAC", "UNIVAC", "Colossus"],
+    "hint": "Dibuat oleh Konrad Zuse di Jerman pada tahun 1941.",
+    "explanation": "Z3 yang selesai pada tahun 1941 oleh Konrad Zuse dianggap sebagai komputer otomatis pertama yang dapat diprogram di dunia."
+  },
+  "q_tec_009": {
+    "question": "Apa kepanjangan dari GPS?",
+    "correct": "Sistem Pemosisian Global",
+    "wrong": ["Satelit Serbaguna", "Sistem Pemrosesan Global", "Sinyal Geofisika"],
+    "hint": "Sistem navigasi satelit ini awalnya dikembangkan oleh militer Amerika Serikat.",
+    "explanation": "GPS (Sistem Pemosisian Global) menggunakan jaringan satelit untuk memberikan informasi lokasi dan waktu di mana saja di Bumi."
+  },
+  "q_tec_010": {
+    "question": "Siapa yang dikenal sebagai bapak World Wide Web?",
+    "correct": "Tim Berners-Lee",
+    "wrong": ["Vint Cerf", "Steve Wozniak", "Larry Page"],
+    "hint": "Dia menemukan teknologi ini di CERN pada tahun 1989 dan membuat browser web pertama.",
+    "explanation": "Tim Berners-Lee menemukan World Wide Web pada tahun 1989 saat bekerja di CERN di Swiss."
   }
 }

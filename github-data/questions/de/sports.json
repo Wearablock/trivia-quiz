@@ -33,5 +33,40 @@
     "wrong": ["Wimbledon", "US Open", "Australian Open"],
     "explanation": "Die French Open in Roland Garros ist das einzige Grand-Slam-Turnier, das auf Sand gespielt wird.",
     "hint": "Dieses Turnier findet jährlich in Paris statt und ist nach dem Land benannt, in dem es ausgetragen wird."
+  },
+  "q_spo_006": {
+    "question": "Wie viele Ringe sind auf der olympischen Flagge?",
+    "correct": "5",
+    "wrong": ["4", "6", "7"],
+    "hint": "Jeder Ring steht für einen Kontinent, der an den Olympischen Spielen teilnimmt.",
+    "explanation": "Die fünf olympischen Ringe repräsentieren die fünf Kontinente: Afrika, Amerika, Asien, Europa und Ozeanien."
+  },
+  "q_spo_007": {
+    "question": "In welcher Sportart bedeutet ein 'Birdie' einen Schlag unter Par?",
+    "correct": "Golf",
+    "wrong": ["Badminton", "Tennis", "Cricket"],
+    "hint": "Dieser Sport wird auf Plätzen mit 18 Löchern gespielt, mit Schlägern und einem kleinen Ball.",
+    "explanation": "Beim Golf bedeutet ein Birdie, dass ein Loch mit einem Schlag weniger als Par abgeschlossen wird."
+  },
+  "q_spo_008": {
+    "question": "Welches Land hat den Sport Cricket erfunden?",
+    "correct": "England",
+    "wrong": ["Indien", "Australien", "Südafrika"],
+    "hint": "Dieser Sport reicht bis ins 16. Jahrhundert zurück und ist der nationale Sommersport dieses Landes.",
+    "explanation": "Cricket entstand im späten 16. Jahrhundert in England und verbreitete sich über das Britische Empire."
+  },
+  "q_spo_009": {
+    "question": "Wie lang ist ein Marathon in Kilometern?",
+    "correct": "42,195 km",
+    "wrong": ["40 km", "45 km", "50 km"],
+    "hint": "Die Distanz wurde bei den Olympischen Spielen 1908 in London standardisiert.",
+    "explanation": "Ein Marathon ist 42,195 km (26,2 Meilen) lang, eine Distanz, die 1908 bei den Olympischen Spielen in London festgelegt wurde."
+  },
+  "q_spo_010": {
+    "question": "Welcher Sport verwendet das größte Spielfeld?",
+    "correct": "Polo",
+    "wrong": ["Fußball", "Rugby", "American Football"],
+    "hint": "Dieser Sport wird zu Pferd gespielt und das Feld kann bis zu 275 Meter lang sein.",
+    "explanation": "Ein Polofeld ist mit bis zu 275 mal 180 Metern das größte Spielfeld im organisierten Sport."
   }
 }
