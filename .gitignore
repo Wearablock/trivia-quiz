@@ -52,3 +52,6 @@ ios/ExportOptions.plist
 
 # Development guides (local only)
 /guides/
+
+# Store automation scripts (local only)
+/store-automation/
