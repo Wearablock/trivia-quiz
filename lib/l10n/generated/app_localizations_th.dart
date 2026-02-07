@@ -33,16 +33,10 @@ class AppLocalizationsTh extends AppLocalizations {
   String get categories => 'หมวดหมู่';
 
   @override
-  String get yourStats => 'สถิติของคุณ';
-
-  @override
   String get answered => 'ตอบแล้ว';
 
   @override
   String get correct => 'ถูกต้อง';
-
-  @override
-  String get questions => 'คำถาม';
 
   @override
   String question(int current, int total) {
@@ -54,11 +48,6 @@ class AppLocalizationsTh extends AppLocalizations {
 
   @override
   String get wrongAnswer => 'ผิด!';
-
-  @override
-  String theCorrectAnswerIs(String answer) {
-    return 'คำตอบที่ถูกต้องคือ: $answer';
-  }
 
   @override
   String get next => 'ถัดไป';
@@ -84,35 +73,10 @@ class AppLocalizationsTh extends AppLocalizations {
   String get backToHome => 'กลับหน้าแรก';
 
   @override
-  String get wrongAnswers => 'คำตอบที่ผิด';
-
-  @override
   String get noWrongAnswers => 'ยังไม่มีคำตอบที่ผิด!';
 
   @override
   String get reviewAll => 'ทบทวนทั้งหมด';
-
-  @override
-  String get start => 'เริ่ม';
-
-  @override
-  String wrongCount(int count) {
-    return '$count ผิด';
-  }
-
-  @override
-  String get recentWrong => 'ผิดล่าสุด';
-
-  @override
-  String get yourAnswer => 'คำตอบของคุณ';
-
-  @override
-  String get correctAnswerLabel => 'คำตอบที่ถูกต้อง';
-
-  @override
-  String hoursAgo(int hours) {
-    return '$hours ชั่วโมงที่แล้ว';
-  }
 
   @override
   String get categoryGeography => 'ภูมิศาสตร์';
@@ -275,9 +239,6 @@ class AppLocalizationsTh extends AppLocalizations {
   String get youreDoingGreat => 'คุณทำได้ดีมาก!';
 
   @override
-  String get leaderboardComingSoon => 'กระดานผู้นำเร็วๆ นี้!';
-
-  @override
   String get termsOfService => 'ข้อกำหนดการใช้งาน';
 
   @override
@@ -309,4 +270,12 @@ class AppLocalizationsTh extends AppLocalizations {
 
   @override
   String get productNotAvailable => 'สินค้าไม่พร้อมใช้งาน';
+
+  @override
+  String errorWithMessage(String message) {
+    return 'ข้อผิดพลาด: $message';
+  }
+
+  @override
+  String get unknownError => 'ข้อผิดพลาดที่ไม่ทราบสาเหตุ';
 }

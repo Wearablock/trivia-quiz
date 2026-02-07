@@ -33,16 +33,10 @@ class AppLocalizationsZh extends AppLocalizations {
   String get categories => '类别';
 
   @override
-  String get yourStats => '你的统计';
-
-  @override
   String get answered => '已答题';
 
   @override
   String get correct => '正确率';
-
-  @override
-  String get questions => '题目';
 
   @override
   String question(int current, int total) {
@@ -54,11 +48,6 @@ class AppLocalizationsZh extends AppLocalizations {
 
   @override
   String get wrongAnswer => '错误！';
-
-  @override
-  String theCorrectAnswerIs(String answer) {
-    return '正确答案: $answer';
-  }
 
   @override
   String get next => '下一题';
@@ -84,35 +73,10 @@ class AppLocalizationsZh extends AppLocalizations {
   String get backToHome => '返回首页';
 
   @override
-  String get wrongAnswers => '错题';
-
-  @override
   String get noWrongAnswers => '还没有错题！';
 
   @override
   String get reviewAll => '全部复习';
-
-  @override
-  String get start => '开始';
-
-  @override
-  String wrongCount(int count) {
-    return '$count题错误';
-  }
-
-  @override
-  String get recentWrong => '最近错题';
-
-  @override
-  String get yourAnswer => '你的答案';
-
-  @override
-  String get correctAnswerLabel => '正确答案';
-
-  @override
-  String hoursAgo(int hours) {
-    return '$hours小时前';
-  }
 
   @override
   String get categoryGeography => '地理';
@@ -274,9 +238,6 @@ class AppLocalizationsZh extends AppLocalizations {
   String get youreDoingGreat => '你做得很好！';
 
   @override
-  String get leaderboardComingSoon => '排行榜即将推出！';
-
-  @override
   String get termsOfService => '服务条款';
 
   @override
@@ -308,6 +269,14 @@ class AppLocalizationsZh extends AppLocalizations {
 
   @override
   String get productNotAvailable => '产品不可用';
+
+  @override
+  String errorWithMessage(String message) {
+    return '错误：$message';
+  }
+
+  @override
+  String get unknownError => '未知错误';
 }
 
 /// The translations for Chinese, using the Han script (`zh_Hant`).
@@ -339,16 +308,10 @@ class AppLocalizationsZhHant extends AppLocalizationsZh {
   String get categories => '類別';
 
   @override
-  String get yourStats => '你的統計';
-
-  @override
   String get answered => '已答題';
 
   @override
   String get correct => '正確率';
-
-  @override
-  String get questions => '題目';
 
   @override
   String question(int current, int total) {
@@ -360,11 +323,6 @@ class AppLocalizationsZhHant extends AppLocalizationsZh {
 
   @override
   String get wrongAnswer => '錯誤！';
-
-  @override
-  String theCorrectAnswerIs(String answer) {
-    return '正確答案: $answer';
-  }
 
   @override
   String get next => '下一題';
@@ -390,35 +348,10 @@ class AppLocalizationsZhHant extends AppLocalizationsZh {
   String get backToHome => '返回首頁';
 
   @override
-  String get wrongAnswers => '錯題';
-
-  @override
   String get noWrongAnswers => '還沒有錯題！';
 
   @override
   String get reviewAll => '全部複習';
-
-  @override
-  String get start => '開始';
-
-  @override
-  String wrongCount(int count) {
-    return '$count題錯誤';
-  }
-
-  @override
-  String get recentWrong => '最近錯題';
-
-  @override
-  String get yourAnswer => '你的答案';
-
-  @override
-  String get correctAnswerLabel => '正確答案';
-
-  @override
-  String hoursAgo(int hours) {
-    return '$hours小時前';
-  }
 
   @override
   String get categoryGeography => '地理';
@@ -580,9 +513,6 @@ class AppLocalizationsZhHant extends AppLocalizationsZh {
   String get youreDoingGreat => '你做得很好！';
 
   @override
-  String get leaderboardComingSoon => '排行榜即將推出！';
-
-  @override
   String get termsOfService => '服務條款';
 
   @override
@@ -614,4 +544,12 @@ class AppLocalizationsZhHant extends AppLocalizationsZh {
 
   @override
   String get productNotAvailable => '產品不可用';
+
+  @override
+  String errorWithMessage(String message) {
+    return '錯誤：$message';
+  }
+
+  @override
+  String get unknownError => '未知錯誤';
 }

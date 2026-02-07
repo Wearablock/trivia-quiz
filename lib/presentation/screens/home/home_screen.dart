@@ -79,7 +79,7 @@ class HomeScreen extends ConsumerWidget {
                 child: Center(child: CircularProgressIndicator()),
               ),
               error: (e, _) => SliverFillRemaining(
-                child: Center(child: Text('Error: $e')),
+                child: Center(child: Text(l10n.errorWithMessage(e.toString()))),
               ),
             ),
 

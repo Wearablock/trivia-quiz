@@ -34,16 +34,10 @@ class AppLocalizationsFr extends AppLocalizations {
   String get categories => 'Catégories';
 
   @override
-  String get yourStats => 'Vos statistiques';
-
-  @override
   String get answered => 'Répondu';
 
   @override
   String get correct => 'Correct';
-
-  @override
-  String get questions => 'questions';
 
   @override
   String question(int current, int total) {
@@ -55,11 +49,6 @@ class AppLocalizationsFr extends AppLocalizations {
 
   @override
   String get wrongAnswer => 'Incorrect!';
-
-  @override
-  String theCorrectAnswerIs(String answer) {
-    return 'La bonne réponse est: $answer';
-  }
 
   @override
   String get next => 'Suivant';
@@ -85,35 +74,10 @@ class AppLocalizationsFr extends AppLocalizations {
   String get backToHome => 'Retour à l\'accueil';
 
   @override
-  String get wrongAnswers => 'Mauvaises réponses';
-
-  @override
   String get noWrongAnswers => 'Pas encore de mauvaises réponses!';
 
   @override
   String get reviewAll => 'Tout réviser';
-
-  @override
-  String get start => 'Commencer';
-
-  @override
-  String wrongCount(int count) {
-    return '$count erreur(s)';
-  }
-
-  @override
-  String get recentWrong => 'Erreurs récentes';
-
-  @override
-  String get yourAnswer => 'Votre réponse';
-
-  @override
-  String get correctAnswerLabel => 'Bonne réponse';
-
-  @override
-  String hoursAgo(int hours) {
-    return 'il y a $hours heures';
-  }
 
   @override
   String get categoryGeography => 'Géographie';
@@ -282,9 +246,6 @@ class AppLocalizationsFr extends AppLocalizations {
   String get youreDoingGreat => 'Vous vous en sortez très bien !';
 
   @override
-  String get leaderboardComingSoon => 'Classement bientôt disponible !';
-
-  @override
   String get termsOfService => 'Conditions d\'utilisation';
 
   @override
@@ -316,4 +277,12 @@ class AppLocalizationsFr extends AppLocalizations {
 
   @override
   String get productNotAvailable => 'Produit non disponible';
+
+  @override
+  String errorWithMessage(String message) {
+    return 'Erreur : $message';
+  }
+
+  @override
+  String get unknownError => 'Erreur inconnue';
 }

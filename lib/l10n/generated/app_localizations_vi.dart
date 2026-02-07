@@ -33,16 +33,10 @@ class AppLocalizationsVi extends AppLocalizations {
   String get categories => 'Danh mục';
 
   @override
-  String get yourStats => 'Thống kê của bạn';
-
-  @override
   String get answered => 'Đã trả lời';
 
   @override
   String get correct => 'Đúng';
-
-  @override
-  String get questions => 'câu hỏi';
 
   @override
   String question(int current, int total) {
@@ -54,11 +48,6 @@ class AppLocalizationsVi extends AppLocalizations {
 
   @override
   String get wrongAnswer => 'Sai!';
-
-  @override
-  String theCorrectAnswerIs(String answer) {
-    return 'Đáp án đúng là: $answer';
-  }
 
   @override
   String get next => 'Tiếp';
@@ -84,35 +73,10 @@ class AppLocalizationsVi extends AppLocalizations {
   String get backToHome => 'Về trang chủ';
 
   @override
-  String get wrongAnswers => 'Câu trả lời sai';
-
-  @override
   String get noWrongAnswers => 'Chưa có câu trả lời sai!';
 
   @override
   String get reviewAll => 'Ôn tập tất cả';
-
-  @override
-  String get start => 'Bắt đầu';
-
-  @override
-  String wrongCount(int count) {
-    return '$count sai';
-  }
-
-  @override
-  String get recentWrong => 'Sai gần đây';
-
-  @override
-  String get yourAnswer => 'Câu trả lời của bạn';
-
-  @override
-  String get correctAnswerLabel => 'Đáp án đúng';
-
-  @override
-  String hoursAgo(int hours) {
-    return '$hours giờ trước';
-  }
 
   @override
   String get categoryGeography => 'Địa lý';
@@ -276,9 +240,6 @@ class AppLocalizationsVi extends AppLocalizations {
   String get youreDoingGreat => 'Bạn đang làm rất tốt!';
 
   @override
-  String get leaderboardComingSoon => 'Bảng xếp hạng sắp ra mắt!';
-
-  @override
   String get termsOfService => 'Điều khoản dịch vụ';
 
   @override
@@ -310,4 +271,12 @@ class AppLocalizationsVi extends AppLocalizations {
 
   @override
   String get productNotAvailable => 'Sản phẩm không khả dụng';
+
+  @override
+  String errorWithMessage(String message) {
+    return 'Lỗi: $message';
+  }
+
+  @override
+  String get unknownError => 'Lỗi không xác định';
 }

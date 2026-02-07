@@ -125,5 +125,13 @@
   "restorePurchases": "Khôi phục mua hàng",
   "purchaseFailed": "Mua hàng thất bại",
   "purchasesRestored": "Đã khôi phục mua hàng",
-  "productNotAvailable": "Sản phẩm không khả dụng"
+  "productNotAvailable": "Sản phẩm không khả dụng",
+
+  "errorWithMessage": "Lỗi: {message}",
+  "@errorWithMessage": {
+    "placeholders": {
+      "message": {"type": "String"}
+    }
+  },
+  "unknownError": "Lỗi không xác định"
 }

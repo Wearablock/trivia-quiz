@@ -171,12 +171,6 @@ abstract class AppLocalizations {
   /// **'Categories'**
   String get categories;
 
-  /// No description provided for @yourStats.
-  ///
-  /// In en, this message translates to:
-  /// **'Your Stats'**
-  String get yourStats;
-
   /// No description provided for @answered.
   ///
   /// In en, this message translates to:
@@ -188,12 +182,6 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Correct'**
   String get correct;
-
-  /// No description provided for @questions.
-  ///
-  /// In en, this message translates to:
-  /// **'questions'**
-  String get questions;
 
   /// No description provided for @question.
   ///
@@ -212,12 +200,6 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Wrong!'**
   String get wrongAnswer;
-
-  /// No description provided for @theCorrectAnswerIs.
-  ///
-  /// In en, this message translates to:
-  /// **'The correct answer is: {answer}'**
-  String theCorrectAnswerIs(String answer);
 
   /// No description provided for @next.
   ///
@@ -261,12 +243,6 @@ abstract class AppLocalizations {
   /// **'Back to Home'**
   String get backToHome;
 
-  /// No description provided for @wrongAnswers.
-  ///
-  /// In en, this message translates to:
-  /// **'Wrong Answers'**
-  String get wrongAnswers;
-
   /// No description provided for @noWrongAnswers.
   ///
   /// In en, this message translates to:
@@ -278,42 +254,6 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Review All'**
   String get reviewAll;
-
-  /// No description provided for @start.
-  ///
-  /// In en, this message translates to:
-  /// **'Start'**
-  String get start;
-
-  /// No description provided for @wrongCount.
-  ///
-  /// In en, this message translates to:
-  /// **'{count} wrong'**
-  String wrongCount(int count);
-
-  /// No description provided for @recentWrong.
-  ///
-  /// In en, this message translates to:
-  /// **'Recent Wrong'**
-  String get recentWrong;
-
-  /// No description provided for @yourAnswer.
-  ///
-  /// In en, this message translates to:
-  /// **'Your answer'**
-  String get yourAnswer;
-
-  /// No description provided for @correctAnswerLabel.
-  ///
-  /// In en, this message translates to:
-  /// **'Correct answer'**
-  String get correctAnswerLabel;
-
-  /// No description provided for @hoursAgo.
-  ///
-  /// In en, this message translates to:
-  /// **'{hours} hours ago'**
-  String hoursAgo(int hours);
 
   /// No description provided for @categoryGeography.
   ///
@@ -633,12 +573,6 @@ abstract class AppLocalizations {
   /// **'You\'re doing great!'**
   String get youreDoingGreat;
 
-  /// No description provided for @leaderboardComingSoon.
-  ///
-  /// In en, this message translates to:
-  /// **'Leaderboard coming soon!'**
-  String get leaderboardComingSoon;
-
   /// No description provided for @termsOfService.
   ///
   /// In en, this message translates to:
@@ -704,6 +638,18 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Product not available'**
   String get productNotAvailable;
+
+  /// No description provided for @errorWithMessage.
+  ///
+  /// In en, this message translates to:
+  /// **'Error: {message}'**
+  String errorWithMessage(String message);
+
+  /// No description provided for @unknownError.
+  ///
+  /// In en, this message translates to:
+  /// **'Unknown error'**
+  String get unknownError;
 }
 
 class _AppLocalizationsDelegate

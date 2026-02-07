@@ -33,16 +33,10 @@ class AppLocalizationsId extends AppLocalizations {
   String get categories => 'Kategori';
 
   @override
-  String get yourStats => 'Statistik Anda';
-
-  @override
   String get answered => 'Dijawab';
 
   @override
   String get correct => 'Benar';
-
-  @override
-  String get questions => 'pertanyaan';
 
   @override
   String question(int current, int total) {
@@ -54,11 +48,6 @@ class AppLocalizationsId extends AppLocalizations {
 
   @override
   String get wrongAnswer => 'Salah!';
-
-  @override
-  String theCorrectAnswerIs(String answer) {
-    return 'Jawaban yang benar adalah: $answer';
-  }
 
   @override
   String get next => 'Lanjut';
@@ -84,35 +73,10 @@ class AppLocalizationsId extends AppLocalizations {
   String get backToHome => 'Kembali ke Beranda';
 
   @override
-  String get wrongAnswers => 'Jawaban Salah';
-
-  @override
   String get noWrongAnswers => 'Belum ada jawaban salah!';
 
   @override
   String get reviewAll => 'Ulang Semua';
-
-  @override
-  String get start => 'Mulai';
-
-  @override
-  String wrongCount(int count) {
-    return '$count salah';
-  }
-
-  @override
-  String get recentWrong => 'Kesalahan Terbaru';
-
-  @override
-  String get yourAnswer => 'Jawaban Anda';
-
-  @override
-  String get correctAnswerLabel => 'Jawaban yang benar';
-
-  @override
-  String hoursAgo(int hours) {
-    return '$hours jam yang lalu';
-  }
 
   @override
   String get categoryGeography => 'Geografi';
@@ -277,9 +241,6 @@ class AppLocalizationsId extends AppLocalizations {
   String get youreDoingGreat => 'Anda hebat!';
 
   @override
-  String get leaderboardComingSoon => 'Papan peringkat segera hadir!';
-
-  @override
   String get termsOfService => 'Ketentuan Layanan';
 
   @override
@@ -311,4 +272,12 @@ class AppLocalizationsId extends AppLocalizations {
 
   @override
   String get productNotAvailable => 'Produk tidak tersedia';
+
+  @override
+  String errorWithMessage(String message) {
+    return 'Kesalahan: $message';
+  }
+
+  @override
+  String get unknownError => 'Kesalahan tidak diketahui';
 }

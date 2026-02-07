@@ -24,3 +24,9 @@ final userSettingsDaoProvider = Provider<UserSettingsDao>((ref) {
 final overallStatsProvider = StreamProvider<OverallStats>((ref) {
   return ref.watch(quizHistoryDaoProvider).watchOverallStats();
 });
+
+/// 카테고리별 통계 스트림
+final categoryStatsProvider =
+    StreamProvider.family<CategoryStats, String>((ref, categoryId) {
+  return ref.watch(quizHistoryDaoProvider).watchCategoryStats(categoryId);
+});

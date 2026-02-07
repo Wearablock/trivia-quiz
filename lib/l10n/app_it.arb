@@ -125,5 +125,13 @@
   "restorePurchases": "Ripristina acquisti",
   "purchaseFailed": "Acquisto fallito",
   "purchasesRestored": "Acquisti ripristinati",
-  "productNotAvailable": "Prodotto non disponibile"
+  "productNotAvailable": "Prodotto non disponibile",
+
+  "errorWithMessage": "Errore: {message}",
+  "@errorWithMessage": {
+    "placeholders": {
+      "message": {"type": "String"}
+    }
+  },
+  "unknownError": "Errore sconosciuto"
 }

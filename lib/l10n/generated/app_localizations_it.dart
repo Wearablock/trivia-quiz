@@ -33,16 +33,10 @@ class AppLocalizationsIt extends AppLocalizations {
   String get categories => 'Categorie';
 
   @override
-  String get yourStats => 'Le tue statistiche';
-
-  @override
   String get answered => 'Risposte';
 
   @override
   String get correct => 'Corrette';
-
-  @override
-  String get questions => 'domande';
 
   @override
   String question(int current, int total) {
@@ -54,11 +48,6 @@ class AppLocalizationsIt extends AppLocalizations {
 
   @override
   String get wrongAnswer => 'Sbagliato!';
-
-  @override
-  String theCorrectAnswerIs(String answer) {
-    return 'La risposta corretta è: $answer';
-  }
 
   @override
   String get next => 'Avanti';
@@ -84,35 +73,10 @@ class AppLocalizationsIt extends AppLocalizations {
   String get backToHome => 'Torna alla home';
 
   @override
-  String get wrongAnswers => 'Risposte sbagliate';
-
-  @override
   String get noWrongAnswers => 'Ancora nessuna risposta sbagliata!';
 
   @override
   String get reviewAll => 'Rivedi tutto';
-
-  @override
-  String get start => 'Inizia';
-
-  @override
-  String wrongCount(int count) {
-    return '$count sbagliata/e';
-  }
-
-  @override
-  String get recentWrong => 'Errori recenti';
-
-  @override
-  String get yourAnswer => 'La tua risposta';
-
-  @override
-  String get correctAnswerLabel => 'Risposta corretta';
-
-  @override
-  String hoursAgo(int hours) {
-    return '$hours ore fa';
-  }
 
   @override
   String get categoryGeography => 'Geografia';
@@ -279,9 +243,6 @@ class AppLocalizationsIt extends AppLocalizations {
   String get youreDoingGreat => 'Stai andando alla grande!';
 
   @override
-  String get leaderboardComingSoon => 'Classifica in arrivo!';
-
-  @override
   String get termsOfService => 'Termini di servizio';
 
   @override
@@ -313,4 +274,12 @@ class AppLocalizationsIt extends AppLocalizations {
 
   @override
   String get productNotAvailable => 'Prodotto non disponibile';
+
+  @override
+  String errorWithMessage(String message) {
+    return 'Errore: $message';
+  }
+
+  @override
+  String get unknownError => 'Errore sconosciuto';
 }

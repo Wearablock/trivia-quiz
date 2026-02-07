@@ -8,7 +8,17 @@
         "en": "Geography",
         "ja": "地理",
         "zh-Hans": "地理",
-        "zh-Hant": "地理"
+        "zh-Hant": "地理",
+        "de": "Geographie",
+        "fr": "Géographie",
+        "es": "Geografía",
+        "pt": "Geografia",
+        "it": "Geografia",
+        "ru": "География",
+        "ar": "جغرافيا",
+        "th": "ภูมิศาสตร์",
+        "vi": "Địa lý",
+        "id": "Geografi"
       },
       "color": "#2E7D32",
       "icon": "public"
@@ -21,7 +31,17 @@
         "en": "History",
         "ja": "歴史",
         "zh-Hans": "历史",
-        "zh-Hant": "歷史"
+        "zh-Hant": "歷史",
+        "de": "Geschichte",
+        "fr": "Histoire",
+        "es": "Historia",
+        "pt": "História",
+        "it": "Storia",
+        "ru": "История",
+        "ar": "تاريخ",
+        "th": "ประวัติศาสตร์",
+        "vi": "Lịch sử",
+        "id": "Sejarah"
       },
       "color": "#8B4513",
       "icon": "history"
@@ -34,7 +54,17 @@
         "en": "Science",
         "ja": "科学",
         "zh-Hans": "科学",
-        "zh-Hant": "科學"
+        "zh-Hant": "科學",
+        "de": "Wissenschaft",
+        "fr": "Sciences",
+        "es": "Ciencia",
+        "pt": "Ciência",
+        "it": "Scienza",
+        "ru": "Наука",
+        "ar": "علوم",
+        "th": "วิทยาศาสตร์",
+        "vi": "Khoa học",
+        "id": "Sains"
       },
       "color": "#1565C0",
       "icon": "science"
@@ -47,7 +77,17 @@
         "en": "Arts & Culture",
         "ja": "芸術・文化",
         "zh-Hans": "艺术文化",
-        "zh-Hant": "藝術文化"
+        "zh-Hant": "藝術文化",
+        "de": "Kunst & Kultur",
+        "fr": "Arts et Culture",
+        "es": "Arte y Cultura",
+        "pt": "Artes e Cultura",
+        "it": "Arte e Cultura",
+        "ru": "Искусство и культура",
+        "ar": "فنون وثقافة",
+        "th": "ศิลปะและวัฒนธรรม",
+        "vi": "Nghệ thuật & Văn hóa",
+        "id": "Seni & Budaya"
       },
       "color": "#7B1FA2",
       "icon": "palette"
@@ -60,7 +100,17 @@
         "en": "Sports",
         "ja": "スポーツ",
         "zh-Hans": "体育",
-        "zh-Hant": "體育"
+        "zh-Hant": "體育",
+        "de": "Sport",
+        "fr": "Sports",
+        "es": "Deportes",
+        "pt": "Esportes",
+        "it": "Sport",
+        "ru": "Спорт",
+        "ar": "رياضة",
+        "th": "กีฬา",
+        "vi": "Thể thao",
+        "id": "Olahraga"
       },
       "color": "#C62828",
       "icon": "sports_soccer"
@@ -73,7 +123,17 @@
         "en": "Nature",
         "ja": "自然",
         "zh-Hans": "自然",
-        "zh-Hant": "自然"
+        "zh-Hant": "自然",
+        "de": "Natur",
+        "fr": "Nature",
+        "es": "Naturaleza",
+        "pt": "Natureza",
+        "it": "Natura",
+        "ru": "Природа",
+        "ar": "طبيعة",
+        "th": "ธรรมชาติ",
+        "vi": "Thiên nhiên",
+        "id": "Alam"
       },
       "color": "#388E3C",
       "icon": "eco"
@@ -86,7 +146,17 @@
         "en": "Technology",
         "ja": "技術",
         "zh-Hans": "技术",
-        "zh-Hant": "技術"
+        "zh-Hant": "技術",
+        "de": "Technologie",
+        "fr": "Technologie",
+        "es": "Tecnología",
+        "pt": "Tecnologia",
+        "it": "Tecnologia",
+        "ru": "Технологии",
+        "ar": "تكنولوجيا",
+        "th": "เทคโนโลยี",
+        "vi": "Công nghệ",
+        "id": "Teknologi"
       },
       "color": "#0277BD",
       "icon": "memory"
@@ -99,7 +169,17 @@
         "en": "Food & Lifestyle",
         "ja": "食・生活",
         "zh-Hans": "美食生活",
-        "zh-Hant": "美食生活"
+        "zh-Hant": "美食生活",
+        "de": "Essen & Lifestyle",
+        "fr": "Gastronomie et Mode de vie",
+        "es": "Comida y Estilo de vida",
+        "pt": "Comida e Estilo de vida",
+        "it": "Cibo e Stile di vita",
+        "ru": "Еда и образ жизни",
+        "ar": "طعام وأسلوب حياة",
+        "th": "อาหารและไลฟ์สไตล์",
+        "vi": "Ẩm thực & Đời sống",
+        "id": "Makanan & Gaya Hidup"
       },
       "color": "#EF6C00",
       "icon": "restaurant"

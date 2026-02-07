@@ -21,7 +21,7 @@ class ReviewScreen extends ConsumerWidget {
       body: wrongIdsAsync.when(
         loading: () => const Center(child: CircularProgressIndicator()),
         error: (error, stack) => Center(
-          child: Text('Error: $error'),
+          child: Text(l10n.errorWithMessage(error.toString())),
         ),
         data: (wrongIds) {
           if (wrongIds.isEmpty) {

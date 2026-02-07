@@ -131,5 +131,13 @@
   "restorePurchases": "恢复购买",
   "purchaseFailed": "购买失败",
   "purchasesRestored": "购买已恢复",
-  "productNotAvailable": "产品不可用"
+  "productNotAvailable": "产品不可用",
+
+  "errorWithMessage": "错误：{message}",
+  "@errorWithMessage": {
+    "placeholders": {
+      "message": {"type": "String"}
+    }
+  },
+  "unknownError": "未知错误"
 }

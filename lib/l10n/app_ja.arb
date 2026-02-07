@@ -131,5 +131,13 @@
   "restorePurchases": "購入を復元",
   "purchaseFailed": "購入に失敗しました",
   "purchasesRestored": "購入が復元されました",
-  "productNotAvailable": "商品を読み込めません"
+  "productNotAvailable": "商品を読み込めません",
+
+  "errorWithMessage": "エラー: {message}",
+  "@errorWithMessage": {
+    "placeholders": {
+      "message": {"type": "String"}
+    }
+  },
+  "unknownError": "不明なエラー"
 }

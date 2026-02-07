@@ -125,5 +125,13 @@
   "restorePurchases": "Pulihkan Pembelian",
   "purchaseFailed": "Pembelian gagal",
   "purchasesRestored": "Pembelian dipulihkan",
-  "productNotAvailable": "Produk tidak tersedia"
+  "productNotAvailable": "Produk tidak tersedia",
+
+  "errorWithMessage": "Kesalahan: {message}",
+  "@errorWithMessage": {
+    "placeholders": {
+      "message": {"type": "String"}
+    }
+  },
+  "unknownError": "Kesalahan tidak diketahui"
 }

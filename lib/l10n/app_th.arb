@@ -125,5 +125,13 @@
   "restorePurchases": "กู้คืนการซื้อ",
   "purchaseFailed": "การซื้อล้มเหลว",
   "purchasesRestored": "กู้คืนการซื้อแล้ว",
-  "productNotAvailable": "สินค้าไม่พร้อมใช้งาน"
+  "productNotAvailable": "สินค้าไม่พร้อมใช้งาน",
+
+  "errorWithMessage": "ข้อผิดพลาด: {message}",
+  "@errorWithMessage": {
+    "placeholders": {
+      "message": {"type": "String"}
+    }
+  },
+  "unknownError": "ข้อผิดพลาดที่ไม่ทราบสาเหตุ"
 }

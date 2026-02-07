@@ -233,6 +233,28 @@ class QuizHistoryDao extends DatabaseAccessor<AppDatabase>
     });
   }
 
+  /// 카테고리별 통계 스트림 (실시간 업데이트)
+  Stream<CategoryStats> watchCategoryStats(String categoryId) {
+    final totalCount = quizHistory.id.count();
+    final correctSum = quizHistory.isCorrect.cast<int>().sum();
+
+    final query = selectOnly(quizHistory)
+      ..where(quizHistory.categoryId.equals(categoryId))
+      ..addColumns([totalCount, correctSum]);
+
+    return query.watchSingle().map((result) {
+      final total = result.read(totalCount) ?? 0;
+      final correct = result.read(correctSum) ?? 0;
+
+      return CategoryStats(
+        categoryId: categoryId,
+        totalAnswered: total,
+        correctCount: correct,
+        wrongCount: total - correct,
+      );
+    });
+  }
+
   /// 틀린 문제 ID 목록 스트림 (실시간 업데이트)
   Stream<List<String>> watchWrongQuestionIds({String? categoryId}) {
     var query = select(quizHistory);

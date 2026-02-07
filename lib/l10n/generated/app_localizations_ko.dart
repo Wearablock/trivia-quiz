@@ -33,16 +33,10 @@ class AppLocalizationsKo extends AppLocalizations {
   String get categories => '카테고리';
 
   @override
-  String get yourStats => '내 통계';
-
-  @override
   String get answered => '푼 문제';
 
   @override
   String get correct => '정답률';
-
-  @override
-  String get questions => '문제';
 
   @override
   String question(int current, int total) {
@@ -54,11 +48,6 @@ class AppLocalizationsKo extends AppLocalizations {
 
   @override
   String get wrongAnswer => '틀렸습니다!';
-
-  @override
-  String theCorrectAnswerIs(String answer) {
-    return '정답: $answer';
-  }
 
   @override
   String get next => '다음';
@@ -84,35 +73,10 @@ class AppLocalizationsKo extends AppLocalizations {
   String get backToHome => '홈으로';
 
   @override
-  String get wrongAnswers => '틀린 문제';
-
-  @override
   String get noWrongAnswers => '틀린 문제가 없습니다!';
 
   @override
   String get reviewAll => '전체 복습';
-
-  @override
-  String get start => '시작';
-
-  @override
-  String wrongCount(int count) {
-    return '$count개 오답';
-  }
-
-  @override
-  String get recentWrong => '최근 오답';
-
-  @override
-  String get yourAnswer => '내 답';
-
-  @override
-  String get correctAnswerLabel => '정답';
-
-  @override
-  String hoursAgo(int hours) {
-    return '$hours시간 전';
-  }
 
   @override
   String get categoryGeography => '지리';
@@ -274,9 +238,6 @@ class AppLocalizationsKo extends AppLocalizations {
   String get youreDoingGreat => '잘하고 있어요!';
 
   @override
-  String get leaderboardComingSoon => '리더보드가 곧 출시됩니다!';
-
-  @override
   String get termsOfService => '이용약관';
 
   @override
@@ -308,4 +269,12 @@ class AppLocalizationsKo extends AppLocalizations {
 
   @override
   String get productNotAvailable => '상품을 불러올 수 없습니다';
+
+  @override
+  String errorWithMessage(String message) {
+    return '오류: $message';
+  }
+
+  @override
+  String get unknownError => '알 수 없는 오류';
 }

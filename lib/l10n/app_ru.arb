@@ -125,5 +125,13 @@
   "restorePurchases": "Восстановить покупки",
   "purchaseFailed": "Ошибка покупки",
   "purchasesRestored": "Покупки восстановлены",
-  "productNotAvailable": "Продукт недоступен"
+  "productNotAvailable": "Продукт недоступен",
+
+  "errorWithMessage": "Ошибка: {message}",
+  "@errorWithMessage": {
+    "placeholders": {
+      "message": {"type": "String"}
+    }
+  },
+  "unknownError": "Неизвестная ошибка"
 }

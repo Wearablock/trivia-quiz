@@ -33,16 +33,10 @@ class AppLocalizationsAr extends AppLocalizations {
   String get categories => 'الفئات';
 
   @override
-  String get yourStats => 'إحصائياتك';
-
-  @override
   String get answered => 'تمت الإجابة';
 
   @override
   String get correct => 'صحيح';
-
-  @override
-  String get questions => 'أسئلة';
 
   @override
   String question(int current, int total) {
@@ -54,11 +48,6 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get wrongAnswer => 'خطأ!';
-
-  @override
-  String theCorrectAnswerIs(String answer) {
-    return 'الإجابة الصحيحة هي: $answer';
-  }
 
   @override
   String get next => 'التالي';
@@ -84,35 +73,10 @@ class AppLocalizationsAr extends AppLocalizations {
   String get backToHome => 'العودة للرئيسية';
 
   @override
-  String get wrongAnswers => 'الإجابات الخاطئة';
-
-  @override
   String get noWrongAnswers => 'لا توجد إجابات خاطئة بعد!';
 
   @override
   String get reviewAll => 'مراجعة الكل';
-
-  @override
-  String get start => 'ابدأ';
-
-  @override
-  String wrongCount(int count) {
-    return '$count خطأ';
-  }
-
-  @override
-  String get recentWrong => 'الأخطاء الأخيرة';
-
-  @override
-  String get yourAnswer => 'إجابتك';
-
-  @override
-  String get correctAnswerLabel => 'الإجابة الصحيحة';
-
-  @override
-  String hoursAgo(int hours) {
-    return 'منذ $hours ساعات';
-  }
 
   @override
   String get categoryGeography => 'الجغرافيا';
@@ -278,9 +242,6 @@ class AppLocalizationsAr extends AppLocalizations {
   String get youreDoingGreat => 'أنت تبلي بلاءً حسناً!';
 
   @override
-  String get leaderboardComingSoon => 'لوحة المتصدرين قريباً!';
-
-  @override
   String get termsOfService => 'شروط الخدمة';
 
   @override
@@ -312,4 +273,12 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get productNotAvailable => 'المنتج غير متوفر';
+
+  @override
+  String errorWithMessage(String message) {
+    return 'خطأ: $message';
+  }
+
+  @override
+  String get unknownError => 'خطأ غير معروف';
 }

@@ -53,6 +53,11 @@ class QuizHistoryRepository {
     return _dao.watchOverallStats();
   }
 
+  /// 카테고리별 통계 스트림
+  Stream<CategoryStats> watchCategoryStats(String categoryId) {
+    return _dao.watchCategoryStats(categoryId);
+  }
+
   /// 틀린 문제 ID 목록
   Future<List<String>> getWrongQuestionIds({String? categoryId}) {
     return _dao.getWrongQuestionIds(categoryId: categoryId);

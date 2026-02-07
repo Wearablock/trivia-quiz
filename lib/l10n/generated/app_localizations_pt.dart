@@ -34,16 +34,10 @@ class AppLocalizationsPt extends AppLocalizations {
   String get categories => 'Categorias';
 
   @override
-  String get yourStats => 'Suas estatísticas';
-
-  @override
   String get answered => 'Respondidas';
 
   @override
   String get correct => 'Corretas';
-
-  @override
-  String get questions => 'perguntas';
 
   @override
   String question(int current, int total) {
@@ -55,11 +49,6 @@ class AppLocalizationsPt extends AppLocalizations {
 
   @override
   String get wrongAnswer => 'Incorreto!';
-
-  @override
-  String theCorrectAnswerIs(String answer) {
-    return 'A resposta correta é: $answer';
-  }
 
   @override
   String get next => 'Próximo';
@@ -85,35 +74,10 @@ class AppLocalizationsPt extends AppLocalizations {
   String get backToHome => 'Voltar ao início';
 
   @override
-  String get wrongAnswers => 'Respostas erradas';
-
-  @override
   String get noWrongAnswers => 'Ainda não há respostas erradas!';
 
   @override
   String get reviewAll => 'Revisar tudo';
-
-  @override
-  String get start => 'Começar';
-
-  @override
-  String wrongCount(int count) {
-    return '$count errada(s)';
-  }
-
-  @override
-  String get recentWrong => 'Erros recentes';
-
-  @override
-  String get yourAnswer => 'Sua resposta';
-
-  @override
-  String get correctAnswerLabel => 'Resposta correta';
-
-  @override
-  String hoursAgo(int hours) {
-    return 'há $hours horas';
-  }
 
   @override
   String get categoryGeography => 'Geografia';
@@ -280,9 +244,6 @@ class AppLocalizationsPt extends AppLocalizations {
   String get youreDoingGreat => 'Você está indo muito bem!';
 
   @override
-  String get leaderboardComingSoon => 'Placar em breve!';
-
-  @override
   String get termsOfService => 'Termos de serviço';
 
   @override
@@ -314,4 +275,12 @@ class AppLocalizationsPt extends AppLocalizations {
 
   @override
   String get productNotAvailable => 'Produto não disponível';
+
+  @override
+  String errorWithMessage(String message) {
+    return 'Erro: $message';
+  }
+
+  @override
+  String get unknownError => 'Erro desconhecido';
 }

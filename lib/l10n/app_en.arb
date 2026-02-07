@@ -8,10 +8,8 @@
   "quickQuiz": "Quick Quiz",
   "quickQuizDescription": "10 random questions from all categories",
   "categories": "Categories",
-  "yourStats": "Your Stats",
   "answered": "Answered",
   "correct": "Correct",
-  "questions": "questions",
   "question": "Question {current} of {total}",
   "@question": {
     "placeholders": {
@@ -21,12 +19,6 @@
   },
   "correctAnswer": "Correct!",
   "wrongAnswer": "Wrong!",
-  "theCorrectAnswerIs": "The correct answer is: {answer}",
-  "@theCorrectAnswerIs": {
-    "placeholders": {
-      "answer": {"type": "String"}
-    }
-  },
   "next": "Next",
   "finish": "Finish",
   "quizComplete": "Quiz Complete!",
@@ -40,25 +32,8 @@
   },
   "playAgain": "Play Again",
   "backToHome": "Back to Home",
-  "wrongAnswers": "Wrong Answers",
   "noWrongAnswers": "No wrong answers yet!",
   "reviewAll": "Review All",
-  "start": "Start",
-  "wrongCount": "{count} wrong",
-  "@wrongCount": {
-    "placeholders": {
-      "count": {"type": "int"}
-    }
-  },
-  "recentWrong": "Recent Wrong",
-  "yourAnswer": "Your answer",
-  "correctAnswerLabel": "Correct answer",
-  "hoursAgo": "{hours} hours ago",
-  "@hoursAgo": {
-    "placeholders": {
-      "hours": {"type": "int"}
-    }
-  },
   "categoryGeography": "Geography",
   "categoryHistory": "History",
   "categoryScience": "Science",
@@ -118,7 +93,6 @@
   "unableToLoadStats": "Unable to load stats",
 
   "youreDoingGreat": "You're doing great!",
-  "leaderboardComingSoon": "Leaderboard coming soon!",
 
   "termsOfService": "Terms of Service",
   "privacyPolicy": "Privacy Policy",
@@ -131,5 +105,13 @@
   "restorePurchases": "Restore Purchases",
   "purchaseFailed": "Purchase failed",
   "purchasesRestored": "Purchases restored",
-  "productNotAvailable": "Product not available"
+  "productNotAvailable": "Product not available",
+
+  "errorWithMessage": "Error: {message}",
+  "@errorWithMessage": {
+    "placeholders": {
+      "message": {"type": "String"}
+    }
+  },
+  "unknownError": "Unknown error"
 }

@@ -125,5 +125,13 @@
   "restorePurchases": "恢復購買",
   "purchaseFailed": "購買失敗",
   "purchasesRestored": "購買已恢復",
-  "productNotAvailable": "產品不可用"
+  "productNotAvailable": "產品不可用",
+
+  "errorWithMessage": "錯誤：{message}",
+  "@errorWithMessage": {
+    "placeholders": {
+      "message": {"type": "String"}
+    }
+  },
+  "unknownError": "未知錯誤"
 }

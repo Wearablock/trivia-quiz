@@ -32,7 +32,7 @@ class QuizErrorView extends ConsumerWidget {
             ),
             const SizedBox(height: 8),
             Text(
-              state.errorMessage ?? 'Unknown error',
+              state.errorMessage ?? l10n.unknownError,
               style: TextStyle(color: Colors.grey.shade600),
               textAlign: TextAlign.center,
             ),

@@ -33,16 +33,10 @@ class AppLocalizationsDe extends AppLocalizations {
   String get categories => 'Kategorien';
 
   @override
-  String get yourStats => 'Deine Statistik';
-
-  @override
   String get answered => 'Beantwortet';
 
   @override
   String get correct => 'Richtig';
-
-  @override
-  String get questions => 'Fragen';
 
   @override
   String question(int current, int total) {
@@ -54,11 +48,6 @@ class AppLocalizationsDe extends AppLocalizations {
 
   @override
   String get wrongAnswer => 'Falsch!';
-
-  @override
-  String theCorrectAnswerIs(String answer) {
-    return 'Die richtige Antwort ist: $answer';
-  }
 
   @override
   String get next => 'Weiter';
@@ -84,35 +73,10 @@ class AppLocalizationsDe extends AppLocalizations {
   String get backToHome => 'Zurück zur Startseite';
 
   @override
-  String get wrongAnswers => 'Falsche Antworten';
-
-  @override
   String get noWrongAnswers => 'Noch keine falschen Antworten!';
 
   @override
   String get reviewAll => 'Alle überprüfen';
-
-  @override
-  String get start => 'Start';
-
-  @override
-  String wrongCount(int count) {
-    return '$count falsch';
-  }
-
-  @override
-  String get recentWrong => 'Kürzlich falsch';
-
-  @override
-  String get yourAnswer => 'Deine Antwort';
-
-  @override
-  String get correctAnswerLabel => 'Richtige Antwort';
-
-  @override
-  String hoursAgo(int hours) {
-    return 'vor $hours Stunden';
-  }
 
   @override
   String get categoryGeography => 'Geographie';
@@ -279,9 +243,6 @@ class AppLocalizationsDe extends AppLocalizations {
   String get youreDoingGreat => 'Sie machen das großartig!';
 
   @override
-  String get leaderboardComingSoon => 'Bestenliste kommt bald!';
-
-  @override
   String get termsOfService => 'Nutzungsbedingungen';
 
   @override
@@ -313,4 +274,12 @@ class AppLocalizationsDe extends AppLocalizations {
 
   @override
   String get productNotAvailable => 'Produkt nicht verfügbar';
+
+  @override
+  String errorWithMessage(String message) {
+    return 'Fehler: $message';
+  }
+
+  @override
+  String get unknownError => 'Unbekannter Fehler';
 }

@@ -33,16 +33,10 @@ class AppLocalizationsEn extends AppLocalizations {
   String get categories => 'Categories';
 
   @override
-  String get yourStats => 'Your Stats';
-
-  @override
   String get answered => 'Answered';
 
   @override
   String get correct => 'Correct';
-
-  @override
-  String get questions => 'questions';
 
   @override
   String question(int current, int total) {
@@ -54,11 +48,6 @@ class AppLocalizationsEn extends AppLocalizations {
 
   @override
   String get wrongAnswer => 'Wrong!';
-
-  @override
-  String theCorrectAnswerIs(String answer) {
-    return 'The correct answer is: $answer';
-  }
 
   @override
   String get next => 'Next';
@@ -84,35 +73,10 @@ class AppLocalizationsEn extends AppLocalizations {
   String get backToHome => 'Back to Home';
 
   @override
-  String get wrongAnswers => 'Wrong Answers';
-
-  @override
   String get noWrongAnswers => 'No wrong answers yet!';
 
   @override
   String get reviewAll => 'Review All';
-
-  @override
-  String get start => 'Start';
-
-  @override
-  String wrongCount(int count) {
-    return '$count wrong';
-  }
-
-  @override
-  String get recentWrong => 'Recent Wrong';
-
-  @override
-  String get yourAnswer => 'Your answer';
-
-  @override
-  String get correctAnswerLabel => 'Correct answer';
-
-  @override
-  String hoursAgo(int hours) {
-    return '$hours hours ago';
-  }
 
   @override
   String get categoryGeography => 'Geography';
@@ -277,9 +241,6 @@ class AppLocalizationsEn extends AppLocalizations {
   String get youreDoingGreat => 'You\'re doing great!';
 
   @override
-  String get leaderboardComingSoon => 'Leaderboard coming soon!';
-
-  @override
   String get termsOfService => 'Terms of Service';
 
   @override
@@ -311,4 +272,12 @@ class AppLocalizationsEn extends AppLocalizations {
 
   @override
   String get productNotAvailable => 'Product not available';
+
+  @override
+  String errorWithMessage(String message) {
+    return 'Error: $message';
+  }
+
+  @override
+  String get unknownError => 'Unknown error';
 }

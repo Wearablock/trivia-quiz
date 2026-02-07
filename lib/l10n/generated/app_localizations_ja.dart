@@ -33,16 +33,10 @@ class AppLocalizationsJa extends AppLocalizations {
   String get categories => 'カテゴリ';
 
   @override
-  String get yourStats => 'あなたの統計';
-
-  @override
   String get answered => '回答数';
 
   @override
   String get correct => '正解率';
-
-  @override
-  String get questions => '問題';
 
   @override
   String question(int current, int total) {
@@ -54,11 +48,6 @@ class AppLocalizationsJa extends AppLocalizations {
 
   @override
   String get wrongAnswer => '不正解！';
-
-  @override
-  String theCorrectAnswerIs(String answer) {
-    return '正解: $answer';
-  }
 
   @override
   String get next => '次へ';
@@ -84,35 +73,10 @@ class AppLocalizationsJa extends AppLocalizations {
   String get backToHome => 'ホームへ';
 
   @override
-  String get wrongAnswers => '間違えた問題';
-
-  @override
   String get noWrongAnswers => '間違えた問題はありません！';
 
   @override
   String get reviewAll => '全て復習';
-
-  @override
-  String get start => '開始';
-
-  @override
-  String wrongCount(int count) {
-    return '$count問不正解';
-  }
-
-  @override
-  String get recentWrong => '最近の不正解';
-
-  @override
-  String get yourAnswer => 'あなたの答え';
-
-  @override
-  String get correctAnswerLabel => '正解';
-
-  @override
-  String hoursAgo(int hours) {
-    return '$hours時間前';
-  }
 
   @override
   String get categoryGeography => '地理';
@@ -274,9 +238,6 @@ class AppLocalizationsJa extends AppLocalizations {
   String get youreDoingGreat => '順調ですね！';
 
   @override
-  String get leaderboardComingSoon => 'リーダーボードは近日公開！';
-
-  @override
   String get termsOfService => '利用規約';
 
   @override
@@ -308,4 +269,12 @@ class AppLocalizationsJa extends AppLocalizations {
 
   @override
   String get productNotAvailable => '商品を読み込めません';
+
+  @override
+  String errorWithMessage(String message) {
+    return 'エラー: $message';
+  }
+
+  @override
+  String get unknownError => '不明なエラー';
 }

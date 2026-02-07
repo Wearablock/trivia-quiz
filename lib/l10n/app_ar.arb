@@ -125,5 +125,13 @@
   "restorePurchases": "استعادة المشتريات",
   "purchaseFailed": "فشل الشراء",
   "purchasesRestored": "تم استعادة المشتريات",
-  "productNotAvailable": "المنتج غير متوفر"
+  "productNotAvailable": "المنتج غير متوفر",
+
+  "errorWithMessage": "خطأ: {message}",
+  "@errorWithMessage": {
+    "placeholders": {
+      "message": {"type": "String"}
+    }
+  },
+  "unknownError": "خطأ غير معروف"
 }

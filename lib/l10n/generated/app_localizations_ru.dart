@@ -33,16 +33,10 @@ class AppLocalizationsRu extends AppLocalizations {
   String get categories => 'Категории';
 
   @override
-  String get yourStats => 'Ваша статистика';
-
-  @override
   String get answered => 'Отвечено';
 
   @override
   String get correct => 'Правильно';
-
-  @override
-  String get questions => 'вопросов';
 
   @override
   String question(int current, int total) {
@@ -54,11 +48,6 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get wrongAnswer => 'Неправильно!';
-
-  @override
-  String theCorrectAnswerIs(String answer) {
-    return 'Правильный ответ: $answer';
-  }
 
   @override
   String get next => 'Далее';
@@ -84,35 +73,10 @@ class AppLocalizationsRu extends AppLocalizations {
   String get backToHome => 'На главную';
 
   @override
-  String get wrongAnswers => 'Неправильные ответы';
-
-  @override
   String get noWrongAnswers => 'Пока нет неправильных ответов!';
 
   @override
   String get reviewAll => 'Повторить все';
-
-  @override
-  String get start => 'Начать';
-
-  @override
-  String wrongCount(int count) {
-    return '$count неправильно';
-  }
-
-  @override
-  String get recentWrong => 'Недавние ошибки';
-
-  @override
-  String get yourAnswer => 'Ваш ответ';
-
-  @override
-  String get correctAnswerLabel => 'Правильный ответ';
-
-  @override
-  String hoursAgo(int hours) {
-    return '$hours часов назад';
-  }
 
   @override
   String get categoryGeography => 'География';
@@ -279,9 +243,6 @@ class AppLocalizationsRu extends AppLocalizations {
   String get youreDoingGreat => 'Вы отлично справляетесь!';
 
   @override
-  String get leaderboardComingSoon => 'Таблица лидеров скоро!';
-
-  @override
   String get termsOfService => 'Условия использования';
 
   @override
@@ -313,4 +274,12 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get productNotAvailable => 'Продукт недоступен';
+
+  @override
+  String errorWithMessage(String message) {
+    return 'Ошибка: $message';
+  }
+
+  @override
+  String get unknownError => 'Неизвестная ошибка';
 }
