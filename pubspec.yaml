@@ -1,7 +1,7 @@
 name: trivia_quiz
 description: "Global Trivia Quiz - Test your knowledge with thousands of trivia questions"
 publish_to: 'none'
-version: 1.0.0+1
+version: 1.0.1+2
 
 environment:
   sdk: ^3.10.0
