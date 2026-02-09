@@ -2,71 +2,144 @@
   "q_spo_001": {
     "question": "Cuantos jugadores tiene un equipo de futbol en el campo?",
     "correct": "11",
-    "wrong": ["9", "10", "12"],
+    "wrong": [
+      "9",
+      "10",
+      "12"
+    ],
     "explanation": "Cada equipo de futbol tiene 11 jugadores en el campo, incluyendo el portero.",
     "hint": "Es el mismo numero que el dorsal tradicional del portero o del extremo izquierdo."
   },
   "q_spo_002": {
     "question": "En que deporte se realiza un mate o clavada?",
     "correct": "Baloncesto",
-    "wrong": ["Voleibol", "Tenis", "Beisbol"],
+    "wrong": [
+      "Voleibol",
+      "Tenis",
+      "Beisbol"
+    ],
     "explanation": "Un mate es una jugada de baloncesto donde un jugador salta y anota metiendo el balon directamente en el aro.",
     "hint": "Michael Jordan y LeBron James son famosos por realizar esta espectacular jugada."
   },
   "q_spo_003": {
     "question": "Que pais ha ganado mas titulos de la Copa Mundial de la FIFA?",
     "correct": "Brasil",
-    "wrong": ["Alemania", "Italia", "Argentina"],
+    "wrong": [
+      "Alemania",
+      "Italia",
+      "Argentina"
+    ],
     "explanation": "Brasil ha ganado la Copa Mundial de la FIFA 5 veces (1958, 1962, 1970, 1994, 2002).",
     "hint": "Este pais sudamericano juega con camiseta amarilla y ha dado jugadores como Pele y Ronaldo."
   },
   "q_spo_004": {
     "question": "Cual es la puntuacion maxima posible en bolos de 10 pines?",
     "correct": "300",
-    "wrong": ["200", "250", "350"],
+    "wrong": [
+      "200",
+      "250",
+      "350"
+    ],
     "explanation": "Un juego perfecto de bolos tiene una puntuacion de 300 puntos con 12 strikes consecutivos.",
     "hint": "Es el resultado de multiplicar 30 puntos por cada uno de los 10 cuadros."
   },
   "q_spo_005": {
     "question": "Que torneo de Grand Slam de tenis se juega en canchas de arcilla?",
     "correct": "Roland Garros",
-    "wrong": ["Wimbledon", "US Open", "Abierto de Australia"],
+    "wrong": [
+      "Wimbledon",
+      "US Open",
+      "Abierto de Australia"
+    ],
     "explanation": "Roland Garros es el unico Grand Slam que se juega en arcilla.",
     "hint": "Este torneo se celebra en Paris cada mayo-junio y Rafael Nadal ha dominado historicamente."
   },
   "q_spo_006": {
     "question": "Cuantos anillos hay en la bandera olimpica?",
     "correct": "5",
-    "wrong": ["4", "6", "7"],
+    "wrong": [
+      "4",
+      "6",
+      "7"
+    ],
     "hint": "Cada anillo representa un continente que participa en los Juegos Olimpicos.",
     "explanation": "Los cinco anillos olimpicos representan los cinco continentes: Africa, Americas, Asia, Europa y Oceania."
   },
   "q_spo_007": {
     "question": "En que deporte un 'birdie' significa un golpe bajo par?",
     "correct": "Golf",
-    "wrong": ["Badminton", "Tenis", "Cricket"],
+    "wrong": [
+      "Badminton",
+      "Tenis",
+      "Cricket"
+    ],
     "hint": "Este deporte se juega en campos con 18 hoyos usando palos y una pelota pequena.",
     "explanation": "En el golf, un birdie significa completar un hoyo con un golpe menos que el par."
   },
   "q_spo_008": {
     "question": "Que pais invento el deporte del cricket?",
     "correct": "Inglaterra",
-    "wrong": ["India", "Australia", "Sudafrica"],
+    "wrong": [
+      "India",
+      "Australia",
+      "Sudafrica"
+    ],
     "hint": "Este deporte se remonta al siglo XVI y es el deporte nacional de verano de este pais.",
     "explanation": "El cricket se origino en Inglaterra a finales del siglo XVI y se extendio a traves del Imperio Britanico."
   },
   "q_spo_009": {
     "question": "Cual es la longitud de un maraton en kilometros?",
     "correct": "42,195 km",
-    "wrong": ["40 km", "45 km", "50 km"],
+    "wrong": [
+      "40 km",
+      "45 km",
+      "50 km"
+    ],
     "hint": "La distancia se estandarizo en los Juegos Olimpicos de Londres de 1908.",
     "explanation": "Un maraton mide 42,195 km (26,2 millas), distancia establecida en los Juegos Olimpicos de Londres de 1908."
   },
   "q_spo_010": {
     "question": "Que deporte utiliza el campo de juego mas grande?",
     "correct": "Polo",
-    "wrong": ["Futbol", "Rugby", "Futbol americano"],
+    "wrong": [
+      "Futbol",
+      "Rugby",
+      "Futbol americano"
+    ],
     "hint": "Este deporte se practica a caballo y el campo puede medir hasta 275 metros de largo.",
     "explanation": "Un campo de polo es el campo de juego mas grande del deporte organizado, con hasta 275 por 180 metros."
+  },
+  "q_spo_011": {
+    "question": "¿En qué deporte 'love' significa cero puntos?",
+    "correct": "Tenis",
+    "wrong": [
+      "Bádminton",
+      "Squash",
+      "Tenis de mesa"
+    ],
+    "hint": "Este deporte usa un sistema de puntuación peculiar: 15, 30, 40.",
+    "explanation": "En tenis, 'love' significa cero puntos."
+  },
+  "q_spo_012": {
+    "question": "¿Cuál es el deporte nacional de Japón?",
+    "correct": "Sumo",
+    "wrong": [
+      "Judo",
+      "Karate",
+      "Kendo"
+    ],
+    "hint": "Los luchadores intentan empujar al oponente fuera de un ring circular.",
+    "explanation": "El sumo es el deporte nacional de Japón con más de 1.500 años de historia."
+  },
+  "q_spo_013": {
+    "question": "¿Cuántos jugadores tiene un equipo de voleibol en la cancha?",
+    "correct": "6",
+    "wrong": [
+      "5",
+      "7",
+      "8"
+    ],
+    "hint": "Los jugadores rotan posiciones cada vez que ganan el saque.",
+    "explanation": "Cada equipo de voleibol tiene 6 jugadores en la cancha."
   }
 }

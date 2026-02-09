@@ -68,5 +68,19 @@
     "wrong": ["Atlantic Ocean", "Indian Ocean", "Southern Ocean"],
     "hint": "The Mariana Trench, the deepest point on Earth, is located in this ocean.",
     "explanation": "The Pacific Ocean contains the Mariana Trench, reaching a depth of about 11,034 meters at the Challenger Deep."
+  },
+  "q_nat_011": {
+    "question": "What is the only mammal capable of true flight?",
+    "correct": "Bat",
+    "wrong": ["Flying squirrel", "Sugar glider", "Colugo"],
+    "hint": "This nocturnal animal uses echolocation to navigate in the dark.",
+    "explanation": "Bats are the only mammals that can truly fly. Flying squirrels and sugar gliders only glide."
+  },
+  "q_nat_012": {
+    "question": "How many hearts does an octopus have?",
+    "correct": "3",
+    "wrong": ["1", "2", "4"],
+    "hint": "Two of its hearts pump blood to the gills, while the third circulates it to the body.",
+    "explanation": "An octopus has three hearts: two branchial hearts for the gills and one systemic heart for the rest of the body."
   }
 }

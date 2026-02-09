@@ -2,71 +2,144 @@
   "q_his_001": {
     "question": "Em que ano terminou a Segunda Guerra Mundial?",
     "correct": "1945",
-    "wrong": ["1944", "1946", "1943"],
+    "wrong": [
+      "1944",
+      "1946",
+      "1943"
+    ],
     "explanation": "A Segunda Guerra Mundial terminou em 1945 com a rendicao da Alemanha em maio e do Japao em setembro.",
     "hint": "Foi o mesmo ano em que bombas atomicas foram lancadas sobre Hiroshima e Nagasaki."
   },
   "q_his_002": {
     "question": "Quem foi o primeiro Presidente dos Estados Unidos?",
     "correct": "George Washington",
-    "wrong": ["Thomas Jefferson", "Abraham Lincoln", "John Adams"],
+    "wrong": [
+      "Thomas Jefferson",
+      "Abraham Lincoln",
+      "John Adams"
+    ],
     "explanation": "George Washington serviu como o primeiro presidente dos EUA de 1789 a 1797.",
     "hint": "A capital americana e uma cidade que leva seu sobrenome."
   },
   "q_his_003": {
     "question": "Qual civilizacao antiga construiu as piramides de Gize?",
     "correct": "Egipcios Antigos",
-    "wrong": ["Romanos", "Gregos", "Mesopotamios"],
+    "wrong": [
+      "Romanos",
+      "Gregos",
+      "Mesopotamios"
+    ],
     "explanation": "A Grande Piramide de Gize foi construida por volta de 2560 a.C. para o Farao Quops.",
     "hint": "Esta civilizacao se desenvolveu ao longo do rio Nilo e era governada por faraos."
   },
   "q_his_004": {
     "question": "Em que ano caiu o Muro de Berlim?",
     "correct": "1989",
-    "wrong": ["1987", "1991", "1985"],
+    "wrong": [
+      "1987",
+      "1991",
+      "1985"
+    ],
     "explanation": "O Muro de Berlim caiu em 9 de novembro de 1989, marcando um momento crucial no fim da Guerra Fria.",
     "hint": "Aconteceu no final da decada de 1980, pouco antes da reunificacao da Alemanha."
   },
   "q_his_005": {
     "question": "Qual imperio foi governado por Genghis Khan?",
     "correct": "Imperio Mongol",
-    "wrong": ["Imperio Otomano", "Imperio Romano", "Imperio Persa"],
+    "wrong": [
+      "Imperio Otomano",
+      "Imperio Romano",
+      "Imperio Persa"
+    ],
     "explanation": "Genghis Khan fundou e governou o Imperio Mongol, o maior imperio terrestre contiguo da historia.",
     "hint": "Este imperio teve origem nas estepes da Asia Central, na regiao que hoje corresponde a Mongolia."
   },
   "q_his_006": {
     "question": "Quem foi a primeira pessoa a pisar na Lua?",
     "correct": "Neil Armstrong",
-    "wrong": ["Buzz Aldrin", "Yuri Gagarin", "John Glenn"],
+    "wrong": [
+      "Buzz Aldrin",
+      "Yuri Gagarin",
+      "John Glenn"
+    ],
     "hint": "Ele disse: 'Um pequeno passo para o homem, um grande salto para a humanidade.'",
     "explanation": "Neil Armstrong se tornou a primeira pessoa a caminhar na Lua em 20 de julho de 1969, durante a missao Apollo 11."
   },
   "q_his_007": {
     "question": "Qual navio afundou em sua viagem inaugural em 1912?",
     "correct": "RMS Titanic",
-    "wrong": ["RMS Lusitania", "HMS Britannic", "SS Andrea Doria"],
+    "wrong": [
+      "RMS Lusitania",
+      "HMS Britannic",
+      "SS Andrea Doria"
+    ],
     "hint": "Ele era chamado de 'inafundavel' e atingiu um iceberg no Atlantico Norte.",
     "explanation": "O Titanic afundou em 15 de abril de 1912 apos atingir um iceberg, matando mais de 1.500 pessoas."
   },
   "q_his_008": {
     "question": "Em qual seculo comecou o Renascimento?",
     "correct": "Seculo XIV",
-    "wrong": ["Seculo XII", "Seculo XVI", "Seculo XV"],
+    "wrong": [
+      "Seculo XII",
+      "Seculo XVI",
+      "Seculo XV"
+    ],
     "hint": "Comecou na Italia, especialmente em Florenca, e significa 'renascimento'.",
     "explanation": "O Renascimento comecou no seculo XIV na Italia e marcou uma transicao cultural desde a Idade Media."
   },
   "q_his_009": {
     "question": "Quem descobriu a penicilina?",
     "correct": "Alexander Fleming",
-    "wrong": ["Louis Pasteur", "Robert Koch", "Joseph Lister"],
+    "wrong": [
+      "Louis Pasteur",
+      "Robert Koch",
+      "Joseph Lister"
+    ],
     "hint": "Ele a descobriu acidentalmente a partir de mofo crescendo em uma placa de Petri em 1928.",
     "explanation": "Alexander Fleming descobriu a penicilina em 1928, revolucionando a medicina com o primeiro antibiotico verdadeiro."
   },
   "q_his_010": {
     "question": "Qual maravilha do mundo antigo ficava em Alexandria, no Egito?",
     "correct": "O Farol",
-    "wrong": ["O Colosso", "Os Jardins Suspensos", "O Templo de Artemis"],
+    "wrong": [
+      "O Colosso",
+      "Os Jardins Suspensos",
+      "O Templo de Artemis"
+    ],
     "hint": "Esta estrutura guiava os marinheiros ao movimentado porto e tinha mais de 100 metros de altura.",
     "explanation": "O Farol de Alexandria (Pharos) foi construido por volta de 280 a.C. e era uma das estruturas mais altas do mundo antigo."
+  },
+  "q_his_011": {
+    "question": "Quem foi a primeira mulher Primeira-Ministra do Reino Unido?",
+    "correct": "Margaret Thatcher",
+    "wrong": [
+      "Theresa May",
+      "Rainha Vitória",
+      "Emmeline Pankhurst"
+    ],
+    "hint": "Apelidada de 'Dama de Ferro', governou de 1979 a 1990.",
+    "explanation": "Margaret Thatcher tornou-se a primeira mulher Primeira-Ministra do Reino Unido em 1979."
+  },
+  "q_his_012": {
+    "question": "Em que ano começou a Revolução Francesa?",
+    "correct": "1789",
+    "wrong": [
+      "1776",
+      "1804",
+      "1815"
+    ],
+    "hint": "Começou com a tomada de uma famosa prisão-fortaleza em Paris.",
+    "explanation": "A Revolução Francesa começou em 14 de julho de 1789 com a Tomada da Bastilha."
+  },
+  "q_his_013": {
+    "question": "Qual cidade antiga foi soterrada pelo Vesúvio em 79 d.C.?",
+    "correct": "Pompeia",
+    "wrong": [
+      "Atenas",
+      "Cartago",
+      "Troia"
+    ],
+    "hint": "Esta cidade romana foi preservada sob cinzas vulcânicas e redescoberta no século XVIII.",
+    "explanation": "Pompeia foi soterrada sob metros de cinzas vulcânicas."
   }
 }

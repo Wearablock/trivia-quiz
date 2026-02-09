@@ -2,71 +2,133 @@
   "q_tec_001": {
     "question": "誰發明了電話？",
     "correct": "亞歷山大·格拉漢姆·貝爾",
-    "wrong": ["托馬斯·愛迪生", "尼古拉·特斯拉", "古列爾莫·馬可尼"],
+    "wrong": [
+      "托馬斯·愛迪生",
+      "尼古拉·特斯拉",
+      "古列爾莫·馬可尼"
+    ],
     "hint": "他在第一次電話通話中說的是「Mr. Watson, come here」。",
     "explanation": "亞歷山大·格拉漢姆·貝爾於1876年獲得電話專利。"
   },
   "q_tec_002": {
     "question": "「HTTP」代表什麼？",
     "correct": "超文本傳輸協議",
-    "wrong": ["高科技傳輸協議", "超文本技術過程", "家用工具傳輸協議"],
+    "wrong": [
+      "高科技傳輸協議",
+      "超文本技術過程",
+      "家用工具傳輸協議"
+    ],
     "hint": "你在網址開頭看到的。",
     "explanation": "HTTP是萬維網上資料通訊的基礎。"
   },
   "q_tec_003": {
     "question": "第一代iPhone是哪年發布的？",
     "correct": "2007年",
-    "wrong": ["2005年", "2008年", "2010年"],
+    "wrong": [
+      "2005年",
+      "2008年",
+      "2010年"
+    ],
     "hint": "史蒂夫·喬布斯在舊金山的Macworld上發布了它。",
     "explanation": "蘋果公司於2007年6月29日發布了第一代iPhone。"
   },
   "q_tec_004": {
     "question": "以在網頁瀏覽器中使用而聞名的程式語言是什麼？",
     "correct": "JavaScript",
-    "wrong": ["Python", "Java", "C++"],
+    "wrong": [
+      "Python",
+      "Java",
+      "C++"
+    ],
     "hint": "儘管名字相似，但它與Java無關，在瀏覽器中運行。",
     "explanation": "JavaScript是瀏覽器中互動式網頁內容的主要語言。"
   },
   "q_tec_005": {
     "question": "誰創立了微軟？",
     "correct": "比爾·蓋茲和保羅·艾倫",
-    "wrong": ["史蒂夫·乔布斯", "馬克·扎克伯格", "傑夫·貝佐斯"],
+    "wrong": [
+      "史蒂夫·乔布斯",
+      "馬克·扎克伯格",
+      "傑夫·貝佐斯"
+    ],
     "hint": "他們於1975年在新墨西哥州阿爾伯克基創辦了公司。",
     "explanation": "比爾·蓋茲和保羅·艾倫於1975年創立了微軟。"
   },
   "q_tec_006": {
     "question": "「Wi-Fi」代表什麼？",
     "correct": "Wireless Fidelity",
-    "wrong": ["Wide Frequency", "Wired Filter", "Wireless Function"],
+    "wrong": [
+      "Wide Frequency",
+      "Wired Filter",
+      "Wireless Function"
+    ],
     "hint": "這項技術允許裝置無需纜線即可連接網路。",
     "explanation": "Wi-Fi代表Wireless Fidelity，利用無線電波提供網路連線。"
   },
   "q_tec_007": {
     "question": "哪家公司開發了Android作業系統？",
     "correct": "Google",
-    "wrong": ["Apple", "Samsung", "Microsoft"],
+    "wrong": [
+      "Apple",
+      "Samsung",
+      "Microsoft"
+    ],
     "hint": "這家公司的名字也是一個數學術語，表示10的100次方。",
     "explanation": "Google於2005年收購了Android公司，並於2008年發布了第一款Android手機。"
   },
   "q_tec_008": {
     "question": "第一台可程式化電腦叫什麼名字？",
     "correct": "Z3",
-    "wrong": ["ENIAC", "UNIVAC", "巨人"],
+    "wrong": [
+      "ENIAC",
+      "UNIVAC",
+      "巨人"
+    ],
     "hint": "它由康拉德·楚澤於1941年在德國製造。",
     "explanation": "康拉德·楚澤於1941年完成的Z3被認為是世界上第一台可程式化的全自動電腦。"
   },
   "q_tec_009": {
     "question": "「GPS」代表什麼？",
     "correct": "全球定位系統",
-    "wrong": ["通用衛星", "全球處理系統", "地球物理訊號"],
+    "wrong": [
+      "通用衛星",
+      "全球處理系統",
+      "地球物理訊號"
+    ],
     "hint": "這個基於衛星的導航系統最初由美國軍方開發。",
     "explanation": "GPS（全球定位系統）使用衛星網路在地球任何地方提供位置和時間資訊。"
   },
   "q_tec_010": {
     "question": "誰被稱為全球資訊網之父？",
     "correct": "提姆·柏內茲-李",
-    "wrong": ["溫頓·瑟夫", "史蒂夫·沃茲乕亞克", "賴利·佩奇"],
+    "wrong": [
+      "溫頓·瑟夫",
+      "史蒂夫·沃茲乕亞克",
+      "賴利·佩奇"
+    ],
     "hint": "他於1989年在CERN發明了全球資訊網並建立了第一個網頁瀏覽器。",
     "explanation": "提姆·柏內茲-李於1989年在瑞士CERN工作期間發明了全球資訊網。"
+  },
+  "q_tec_011": {
+    "question": "「USB」是什麼的縮寫？",
+    "correct": "Universal Serial Bus",
+    "wrong": [
+      "Ultra Speed Bridge",
+      "Unified System Buffer",
+      "Universal System Bridge"
+    ],
+    "hint": "這種標準接口用於連接鍵盤和隨身碟等周邊設備。",
+    "explanation": "USB於1996年推出。"
+  },
+  "q_tec_012": {
+    "question": "哪家公司製造了第一台商業上成功的個人電腦？",
+    "correct": "Apple",
+    "wrong": [
+      "IBM",
+      "Microsoft",
+      "Hewlett-Packard"
+    ],
+    "hint": "1977年推出的Apple II是最早的大規模生產微型電腦之一。",
+    "explanation": "Apple的Apple II（1977年）幫助開啟了PC革命。"
   }
 }

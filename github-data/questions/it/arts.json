@@ -2,71 +2,144 @@
   "q_art_001": {
     "question": "Chi ha dipinto la Gioconda?",
     "correct": "Leonardo da Vinci",
-    "wrong": ["Michelangelo", "Raffaello", "Botticelli"],
+    "wrong": [
+      "Michelangelo",
+      "Raffaello",
+      "Botticelli"
+    ],
     "explanation": "Leonardo da Vinci dipinse la Gioconda tra il 1503 e il 1519.",
     "hint": "Questo genio italiano era anche inventore, scienziato e autore del Codice Atlantico."
   },
   "q_art_002": {
     "question": "Quale compositore scrisse la 'Nona Sinfonia'?",
     "correct": "Ludwig van Beethoven",
-    "wrong": ["Mozart", "Bach", "Chopin"],
+    "wrong": [
+      "Mozart",
+      "Bach",
+      "Chopin"
+    ],
     "explanation": "La Nona Sinfonia di Beethoven, completata nel 1824, include la famosa 'Inno alla Gioia'.",
     "hint": "Questo compositore tedesco divenne sordo negli ultimi anni della sua vita."
   },
   "q_art_003": {
     "question": "In quale citta si trova il Museo del Louvre?",
     "correct": "Parigi",
-    "wrong": ["Londra", "Roma", "Madrid"],
+    "wrong": [
+      "Londra",
+      "Roma",
+      "Madrid"
+    ],
     "explanation": "Il Louvre a Parigi e il museo d'arte piu grande del mondo.",
     "hint": "Il museo si trova nella capitale francese ed e famoso per la sua piramide di vetro."
   },
   "q_art_004": {
     "question": "Chi ha scritto 'Romeo e Giulietta'?",
     "correct": "William Shakespeare",
-    "wrong": ["Charles Dickens", "Jane Austen", "Oscar Wilde"],
+    "wrong": [
+      "Charles Dickens",
+      "Jane Austen",
+      "Oscar Wilde"
+    ],
     "explanation": "Shakespeare scrisse Romeo e Giulietta intorno al 1594-1596.",
     "hint": "Questo drammaturgo inglese e anche autore di Amleto e Macbeth."
   },
   "q_art_005": {
     "question": "A quale movimento artistico apparteneva Salvador Dali?",
     "correct": "Surrealismo",
-    "wrong": ["Impressionismo", "Cubismo", "Espressionismo"],
+    "wrong": [
+      "Impressionismo",
+      "Cubismo",
+      "Espressionismo"
+    ],
     "explanation": "Dali fu una figura di spicco del movimento surrealista, noto per le sue immagini sorprendenti.",
     "hint": "Questo movimento esplorava il mondo dei sogni e dell'inconscio."
   },
   "q_art_006": {
     "question": "Chi ha dipinto 'La Notte Stellata'?",
     "correct": "Vincent van Gogh",
-    "wrong": ["Claude Monet", "Paul Cezanne", "Edgar Degas"],
+    "wrong": [
+      "Claude Monet",
+      "Paul Cezanne",
+      "Edgar Degas"
+    ],
     "hint": "Questo pittore olandese si taglio parte dell'orecchio.",
     "explanation": "Van Gogh dipinse La Notte Stellata nel 1889 durante il suo soggiorno nel manicomio di Saint-Remy-de-Provence."
   },
   "q_art_007": {
     "question": "Quale strumento musicale ha 88 tasti?",
     "correct": "Pianoforte",
-    "wrong": ["Organo", "Clavicembalo", "Fisarmonica"],
+    "wrong": [
+      "Organo",
+      "Clavicembalo",
+      "Fisarmonica"
+    ],
     "hint": "Ha tasti bianchi e neri e fu inventato in Italia intorno al 1700.",
     "explanation": "Un pianoforte moderno standard ha 52 tasti bianchi e 36 neri, per un totale di 88."
   },
   "q_art_008": {
     "question": "Chi ha scolpito 'Il Pensatore'?",
     "correct": "Auguste Rodin",
-    "wrong": ["Donatello", "Bernini", "Henry Moore"],
+    "wrong": [
+      "Donatello",
+      "Bernini",
+      "Henry Moore"
+    ],
     "hint": "Questo scultore francese e spesso chiamato il padre della scultura moderna.",
     "explanation": "Rodin creo Il Pensatore nel 1904, originariamente come parte di un'opera piu grande chiamata La Porta dell'Inferno."
   },
   "q_art_009": {
     "question": "Quale romanzo inizia con 'Chiamatemi Ismaele'?",
     "correct": "Moby Dick",
-    "wrong": ["L'Isola del Tesoro", "Il Vecchio e il Mare", "Robinson Crusoe"],
+    "wrong": [
+      "L'Isola del Tesoro",
+      "Il Vecchio e il Mare",
+      "Robinson Crusoe"
+    ],
     "hint": "Questo romanzo racconta l'ossessione di un capitano per una balena bianca.",
     "explanation": "Moby Dick di Herman Melville, pubblicato nel 1851, inizia con una delle frasi piu famose della letteratura."
   },
   "q_art_010": {
     "question": "Chi ha composto 'Le Quattro Stagioni'?",
     "correct": "Antonio Vivaldi",
-    "wrong": ["Johann Sebastian Bach", "Georg Friedrich Handel", "Franz Schubert"],
+    "wrong": [
+      "Johann Sebastian Bach",
+      "Georg Friedrich Handel",
+      "Franz Schubert"
+    ],
     "hint": "Questo compositore barocco italiano era un prete dai capelli rossi soprannominato 'Il Prete Rosso'.",
     "explanation": "Vivaldi compose Le Quattro Stagioni intorno al 1723, un insieme di quattro concerti per violino."
+  },
+  "q_art_011": {
+    "question": "Chi ha dipinto 'La ragazza con l'orecchino di perla'?",
+    "correct": "Johannes Vermeer",
+    "wrong": [
+      "Rembrandt",
+      "Peter Paul Rubens",
+      "Jan van Eyck"
+    ],
+    "hint": "Questo pittore dell'Età d'oro olandese era un maestro nell'uso della luce.",
+    "explanation": "Vermeer dipinse quest'opera intorno al 1665."
+  },
+  "q_art_012": {
+    "question": "Quale artista è famoso per aver dipinto le lattine di zuppa Campbell?",
+    "correct": "Andy Warhol",
+    "wrong": [
+      "Roy Lichtenstein",
+      "Jasper Johns",
+      "Jean-Michel Basquiat"
+    ],
+    "hint": "Fu il leader del movimento Pop Art e gestiva uno studio chiamato 'The Factory'.",
+    "explanation": "Andy Warhol creò 'Campbell's Soup Cans' nel 1962."
+  },
+  "q_art_013": {
+    "question": "Come si chiama l'opera di Bizet con una gitana spagnola?",
+    "correct": "Carmen",
+    "wrong": [
+      "La Traviata",
+      "Aida",
+      "Madama Butterfly"
+    ],
+    "hint": "La storia è ambientata a Siviglia e include la famosa aria 'Habanera'.",
+    "explanation": "La Carmen di Georges Bizet debuttò nel 1875."
   }
 }

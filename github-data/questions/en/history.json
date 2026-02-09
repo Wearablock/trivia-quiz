@@ -68,5 +68,26 @@
     "wrong": ["The Colossus", "The Hanging Gardens", "The Temple of Artemis"],
     "hint": "This structure guided sailors into the busy harbor and stood over 100 meters tall.",
     "explanation": "The Lighthouse of Alexandria (Pharos) was built around 280 BCE and was one of the tallest structures of the ancient world."
+  },
+  "q_his_011": {
+    "question": "Who was the first female Prime Minister of the United Kingdom?",
+    "correct": "Margaret Thatcher",
+    "wrong": ["Theresa May", "Queen Victoria", "Emmeline Pankhurst"],
+    "hint": "She was nicknamed 'The Iron Lady' and served from 1979 to 1990.",
+    "explanation": "Margaret Thatcher became the UK's first female PM in 1979 and served for 11 years, the longest in the 20th century."
+  },
+  "q_his_012": {
+    "question": "In which year did the French Revolution begin?",
+    "correct": "1789",
+    "wrong": ["1776", "1804", "1815"],
+    "hint": "It started with the storming of a famous prison fortress in Paris.",
+    "explanation": "The French Revolution began in 1789 with the storming of the Bastille on July 14, leading to the end of the monarchy."
+  },
+  "q_his_013": {
+    "question": "Which ancient city was buried by the eruption of Mount Vesuvius in 79 AD?",
+    "correct": "Pompeii",
+    "wrong": ["Athens", "Carthage", "Troy"],
+    "hint": "This Roman city was preserved under volcanic ash and rediscovered in the 18th century.",
+    "explanation": "Pompeii was buried under meters of ash from Mount Vesuvius, preserving the city as a remarkable archaeological site."
   }
 }

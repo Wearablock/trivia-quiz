@@ -2,71 +2,144 @@
   "q_art_001": {
     "question": "Ai đã vẽ bức tranh Mona Lisa?",
     "correct": "Leonardo da Vinci",
-    "wrong": ["Michelangelo", "Raphael", "Botticelli"],
+    "wrong": [
+      "Michelangelo",
+      "Raphael",
+      "Botticelli"
+    ],
     "explanation": "Leonardo da Vinci vẽ bức Mona Lisa trong khoảng thời gian từ năm 1503 đến năm 1519.",
     "hint": "Nghệ sĩ thời Phục Hưng người Ý này cũng nổi tiếng với bức 'Bữa tối cuối cùng' và các bản vẽ thiết kế máy bay."
   },
   "q_art_002": {
     "question": "Nhà soạn nhạc nào đã sáng tác 'Bản giao hưởng số 9'?",
     "correct": "Ludwig van Beethoven",
-    "wrong": ["Mozart", "Bach", "Chopin"],
+    "wrong": [
+      "Mozart",
+      "Bach",
+      "Chopin"
+    ],
     "explanation": "Bản giao hưởng số 9 của Beethoven, hoàn thành năm 1824, bao gồm bài 'Ode to Joy' nổi tiếng.",
     "hint": "Nhà soạn nhạc người Đức này đã bị điếc hoàn toàn khi hoàn thành tác phẩm này."
   },
   "q_art_003": {
     "question": "Bảo tàng Louvre nằm ở thành phố nào?",
     "correct": "Paris",
-    "wrong": ["London", "Rome", "Madrid"],
+    "wrong": [
+      "London",
+      "Rome",
+      "Madrid"
+    ],
     "explanation": "Bảo tàng Louvre ở Paris là bảo tàng nghệ thuật lớn nhất thế giới.",
     "hint": "Bảo tàng này nằm ở thủ đô nước Pháp, nổi tiếng với kim tự tháp kính ở lối vào."
   },
   "q_art_004": {
     "question": "Ai đã viết 'Romeo và Juliet'?",
     "correct": "William Shakespeare",
-    "wrong": ["Charles Dickens", "Jane Austen", "Oscar Wilde"],
+    "wrong": [
+      "Charles Dickens",
+      "Jane Austen",
+      "Oscar Wilde"
+    ],
     "explanation": "Shakespeare viết Romeo và Juliet vào khoảng năm 1594-1596.",
     "hint": "Nhà văn người Anh này sinh ra ở Stratford-upon-Avon, còn được gọi là 'Nhà thơ của Avon'."
   },
   "q_art_005": {
     "question": "Salvador Dalí thuộc về trường phái nghệ thuật nào?",
     "correct": "Siêu thực",
-    "wrong": ["Ấn tượng", "Lập thể", "Biểu hiện"],
+    "wrong": [
+      "Ấn tượng",
+      "Lập thể",
+      "Biểu hiện"
+    ],
     "explanation": "Dalí là nhân vật hàng đầu trong phong trào Siêu thực, nổi tiếng với những hình ảnh ấn tượng.",
     "hint": "Trường phái này khám phá thế giới giấc mơ và tiềm thức, với bức tranh 'Những chiếc đồng hồ mềm' là tác phẩm tiêu biểu."
   },
   "q_art_006": {
     "question": "Ai đã vẽ bức tranh 'Đêm đầy sao'?",
     "correct": "Vincent van Gogh",
-    "wrong": ["Claude Monet", "Paul Cézanne", "Paul Gauguin"],
+    "wrong": [
+      "Claude Monet",
+      "Paul Cézanne",
+      "Paul Gauguin"
+    ],
     "explanation": "Van Gogh vẽ bức 'Đêm đầy sao' năm 1889 khi đang ở viện tâm thần Saint-Rémy-de-Provence.",
     "hint": "Họa sĩ người Hà Lan hậu Ấn tượng này nổi tiếng với việc tự cắt tai mình."
   },
   "q_art_007": {
     "question": "Đàn piano tiêu chuẩn có bao nhiêu phím?",
     "correct": "88",
-    "wrong": ["76", "92", "64"],
+    "wrong": [
+      "76",
+      "92",
+      "64"
+    ],
     "explanation": "Đàn piano hiện đại tiêu chuẩn có 88 phím: 52 phím trắng và 36 phím đen.",
     "hint": "Số phím bao gồm 52 phím trắng và 36 phím đen, trải dài hơn 7 quãng tám."
   },
   "q_art_008": {
     "question": "Ai đã sáng tạo bức tượng 'Người suy tư'?",
     "correct": "Auguste Rodin",
-    "wrong": ["Michelangelo", "Donatello", "Bernini"],
+    "wrong": [
+      "Michelangelo",
+      "Donatello",
+      "Bernini"
+    ],
     "explanation": "Rodin sáng tạo bức 'Người suy tư' vào khoảng năm 1880, ban đầu là một phần của tác phẩm 'Cánh cổng Địa ngục'.",
     "hint": "Nhà điêu khắc người Pháp này được coi là cha đẻ của điêu khắc hiện đại."
   },
   "q_art_009": {
     "question": "Dòng đầu tiên nổi tiếng 'Gọi tôi là Ishmael' mở đầu cuốn tiểu thuyết nào?",
     "correct": "Moby Dick",
-    "wrong": ["Robinson Crusoe", "Đảo Giấu Vàng", "Ông già và Biển cả"],
+    "wrong": [
+      "Robinson Crusoe",
+      "Đảo Giấu Vàng",
+      "Ông già và Biển cả"
+    ],
     "explanation": "'Moby Dick' được Herman Melville viết năm 1851, kể về cuộc truy đuổi một con cá voi trắng khổng lồ.",
     "hint": "Cuốn tiểu thuyết này kể về hành trình của thuyền trưởng Ahab truy đuổi một con cá voi trắng khổng lồ."
   },
   "q_art_010": {
     "question": "Ai đã sáng tác bộ bốn concerto violin 'Bốn mùa'?",
     "correct": "Antonio Vivaldi",
-    "wrong": ["Johann Sebastian Bach", "Wolfgang Amadeus Mozart", "George Frideric Handel"],
+    "wrong": [
+      "Johann Sebastian Bach",
+      "Wolfgang Amadeus Mozart",
+      "George Frideric Handel"
+    ],
     "explanation": "'Bốn mùa' được Vivaldi sáng tác năm 1723, là một trong những tác phẩm nhạc cổ điển được công nhận rộng rãi nhất.",
     "hint": "Nhà soạn nhạc và nghệ sĩ vĩ cầm người Ý thời Baroque này được gọi là 'Linh mục Đỏ' vì mái tóc đỏ."
+  },
+  "q_art_011": {
+    "question": "Ai đã vẽ bức 'Thiếu nữ đeo hoa tai ngọc trai'?",
+    "correct": "Johannes Vermeer",
+    "wrong": [
+      "Rembrandt",
+      "Peter Paul Rubens",
+      "Jan van Eyck"
+    ],
+    "hint": "Họa sĩ Hà Lan thời Hoàng kim này nổi tiếng với việc sử dụng ánh sáng.",
+    "explanation": "Vermeer vẽ bức tranh này vào khoảng năm 1665."
+  },
+  "q_art_012": {
+    "question": "Nghệ sĩ nào nổi tiếng với việc vẽ lon súp Campbell?",
+    "correct": "Andy Warhol",
+    "wrong": [
+      "Roy Lichtenstein",
+      "Jasper Johns",
+      "Jean-Michel Basquiat"
+    ],
+    "hint": "Ông là lãnh đạo phong trào Pop Art và điều hành xưởng 'The Factory'.",
+    "explanation": "Andy Warhol sáng tạo 'Lon súp Campbell' vào năm 1962."
+  },
+  "q_art_013": {
+    "question": "Vở opera của Bizet có nhân vật chính là cô gái Gypsy Tây Ban Nha tên gì?",
+    "correct": "Carmen",
+    "wrong": [
+      "La Traviata",
+      "Aida",
+      "Madama Butterfly"
+    ],
+    "hint": "Câu chuyện diễn ra ở Seville và có aria 'Habanera' nổi tiếng.",
+    "explanation": "Carmen của Georges Bizet ra mắt lần đầu năm 1875."
   }
 }

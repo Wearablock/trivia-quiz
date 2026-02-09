@@ -68,5 +68,26 @@
     "wrong": ["Soccer", "Rugby", "American Football"],
     "hint": "This sport is played on horseback and the field can be up to 275 meters long.",
     "explanation": "A polo field is the largest playing field in organized sport, measuring up to 275 by 180 meters."
+  },
+  "q_spo_011": {
+    "question": "In which sport is the term 'love' used to mean zero?",
+    "correct": "Tennis",
+    "wrong": ["Badminton", "Squash", "Table Tennis"],
+    "hint": "This sport uses an unusual scoring system: 15, 30, 40, and game.",
+    "explanation": "In tennis, 'love' means zero. The term may derive from the French 'l'oeuf' (egg), referring to the shape of zero."
+  },
+  "q_spo_012": {
+    "question": "What is the national sport of Japan?",
+    "correct": "Sumo wrestling",
+    "wrong": ["Judo", "Karate", "Kendo"],
+    "hint": "Wrestlers in this sport try to push their opponent out of a circular ring.",
+    "explanation": "Sumo is Japan's national sport with a history spanning over 1,500 years, deeply rooted in Shinto tradition."
+  },
+  "q_spo_013": {
+    "question": "How many players are on a standard volleyball team on the court?",
+    "correct": "6",
+    "wrong": ["5", "7", "8"],
+    "hint": "Players rotate positions each time their team wins the serve.",
+    "explanation": "Each volleyball team has 6 players on the court, rotating clockwise through positions after winning a rally."
   }
 }

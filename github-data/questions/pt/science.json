@@ -2,78 +2,144 @@
   "q_sci_001": {
     "question": "Qual e o simbolo quimico da agua?",
     "correct": "H2O",
-    "wrong": ["CO2", "NaCl", "O2"],
+    "wrong": [
+      "CO2",
+      "NaCl",
+      "O2"
+    ],
     "explanation": "A agua consiste em dois atomos de hidrogenio e um atomo de oxigenio.",
     "hint": "A formula combina o simbolo do hidrogenio com o do oxigenio, indicando a proporcao de atomos."
   },
   "q_sci_002": {
     "question": "Qual planeta e conhecido como o Planeta Vermelho?",
     "correct": "Marte",
-    "wrong": ["Venus", "Jupiter", "Saturno"],
+    "wrong": [
+      "Venus",
+      "Jupiter",
+      "Saturno"
+    ],
     "explanation": "Marte parece vermelho devido ao oxido de ferro (ferrugem) em sua superficie.",
     "hint": "Este planeta recebeu o nome do deus romano da guerra e tem duas pequenas luas."
   },
   "q_sci_003": {
     "question": "Qual e a substancia natural mais dura da Terra?",
     "correct": "Diamante",
-    "wrong": ["Ouro", "Ferro", "Quartzo"],
+    "wrong": [
+      "Ouro",
+      "Ferro",
+      "Quartzo"
+    ],
     "explanation": "O diamante tem nota 10 na escala de dureza de Mohs, a classificacao maxima.",
     "hint": "Esta gema preciosa e formada por carbono puro cristalizado sob alta pressao."
   },
   "q_sci_004": {
     "question": "Qual e a velocidade da luz no vacuo?",
     "correct": "299.792 km/s",
-    "wrong": ["150.000 km/s", "500.000 km/s", "1.000.000 km/s"],
+    "wrong": [
+      "150.000 km/s",
+      "500.000 km/s",
+      "1.000.000 km/s"
+    ],
     "explanation": "A luz viaja a aproximadamente 299.792 quilometros por segundo no vacuo.",
     "hint": "E aproximadamente 300 mil quilometros por segundo, uma constante fundamental da fisica."
   },
   "q_sci_005": {
     "question": "Qual e a menor unidade da materia?",
     "correct": "Atomo",
-    "wrong": ["Molecula", "Celula", "Eletron"],
+    "wrong": [
+      "Molecula",
+      "Celula",
+      "Eletron"
+    ],
     "explanation": "Embora existam particulas subatomicas, os atomos sao as menores unidades que mantem propriedades quimicas.",
     "hint": "Esta unidade e composta por protons, neutrons e eletrons, e seu nome vem do grego 'indivisivel'."
   },
   "q_sci_006": {
     "question": "Qual e o gas mais abundante na atmosfera terrestre?",
     "correct": "Nitrogenio",
-    "wrong": ["Oxigenio", "Dioxido de carbono", "Argonio"],
+    "wrong": [
+      "Oxigenio",
+      "Dioxido de carbono",
+      "Argonio"
+    ],
     "hint": "Representa cerca de 78% do ar que respiramos.",
     "explanation": "O nitrogenio constitui aproximadamente 78% da atmosfera terrestre, enquanto o oxigenio representa cerca de 21%."
   },
   "q_sci_007": {
     "question": "Qual e o simbolo quimico do ouro?",
     "correct": "Au",
-    "wrong": ["Go", "Gd", "Ag"],
+    "wrong": [
+      "Go",
+      "Gd",
+      "Ag"
+    ],
     "hint": "Vem da palavra latina 'aurum'.",
     "explanation": "O simbolo quimico do ouro, Au, deriva da palavra latina 'aurum', que significa 'aurora brilhante'."
   },
   "q_sci_008": {
     "question": "Qual planeta tem mais luas em nosso sistema solar?",
     "correct": "Saturno",
-    "wrong": ["Jupiter", "Urano", "Netuno"],
+    "wrong": [
+      "Jupiter",
+      "Urano",
+      "Netuno"
+    ],
     "hint": "Este planeta com aneis tem mais de 140 luas conhecidas, incluindo Tita.",
     "explanation": "Saturno tem mais de 140 luas confirmadas, superando a contagem de Jupiter, sendo Tita a maior."
   },
   "q_sci_009": {
     "question": "O que significa DNA?",
     "correct": "Acido desoxirribonucleico",
-    "wrong": ["Acido dioxinitrico", "Acido desoxirribose nucleico", "Acido nucleico dinamico"],
+    "wrong": [
+      "Acido dioxinitrico",
+      "Acido desoxirribose nucleico",
+      "Acido nucleico dinamico"
+    ],
     "hint": "Tem uma estrutura de dupla helice e carrega informacao genetica.",
     "explanation": "O DNA (acido desoxirribonucleico) contem as instrucoes geneticas de todos os organismos vivos."
   },
   "q_sci_010": {
     "question": "Qual e o ponto de ebulicao da agua ao nivel do mar?",
     "correct": "100 °C",
-    "wrong": ["90 °C", "110 °C", "120 °C"],
+    "wrong": [
+      "90 °C",
+      "110 °C",
+      "120 °C"
+    ],
     "hint": "Em Fahrenheit, esta temperatura e de 212 graus.",
     "explanation": "A agua ferve a 100 °C (212 °F) na pressao atmosferica padrao ao nivel do mar."
   },
   "q_sci_100": {
     "question": "Qual e a temperatura aproximada do nucleo do Sol?",
     "correct": "15 milhoes °C",
-    "wrong": ["1 milhao °C", "100 milhoes °C", "6.000 °C"],
+    "wrong": [
+      "1 milhao °C",
+      "100 milhoes °C",
+      "6.000 °C"
+    ],
     "hint": "Quente o suficiente para fundir atomos de hidrogenio em helio.",
     "explanation": "O nucleo do Sol atinge cerca de 15 milhoes de graus Celsius, permitindo a fusao nuclear."
+  },
+  "q_sci_011": {
+    "question": "Qual é a estrela mais próxima da Terra?",
+    "correct": "O Sol",
+    "wrong": [
+      "Proxima Centauri",
+      "Alfa Centauri",
+      "Sírius"
+    ],
+    "hint": "Esta estrela é tão próxima que sua luz nos alcança em cerca de 8 minutos.",
+    "explanation": "O Sol está a cerca de 150 milhões de km da Terra."
+  },
+  "q_sci_012": {
+    "question": "Que elemento o símbolo químico 'Fe' representa?",
+    "correct": "Ferro",
+    "wrong": [
+      "Chumbo",
+      "Flúor",
+      "Férmio"
+    ],
+    "hint": "O símbolo vem do latim 'ferrum'.",
+    "explanation": "Fe significa ferro, do latim 'ferrum'."
   }
 }

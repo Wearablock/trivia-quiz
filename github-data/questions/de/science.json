@@ -2,78 +2,144 @@
   "q_sci_001": {
     "question": "Was ist das chemische Symbol für Wasser?",
     "correct": "H2O",
-    "wrong": ["CO2", "NaCl", "O2"],
+    "wrong": [
+      "CO2",
+      "NaCl",
+      "O2"
+    ],
     "explanation": "Wasser besteht aus zwei Wasserstoffatomen und einem Sauerstoffatom.",
     "hint": "Es besteht aus dem leichtesten Element und dem Element, das wir zum Atmen brauchen."
   },
   "q_sci_002": {
     "question": "Welcher Planet ist als der Rote Planet bekannt?",
     "correct": "Mars",
-    "wrong": ["Venus", "Jupiter", "Saturn"],
+    "wrong": [
+      "Venus",
+      "Jupiter",
+      "Saturn"
+    ],
     "explanation": "Der Mars erscheint rot aufgrund von Eisenoxid (Rost) auf seiner Oberfläche.",
     "hint": "Dieser Planet ist nach dem römischen Kriegsgott benannt."
   },
   "q_sci_003": {
     "question": "Was ist die härteste natürliche Substanz auf der Erde?",
     "correct": "Diamant",
-    "wrong": ["Gold", "Eisen", "Quarz"],
+    "wrong": [
+      "Gold",
+      "Eisen",
+      "Quarz"
+    ],
     "explanation": "Diamant erreicht 10 auf der Mohs-Härteskala, die höchste Bewertung.",
     "hint": "Dieser kostbare Edelstein besteht aus reinem Kohlenstoff und wird oft in Verlobungsringen verwendet."
   },
   "q_sci_004": {
     "question": "Wie hoch ist die Lichtgeschwindigkeit im Vakuum?",
     "correct": "299.792 km/s",
-    "wrong": ["150.000 km/s", "500.000 km/s", "1.000.000 km/s"],
+    "wrong": [
+      "150.000 km/s",
+      "500.000 km/s",
+      "1.000.000 km/s"
+    ],
     "explanation": "Licht bewegt sich mit ungefähr 299.792 Kilometern pro Sekunde im Vakuum.",
     "hint": "Diese Geschwindigkeit ist ungefähr 300.000 km pro Sekunde und eine fundamentale Konstante der Physik."
   },
   "q_sci_005": {
     "question": "Was ist die kleinste Einheit der Materie?",
     "correct": "Atom",
-    "wrong": ["Molekül", "Zelle", "Elektron"],
+    "wrong": [
+      "Molekül",
+      "Zelle",
+      "Elektron"
+    ],
     "explanation": "Obwohl subatomare Teilchen existieren, sind Atome die kleinsten Einheiten, die chemische Eigenschaften behalten.",
     "hint": "Der Name stammt aus dem Griechischen und bedeutet 'unteilbar'."
   },
   "q_sci_006": {
     "question": "Was ist das häufigste Gas in der Erdatmosphäre?",
     "correct": "Stickstoff",
-    "wrong": ["Sauerstoff", "Kohlendioxid", "Argon"],
+    "wrong": [
+      "Sauerstoff",
+      "Kohlendioxid",
+      "Argon"
+    ],
     "hint": "Es macht etwa 78 % der Luft aus, die wir atmen.",
     "explanation": "Stickstoff macht etwa 78 % der Erdatmosphäre aus, während Sauerstoff etwa 21 % ausmacht."
   },
   "q_sci_007": {
     "question": "Was ist das chemische Symbol für Gold?",
     "correct": "Au",
-    "wrong": ["Go", "Gd", "Ag"],
+    "wrong": [
+      "Go",
+      "Gd",
+      "Ag"
+    ],
     "hint": "Es leitet sich vom lateinischen Wort 'aurum' ab.",
     "explanation": "Das chemische Symbol Au für Gold stammt vom lateinischen Wort 'aurum', was 'leuchtende Morgenröte' bedeutet."
   },
   "q_sci_008": {
     "question": "Welcher Planet hat die meisten Monde in unserem Sonnensystem?",
     "correct": "Saturn",
-    "wrong": ["Jupiter", "Uranus", "Neptun"],
+    "wrong": [
+      "Jupiter",
+      "Uranus",
+      "Neptun"
+    ],
     "hint": "Dieser Planet mit Ringen hat über 140 bekannte Monde, darunter Titan.",
     "explanation": "Saturn hat über 140 bestätigte Monde und übertrifft damit Jupiter. Der größte ist Titan."
   },
   "q_sci_009": {
     "question": "Wofür steht DNA?",
     "correct": "Desoxyribonukleinsäure",
-    "wrong": ["Dioxysalpetersäure", "Desoxyribose-Nukleatom", "Dynamische Nukleinsäure"],
+    "wrong": [
+      "Dioxysalpetersäure",
+      "Desoxyribose-Nukleatom",
+      "Dynamische Nukleinsäure"
+    ],
     "hint": "Sie hat eine Doppelhelixstruktur und trägt genetische Informationen.",
     "explanation": "DNA (Desoxyribonukleinsäure) trägt die genetischen Anweisungen für alle lebenden Organismen."
   },
   "q_sci_010": {
     "question": "Was ist der Siedepunkt von Wasser auf Meereshöhe?",
     "correct": "100 °C",
-    "wrong": ["90 °C", "110 °C", "120 °C"],
+    "wrong": [
+      "90 °C",
+      "110 °C",
+      "120 °C"
+    ],
     "hint": "In Fahrenheit sind das 212 Grad.",
     "explanation": "Wasser siedet bei 100 °C (212 °F) bei Standard-Atmosphärendruck auf Meereshöhe."
   },
   "q_sci_100": {
     "question": "Wie hoch ist die ungefähre Temperatur im Sonnenkern?",
     "correct": "15 Millionen °C",
-    "wrong": ["1 Million °C", "100 Millionen °C", "6.000 °C"],
+    "wrong": [
+      "1 Million °C",
+      "100 Millionen °C",
+      "6.000 °C"
+    ],
     "hint": "Heiß genug, um Wasserstoffatome zu Helium zu verschmelzen.",
     "explanation": "Der Sonnenkern erreicht etwa 15 Millionen Grad Celsius, was Kernfusion ermöglicht."
+  },
+  "q_sci_011": {
+    "question": "Welcher ist der nächste Stern zur Erde?",
+    "correct": "Die Sonne",
+    "wrong": [
+      "Proxima Centauri",
+      "Alpha Centauri",
+      "Sirius"
+    ],
+    "hint": "Dieser Stern ist so nah, dass sein Licht uns in etwa 8 Minuten erreicht.",
+    "explanation": "Die Sonne ist etwa 150 Millionen km von der Erde entfernt."
+  },
+  "q_sci_012": {
+    "question": "Welches Element wird durch das chemische Symbol 'Fe' dargestellt?",
+    "correct": "Eisen",
+    "wrong": [
+      "Blei",
+      "Fluor",
+      "Fermium"
+    ],
+    "hint": "Das Symbol stammt vom lateinischen Wort 'ferrum'.",
+    "explanation": "Fe steht für Eisen, vom lateinischen 'ferrum'."
   }
 }

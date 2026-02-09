@@ -2,71 +2,133 @@
   "q_nat_001": {
     "question": "Qual e o maior mamifero do mundo?",
     "correct": "Baleia Azul",
-    "wrong": ["Elefante", "Girafa", "Hipopotamo"],
+    "wrong": [
+      "Elefante",
+      "Girafa",
+      "Hipopotamo"
+    ],
     "explanation": "As baleias azuis podem atingir mais de 30 metros de comprimento e pesar ate 200 toneladas.",
     "hint": "Este animal vive nos oceanos e pode ter um coracao do tamanho de um carro pequeno."
   },
   "q_nat_002": {
     "question": "Quantas pernas tem uma aranha?",
     "correct": "8",
-    "wrong": ["6", "10", "12"],
+    "wrong": [
+      "6",
+      "10",
+      "12"
+    ],
     "explanation": "Todas as aranhas sao aracnideos e tem 8 pernas.",
     "hint": "As aranhas tem duas pernas a mais que os insetos, que possuem seis."
   },
   "q_nat_003": {
     "question": "Qual e a especie de arvore mais alta do mundo?",
     "correct": "Sequoia Vermelha",
-    "wrong": ["Sequoia Gigante", "Eucalipto", "Abeto de Douglas"],
+    "wrong": [
+      "Sequoia Gigante",
+      "Eucalipto",
+      "Abeto de Douglas"
+    ],
     "explanation": "As Sequoias Vermelhas podem crescer mais de 115 metros de altura.",
     "hint": "Estas arvores gigantes sao encontradas na costa da California e tem casca avermelhada."
   },
   "q_nat_004": {
     "question": "Qual gas as plantas absorvem da atmosfera?",
     "correct": "Dioxido de Carbono",
-    "wrong": ["Oxigenio", "Nitrogenio", "Hidrogenio"],
+    "wrong": [
+      "Oxigenio",
+      "Nitrogenio",
+      "Hidrogenio"
+    ],
     "explanation": "As plantas usam dioxido de carbono na fotossintese para produzir oxigenio e glicose.",
     "hint": "Este gas, tambem conhecido como CO2, e o que nos expiramos e que esta relacionado ao efeito estufa."
   },
   "q_nat_005": {
     "question": "Qual e o animal terrestre mais rapido?",
     "correct": "Guepardo",
-    "wrong": ["Leao", "Gazela", "Cavalo"],
+    "wrong": [
+      "Leao",
+      "Gazela",
+      "Cavalo"
+    ],
     "explanation": "Os guepardos podem atingir velocidades de ate 112 km/h.",
     "hint": "Este felino africano tem manchas pretas e e conhecido por sua incrivel aceleracao."
   },
   "q_nat_006": {
     "question": "Qual e a maior especie de tubarao?",
     "correct": "Tubarao-baleia",
-    "wrong": ["Grande tubarao branco", "Tubarao-martelo", "Tubarao-tigre"],
+    "wrong": [
+      "Grande tubarao branco",
+      "Tubarao-martelo",
+      "Tubarao-tigre"
+    ],
     "hint": "Apesar de seu tamanho massivo, este tubarao e um pacifico filtrador que se alimenta de plancton.",
     "explanation": "Os tubaroes-baleia podem crescer ate 12 metros de comprimento e sao os maiores peixes do oceano."
   },
   "q_nat_007": {
     "question": "Qual ave pode voar para tras?",
     "correct": "Beija-flor",
-    "wrong": ["Martim-pescador", "Andorinha", "Pardal"],
+    "wrong": [
+      "Martim-pescador",
+      "Andorinha",
+      "Pardal"
+    ],
     "hint": "Esta pequena ave bate as asas ate 80 vezes por segundo e se alimenta de nectar.",
     "explanation": "Os beija-flores sao as unicas aves capazes de voo pairado sustentado e de voar para tras gracas a sua estrutura alar unica."
   },
   "q_nat_008": {
     "question": "Qual e a rocha natural mais dura?",
     "correct": "Granito",
-    "wrong": ["Marmore", "Calcario", "Arenito"],
+    "wrong": [
+      "Marmore",
+      "Calcario",
+      "Arenito"
+    ],
     "hint": "Esta rocha ignea e comumente usada em bancadas de cozinha e monumentos.",
     "explanation": "O granito e uma das rochas naturais mais duras, formada a partir de magma resfriado nas profundezas da Terra."
   },
   "q_nat_009": {
     "question": "Quanto tempo uma barata pode sobreviver sem cabeca?",
     "correct": "Cerca de uma semana",
-    "wrong": ["Alguns segundos", "Cerca de uma hora", "Cerca de um mes"],
+    "wrong": [
+      "Alguns segundos",
+      "Cerca de uma hora",
+      "Cerca de um mes"
+    ],
     "hint": "Estes insetos respiram por pequenos orificios em seus segmentos corporais, nao pela boca.",
     "explanation": "As baratas podem sobreviver cerca de uma semana sem cabeca porque respiram atraves de espiraculos em seu corpo."
   },
   "q_nat_010": {
     "question": "Qual e o oceano mais profundo?",
     "correct": "Oceano Pacifico",
-    "wrong": ["Oceano Atlantico", "Oceano Indico", "Oceano Austral"],
+    "wrong": [
+      "Oceano Atlantico",
+      "Oceano Indico",
+      "Oceano Austral"
+    ],
     "hint": "A Fossa das Marianas, o ponto mais profundo da Terra, esta localizada neste oceano.",
     "explanation": "O Oceano Pacifico contem a Fossa das Marianas, atingindo uma profundidade de cerca de 11.034 metros no Challenger Deep."
+  },
+  "q_nat_011": {
+    "question": "Qual é o único mamífero capaz de voar de verdade?",
+    "correct": "Morcego",
+    "wrong": [
+      "Esquilo-voador",
+      "Petauro-do-açúcar",
+      "Colugo"
+    ],
+    "hint": "Este animal noturno usa a ecolocalização para se orientar no escuro.",
+    "explanation": "Os morcegos são os únicos mamíferos capazes de voo verdadeiro."
+  },
+  "q_nat_012": {
+    "question": "Quantos corações tem um polvo?",
+    "correct": "3",
+    "wrong": [
+      "1",
+      "2",
+      "4"
+    ],
+    "hint": "Dois corações bombeiam sangue para as brânquias e o terceiro para o resto do corpo.",
+    "explanation": "Um polvo tem três corações."
   }
 }

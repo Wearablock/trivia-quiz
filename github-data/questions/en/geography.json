@@ -75,5 +75,19 @@
     "wrong": ["Russia", "United States", "United Kingdom"],
     "hint": "Its overseas territories span across the globe from the Caribbean to the Pacific.",
     "explanation": "France has 12 time zones due to its overseas territories, more than any other country including Russia's 11."
+  },
+  "q_geo_011": {
+    "question": "What is the driest continent on Earth?",
+    "correct": "Antarctica",
+    "wrong": ["Africa", "Australia", "Asia"],
+    "hint": "Despite being covered in ice, this continent receives very little precipitation.",
+    "explanation": "Antarctica is technically a desert, receiving less than 200 mm of precipitation per year on average."
+  },
+  "q_geo_012": {
+    "question": "Which European country is shaped like a boot?",
+    "correct": "Italy",
+    "wrong": ["Spain", "Greece", "Portugal"],
+    "hint": "This country is a peninsula extending into the Mediterranean Sea.",
+    "explanation": "Italy's distinctive boot shape is one of the most recognizable country outlines in the world."
   }
 }

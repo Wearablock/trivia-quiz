@@ -2,71 +2,133 @@
   "q_nat_001": {
     "question": "Cual es el mamifero mas grande del mundo?",
     "correct": "Ballena Azul",
-    "wrong": ["Elefante", "Jirafa", "Hipopotamo"],
+    "wrong": [
+      "Elefante",
+      "Jirafa",
+      "Hipopotamo"
+    ],
     "explanation": "Las ballenas azules pueden alcanzar longitudes de mas de 30 metros y pesar hasta 180 toneladas.",
     "hint": "Este gigante marino tiene el corazon del tamano de un automovil pequeno."
   },
   "q_nat_002": {
     "question": "Cuantas patas tiene una arana?",
     "correct": "8",
-    "wrong": ["6", "10", "12"],
+    "wrong": [
+      "6",
+      "10",
+      "12"
+    ],
     "explanation": "Todas las aranas son aracnidos y tienen 8 patas.",
     "hint": "Tienen dos patas mas que los insectos y pertenecen al grupo de los aracnidos."
   },
   "q_nat_003": {
     "question": "Cual es la especie de arbol mas alta del mundo?",
     "correct": "Secuoya Roja",
-    "wrong": ["Secuoya Gigante", "Eucalipto", "Abeto de Douglas"],
+    "wrong": [
+      "Secuoya Gigante",
+      "Eucalipto",
+      "Abeto de Douglas"
+    ],
     "explanation": "Las Secuoyas Rojas pueden crecer mas de 115 metros de altura.",
     "hint": "Estos arboles crecen en la costa de California y su corteza tiene un color rojizo."
   },
   "q_nat_004": {
     "question": "Que gas absorben las plantas de la atmosfera?",
     "correct": "Dioxido de Carbono",
-    "wrong": ["Oxigeno", "Nitrogeno", "Hidrogeno"],
+    "wrong": [
+      "Oxigeno",
+      "Nitrogeno",
+      "Hidrogeno"
+    ],
     "explanation": "Las plantas usan dioxido de carbono en la fotosintesis para producir oxigeno y glucosa.",
     "hint": "Es el gas que los humanos exhalamos y tiene la formula quimica CO2."
   },
   "q_nat_005": {
     "question": "Cual es el animal terrestre mas rapido?",
     "correct": "Guepardo",
-    "wrong": ["Leon", "Gacela", "Caballo"],
+    "wrong": [
+      "Leon",
+      "Gacela",
+      "Caballo"
+    ],
     "explanation": "Los guepardos pueden alcanzar velocidades de hasta 112 km/h.",
     "hint": "Este felino africano tiene manchas negras y un cuerpo aerodinamico para la velocidad."
   },
   "q_nat_006": {
     "question": "Cual es la especie de tiburon mas grande?",
     "correct": "Tiburon ballena",
-    "wrong": ["Gran tiburon blanco", "Tiburon martillo", "Tiburon tigre"],
+    "wrong": [
+      "Gran tiburon blanco",
+      "Tiburon martillo",
+      "Tiburon tigre"
+    ],
     "hint": "A pesar de su tamano masivo, este tiburon es un pacifico filtrador que se alimenta de plancton.",
     "explanation": "Los tiburones ballena pueden crecer hasta 12 metros de largo y son los peces mas grandes del oceano."
   },
   "q_nat_007": {
     "question": "Que ave puede volar hacia atras?",
     "correct": "Colibri",
-    "wrong": ["Martin pescador", "Golondrina", "Gorrion"],
+    "wrong": [
+      "Martin pescador",
+      "Golondrina",
+      "Gorrion"
+    ],
     "hint": "Esta diminuta ave bate sus alas hasta 80 veces por segundo y se alimenta de nectar.",
     "explanation": "Los colibries son las unicas aves capaces de vuelo estacionario sostenido y de volar hacia atras gracias a su estructura alar unica."
   },
   "q_nat_008": {
     "question": "Cual es la roca natural mas dura?",
     "correct": "Granito",
-    "wrong": ["Marmol", "Caliza", "Arenisca"],
+    "wrong": [
+      "Marmol",
+      "Caliza",
+      "Arenisca"
+    ],
     "hint": "Esta roca ignea se usa comunmente para encimeras de cocina y monumentos.",
     "explanation": "El granito es una de las rocas naturales mas duras, formada a partir de magma enfriado en las profundidades de la Tierra."
   },
   "q_nat_009": {
     "question": "Cuanto tiempo puede sobrevivir una cucaracha sin cabeza?",
     "correct": "Aproximadamente una semana",
-    "wrong": ["Unos segundos", "Aproximadamente una hora", "Aproximadamente un mes"],
+    "wrong": [
+      "Unos segundos",
+      "Aproximadamente una hora",
+      "Aproximadamente un mes"
+    ],
     "hint": "Estos insectos respiran por pequenos orificios en sus segmentos corporales, no por la boca.",
     "explanation": "Las cucarachas pueden sobrevivir aproximadamente una semana sin cabeza porque respiran a traves de espiraculos en su cuerpo."
   },
   "q_nat_010": {
     "question": "Cual es el oceano mas profundo?",
     "correct": "Oceano Pacifico",
-    "wrong": ["Oceano Atlantico", "Oceano Indico", "Oceano Austral"],
+    "wrong": [
+      "Oceano Atlantico",
+      "Oceano Indico",
+      "Oceano Austral"
+    ],
     "hint": "La Fosa de las Marianas, el punto mas profundo de la Tierra, se encuentra en este oceano.",
     "explanation": "El Oceano Pacifico contiene la Fosa de las Marianas, que alcanza una profundidad de unos 11.034 metros en el Challenger Deep."
+  },
+  "q_nat_011": {
+    "question": "¿Cuál es el único mamífero capaz de volar de verdad?",
+    "correct": "Murciélago",
+    "wrong": [
+      "Ardilla voladora",
+      "Petauro del azúcar",
+      "Colugo"
+    ],
+    "hint": "Este animal nocturno usa la ecolocalización para navegar en la oscuridad.",
+    "explanation": "Los murciélagos son los únicos mamíferos que pueden volar de verdad."
+  },
+  "q_nat_012": {
+    "question": "¿Cuántos corazones tiene un pulpo?",
+    "correct": "3",
+    "wrong": [
+      "1",
+      "2",
+      "4"
+    ],
+    "hint": "Dos corazones bombean sangre a las branquias y el tercero al resto del cuerpo.",
+    "explanation": "Un pulpo tiene tres corazones."
   }
 }

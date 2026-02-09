@@ -2,71 +2,144 @@
   "q_spo_001": {
     "question": "Combien de joueurs une equipe de football a-t-elle sur le terrain ?",
     "correct": "11",
-    "wrong": ["9", "10", "12"],
+    "wrong": [
+      "9",
+      "10",
+      "12"
+    ],
     "explanation": "Chaque equipe de football aligne 11 joueurs, y compris le gardien de but.",
     "hint": "C'est le meme nombre que dans une equipe de cricket ou de hockey sur gazon."
   },
   "q_spo_002": {
     "question": "Dans quel sport effectue-t-on un slam dunk ?",
     "correct": "Basketball",
-    "wrong": ["Volleyball", "Tennis", "Baseball"],
+    "wrong": [
+      "Volleyball",
+      "Tennis",
+      "Baseball"
+    ],
     "explanation": "Un slam dunk est un mouvement de basketball ou un joueur saute et marque en mettant le ballon directement dans le panier.",
     "hint": "Ce sport se joue avec un ballon orange et des paniers situes a 3,05 metres de hauteur."
   },
   "q_spo_003": {
     "question": "Quel pays a remporte le plus de titres de la Coupe du Monde FIFA ?",
     "correct": "Bresil",
-    "wrong": ["Allemagne", "Italie", "Argentine"],
+    "wrong": [
+      "Allemagne",
+      "Italie",
+      "Argentine"
+    ],
     "explanation": "Le Bresil a remporte la Coupe du Monde FIFA 5 fois (1958, 1962, 1970, 1994, 2002).",
     "hint": "Ce pays sud-americain est connu pour ses maillots jaunes et a produit Pele."
   },
   "q_spo_004": {
     "question": "Quel est le score maximum possible au bowling a 10 quilles ?",
     "correct": "300",
-    "wrong": ["200", "250", "350"],
+    "wrong": [
+      "200",
+      "250",
+      "350"
+    ],
     "explanation": "Une partie parfaite de bowling marque 300 points avec 12 strikes consecutifs.",
     "hint": "Ce score correspond a 12 strikes consecutifs dans une partie parfaite."
   },
   "q_spo_005": {
     "question": "Quel tournoi du Grand Chelem de tennis se joue sur terre battue ?",
     "correct": "Roland-Garros",
-    "wrong": ["Wimbledon", "US Open", "Open d'Australie"],
+    "wrong": [
+      "Wimbledon",
+      "US Open",
+      "Open d'Australie"
+    ],
     "explanation": "Roland-Garros est le seul Grand Chelem joue sur terre battue.",
     "hint": "Ce tournoi se deroule a Paris au printemps sur une surface orange."
   },
   "q_spo_006": {
     "question": "Combien d'anneaux figurent sur le drapeau olympique ?",
     "correct": "5",
-    "wrong": ["4", "6", "7"],
+    "wrong": [
+      "4",
+      "6",
+      "7"
+    ],
     "hint": "Chaque anneau represente un continent participant aux Jeux olympiques.",
     "explanation": "Les cinq anneaux olympiques representent les cinq continents : Afrique, Ameriques, Asie, Europe et Oceanie."
   },
   "q_spo_007": {
     "question": "Dans quel sport un 'birdie' signifie-t-il un coup sous le par ?",
     "correct": "Golf",
-    "wrong": ["Badminton", "Tennis", "Cricket"],
+    "wrong": [
+      "Badminton",
+      "Tennis",
+      "Cricket"
+    ],
     "hint": "Ce sport se joue sur des parcours de 18 trous avec des clubs et une petite balle.",
     "explanation": "Au golf, un birdie signifie terminer un trou en un coup de moins que le par."
   },
   "q_spo_008": {
     "question": "Quel pays a invente le sport du cricket ?",
     "correct": "Angleterre",
-    "wrong": ["Inde", "Australie", "Afrique du Sud"],
+    "wrong": [
+      "Inde",
+      "Australie",
+      "Afrique du Sud"
+    ],
     "hint": "Ce sport remonte au XVIe siecle et est le sport national d'ete de ce pays.",
     "explanation": "Le cricket est ne en Angleterre a la fin du XVIe siecle et s'est repandu a travers l'Empire britannique."
   },
   "q_spo_009": {
     "question": "Quelle est la longueur d'un marathon en kilometres ?",
     "correct": "42,195 km",
-    "wrong": ["40 km", "45 km", "50 km"],
+    "wrong": [
+      "40 km",
+      "45 km",
+      "50 km"
+    ],
     "hint": "La distance a ete standardisee lors des Jeux olympiques de Londres en 1908.",
     "explanation": "Un marathon mesure 42,195 km (26,2 miles), une distance fixee aux Jeux olympiques de Londres en 1908."
   },
   "q_spo_010": {
     "question": "Quel sport utilise le plus grand terrain de jeu ?",
     "correct": "Polo",
-    "wrong": ["Football", "Rugby", "Football americain"],
+    "wrong": [
+      "Football",
+      "Rugby",
+      "Football americain"
+    ],
     "hint": "Ce sport se pratique a cheval et le terrain peut mesurer jusqu'a 275 metres de long.",
     "explanation": "Un terrain de polo est le plus grand terrain de jeu du sport organise, mesurant jusqu'a 275 sur 180 metres."
+  },
+  "q_spo_011": {
+    "question": "Dans quel sport le terme 'love' signifie-t-il zéro ?",
+    "correct": "Tennis",
+    "wrong": [
+      "Badminton",
+      "Squash",
+      "Tennis de table"
+    ],
+    "hint": "Ce sport utilise un système de pointage particulier : 15, 30, 40.",
+    "explanation": "Au tennis, 'love' signifie zéro point."
+  },
+  "q_spo_012": {
+    "question": "Quel est le sport national du Japon ?",
+    "correct": "Sumo",
+    "wrong": [
+      "Judo",
+      "Karaté",
+      "Kendo"
+    ],
+    "hint": "Les lutteurs tentent de pousser leur adversaire hors d'un ring circulaire.",
+    "explanation": "Le sumo est le sport national du Japon avec plus de 1 500 ans d'histoire."
+  },
+  "q_spo_013": {
+    "question": "Combien de joueurs par équipe au volleyball sur le terrain ?",
+    "correct": "6",
+    "wrong": [
+      "5",
+      "7",
+      "8"
+    ],
+    "hint": "Les joueurs tournent de position à chaque service gagné.",
+    "explanation": "Chaque équipe de volleyball a 6 joueurs sur le terrain."
   }
 }

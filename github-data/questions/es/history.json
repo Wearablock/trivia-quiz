@@ -2,71 +2,144 @@
   "q_his_001": {
     "question": "En que ano termino la Segunda Guerra Mundial?",
     "correct": "1945",
-    "wrong": ["1944", "1946", "1943"],
+    "wrong": [
+      "1944",
+      "1946",
+      "1943"
+    ],
     "explanation": "La Segunda Guerra Mundial termino en 1945 con la rendicion de Alemania en mayo y Japon en septiembre.",
     "hint": "Fue el mismo ano en que se lanzaron las bombas atomicas sobre Hiroshima y Nagasaki."
   },
   "q_his_002": {
     "question": "Quien fue el primer presidente de los Estados Unidos?",
     "correct": "George Washington",
-    "wrong": ["Thomas Jefferson", "Abraham Lincoln", "John Adams"],
+    "wrong": [
+      "Thomas Jefferson",
+      "Abraham Lincoln",
+      "John Adams"
+    ],
     "explanation": "George Washington fue el primer presidente de EE.UU. desde 1789 hasta 1797.",
     "hint": "Su rostro aparece en el billete de un dolar y la capital del pais lleva su apellido."
   },
   "q_his_003": {
     "question": "Que civilizacion antigua construyo las piramides de Giza?",
     "correct": "Los antiguos egipcios",
-    "wrong": ["Romanos", "Griegos", "Mesopotamicos"],
+    "wrong": [
+      "Romanos",
+      "Griegos",
+      "Mesopotamicos"
+    ],
     "explanation": "La Gran Piramide de Giza fue construida alrededor del 2560 a.C. para el faraon Keops.",
     "hint": "Esta civilizacion prospero a orillas del rio Nilo y era gobernada por faraones."
   },
   "q_his_004": {
     "question": "En que ano cayo el Muro de Berlin?",
     "correct": "1989",
-    "wrong": ["1987", "1991", "1985"],
+    "wrong": [
+      "1987",
+      "1991",
+      "1985"
+    ],
     "explanation": "El Muro de Berlin cayo el 9 de noviembre de 1989, marcando un momento crucial en el fin de la Guerra Fria.",
     "hint": "Ocurrio el 9 de noviembre, un ano antes de la reunificacion alemana."
   },
   "q_his_005": {
     "question": "Que imperio fue gobernado por Gengis Kan?",
     "correct": "Imperio Mongol",
-    "wrong": ["Imperio Otomano", "Imperio Romano", "Imperio Persa"],
+    "wrong": [
+      "Imperio Otomano",
+      "Imperio Romano",
+      "Imperio Persa"
+    ],
     "explanation": "Gengis Kan fundo y goberno el Imperio Mongol, el imperio terrestre contiguo mas grande de la historia.",
     "hint": "Este imperio se origino en las estepas de Asia Central y sus guerreros eran famosos jinetes."
   },
   "q_his_006": {
     "question": "Quien fue la primera persona en pisar la Luna?",
     "correct": "Neil Armstrong",
-    "wrong": ["Buzz Aldrin", "Yuri Gagarin", "John Glenn"],
+    "wrong": [
+      "Buzz Aldrin",
+      "Yuri Gagarin",
+      "John Glenn"
+    ],
     "hint": "Dijo: 'Es un pequeno paso para el hombre, un gran salto para la humanidad.'",
     "explanation": "Neil Armstrong se convirtio en la primera persona en caminar sobre la Luna el 20 de julio de 1969, durante la mision Apollo 11."
   },
   "q_his_007": {
     "question": "Que barco se hundio en su viaje inaugural en 1912?",
     "correct": "RMS Titanic",
-    "wrong": ["RMS Lusitania", "HMS Britannic", "SS Andrea Doria"],
+    "wrong": [
+      "RMS Lusitania",
+      "HMS Britannic",
+      "SS Andrea Doria"
+    ],
     "hint": "Fue llamado 'insumergible' y choco contra un iceberg en el Atlantico Norte.",
     "explanation": "El Titanic se hundio el 15 de abril de 1912 tras chocar contra un iceberg, causando la muerte de mas de 1.500 personas."
   },
   "q_his_008": {
     "question": "En que siglo comenzo el Renacimiento?",
     "correct": "Siglo XIV",
-    "wrong": ["Siglo XII", "Siglo XVI", "Siglo XV"],
+    "wrong": [
+      "Siglo XII",
+      "Siglo XVI",
+      "Siglo XV"
+    ],
     "hint": "Comenzo en Italia, especialmente en Florencia, y significa 'renacer'.",
     "explanation": "El Renacimiento comenzo en el siglo XIV en Italia y marco una transicion cultural desde la Edad Media."
   },
   "q_his_009": {
     "question": "Quien descubrio la penicilina?",
     "correct": "Alexander Fleming",
-    "wrong": ["Louis Pasteur", "Robert Koch", "Joseph Lister"],
+    "wrong": [
+      "Louis Pasteur",
+      "Robert Koch",
+      "Joseph Lister"
+    ],
     "hint": "La descubrio accidentalmente a partir de moho que crecia en una placa de Petri en 1928.",
     "explanation": "Alexander Fleming descubrio la penicilina en 1928, revolucionando la medicina con el primer antibiotico verdadero."
   },
   "q_his_010": {
     "question": "Que maravilla del mundo antiguo se encontraba en Alejandria, Egipto?",
     "correct": "El Faro",
-    "wrong": ["El Coloso", "Los Jardines Colgantes", "El Templo de Artemisa"],
+    "wrong": [
+      "El Coloso",
+      "Los Jardines Colgantes",
+      "El Templo de Artemisa"
+    ],
     "hint": "Esta estructura guiaba a los marineros al concurrido puerto y media mas de 100 metros de alto.",
     "explanation": "El Faro de Alejandria (Pharos) fue construido alrededor del 280 a.C. y fue una de las estructuras mas altas del mundo antiguo."
+  },
+  "q_his_011": {
+    "question": "¿Quién fue la primera mujer Primera Ministra del Reino Unido?",
+    "correct": "Margaret Thatcher",
+    "wrong": [
+      "Theresa May",
+      "Reina Victoria",
+      "Emmeline Pankhurst"
+    ],
+    "hint": "Fue apodada 'La Dama de Hierro' y gobernó de 1979 a 1990.",
+    "explanation": "Margaret Thatcher se convirtió en la primera mujer Primera Ministra del Reino Unido en 1979."
+  },
+  "q_his_012": {
+    "question": "¿En qué año comenzó la Revolución Francesa?",
+    "correct": "1789",
+    "wrong": [
+      "1776",
+      "1804",
+      "1815"
+    ],
+    "hint": "Comenzó con el asalto a una famosa prisión-fortaleza de París.",
+    "explanation": "La Revolución Francesa comenzó el 14 de julio de 1789 con la toma de la Bastilla."
+  },
+  "q_his_013": {
+    "question": "¿Qué ciudad antigua fue sepultada por el Vesubio en el año 79 d.C.?",
+    "correct": "Pompeya",
+    "wrong": [
+      "Atenas",
+      "Cartago",
+      "Troya"
+    ],
+    "hint": "Esta ciudad romana fue preservada bajo ceniza volcánica y redescubierta en el siglo XVIII.",
+    "explanation": "Pompeya fue sepultada bajo metros de ceniza volcánica."
   }
 }

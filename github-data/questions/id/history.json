@@ -2,71 +2,144 @@
   "q_his_001": {
     "question": "Pada tahun berapa Perang Dunia II berakhir?",
     "correct": "1945",
-    "wrong": ["1944", "1946", "1943"],
+    "wrong": [
+      "1944",
+      "1946",
+      "1943"
+    ],
     "explanation": "Perang Dunia II berakhir pada tahun 1945 dengan menyerahnya Jerman pada bulan Mei dan Jepang pada bulan September.",
     "hint": "Tahun ini juga menandai pengeboman Hiroshima dan Nagasaki."
   },
   "q_his_002": {
     "question": "Siapa Presiden pertama Amerika Serikat?",
     "correct": "George Washington",
-    "wrong": ["Thomas Jefferson", "Abraham Lincoln", "John Adams"],
+    "wrong": [
+      "Thomas Jefferson",
+      "Abraham Lincoln",
+      "John Adams"
+    ],
     "explanation": "George Washington menjabat sebagai Presiden AS pertama dari tahun 1789 hingga 1797.",
     "hint": "Wajahnya tercetak di uang kertas satu dolar AS dan ibu kota negara dinamai menurut namanya."
   },
   "q_his_003": {
     "question": "Peradaban kuno mana yang membangun piramida Giza?",
     "correct": "Mesir Kuno",
-    "wrong": ["Romawi", "Yunani", "Mesopotamia"],
+    "wrong": [
+      "Romawi",
+      "Yunani",
+      "Mesopotamia"
+    ],
     "explanation": "Piramida Agung Giza dibangun sekitar tahun 2560 SM untuk Firaun Khufu.",
     "hint": "Peradaban ini terkenal dengan sungai Nil, hieroglif, dan para firaun."
   },
   "q_his_004": {
     "question": "Pada tahun berapa Tembok Berlin runtuh?",
     "correct": "1989",
-    "wrong": ["1987", "1991", "1985"],
+    "wrong": [
+      "1987",
+      "1991",
+      "1985"
+    ],
     "explanation": "Tembok Berlin runtuh pada tanggal 9 November 1989, menandai momen penting dalam berakhirnya Perang Dingin.",
     "hint": "Peristiwa ini terjadi di akhir dekade 1980-an, setahun sebelum reunifikasi Jerman."
   },
   "q_his_005": {
     "question": "Kekaisaran mana yang diperintah oleh Genghis Khan?",
     "correct": "Kekaisaran Mongol",
-    "wrong": ["Kekaisaran Ottoman", "Kekaisaran Romawi", "Kekaisaran Persia"],
+    "wrong": [
+      "Kekaisaran Ottoman",
+      "Kekaisaran Romawi",
+      "Kekaisaran Persia"
+    ],
     "explanation": "Genghis Khan mendirikan dan memerintah Kekaisaran Mongol, kekaisaran daratan terbesar yang bersebelahan dalam sejarah.",
     "hint": "Kekaisaran ini berasal dari Asia Tengah dan dikenal dengan pasukan berkuda yang menakutkan."
   },
   "q_his_006": {
     "question": "Siapa orang pertama yang menginjakkan kaki di Bulan?",
     "correct": "Neil Armstrong",
-    "wrong": ["Buzz Aldrin", "Yuri Gagarin", "John Glenn"],
+    "wrong": [
+      "Buzz Aldrin",
+      "Yuri Gagarin",
+      "John Glenn"
+    ],
     "hint": "Dia berkata: 'Ini satu langkah kecil bagi seorang manusia, satu lompatan besar bagi umat manusia.'",
     "explanation": "Neil Armstrong menjadi orang pertama yang berjalan di Bulan pada tanggal 20 Juli 1969 dalam misi Apollo 11."
   },
   "q_his_007": {
     "question": "Kapal apa yang tenggelam pada pelayaran pertamanya di tahun 1912?",
     "correct": "Titanic",
-    "wrong": ["Lusitania", "Britannic", "Andrea Doria"],
+    "wrong": [
+      "Lusitania",
+      "Britannic",
+      "Andrea Doria"
+    ],
     "hint": "Disebut 'tidak dapat tenggelam', kapal ini menabrak gunung es di Atlantik Utara.",
     "explanation": "Kapal Titanic tenggelam pada tanggal 15 April 1912 setelah menabrak gunung es, menewaskan lebih dari 1.500 orang."
   },
   "q_his_008": {
     "question": "Pada abad keberapa Renaisans dimulai?",
     "correct": "Abad ke-14",
-    "wrong": ["Abad ke-12", "Abad ke-16", "Abad ke-15"],
+    "wrong": [
+      "Abad ke-12",
+      "Abad ke-16",
+      "Abad ke-15"
+    ],
     "hint": "Dimulai di Italia, khususnya di Florence, dan kata ini berarti 'kelahiran kembali'.",
     "explanation": "Renaisans dimulai pada abad ke-14 di Italia, menandai transisi budaya dari Abad Pertengahan."
   },
   "q_his_009": {
     "question": "Siapa yang menemukan penisilin?",
     "correct": "Alexander Fleming",
-    "wrong": ["Louis Pasteur", "Robert Koch", "Joseph Lister"],
+    "wrong": [
+      "Louis Pasteur",
+      "Robert Koch",
+      "Joseph Lister"
+    ],
     "hint": "Dia menemukannya secara tidak sengaja dari jamur yang tumbuh di cawan petri pada tahun 1928.",
     "explanation": "Alexander Fleming menemukan penisilin pada tahun 1928, merevolusi dunia kedokteran dengan antibiotik pertama yang sesungguhnya."
   },
   "q_his_010": {
     "question": "Keajaiban dunia kuno mana yang terletak di Alexandria, Mesir?",
     "correct": "Mercusuar",
-    "wrong": ["Patung Raksasa", "Taman Gantung", "Kuil Artemis"],
+    "wrong": [
+      "Patung Raksasa",
+      "Taman Gantung",
+      "Kuil Artemis"
+    ],
     "hint": "Bangunan ini memandu para pelaut menuju pelabuhan yang ramai dan tingginya lebih dari 100 meter.",
     "explanation": "Mercusuar Alexandria (Pharos) dibangun sekitar tahun 280 SM, menjadi salah satu bangunan tertinggi di dunia kuno."
+  },
+  "q_his_011": {
+    "question": "Siapa Perdana Menteri wanita pertama Inggris?",
+    "correct": "Margaret Thatcher",
+    "wrong": [
+      "Theresa May",
+      "Ratu Victoria",
+      "Emmeline Pankhurst"
+    ],
+    "hint": "Dijuluki 'Wanita Besi' dan menjabat dari 1979 hingga 1990.",
+    "explanation": "Margaret Thatcher menjadi Perdana Menteri wanita pertama Inggris pada 1979."
+  },
+  "q_his_012": {
+    "question": "Tahun berapa Revolusi Prancis dimulai?",
+    "correct": "1789",
+    "wrong": [
+      "1776",
+      "1804",
+      "1815"
+    ],
+    "hint": "Dimulai dengan penyerbuan benteng penjara terkenal di Paris.",
+    "explanation": "Revolusi Prancis dimulai 14 Juli 1789 dengan penyerbuan Bastille."
+  },
+  "q_his_013": {
+    "question": "Kota kuno mana yang terkubur oleh Gunung Vesuvius pada 79 M?",
+    "correct": "Pompeii",
+    "wrong": [
+      "Athena",
+      "Kartago",
+      "Troya"
+    ],
+    "hint": "Kota Romawi ini terawetkan di bawah abu vulkanik dan ditemukan kembali pada abad ke-18.",
+    "explanation": "Pompeii terkubur di bawah beberapa meter abu vulkanik."
   }
 }

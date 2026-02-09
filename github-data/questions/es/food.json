@@ -2,71 +2,144 @@
   "q_foo_001": {
     "question": "De que pais es originario el sushi?",
     "correct": "Japon",
-    "wrong": ["China", "Corea", "Tailandia"],
+    "wrong": [
+      "China",
+      "Corea",
+      "Tailandia"
+    ],
     "explanation": "El sushi se origino en Japon, con formas tempranas que datan del siglo VIII.",
     "hint": "Este pais asiatico es famoso por los samurais, el anime y el Monte Fuji."
   },
   "q_foo_002": {
     "question": "Cual es el ingrediente principal del guacamole?",
     "correct": "Aguacate",
-    "wrong": ["Tomate", "Pimiento", "Cebolla"],
+    "wrong": [
+      "Tomate",
+      "Pimiento",
+      "Cebolla"
+    ],
     "explanation": "El guacamole es una salsa mexicana hecha principalmente de aguacates machacados.",
     "hint": "Esta fruta verde y cremosa tambien se conoce como 'palta' en algunos paises."
   },
   "q_foo_003": {
     "question": "Que vitamina se encuentra en abundancia en los citricos?",
     "correct": "Vitamina C",
-    "wrong": ["Vitamina A", "Vitamina D", "Vitamina B12"],
+    "wrong": [
+      "Vitamina A",
+      "Vitamina D",
+      "Vitamina B12"
+    ],
     "explanation": "Los citricos como las naranjas y los limones son fuentes ricas de Vitamina C.",
     "hint": "Esta vitamina ayuda a prevenir el escorbuto y refuerza el sistema inmunologico."
   },
   "q_foo_004": {
     "question": "Que tipo de pasta tiene forma de pequenos granos de arroz?",
     "correct": "Orzo",
-    "wrong": ["Penne", "Fusilli", "Farfalle"],
+    "wrong": [
+      "Penne",
+      "Fusilli",
+      "Farfalle"
+    ],
     "explanation": "El orzo es una pasta con forma de arroz que se usa frecuentemente en sopas y ensaladas.",
     "hint": "Su nombre en italiano significa 'cebada' y es muy pequena comparada con otras pastas."
   },
   "q_foo_005": {
     "question": "Que especia le da al curry su color amarillo?",
     "correct": "Curcuma",
-    "wrong": ["Pimenton", "Comino", "Cilantro"],
+    "wrong": [
+      "Pimenton",
+      "Comino",
+      "Cilantro"
+    ],
     "explanation": "La curcuma contiene curcumina, que le da al curry su distintivo color amarillo.",
     "hint": "Esta especia tambien se usa como colorante natural y tiene propiedades antiinflamatorias."
   },
   "q_foo_006": {
     "question": "Cual es la bebida mas consumida en el mundo despues del agua?",
     "correct": "Te",
-    "wrong": ["Cafe", "Cerveza", "Leche"],
+    "wrong": [
+      "Cafe",
+      "Cerveza",
+      "Leche"
+    ],
     "hint": "Esta bebida se origino en China y viene en variedades verde, negra y blanca.",
     "explanation": "El te es la bebida mas consumida despues del agua, con origenes en China que datan de 2737 a.C."
   },
   "q_foo_007": {
     "question": "Que pais es el mayor productor de cafe del mundo?",
     "correct": "Brasil",
-    "wrong": ["Colombia", "Etiopia", "Vietnam"],
+    "wrong": [
+      "Colombia",
+      "Etiopia",
+      "Vietnam"
+    ],
     "hint": "Este pais sudamericano tambien es famoso por la samba y el carnaval.",
     "explanation": "Brasil ha sido el mayor productor de cafe durante mas de 150 anos, produciendo aproximadamente un tercio del suministro mundial."
   },
   "q_foo_008": {
     "question": "De que se elabora tradicionalmente el wasabi?",
     "correct": "Una raiz de planta",
-    "wrong": ["Chiles verdes", "Semillas de mostaza", "Rabano picante y colorante"],
+    "wrong": [
+      "Chiles verdes",
+      "Semillas de mostaza",
+      "Rabano picante y colorante"
+    ],
     "hint": "El wasabi autentico es muy caro y debe rallarse fresco de un rizoma.",
     "explanation": "El wasabi real se elabora a partir del rizoma de la planta Wasabia japonica, aunque la mayoria de restaurantes usan rabano picante con colorante."
   },
   "q_foo_009": {
     "question": "Que fruta es conocida como el 'rey de las frutas' en el Sudeste Asiatico?",
     "correct": "Durian",
-    "wrong": ["Mango", "Jaca", "Papaya"],
+    "wrong": [
+      "Mango",
+      "Jaca",
+      "Papaya"
+    ],
     "hint": "Esta fruta es famosa por su fuerte olor y esta prohibida en muchos hoteles.",
     "explanation": "El durian es llamado el rey de las frutas en el Sudeste Asiatico a pesar de su olor penetrante que divide opiniones."
   },
   "q_foo_010": {
     "question": "Cual es el ingrediente principal del hummus?",
     "correct": "Garbanzos",
-    "wrong": ["Lentejas", "Alubias blancas", "Habas"],
+    "wrong": [
+      "Lentejas",
+      "Alubias blancas",
+      "Habas"
+    ],
     "hint": "Este dip del Medio Oriente tambien lleva tahini, jugo de limon y ajo.",
     "explanation": "El hummus es un dip levantino hecho principalmente de garbanzos cocidos y triturados mezclados con tahini."
+  },
+  "q_foo_011": {
+    "question": "¿Cuál es la especia más cara del mundo por peso?",
+    "correct": "Azafrán",
+    "wrong": [
+      "Vainilla",
+      "Cardamomo",
+      "Canela"
+    ],
+    "hint": "Proviene de los estigmas de una flor de azafrán y da un color dorado.",
+    "explanation": "El azafrán puede costar más de 5.000 dólares por libra."
+  },
+  "q_foo_012": {
+    "question": "¿De qué país es originario el croissant?",
+    "correct": "Austria",
+    "wrong": [
+      "Francia",
+      "Italia",
+      "Bélgica"
+    ],
+    "hint": "Su forma de media luna se inspiró en el emblema del Imperio otomano.",
+    "explanation": "El ancestro del croissant, el kipferl, se originó en Austria."
+  },
+  "q_foo_013": {
+    "question": "¿Qué tipo de alimento es el Brie?",
+    "correct": "Queso",
+    "wrong": [
+      "Pan",
+      "Pastelería",
+      "Salchicha"
+    ],
+    "hint": "Este producto suave y cremoso lleva el nombre de una región del norte de Francia.",
+    "explanation": "El Brie es un queso blando de leche de vaca de la región francesa de Brie."
   }
 }

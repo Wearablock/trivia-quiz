@@ -2,71 +2,144 @@
   "q_spo_001": {
     "question": "Quantos jogadores tem um time de futebol em campo?",
     "correct": "11",
-    "wrong": ["9", "10", "12"],
+    "wrong": [
+      "9",
+      "10",
+      "12"
+    ],
     "explanation": "Cada time de futebol entra em campo com 11 jogadores, incluindo o goleiro.",
     "hint": "E o mesmo numero de jogadores que um time de futebol americano tem em campo de cada lado."
   },
   "q_spo_002": {
     "question": "Em qual esporte voce executaria uma enterrada?",
     "correct": "Basquete",
-    "wrong": ["Voleibol", "Tenis", "Beisebol"],
+    "wrong": [
+      "Voleibol",
+      "Tenis",
+      "Beisebol"
+    ],
     "explanation": "Uma enterrada e um movimento do basquete onde um jogador salta e marca colocando a bola diretamente na cesta.",
     "hint": "Este esporte usa uma bola laranja e os jogadores tentam acertar uma cesta a 3,05 metros de altura."
   },
   "q_spo_003": {
     "question": "Qual pais ganhou mais titulos da Copa do Mundo FIFA?",
     "correct": "Brasil",
-    "wrong": ["Alemanha", "Italia", "Argentina"],
+    "wrong": [
+      "Alemanha",
+      "Italia",
+      "Argentina"
+    ],
     "explanation": "O Brasil ganhou a Copa do Mundo FIFA 5 vezes (1958, 1962, 1970, 1994, 2002).",
     "hint": "Este pais sul-americano e o unico que participou de todas as edicoes da Copa do Mundo."
   },
   "q_spo_004": {
     "question": "Qual e a pontuacao maxima possivel no boliche de 10 pinos?",
     "correct": "300",
-    "wrong": ["200", "250", "350"],
+    "wrong": [
+      "200",
+      "250",
+      "350"
+    ],
     "explanation": "Um jogo perfeito de boliche marca 300 pontos com 12 strikes consecutivos.",
     "hint": "Para alcancar esta pontuacao, voce precisa derrubar todos os pinos em cada arremesso, em todos os 10 frames."
   },
   "q_spo_005": {
     "question": "Qual torneio de Grand Slam de tenis e jogado em quadras de saibro?",
     "correct": "Roland Garros",
-    "wrong": ["Wimbledon", "US Open", "Australian Open"],
+    "wrong": [
+      "Wimbledon",
+      "US Open",
+      "Australian Open"
+    ],
     "explanation": "O Roland Garros (Aberto da Franca) e o unico Grand Slam jogado em saibro.",
     "hint": "Este torneio acontece em Paris e a superficie de jogo e de terra batida avermelhada."
   },
   "q_spo_006": {
     "question": "Quantos aneis ha na bandeira olimpica?",
     "correct": "5",
-    "wrong": ["4", "6", "7"],
+    "wrong": [
+      "4",
+      "6",
+      "7"
+    ],
     "hint": "Cada anel representa um continente que participa dos Jogos Olimpicos.",
     "explanation": "Os cinco aneis olimpicos representam os cinco continentes: Africa, Americas, Asia, Europa e Oceania."
   },
   "q_spo_007": {
     "question": "Em qual esporte um 'birdie' significa uma tacada abaixo do par?",
     "correct": "Golfe",
-    "wrong": ["Badminton", "Tenis", "Criquete"],
+    "wrong": [
+      "Badminton",
+      "Tenis",
+      "Criquete"
+    ],
     "hint": "Este esporte e jogado em campos com 18 buracos usando tacos e uma pequena bola.",
     "explanation": "No golfe, um birdie significa completar um buraco com uma tacada a menos que o par."
   },
   "q_spo_008": {
     "question": "Qual pais inventou o esporte do criquete?",
     "correct": "Inglaterra",
-    "wrong": ["India", "Australia", "Africa do Sul"],
+    "wrong": [
+      "India",
+      "Australia",
+      "Africa do Sul"
+    ],
     "hint": "Este esporte remonta ao seculo XVI e e o esporte nacional de verao deste pais.",
     "explanation": "O criquete se originou na Inglaterra no final do seculo XVI e se espalhou pelo Imperio Britanico."
   },
   "q_spo_009": {
     "question": "Qual e o comprimento de uma maratona em quilometros?",
     "correct": "42,195 km",
-    "wrong": ["40 km", "45 km", "50 km"],
+    "wrong": [
+      "40 km",
+      "45 km",
+      "50 km"
+    ],
     "hint": "A distancia foi padronizada nos Jogos Olimpicos de Londres em 1908.",
     "explanation": "Uma maratona tem 42,195 km (26,2 milhas), distancia estabelecida nos Jogos Olimpicos de Londres de 1908."
   },
   "q_spo_010": {
     "question": "Qual esporte usa o maior campo de jogo?",
     "correct": "Polo",
-    "wrong": ["Futebol", "Rugbi", "Futebol americano"],
+    "wrong": [
+      "Futebol",
+      "Rugbi",
+      "Futebol americano"
+    ],
     "hint": "Este esporte e praticado a cavalo e o campo pode ter ate 275 metros de comprimento.",
     "explanation": "Um campo de polo e o maior campo de jogo no esporte organizado, medindo ate 275 por 180 metros."
+  },
+  "q_spo_011": {
+    "question": "Em qual esporte 'love' significa zero pontos?",
+    "correct": "Tênis",
+    "wrong": [
+      "Badminton",
+      "Squash",
+      "Tênis de mesa"
+    ],
+    "hint": "Este esporte usa um sistema de pontuação peculiar: 15, 30, 40.",
+    "explanation": "No tênis, 'love' significa zero pontos."
+  },
+  "q_spo_012": {
+    "question": "Qual é o esporte nacional do Japão?",
+    "correct": "Sumô",
+    "wrong": [
+      "Judô",
+      "Caratê",
+      "Kendô"
+    ],
+    "hint": "Os lutadores tentam empurrar o oponente para fora de um ringue circular.",
+    "explanation": "O sumô é o esporte nacional do Japão com mais de 1.500 anos de história."
+  },
+  "q_spo_013": {
+    "question": "Quantos jogadores por equipe ficam em quadra no vôlei?",
+    "correct": "6",
+    "wrong": [
+      "5",
+      "7",
+      "8"
+    ],
+    "hint": "Os jogadores fazem rodízio de posição a cada saque conquistado.",
+    "explanation": "Cada equipe de vôlei tem 6 jogadores em quadra."
   }
 }

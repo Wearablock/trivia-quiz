@@ -2,78 +2,144 @@
   "q_geo_001": {
     "question": "Quelle est la capitale de la France ?",
     "correct": "Paris",
-    "wrong": ["Londres", "Berlin", "Madrid"],
+    "wrong": [
+      "Londres",
+      "Berlin",
+      "Madrid"
+    ],
     "explanation": "Paris est la capitale de la France depuis la fin du Xe siecle.",
     "hint": "Cette ville est surnommee la 'Ville Lumiere' et abrite la Tour Eiffel."
   },
   "q_geo_002": {
     "question": "Quel est le plus grand ocean de la Terre ?",
     "correct": "Ocean Pacifique",
-    "wrong": ["Ocean Atlantique", "Ocean Indien", "Ocean Arctique"],
+    "wrong": [
+      "Ocean Atlantique",
+      "Ocean Indien",
+      "Ocean Arctique"
+    ],
     "explanation": "L'ocean Pacifique couvre environ 165 millions de kilometres carres.",
     "hint": "Cet ocean separe l'Asie et l'Australie des Ameriques."
   },
   "q_geo_003": {
     "question": "Quel pays possede le plus long littoral au monde ?",
     "correct": "Canada",
-    "wrong": ["Russie", "Australie", "Indonesie"],
+    "wrong": [
+      "Russie",
+      "Australie",
+      "Indonesie"
+    ],
     "explanation": "Le Canada possede plus de 202 080 km de littoral.",
     "hint": "Ce pays nord-americain est borde par trois oceans et a la feuille d'erable comme symbole."
   },
   "q_geo_004": {
     "question": "Quelle est la capitale de l'Australie ?",
     "correct": "Canberra",
-    "wrong": ["Sydney", "Melbourne", "Brisbane"],
+    "wrong": [
+      "Sydney",
+      "Melbourne",
+      "Brisbane"
+    ],
     "explanation": "Canberra a ete choisie comme capitale en 1908 comme compromis entre Sydney et Melbourne.",
     "hint": "Ce n'est ni Sydney ni Melbourne, mais une ville construite specifiquement pour etre la capitale."
   },
   "q_geo_005": {
     "question": "Quel fleuve traverse le plus grand nombre de pays ?",
     "correct": "Danube",
-    "wrong": ["Nil", "Amazone", "Rhin"],
+    "wrong": [
+      "Nil",
+      "Amazone",
+      "Rhin"
+    ],
     "explanation": "Le Danube traverse 10 pays en Europe.",
     "hint": "Ce fleuve europeen prend sa source en Allemagne et se jette dans la mer Noire."
   },
   "q_geo_006": {
     "question": "Quel est le plus grand desert chaud du monde ?",
     "correct": "Sahara",
-    "wrong": ["Desert d'Arabie", "Gobi", "Kalahari"],
+    "wrong": [
+      "Desert d'Arabie",
+      "Gobi",
+      "Kalahari"
+    ],
     "hint": "Ce desert africain est presque aussi grand que les Etats-Unis.",
     "explanation": "Le Sahara couvre environ 9,2 millions de kilometres carres en Afrique du Nord."
   },
   "q_geo_007": {
     "question": "Quel est le plus petit pays du monde par superficie ?",
     "correct": "Cite du Vatican",
-    "wrong": ["Monaco", "Saint-Marin", "Liechtenstein"],
+    "wrong": [
+      "Monaco",
+      "Saint-Marin",
+      "Liechtenstein"
+    ],
     "hint": "Ce pays est entierement situe dans la ville de Rome.",
     "explanation": "La Cite du Vatican ne couvre que 0,44 kilometre carre et est le siege de l'Eglise catholique romaine."
   },
   "q_geo_008": {
     "question": "Quel detroit separe l'Europe de l'Asie ?",
     "correct": "Bosphore",
-    "wrong": ["Detroit de Gibraltar", "Detroit de Malacca", "Detroit d'Ormuz"],
+    "wrong": [
+      "Detroit de Gibraltar",
+      "Detroit de Malacca",
+      "Detroit d'Ormuz"
+    ],
     "hint": "Cette voie d'eau etroite traverse la ville d'Istanbul.",
     "explanation": "Le Bosphore divise Istanbul et separe la Turquie europeenne de la Turquie asiatique."
   },
   "q_geo_009": {
     "question": "Quel est le plus long fleuve d'Amerique du Sud ?",
     "correct": "Amazone",
-    "wrong": ["Parana", "Orenoque", "Sao Francisco"],
+    "wrong": [
+      "Parana",
+      "Orenoque",
+      "Sao Francisco"
+    ],
     "hint": "Ce fleuve transporte plus d'eau que tout autre et traverse la plus grande foret tropicale du monde.",
     "explanation": "L'Amazone s'etend sur environ 6 400 km et possede le plus grand debit de tous les fleuves."
   },
   "q_geo_010": {
     "question": "Quel pays possede le plus grand nombre de fuseaux horaires ?",
     "correct": "France",
-    "wrong": ["Russie", "Etats-Unis", "Royaume-Uni"],
+    "wrong": [
+      "Russie",
+      "Etats-Unis",
+      "Royaume-Uni"
+    ],
     "hint": "Ses territoires d'outre-mer s'etendent des Caraibes au Pacifique.",
     "explanation": "La France possede 12 fuseaux horaires grace a ses territoires d'outre-mer, plus que les 11 de la Russie."
   },
   "q_geo_100": {
     "question": "Quelle est la plus haute montagne du monde ?",
     "correct": "Mont Everest",
-    "wrong": ["K2", "Kangchenjunga", "Lhotse"],
+    "wrong": [
+      "K2",
+      "Kangchenjunga",
+      "Lhotse"
+    ],
     "hint": "Situee dans l'Himalaya, a la frontiere entre le Nepal et le Tibet.",
     "explanation": "Le Mont Everest culmine a 8 849 metres au-dessus du niveau de la mer."
+  },
+  "q_geo_011": {
+    "question": "Quel est le continent le plus sec de la Terre ?",
+    "correct": "Antarctique",
+    "wrong": [
+      "Afrique",
+      "Australie",
+      "Asie"
+    ],
+    "hint": "Malgré sa couverture de glace, ce continent reçoit très peu de précipitations.",
+    "explanation": "L'Antarctique est techniquement un désert avec moins de 200 mm de précipitations annuelles."
+  },
+  "q_geo_012": {
+    "question": "Quel pays européen a la forme d'une botte ?",
+    "correct": "Italie",
+    "wrong": [
+      "Espagne",
+      "Grèce",
+      "Portugal"
+    ],
+    "hint": "Ce pays est une péninsule qui s'avance dans la Méditerranée.",
+    "explanation": "La forme de botte distinctive de l'Italie est l'un des contours de pays les plus reconnaissables."
   }
 }

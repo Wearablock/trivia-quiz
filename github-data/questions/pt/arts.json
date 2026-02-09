@@ -2,71 +2,144 @@
   "q_art_001": {
     "question": "Quem pintou a Mona Lisa?",
     "correct": "Leonardo da Vinci",
-    "wrong": ["Michelangelo", "Rafael", "Botticelli"],
+    "wrong": [
+      "Michelangelo",
+      "Rafael",
+      "Botticelli"
+    ],
     "explanation": "Leonardo da Vinci pintou a Mona Lisa entre 1503 e 1519.",
     "hint": "Este genio do Renascimento italiano tambem projetou maquinas voadoras e estudou anatomia."
   },
   "q_art_002": {
     "question": "Qual compositor escreveu a 'Nona Sinfonia'?",
     "correct": "Ludwig van Beethoven",
-    "wrong": ["Mozart", "Bach", "Chopin"],
+    "wrong": [
+      "Mozart",
+      "Bach",
+      "Chopin"
+    ],
     "explanation": "A Nona Sinfonia de Beethoven, concluida em 1824, inclui a famosa 'Ode a Alegria'.",
     "hint": "Este compositor alemao continuou compondo mesmo depois de ficar completamente surdo."
   },
   "q_art_003": {
     "question": "Em qual cidade esta localizado o Museu do Louvre?",
     "correct": "Paris",
-    "wrong": ["Londres", "Roma", "Madrid"],
+    "wrong": [
+      "Londres",
+      "Roma",
+      "Madrid"
+    ],
     "explanation": "O Louvre em Paris e o maior museu de arte do mundo.",
     "hint": "Este museu fica na capital francesa e tem uma famosa piramide de vidro na entrada."
   },
   "q_art_004": {
     "question": "Quem escreveu 'Romeu e Julieta'?",
     "correct": "William Shakespeare",
-    "wrong": ["Charles Dickens", "Jane Austen", "Oscar Wilde"],
+    "wrong": [
+      "Charles Dickens",
+      "Jane Austen",
+      "Oscar Wilde"
+    ],
     "explanation": "Shakespeare escreveu Romeu e Julieta por volta de 1594-1596.",
     "hint": "Este dramaturgo ingles nasceu em Stratford-upon-Avon e e considerado o maior escritor da lingua inglesa."
   },
   "q_art_005": {
     "question": "A qual movimento artistico Salvador Dali pertenceu?",
     "correct": "Surrealismo",
-    "wrong": ["Impressionismo", "Cubismo", "Expressionismo"],
+    "wrong": [
+      "Impressionismo",
+      "Cubismo",
+      "Expressionismo"
+    ],
     "explanation": "Dali foi uma figura importante do movimento Surrealista, conhecido por suas imagens marcantes.",
     "hint": "Este movimento explorava o mundo dos sonhos e do inconsciente, com imagens oniricas e fantasticas."
   },
   "q_art_006": {
     "question": "Quem pintou 'A Noite Estrelada'?",
     "correct": "Vincent van Gogh",
-    "wrong": ["Claude Monet", "Paul Cezanne", "Edgar Degas"],
+    "wrong": [
+      "Claude Monet",
+      "Paul Cezanne",
+      "Edgar Degas"
+    ],
     "hint": "Este pintor holandes cortou parte da propria orelha.",
     "explanation": "Van Gogh pintou A Noite Estrelada em 1889 durante sua estadia no asilo de Saint-Remy-de-Provence."
   },
   "q_art_007": {
     "question": "Qual instrumento musical tem 88 teclas?",
     "correct": "Piano",
-    "wrong": ["Orgao", "Cravo", "Acordeao"],
+    "wrong": [
+      "Orgao",
+      "Cravo",
+      "Acordeao"
+    ],
     "hint": "Possui teclas brancas e pretas e foi inventado na Italia por volta de 1700.",
     "explanation": "Um piano moderno padrao tem 52 teclas brancas e 36 pretas, totalizando 88."
   },
   "q_art_008": {
     "question": "Quem esculpiu 'O Pensador'?",
     "correct": "Auguste Rodin",
-    "wrong": ["Donatello", "Bernini", "Henry Moore"],
+    "wrong": [
+      "Donatello",
+      "Bernini",
+      "Henry Moore"
+    ],
     "hint": "Este escultor frances e frequentemente chamado de pai da escultura moderna.",
     "explanation": "Rodin criou O Pensador em 1904, originalmente como parte de uma obra maior chamada As Portas do Inferno."
   },
   "q_art_009": {
     "question": "Qual romance comeca com 'Chamem-me Ismael'?",
     "correct": "Moby Dick",
-    "wrong": ["A Ilha do Tesouro", "O Velho e o Mar", "Robinson Crusoe"],
+    "wrong": [
+      "A Ilha do Tesouro",
+      "O Velho e o Mar",
+      "Robinson Crusoe"
+    ],
     "hint": "Este romance conta a obsessao de um capitao por uma baleia branca.",
     "explanation": "Moby Dick de Herman Melville, publicado em 1851, comeca com uma das frases mais famosas da literatura."
   },
   "q_art_010": {
     "question": "Quem compôs 'As Quatro Estacoes'?",
     "correct": "Antonio Vivaldi",
-    "wrong": ["Johann Sebastian Bach", "Georg Friedrich Handel", "Franz Schubert"],
+    "wrong": [
+      "Johann Sebastian Bach",
+      "Georg Friedrich Handel",
+      "Franz Schubert"
+    ],
     "hint": "Este compositor barroco italiano era um padre ruivo apelidado de 'Il Prete Rosso'.",
     "explanation": "Vivaldi compôs As Quatro Estacoes por volta de 1723, um conjunto de quatro concertos para violino."
+  },
+  "q_art_011": {
+    "question": "Quem pintou 'Moça com Brinco de Pérola'?",
+    "correct": "Johannes Vermeer",
+    "wrong": [
+      "Rembrandt",
+      "Peter Paul Rubens",
+      "Jan van Eyck"
+    ],
+    "hint": "Este pintor holandês da Era de Ouro era mestre no uso da luz.",
+    "explanation": "Vermeer pintou esta obra por volta de 1665."
+  },
+  "q_art_012": {
+    "question": "Qual artista é famoso por pintar latas de sopa Campbell?",
+    "correct": "Andy Warhol",
+    "wrong": [
+      "Roy Lichtenstein",
+      "Jasper Johns",
+      "Jean-Michel Basquiat"
+    ],
+    "hint": "Ele foi líder do movimento Pop Art e dirigia um estúdio chamado 'The Factory'.",
+    "explanation": "Andy Warhol criou 'Campbell's Soup Cans' em 1962."
+  },
+  "q_art_013": {
+    "question": "Como se chama a ópera de Bizet com uma cigana espanhola?",
+    "correct": "Carmen",
+    "wrong": [
+      "La Traviata",
+      "Aida",
+      "Madama Butterfly"
+    ],
+    "hint": "A história se passa em Sevilha e inclui a famosa ária 'Habanera'.",
+    "explanation": "Carmen de Georges Bizet estreou em 1875."
   }
 }

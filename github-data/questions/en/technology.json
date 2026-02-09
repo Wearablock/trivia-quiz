@@ -68,5 +68,19 @@
     "wrong": ["Vint Cerf", "Steve Wozniak", "Larry Page"],
     "hint": "He invented it at CERN in 1989 and created the first web browser.",
     "explanation": "Tim Berners-Lee invented the World Wide Web in 1989 while working at CERN in Switzerland."
+  },
+  "q_tec_011": {
+    "question": "What does 'USB' stand for?",
+    "correct": "Universal Serial Bus",
+    "wrong": ["Ultra Speed Bridge", "Unified System Buffer", "Universal System Bridge"],
+    "hint": "This standard connector is used to connect peripherals like keyboards and flash drives.",
+    "explanation": "USB (Universal Serial Bus) was introduced in 1996 to standardize the connection of peripherals to computers."
+  },
+  "q_tec_012": {
+    "question": "Which company created the first commercially successful personal computer?",
+    "correct": "Apple",
+    "wrong": ["IBM", "Microsoft", "Hewlett-Packard"],
+    "hint": "The Apple II, released in 1977, was one of the first mass-produced microcomputers.",
+    "explanation": "Apple's Apple II (1977) was one of the first highly successful mass-produced personal computers, helping launch the PC revolution."
   }
 }

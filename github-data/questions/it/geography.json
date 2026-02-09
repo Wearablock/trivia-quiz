@@ -2,78 +2,144 @@
   "q_geo_001": {
     "question": "Qual e la capitale della Francia?",
     "correct": "Parigi",
-    "wrong": ["Londra", "Berlino", "Madrid"],
+    "wrong": [
+      "Londra",
+      "Berlino",
+      "Madrid"
+    ],
     "explanation": "Parigi e la capitale della Francia dalla fine del X secolo.",
     "hint": "Questa citta e famosa per la Torre Eiffel e il fiume Senna."
   },
   "q_geo_002": {
     "question": "Qual e l'oceano piu grande della Terra?",
     "correct": "Oceano Pacifico",
-    "wrong": ["Oceano Atlantico", "Oceano Indiano", "Oceano Artico"],
+    "wrong": [
+      "Oceano Atlantico",
+      "Oceano Indiano",
+      "Oceano Artico"
+    ],
     "explanation": "L'Oceano Pacifico copre circa 165 milioni di chilometri quadrati.",
     "hint": "Il suo nome significa 'tranquillo' e si trova tra l'Asia e le Americhe."
   },
   "q_geo_003": {
     "question": "Quale paese ha la costa piu lunga del mondo?",
     "correct": "Canada",
-    "wrong": ["Russia", "Australia", "Indonesia"],
+    "wrong": [
+      "Russia",
+      "Australia",
+      "Indonesia"
+    ],
     "explanation": "Il Canada ha oltre 202.080 km di costa.",
     "hint": "Questo paese nordamericano confina a sud con gli Stati Uniti e ha coste su tre oceani."
   },
   "q_geo_004": {
     "question": "Qual e la capitale dell'Australia?",
     "correct": "Canberra",
-    "wrong": ["Sydney", "Melbourne", "Brisbane"],
+    "wrong": [
+      "Sydney",
+      "Melbourne",
+      "Brisbane"
+    ],
     "explanation": "Canberra fu scelta come capitale nel 1908 come compromesso tra Sydney e Melbourne.",
     "hint": "Non e la citta piu grande del paese, ma fu costruita appositamente come capitale."
   },
   "q_geo_005": {
     "question": "Quale fiume attraversa il maggior numero di paesi?",
     "correct": "Danubio",
-    "wrong": ["Nilo", "Rio delle Amazzoni", "Reno"],
+    "wrong": [
+      "Nilo",
+      "Rio delle Amazzoni",
+      "Reno"
+    ],
     "explanation": "Il Danubio attraversa 10 paesi in Europa.",
     "hint": "Questo fiume europeo nasce in Germania e sfocia nel Mar Nero."
   },
   "q_geo_006": {
     "question": "Qual e il deserto caldo piu grande del mondo?",
     "correct": "Sahara",
-    "wrong": ["Deserto Arabico", "Gobi", "Kalahari"],
+    "wrong": [
+      "Deserto Arabico",
+      "Gobi",
+      "Kalahari"
+    ],
     "hint": "Questo deserto africano e quasi grande quanto gli Stati Uniti.",
     "explanation": "Il Sahara copre circa 9,2 milioni di chilometri quadrati nel Nord Africa."
   },
   "q_geo_007": {
     "question": "Qual e il paese piu piccolo del mondo per superficie?",
     "correct": "Citta del Vaticano",
-    "wrong": ["Monaco", "San Marino", "Liechtenstein"],
+    "wrong": [
+      "Monaco",
+      "San Marino",
+      "Liechtenstein"
+    ],
     "hint": "Questo paese si trova interamente all'interno della citta di Roma.",
     "explanation": "La Citta del Vaticano occupa solo 0,44 chilometri quadrati ed e la sede della Chiesa Cattolica Romana."
   },
   "q_geo_008": {
     "question": "Quale stretto separa l'Europa dall'Asia?",
     "correct": "Bosforo",
-    "wrong": ["Stretto di Gibilterra", "Stretto di Malacca", "Stretto di Hormuz"],
+    "wrong": [
+      "Stretto di Gibilterra",
+      "Stretto di Malacca",
+      "Stretto di Hormuz"
+    ],
     "hint": "Questa stretta via d'acqua attraversa la citta di Istanbul.",
     "explanation": "Il Bosforo divide Istanbul e separa la Turchia europea dalla Turchia asiatica."
   },
   "q_geo_009": {
     "question": "Qual e il fiume piu lungo del Sud America?",
     "correct": "Rio delle Amazzoni",
-    "wrong": ["Parana", "Orinoco", "Sao Francisco"],
+    "wrong": [
+      "Parana",
+      "Orinoco",
+      "Sao Francisco"
+    ],
     "hint": "Questo fiume trasporta piu acqua di qualsiasi altro e attraversa la piu grande foresta pluviale del mondo.",
     "explanation": "Il Rio delle Amazzoni si estende per circa 6.400 km e ha la portata maggiore di tutti i fiumi."
   },
   "q_geo_010": {
     "question": "Quale paese ha il maggior numero di fusi orari?",
     "correct": "Francia",
-    "wrong": ["Russia", "Stati Uniti", "Regno Unito"],
+    "wrong": [
+      "Russia",
+      "Stati Uniti",
+      "Regno Unito"
+    ],
     "hint": "I suoi territori d'oltremare si estendono dai Caraibi al Pacifico.",
     "explanation": "La Francia ha 12 fusi orari grazie ai suoi territori d'oltremare, piu degli 11 della Russia."
   },
   "q_geo_100": {
     "question": "Qual e la montagna piu alta del mondo?",
     "correct": "Monte Everest",
-    "wrong": ["K2", "Kangchenjunga", "Lhotse"],
+    "wrong": [
+      "K2",
+      "Kangchenjunga",
+      "Lhotse"
+    ],
     "hint": "Situata nell'Himalaya, al confine tra Nepal e Tibet.",
     "explanation": "Il Monte Everest e alto 8.849 metri sul livello del mare."
+  },
+  "q_geo_011": {
+    "question": "Qual è il continente più arido della Terra?",
+    "correct": "Antartide",
+    "wrong": [
+      "Africa",
+      "Australia",
+      "Asia"
+    ],
+    "hint": "Nonostante la copertura di ghiaccio, questo continente riceve pochissime precipitazioni.",
+    "explanation": "L'Antartide è tecnicamente un deserto con meno di 200 mm di precipitazioni annue."
+  },
+  "q_geo_012": {
+    "question": "Quale paese europeo ha la forma di uno stivale?",
+    "correct": "Italia",
+    "wrong": [
+      "Spagna",
+      "Grecia",
+      "Portogallo"
+    ],
+    "hint": "Questo paese è una penisola che si protende nel Mediterraneo.",
+    "explanation": "La caratteristica forma a stivale dell'Italia è uno dei contorni nazionali più riconoscibili al mondo."
   }
 }

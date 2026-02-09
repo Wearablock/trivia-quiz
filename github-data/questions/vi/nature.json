@@ -2,71 +2,133 @@
   "q_nat_001": {
     "question": "Động vật có vú lớn nhất trên thế giới là gì?",
     "correct": "Cá voi xanh",
-    "wrong": ["Voi", "Hươu cao cổ", "Hà mã"],
+    "wrong": [
+      "Voi",
+      "Hươu cao cổ",
+      "Hà mã"
+    ],
     "explanation": "Cá voi xanh có thể dài hơn 30 mét và nặng tới 200 tấn.",
     "hint": "Loài động vật biển này có thể nặng bằng 33 con voi, và trái tim của nó to bằng một chiếc ô tô."
   },
   "q_nat_002": {
     "question": "Nhện có bao nhiêu chân?",
     "correct": "8",
-    "wrong": ["6", "10", "12"],
+    "wrong": [
+      "6",
+      "10",
+      "12"
+    ],
     "explanation": "Tất cả nhện đều thuộc lớp hình nhện và có 8 chân.",
     "hint": "Số chân này nhiều hơn côn trùng 2 chân, và nhện không phải là côn trùng mà là động vật hình nhện."
   },
   "q_nat_003": {
     "question": "Loài cây cao nhất thế giới là gì?",
     "correct": "Cây Sequoia đỏ ven biển",
-    "wrong": ["Cây Sequoia khổng lồ", "Cây bạch đàn", "Cây thông Douglas"],
+    "wrong": [
+      "Cây Sequoia khổng lồ",
+      "Cây bạch đàn",
+      "Cây thông Douglas"
+    ],
     "explanation": "Cây Sequoia đỏ ven biển có thể cao hơn 115 mét.",
     "hint": "Loài cây này mọc ở bờ biển California, Mỹ, và có vỏ cây màu đỏ nâu đặc trưng."
   },
   "q_nat_004": {
     "question": "Thực vật hấp thụ khí gì từ khí quyển?",
     "correct": "Carbon Dioxide",
-    "wrong": ["Oxy", "Nitơ", "Hydro"],
+    "wrong": [
+      "Oxy",
+      "Nitơ",
+      "Hydro"
+    ],
     "explanation": "Thực vật sử dụng carbon dioxide trong quá trình quang hợp để tạo ra oxy và glucose.",
     "hint": "Khí này được viết tắt là CO2 và là nguyên nhân chính gây ra hiệu ứng nhà kính."
   },
   "q_nat_005": {
     "question": "Động vật trên cạn nhanh nhất là gì?",
     "correct": "Báo gê-pa",
-    "wrong": ["Sư tử", "Linh dương", "Ngựa"],
+    "wrong": [
+      "Sư tử",
+      "Linh dương",
+      "Ngựa"
+    ],
     "explanation": "Báo gê-pa có thể đạt tốc độ lên tới 112 km/h.",
     "hint": "Loài mèo hoang dã này có đốm đen trên lông và sống ở châu Phi, có thể tăng tốc từ 0-100 km/h trong 3 giây."
   },
   "q_nat_006": {
     "question": "Loài cá mập lớn nhất là gì?",
     "correct": "Cá mập voi",
-    "wrong": ["Cá mập trắng lớn", "Cá mập đầu búa", "Cá mập hổ"],
+    "wrong": [
+      "Cá mập trắng lớn",
+      "Cá mập đầu búa",
+      "Cá mập hổ"
+    ],
     "hint": "Mặc dù có kích thước rất lớn, loài cá mập này là loài ăn lọc hiền lành, chỉ ăn sinh vật phù du.",
     "explanation": "Cá mập voi có thể dài tới 12 mét và là loài cá lớn nhất trong đại dương."
   },
   "q_nat_007": {
     "question": "Loài chim nào có thể bay lùi?",
     "correct": "Chim ruồi",
-    "wrong": ["Chim bói cá", "Chim nhạn", "Chim sẻ"],
+    "wrong": [
+      "Chim bói cá",
+      "Chim nhạn",
+      "Chim sẻ"
+    ],
     "hint": "Loài chim nhỏ này có thể đập cánh tới 80 lần mỗi giây và hút mật hoa.",
     "explanation": "Chim ruồi là loài chim duy nhất có thể bay tại chỗ và bay lùi nhờ cấu trúc cánh độc đáo."
   },
   "q_nat_008": {
     "question": "Loại đá tự nhiên cứng nhất là gì?",
     "correct": "Đá granite",
-    "wrong": ["Đá cẩm thạch", "Đá vôi", "Đá sa thạch"],
+    "wrong": [
+      "Đá cẩm thạch",
+      "Đá vôi",
+      "Đá sa thạch"
+    ],
     "hint": "Loại đá magma này thường được dùng làm mặt bàn bếp và các tượng đài.",
     "explanation": "Đá granite là một trong những loại đá tự nhiên cứng nhất, hình thành từ magma nguội dần trong lòng đất."
   },
   "q_nat_009": {
     "question": "Gián có thể sống bao lâu mà không có đầu?",
     "correct": "Khoảng một tuần",
-    "wrong": ["Vài giây", "Khoảng một giờ", "Khoảng một tháng"],
+    "wrong": [
+      "Vài giây",
+      "Khoảng một giờ",
+      "Khoảng một tháng"
+    ],
     "hint": "Những con côn trùng này thở qua các lỗ nhỏ trên cơ thể, không phải qua miệng.",
     "explanation": "Gián có thể sống khoảng một tuần mà không có đầu vì chúng thở qua các lỗ thở trên cơ thể."
   },
   "q_nat_010": {
     "question": "Đại dương nào sâu nhất?",
     "correct": "Thái Bình Dương",
-    "wrong": ["Đại Tây Dương", "Ấn Độ Dương", "Nam Đại Dương"],
+    "wrong": [
+      "Đại Tây Dương",
+      "Ấn Độ Dương",
+      "Nam Đại Dương"
+    ],
     "hint": "Rãnh Mariana, điểm sâu nhất trên Trái Đất, nằm trong đại dương này.",
     "explanation": "Thái Bình Dương có rãnh Mariana sâu khoảng 11.034 mét tại Challenger Deep."
+  },
+  "q_nat_011": {
+    "question": "Loài thú duy nhất có thể bay thực sự là gì?",
+    "correct": "Dơi",
+    "wrong": [
+      "Sóc bay",
+      "Sóc bay túi",
+      "Chồn bay"
+    ],
+    "hint": "Loài động vật về đêm này sử dụng định vị bằng tiếng vang.",
+    "explanation": "Dơi là loài thú duy nhất có thể bay thực sự."
+  },
+  "q_nat_012": {
+    "question": "Bạch tuộc có bao nhiêu trái tim?",
+    "correct": "3",
+    "wrong": [
+      "1",
+      "2",
+      "4"
+    ],
+    "hint": "Hai trái tim bơm máu đến mang, trái thứ ba bơm đi khắp cơ thể.",
+    "explanation": "Bạch tuộc có ba trái tim."
   }
 }

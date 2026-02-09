@@ -2,71 +2,144 @@
   "q_foo_001": {
     "question": "Aus welchem Land stammt Sushi?",
     "correct": "Japan",
-    "wrong": ["China", "Korea", "Thailand"],
+    "wrong": [
+      "China",
+      "Korea",
+      "Thailand"
+    ],
     "explanation": "Sushi stammt aus Japan, mit frühen Formen, die bis ins 8. Jahrhundert zurückreichen.",
     "hint": "Dieses ostasiatische Land ist auch bekannt für Geishas, Samurai und den Berg Fuji."
   },
   "q_foo_002": {
     "question": "Was ist die Hauptzutat in Guacamole?",
     "correct": "Avocado",
-    "wrong": ["Tomate", "Paprika", "Zwiebel"],
+    "wrong": [
+      "Tomate",
+      "Paprika",
+      "Zwiebel"
+    ],
     "explanation": "Guacamole ist ein mexikanischer Dip, der hauptsächlich aus pürierten Avocados besteht.",
     "hint": "Diese grüne, cremige Frucht wird auch 'Butterfrucht' genannt."
   },
   "q_foo_003": {
     "question": "Welches Vitamin ist reichlich in Zitrusfrüchten enthalten?",
     "correct": "Vitamin C",
-    "wrong": ["Vitamin A", "Vitamin D", "Vitamin B12"],
+    "wrong": [
+      "Vitamin A",
+      "Vitamin D",
+      "Vitamin B12"
+    ],
     "explanation": "Zitrusfrüchte wie Orangen und Zitronen sind reiche Quellen für Vitamin C.",
     "hint": "Dieses Vitamin ist auch als Ascorbinsäure bekannt und hilft gegen Erkältungen."
   },
   "q_foo_004": {
     "question": "Welche Nudelsorte hat die Form kleiner Reiskörner?",
     "correct": "Orzo",
-    "wrong": ["Penne", "Fusilli", "Farfalle"],
+    "wrong": [
+      "Penne",
+      "Fusilli",
+      "Farfalle"
+    ],
     "explanation": "Orzo ist eine reisförmige Pasta, die oft in Suppen und Salaten verwendet wird.",
     "hint": "Der Name dieser Pasta stammt aus dem Italienischen und bedeutet 'Gerste'."
   },
   "q_foo_005": {
     "question": "Welches Gewürz verleiht Curry seine gelbe Farbe?",
     "correct": "Kurkuma",
-    "wrong": ["Paprika", "Kreuzkümmel", "Koriander"],
+    "wrong": [
+      "Paprika",
+      "Kreuzkümmel",
+      "Koriander"
+    ],
     "explanation": "Kurkuma enthält Curcumin, das dem Curry seine charakteristische gelbe Farbe verleiht.",
     "hint": "Dieses Gewürz wird auch 'Gelbwurz' genannt und stammt aus der Ingwerfamilie."
   },
   "q_foo_006": {
     "question": "Was ist das weltweit meistkonsumierte Getränk nach Wasser?",
     "correct": "Tee",
-    "wrong": ["Kaffee", "Bier", "Milch"],
+    "wrong": [
+      "Kaffee",
+      "Bier",
+      "Milch"
+    ],
     "hint": "Dieses Getränk stammt aus China und gibt es in Grün, Schwarz und Weiß.",
     "explanation": "Tee ist das nach Wasser am meisten konsumierte Getränk der Welt, mit Ursprüngen in China um 2737 v. Chr."
   },
   "q_foo_007": {
     "question": "Welches Land ist der größte Kaffeeproduzent der Welt?",
     "correct": "Brasilien",
-    "wrong": ["Kolumbien", "Äthiopien", "Vietnam"],
+    "wrong": [
+      "Kolumbien",
+      "Äthiopien",
+      "Vietnam"
+    ],
     "hint": "Dieses südamerikanische Land ist auch für Samba und Karneval berühmt.",
     "explanation": "Brasilien ist seit über 150 Jahren der größte Kaffeeproduzent der Welt und produziert etwa ein Drittel des weltweiten Angebots."
   },
   "q_foo_008": {
     "question": "Woraus wird Wasabi traditionell hergestellt?",
     "correct": "Einer Pflanzenwurzel",
-    "wrong": ["Grünen Chilischoten", "Senfkörnern", "Meerrettich und Lebensmittelfarbe"],
+    "wrong": [
+      "Grünen Chilischoten",
+      "Senfkörnern",
+      "Meerrettich und Lebensmittelfarbe"
+    ],
     "hint": "Echter Wasabi ist sehr teuer und muss frisch von einem Rhizom gerieben werden.",
     "explanation": "Echter Wasabi wird aus dem Rhizom der Wasabia japonica hergestellt, obwohl die meisten Restaurants gefärbten Meerrettich verwenden."
   },
   "q_foo_009": {
     "question": "Welche Frucht wird in Südostasien als 'König der Früchte' bezeichnet?",
     "correct": "Durian",
-    "wrong": ["Mango", "Jackfrucht", "Papaya"],
+    "wrong": [
+      "Mango",
+      "Jackfrucht",
+      "Papaya"
+    ],
     "hint": "Diese Frucht ist für ihren starken Geruch bekannt und in vielen Hotels verboten.",
     "explanation": "Die Durian wird trotz ihres durchdringenden Geruchs in Südostasien als König der Früchte bezeichnet."
   },
   "q_foo_010": {
     "question": "Was ist die Hauptzutat in Hummus?",
     "correct": "Kichererbsen",
-    "wrong": ["Linsen", "Weiße Bohnen", "Ackerbohnen"],
+    "wrong": [
+      "Linsen",
+      "Weiße Bohnen",
+      "Ackerbohnen"
+    ],
     "hint": "Dieser nahöstliche Dip wird auch mit Tahini, Zitronensaft und Knoblauch zubereitet.",
     "explanation": "Hummus ist ein levantinischer Dip, der hauptsächlich aus gekochten und pürierten Kichererbsen mit Tahini besteht."
+  },
+  "q_foo_011": {
+    "question": "Was ist das teuerste Gewürz der Welt nach Gewicht?",
+    "correct": "Safran",
+    "wrong": [
+      "Vanille",
+      "Kardamom",
+      "Zimt"
+    ],
+    "hint": "Es kommt aus den Stempelfäden einer Krokusblüte.",
+    "explanation": "Safran kann über 5.000 Dollar pro Pfund kosten."
+  },
+  "q_foo_012": {
+    "question": "Aus welchem Land stammt das Croissant?",
+    "correct": "Österreich",
+    "wrong": [
+      "Frankreich",
+      "Italien",
+      "Belgien"
+    ],
+    "hint": "Die Halbmondform wurde vom Symbol des Osmanischen Reiches inspiriert.",
+    "explanation": "Der Vorläufer des Croissants, das Kipferl, stammt aus Österreich."
+  },
+  "q_foo_013": {
+    "question": "Was für ein Lebensmittel ist Brie?",
+    "correct": "Käse",
+    "wrong": [
+      "Brot",
+      "Gebäck",
+      "Wurst"
+    ],
+    "hint": "Dieses weiche, cremige Produkt ist nach einer Region in Nordfrankreich benannt.",
+    "explanation": "Brie ist ein Weichkäse aus Kuhmilch aus der französischen Region Brie."
   }
 }

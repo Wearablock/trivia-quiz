@@ -2,71 +2,144 @@
   "q_his_001": {
     "question": "Chiến tranh Thế giới thứ hai kết thúc vào năm nào?",
     "correct": "1945",
-    "wrong": ["1944", "1946", "1943"],
+    "wrong": [
+      "1944",
+      "1946",
+      "1943"
+    ],
     "explanation": "Chiến tranh Thế giới thứ hai kết thúc năm 1945 với sự đầu hàng của Đức vào tháng 5 và Nhật Bản vào tháng 9.",
     "hint": "Đây là năm Mỹ thả hai quả bom nguyên tử xuống Hiroshima và Nagasaki."
   },
   "q_his_002": {
     "question": "Ai là Tổng thống đầu tiên của Hoa Kỳ?",
     "correct": "George Washington",
-    "wrong": ["Thomas Jefferson", "Abraham Lincoln", "John Adams"],
+    "wrong": [
+      "Thomas Jefferson",
+      "Abraham Lincoln",
+      "John Adams"
+    ],
     "explanation": "George Washington làm Tổng thống đầu tiên của Hoa Kỳ từ năm 1789 đến năm 1797.",
     "hint": "Ông là vị tướng lãnh đạo quân đội Lục địa trong Chiến tranh Cách mạng Mỹ và có khuôn mặt trên tờ 1 đô la."
   },
   "q_his_003": {
     "question": "Nền văn minh cổ đại nào đã xây dựng các kim tự tháp Giza?",
     "correct": "Ai Cập cổ đại",
-    "wrong": ["La Mã", "Hy Lạp", "Lưỡng Hà"],
+    "wrong": [
+      "La Mã",
+      "Hy Lạp",
+      "Lưỡng Hà"
+    ],
     "explanation": "Kim tự tháp Giza vĩ đại được xây dựng vào khoảng năm 2560 trước Công nguyên cho Pharaoh Khufu.",
     "hint": "Nền văn minh này nằm dọc theo sông Nile, nổi tiếng với các Pharaoh và xác ướp."
   },
   "q_his_004": {
     "question": "Bức tường Berlin sụp đổ vào năm nào?",
     "correct": "1989",
-    "wrong": ["1987", "1991", "1985"],
+    "wrong": [
+      "1987",
+      "1991",
+      "1985"
+    ],
     "explanation": "Bức tường Berlin sụp đổ vào ngày 9 tháng 11 năm 1989, đánh dấu thời khắc quan trọng trong sự kết thúc của Chiến tranh Lạnh.",
     "hint": "Sự kiện này xảy ra ngay trước khi Liên Xô tan rã, trong cùng năm với cuộc biểu tình Thiên An Môn."
   },
   "q_his_005": {
     "question": "Đế chế nào do Thành Cát Tư Hãn cai trị?",
     "correct": "Đế chế Mông Cổ",
-    "wrong": ["Đế chế Ottoman", "Đế chế La Mã", "Đế chế Ba Tư"],
+    "wrong": [
+      "Đế chế Ottoman",
+      "Đế chế La Mã",
+      "Đế chế Ba Tư"
+    ],
     "explanation": "Thành Cát Tư Hãn sáng lập và cai trị Đế chế Mông Cổ, đế chế lục địa liền kề lớn nhất trong lịch sử.",
     "hint": "Đế chế này có nguồn gốc từ các bộ lạc du mục thảo nguyên Trung Á, nổi tiếng với kỵ binh thiện chiến."
   },
   "q_his_006": {
     "question": "Ai là người đầu tiên đặt chân lên Mặt Trăng?",
     "correct": "Neil Armstrong",
-    "wrong": ["Buzz Aldrin", "Yuri Gagarin", "John Glenn"],
+    "wrong": [
+      "Buzz Aldrin",
+      "Yuri Gagarin",
+      "John Glenn"
+    ],
     "hint": "Ông nói: 'Đây là bước chân nhỏ của một người, nhưng là bước nhảy vọt vĩ đại của nhân loại.'",
     "explanation": "Neil Armstrong trở thành người đầu tiên đi trên Mặt Trăng vào ngày 20 tháng 7 năm 1969 trong sứ mệnh Apollo 11."
   },
   "q_his_007": {
     "question": "Con tàu nào bị chìm trong chuyến đi đầu tiên vào năm 1912?",
     "correct": "Titanic",
-    "wrong": ["Lusitania", "Britannic", "Andrea Doria"],
+    "wrong": [
+      "Lusitania",
+      "Britannic",
+      "Andrea Doria"
+    ],
     "hint": "Được gọi là 'không thể chìm', con tàu này đâm vào tảng băng trôi ở Bắc Đại Tây Dương.",
     "explanation": "Tàu Titanic chìm vào ngày 15 tháng 4 năm 1912 sau khi đâm vào tảng băng trôi, khiến hơn 1.500 người thiệt mạng."
   },
   "q_his_008": {
     "question": "Thời kỳ Phục Hưng bắt đầu vào thế kỷ nào?",
     "correct": "Thế kỷ 14",
-    "wrong": ["Thế kỷ 12", "Thế kỷ 16", "Thế kỷ 15"],
+    "wrong": [
+      "Thế kỷ 12",
+      "Thế kỷ 16",
+      "Thế kỷ 15"
+    ],
     "hint": "Bắt đầu ở Ý, đặc biệt là ở Florence, và từ này có nghĩa là 'sự tái sinh'.",
     "explanation": "Thời kỳ Phục Hưng bắt đầu vào thế kỷ 14 ở Ý, đánh dấu sự chuyển đổi văn hóa từ thời Trung Cổ."
   },
   "q_his_009": {
     "question": "Ai đã phát hiện ra penicillin?",
     "correct": "Alexander Fleming",
-    "wrong": ["Louis Pasteur", "Robert Koch", "Joseph Lister"],
+    "wrong": [
+      "Louis Pasteur",
+      "Robert Koch",
+      "Joseph Lister"
+    ],
     "hint": "Ông phát hiện ra nó tình cờ từ nấm mốc phát triển trên đĩa Petri vào năm 1928.",
     "explanation": "Alexander Fleming phát hiện ra penicillin năm 1928, cách mạng hóa y học với kháng sinh thực sự đầu tiên."
   },
   "q_his_010": {
     "question": "Kỳ quan nào của thế giới cổ đại nằm ở Alexandria, Ai Cập?",
     "correct": "Ngọn hải đăng",
-    "wrong": ["Tượng thần khổng lồ", "Vườn treo", "Đền thờ Artemis"],
+    "wrong": [
+      "Tượng thần khổng lồ",
+      "Vườn treo",
+      "Đền thờ Artemis"
+    ],
     "hint": "Công trình này dẫn đường cho thủy thủ vào cảng sầm uất, cao hơn 100 mét.",
     "explanation": "Ngọn hải đăng Alexandria (Pharos) được xây dựng khoảng năm 280 trước Công nguyên, là một trong những công trình cao nhất thế giới cổ đại."
+  },
+  "q_his_011": {
+    "question": "Ai là nữ Thủ tướng đầu tiên của Vương quốc Anh?",
+    "correct": "Margaret Thatcher",
+    "wrong": [
+      "Theresa May",
+      "Nữ hoàng Victoria",
+      "Emmeline Pankhurst"
+    ],
+    "hint": "Bà được gọi là 'Bà đầm thép' và tại vị từ 1979 đến 1990.",
+    "explanation": "Margaret Thatcher trở thành nữ Thủ tướng đầu tiên của Anh năm 1979."
+  },
+  "q_his_012": {
+    "question": "Cách mạng Pháp bắt đầu năm nào?",
+    "correct": "1789",
+    "wrong": [
+      "1776",
+      "1804",
+      "1815"
+    ],
+    "hint": "Bắt đầu bằng việc tấn công pháo đài-nhà tù nổi tiếng ở Paris.",
+    "explanation": "Cách mạng Pháp bắt đầu ngày 14 tháng 7 năm 1789 với cuộc tấn công Bastille."
+  },
+  "q_his_013": {
+    "question": "Thành phố cổ nào bị chôn vùi bởi núi Vesuvius năm 79 SCN?",
+    "correct": "Pompeii",
+    "wrong": [
+      "Athens",
+      "Carthage",
+      "Troy"
+    ],
+    "hint": "Thành phố La Mã này được bảo tồn dưới tro núi lửa và tái phát hiện vào thế kỷ 18.",
+    "explanation": "Pompeii bị chôn vùi dưới hàng mét tro núi lửa."
   }
 }

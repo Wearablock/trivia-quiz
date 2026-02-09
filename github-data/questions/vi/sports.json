@@ -2,71 +2,144 @@
   "q_spo_001": {
     "question": "Một đội bóng đá có bao nhiêu cầu thủ trên sân?",
     "correct": "11",
-    "wrong": ["9", "10", "12"],
+    "wrong": [
+      "9",
+      "10",
+      "12"
+    ],
     "explanation": "Mỗi đội bóng đá có 11 cầu thủ trên sân bao gồm cả thủ môn.",
     "hint": "Con số này bao gồm 1 thủ môn và 10 cầu thủ ngoài sân."
   },
   "q_spo_002": {
     "question": "Trong môn thể thao nào bạn sẽ thực hiện cú slam dunk?",
     "correct": "Bóng rổ",
-    "wrong": ["Bóng chuyền", "Quần vợt", "Bóng chày"],
+    "wrong": [
+      "Bóng chuyền",
+      "Quần vợt",
+      "Bóng chày"
+    ],
     "explanation": "Slam dunk là động tác bóng rổ khi cầu thủ nhảy lên và ghi điểm bằng cách đưa bóng trực tiếp qua vành rổ.",
     "hint": "Môn thể thao này được chơi trên sân có hai rổ cao 3,05 mét, Michael Jordan là huyền thoại của môn này."
   },
   "q_spo_003": {
     "question": "Quốc gia nào đã giành nhiều danh hiệu FIFA World Cup nhất?",
     "correct": "Brazil",
-    "wrong": ["Đức", "Ý", "Argentina"],
+    "wrong": [
+      "Đức",
+      "Ý",
+      "Argentina"
+    ],
     "explanation": "Brazil đã giành FIFA World Cup 5 lần (1958, 1962, 1970, 1994, 2002).",
     "hint": "Quốc gia Nam Mỹ này nổi tiếng với các huyền thoại Pelé, Ronaldo và Neymar, đội tuyển mặc áo vàng."
   },
   "q_spo_004": {
     "question": "Điểm số cao nhất có thể đạt được trong bowling 10 ky là bao nhiêu?",
     "correct": "300",
-    "wrong": ["200", "250", "350"],
+    "wrong": [
+      "200",
+      "250",
+      "350"
+    ],
     "explanation": "Một ván bowling hoàn hảo đạt 300 điểm với 12 cú strike liên tiếp.",
     "hint": "Số điểm này đạt được khi đánh đổ tất cả 10 ky trong mỗi lượt ném, 12 lần liên tiếp."
   },
   "q_spo_005": {
     "question": "Giải Grand Slam quần vợt nào được thi đấu trên sân đất nện?",
     "correct": "Pháp Mở rộng",
-    "wrong": ["Wimbledon", "Mỹ Mở rộng", "Úc Mở rộng"],
+    "wrong": [
+      "Wimbledon",
+      "Mỹ Mở rộng",
+      "Úc Mở rộng"
+    ],
     "explanation": "Giải Pháp Mở rộng tại Roland Garros là giải Grand Slam duy nhất thi đấu trên sân đất nện.",
     "hint": "Giải đấu này diễn ra tại Paris mỗi tháng 5-6, Rafael Nadal là 'Vua đất nện' với nhiều chức vô địch nhất."
   },
   "q_spo_006": {
     "question": "Lá cờ Olympic có bao nhiêu vòng tròn?",
     "correct": "5",
-    "wrong": ["4", "6", "7"],
+    "wrong": [
+      "4",
+      "6",
+      "7"
+    ],
     "hint": "Mỗi vòng đại diện cho một châu lục tham gia Thế vận hội Olympic.",
     "explanation": "Năm vòng tròn Olympic đại diện cho 5 châu lục: châu Phi, châu Mỹ, châu Á, châu Âu và châu Đại Dương."
   },
   "q_spo_007": {
     "question": "Trong môn thể thao nào 'birdie' có nghĩa là ít hơn par một gậy?",
     "correct": "Golf",
-    "wrong": ["Cầu lông", "Quần vợt", "Cricket"],
+    "wrong": [
+      "Cầu lông",
+      "Quần vợt",
+      "Cricket"
+    ],
     "hint": "Môn thể thao này được chơi trên sân có 18 hố, dùng gậy đánh và quả bóng nhỏ.",
     "explanation": "Trong golf, birdie có nghĩa là hoàn thành một hố với số gậy ít hơn par một gậy."
   },
   "q_spo_008": {
     "question": "Quốc gia nào là nơi khai sinh ra môn cricket?",
     "correct": "Anh",
-    "wrong": ["Ấn Độ", "Úc", "Nam Phi"],
+    "wrong": [
+      "Ấn Độ",
+      "Úc",
+      "Nam Phi"
+    ],
     "hint": "Môn thể thao này có từ thế kỷ 16 và là môn thể thao mùa hè quốc gia của nước này.",
     "explanation": "Cricket có nguồn gốc từ Anh vào cuối thế kỷ 16 và lan rộng qua Đế quốc Anh."
   },
   "q_spo_009": {
     "question": "Cự ly marathon là bao nhiêu km?",
     "correct": "42,195 km",
-    "wrong": ["40 km", "45 km", "50 km"],
+    "wrong": [
+      "40 km",
+      "45 km",
+      "50 km"
+    ],
     "hint": "Cự ly này được chuẩn hóa tại Thế vận hội London năm 1908.",
     "explanation": "Marathon có cự ly 42,195 km (26,2 dặm), được chuẩn hóa tại Thế vận hội London năm 1908."
   },
   "q_spo_010": {
     "question": "Môn thể thao nào sử dụng sân thi đấu lớn nhất?",
     "correct": "Polo",
-    "wrong": ["Bóng đá", "Rugby", "Bóng bầu dục Mỹ"],
+    "wrong": [
+      "Bóng đá",
+      "Rugby",
+      "Bóng bầu dục Mỹ"
+    ],
     "hint": "Môn thể thao này được chơi trên lưng ngựa, sân có thể dài tới 275 mét.",
     "explanation": "Sân polo là sân thi đấu lớn nhất trong các môn thể thao có tổ chức, với kích thước tối đa 275 x 180 mét."
+  },
+  "q_spo_011": {
+    "question": "Trong môn thể thao nào 'love' có nghĩa là không điểm?",
+    "correct": "Quần vợt",
+    "wrong": [
+      "Cầu lông",
+      "Bóng quần",
+      "Bóng bàn"
+    ],
+    "hint": "Môn này dùng hệ thống tính điểm đặc biệt: 15, 30, 40.",
+    "explanation": "Trong quần vợt, 'love' có nghĩa là không điểm."
+  },
+  "q_spo_012": {
+    "question": "Môn thể thao quốc gia của Nhật Bản là gì?",
+    "correct": "Sumo",
+    "wrong": [
+      "Judo",
+      "Karate",
+      "Kendo"
+    ],
+    "hint": "Các đô vật cố đẩy đối thủ ra khỏi vòng tròn.",
+    "explanation": "Sumo là môn thể thao quốc gia của Nhật với lịch sử hơn 1.500 năm."
+  },
+  "q_spo_013": {
+    "question": "Mỗi đội bóng chuyền có bao nhiêu người trên sân?",
+    "correct": "6",
+    "wrong": [
+      "5",
+      "7",
+      "8"
+    ],
+    "hint": "Các cầu thủ xoay vòng vị trí mỗi khi giành quyền giao bóng.",
+    "explanation": "Mỗi đội bóng chuyền có 6 cầu thủ trên sân."
   }
 }

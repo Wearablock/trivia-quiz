@@ -2,71 +2,133 @@
   "q_tec_001": {
     "question": "Wem wird die Erfindung des Telefons zugeschrieben?",
     "correct": "Alexander Graham Bell",
-    "wrong": ["Thomas Edison", "Nikola Tesla", "Guglielmo Marconi"],
+    "wrong": [
+      "Thomas Edison",
+      "Nikola Tesla",
+      "Guglielmo Marconi"
+    ],
     "explanation": "Alexander Graham Bell patentierte das Telefon im Jahr 1876.",
     "hint": "Der Nachname dieses Erfinders ist auch ein englisches Wort für eine Glocke."
   },
   "q_tec_002": {
     "question": "Wofür steht 'HTTP'?",
     "correct": "HyperText Transfer Protocol",
-    "wrong": ["High Tech Transfer Protocol", "HyperText Technical Process", "Home Tool Transfer Protocol"],
+    "wrong": [
+      "High Tech Transfer Protocol",
+      "HyperText Technical Process",
+      "Home Tool Transfer Protocol"
+    ],
     "explanation": "HTTP ist die Grundlage der Datenkommunikation im World Wide Web.",
     "hint": "Das 'H' steht für 'Hyper' und das 'P' für 'Protokoll'."
   },
   "q_tec_003": {
     "question": "In welchem Jahr wurde das erste iPhone veröffentlicht?",
     "correct": "2007",
-    "wrong": ["2005", "2008", "2010"],
+    "wrong": [
+      "2005",
+      "2008",
+      "2010"
+    ],
     "explanation": "Apple veröffentlichte das erste iPhone am 29. Juni 2007.",
     "hint": "Es war im selben Jahr, in dem der letzte Harry-Potter-Roman erschien."
   },
   "q_tec_004": {
     "question": "Welche Programmiersprache ist für ihren Einsatz in Webbrowsern bekannt?",
     "correct": "JavaScript",
-    "wrong": ["Python", "Java", "C++"],
+    "wrong": [
+      "Python",
+      "Java",
+      "C++"
+    ],
     "explanation": "JavaScript ist die primäre Sprache für interaktive Webinhalte in Browsern.",
     "hint": "Der Name enthält ein beliebtes Heißgetränk und 'Script'."
   },
   "q_tec_005": {
     "question": "Wer hat Microsoft gegründet?",
     "correct": "Bill Gates und Paul Allen",
-    "wrong": ["Steve Jobs", "Mark Zuckerberg", "Jeff Bezos"],
+    "wrong": [
+      "Steve Jobs",
+      "Mark Zuckerberg",
+      "Jeff Bezos"
+    ],
     "explanation": "Bill Gates und Paul Allen gründeten Microsoft im Jahr 1975.",
     "hint": "Einer der beiden war lange Zeit der reichste Mann der Welt und ist bekannt für seine wohltätige Stiftung."
   },
   "q_tec_006": {
     "question": "Wofür steht 'Wi-Fi'?",
     "correct": "Wireless Fidelity",
-    "wrong": ["Wide Frequency", "Wired Filter", "Wireless Function"],
+    "wrong": [
+      "Wide Frequency",
+      "Wired Filter",
+      "Wireless Function"
+    ],
     "hint": "Diese Technologie ermöglicht es Geräten, sich ohne Kabel mit dem Internet zu verbinden.",
     "explanation": "Wi-Fi steht für Wireless Fidelity und verwendet Funkwellen für die Netzwerkverbindung."
   },
   "q_tec_007": {
     "question": "Welches Unternehmen hat das Betriebssystem Android entwickelt?",
     "correct": "Google",
-    "wrong": ["Apple", "Samsung", "Microsoft"],
+    "wrong": [
+      "Apple",
+      "Samsung",
+      "Microsoft"
+    ],
     "hint": "Der Name dieses Unternehmens ist auch ein mathematischer Begriff für 10 hoch 100.",
     "explanation": "Google übernahm Android Inc. im Jahr 2005 und veröffentlichte 2008 das erste Android-Smartphone."
   },
   "q_tec_008": {
     "question": "Wie hieß der erste programmierbare Computer?",
     "correct": "Z3",
-    "wrong": ["ENIAC", "UNIVAC", "Colossus"],
+    "wrong": [
+      "ENIAC",
+      "UNIVAC",
+      "Colossus"
+    ],
     "hint": "Er wurde 1941 von Konrad Zuse in Deutschland gebaut.",
     "explanation": "Der 1941 von Konrad Zuse fertiggestellte Z3 gilt als der erste funktionierende programmierbare, vollautomatische Computer der Welt."
   },
   "q_tec_009": {
     "question": "Wofür steht 'GPS'?",
     "correct": "Global Positioning System",
-    "wrong": ["General Purpose Satellite", "Global Processing System", "Geo-Physical Signal"],
+    "wrong": [
+      "General Purpose Satellite",
+      "Global Processing System",
+      "Geo-Physical Signal"
+    ],
     "hint": "Dieses satellitengestützte Navigationssystem wurde ursprünglich vom US-Militär entwickelt.",
     "explanation": "GPS (Global Positioning System) nutzt ein Satellitennetzwerk, um überall auf der Erde Standort- und Zeitinformationen bereitzustellen."
   },
   "q_tec_010": {
     "question": "Wer gilt als Vater des World Wide Web?",
     "correct": "Tim Berners-Lee",
-    "wrong": ["Vint Cerf", "Steve Wozniak", "Larry Page"],
+    "wrong": [
+      "Vint Cerf",
+      "Steve Wozniak",
+      "Larry Page"
+    ],
     "hint": "Er erfand es 1989 am CERN und erstellte den ersten Webbrowser.",
     "explanation": "Tim Berners-Lee erfand das World Wide Web 1989 während seiner Arbeit am CERN in der Schweiz."
+  },
+  "q_tec_011": {
+    "question": "Wofür steht 'USB'?",
+    "correct": "Universal Serial Bus",
+    "wrong": [
+      "Ultra Speed Bridge",
+      "Unified System Buffer",
+      "Universal System Bridge"
+    ],
+    "hint": "Dieser Standardanschluss wird für Peripheriegeräte wie Tastaturen verwendet.",
+    "explanation": "USB wurde 1996 eingeführt."
+  },
+  "q_tec_012": {
+    "question": "Welches Unternehmen schuf den ersten kommerziell erfolgreichen PC?",
+    "correct": "Apple",
+    "wrong": [
+      "IBM",
+      "Microsoft",
+      "Hewlett-Packard"
+    ],
+    "hint": "Der 1977 veröffentlichte Apple II war einer der ersten Massencomputer.",
+    "explanation": "Apples Apple II (1977) half, die PC-Revolution einzuleiten."
   }
 }

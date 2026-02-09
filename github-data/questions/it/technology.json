@@ -2,71 +2,133 @@
   "q_tec_001": {
     "question": "A chi e attribuita l'invenzione del telefono?",
     "correct": "Alexander Graham Bell",
-    "wrong": ["Thomas Edison", "Nikola Tesla", "Guglielmo Marconi"],
+    "wrong": [
+      "Thomas Edison",
+      "Nikola Tesla",
+      "Guglielmo Marconi"
+    ],
     "explanation": "Alexander Graham Bell brevetto il telefono nel 1876.",
     "hint": "Il suo cognome e lo stesso della parola inglese per 'campana'."
   },
   "q_tec_002": {
     "question": "Cosa significa 'HTTP'?",
     "correct": "HyperText Transfer Protocol",
-    "wrong": ["High Tech Transfer Protocol", "HyperText Technical Process", "Home Tool Transfer Protocol"],
+    "wrong": [
+      "High Tech Transfer Protocol",
+      "HyperText Technical Process",
+      "Home Tool Transfer Protocol"
+    ],
     "explanation": "HTTP e la base della comunicazione dati sul World Wide Web.",
     "hint": "La 'H' e la 'T' stanno per 'HyperText' e la 'P' per 'Protocol'."
   },
   "q_tec_003": {
     "question": "In quale anno e stato rilasciato il primo iPhone?",
     "correct": "2007",
-    "wrong": ["2005", "2008", "2010"],
+    "wrong": [
+      "2005",
+      "2008",
+      "2010"
+    ],
     "explanation": "Apple ha rilasciato il primo iPhone il 29 giugno 2007.",
     "hint": "Steve Jobs lo presento pochi mesi prima, nello stesso anno in cui usci il primo film Transformers."
   },
   "q_tec_004": {
     "question": "Quale linguaggio di programmazione e noto per il suo utilizzo nei browser web?",
     "correct": "JavaScript",
-    "wrong": ["Python", "Java", "C++"],
+    "wrong": [
+      "Python",
+      "Java",
+      "C++"
+    ],
     "explanation": "JavaScript e il linguaggio principale per i contenuti web interattivi nei browser.",
     "hint": "Il suo nome contiene la parola 'Script' e fu creato da Brendan Eich per Netscape."
   },
   "q_tec_005": {
     "question": "Chi ha fondato Microsoft?",
     "correct": "Bill Gates e Paul Allen",
-    "wrong": ["Steve Jobs", "Mark Zuckerberg", "Jeff Bezos"],
+    "wrong": [
+      "Steve Jobs",
+      "Mark Zuckerberg",
+      "Jeff Bezos"
+    ],
     "explanation": "Bill Gates e Paul Allen fondarono Microsoft nel 1975.",
     "hint": "Uno di loro divenne per molti anni l'uomo piu ricco del mondo."
   },
   "q_tec_006": {
     "question": "Cosa significa 'Wi-Fi'?",
     "correct": "Wireless Fidelity",
-    "wrong": ["Wide Frequency", "Wired Filter", "Wireless Function"],
+    "wrong": [
+      "Wide Frequency",
+      "Wired Filter",
+      "Wireless Function"
+    ],
     "hint": "Questa tecnologia consente ai dispositivi di connettersi a Internet senza cavi.",
     "explanation": "Wi-Fi sta per Wireless Fidelity e utilizza onde radio per fornire connettivita di rete."
   },
   "q_tec_007": {
     "question": "Quale azienda ha sviluppato il sistema operativo Android?",
     "correct": "Google",
-    "wrong": ["Apple", "Samsung", "Microsoft"],
+    "wrong": [
+      "Apple",
+      "Samsung",
+      "Microsoft"
+    ],
     "hint": "Il nome di questa azienda e anche un termine matematico per 10 alla potenza di 100.",
     "explanation": "Google ha acquisito Android Inc. nel 2005 e ha rilasciato il primo telefono Android nel 2008."
   },
   "q_tec_008": {
     "question": "Come si chiamava il primo computer programmabile?",
     "correct": "Z3",
-    "wrong": ["ENIAC", "UNIVAC", "Colossus"],
+    "wrong": [
+      "ENIAC",
+      "UNIVAC",
+      "Colossus"
+    ],
     "hint": "Fu creato da Konrad Zuse in Germania nel 1941.",
     "explanation": "Lo Z3, completato nel 1941 da Konrad Zuse, e considerato il primo computer programmabile e completamente automatico al mondo."
   },
   "q_tec_009": {
     "question": "Cosa significa 'GPS'?",
     "correct": "Sistema di Posizionamento Globale",
-    "wrong": ["Satellite di Scopo Generale", "Sistema di Elaborazione Globale", "Segnale Geofisico"],
+    "wrong": [
+      "Satellite di Scopo Generale",
+      "Sistema di Elaborazione Globale",
+      "Segnale Geofisico"
+    ],
     "hint": "Questo sistema di navigazione satellitare fu originariamente sviluppato dall'esercito statunitense.",
     "explanation": "Il GPS (Sistema di Posizionamento Globale) utilizza una rete di satelliti per fornire informazioni su posizione e ora ovunque sulla Terra."
   },
   "q_tec_010": {
     "question": "Chi e conosciuto come il padre del World Wide Web?",
     "correct": "Tim Berners-Lee",
-    "wrong": ["Vint Cerf", "Steve Wozniak", "Larry Page"],
+    "wrong": [
+      "Vint Cerf",
+      "Steve Wozniak",
+      "Larry Page"
+    ],
     "hint": "Lo invento al CERN nel 1989 e creo il primo browser web.",
     "explanation": "Tim Berners-Lee invento il World Wide Web nel 1989 mentre lavorava al CERN in Svizzera."
+  },
+  "q_tec_011": {
+    "question": "Cosa significa 'USB'?",
+    "correct": "Universal Serial Bus",
+    "wrong": [
+      "Ultra Speed Bridge",
+      "Unified System Buffer",
+      "Universal System Bridge"
+    ],
+    "hint": "Questo connettore standard serve per collegare periferiche come tastiere.",
+    "explanation": "L'USB è stato introdotto nel 1996."
+  },
+  "q_tec_012": {
+    "question": "Quale azienda creò il primo PC di successo commerciale?",
+    "correct": "Apple",
+    "wrong": [
+      "IBM",
+      "Microsoft",
+      "Hewlett-Packard"
+    ],
+    "hint": "L'Apple II del 1977 fu uno dei primi microcomputer prodotti in serie.",
+    "explanation": "L'Apple II (1977) contribuì a lanciare la rivoluzione del PC."
   }
 }

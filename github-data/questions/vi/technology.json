@@ -2,71 +2,133 @@
   "q_tec_001": {
     "question": "Ai được công nhận là người phát minh ra điện thoại?",
     "correct": "Alexander Graham Bell",
-    "wrong": ["Thomas Edison", "Nikola Tesla", "Guglielmo Marconi"],
+    "wrong": [
+      "Thomas Edison",
+      "Nikola Tesla",
+      "Guglielmo Marconi"
+    ],
     "explanation": "Alexander Graham Bell được cấp bằng sáng chế điện thoại vào năm 1876.",
     "hint": "Nhà phát minh người Scotland-Mỹ này có tên 'Bell', và công ty điện thoại lớn AT&T từng mang tên ông."
   },
   "q_tec_002": {
     "question": "'HTTP' là viết tắt của cụm từ nào?",
     "correct": "HyperText Transfer Protocol",
-    "wrong": ["High Tech Transfer Protocol", "HyperText Technical Process", "Home Tool Transfer Protocol"],
+    "wrong": [
+      "High Tech Transfer Protocol",
+      "HyperText Technical Process",
+      "Home Tool Transfer Protocol"
+    ],
     "explanation": "HTTP là nền tảng của việc truyền dữ liệu trên World Wide Web.",
     "hint": "Cụm từ này bắt đầu bằng 'HyperText' và kết thúc bằng 'Protocol' - giao thức truyền siêu văn bản."
   },
   "q_tec_003": {
     "question": "iPhone đầu tiên được ra mắt vào năm nào?",
     "correct": "2007",
-    "wrong": ["2005", "2008", "2010"],
+    "wrong": [
+      "2005",
+      "2008",
+      "2010"
+    ],
     "explanation": "Apple ra mắt iPhone đầu tiên vào ngày 29 tháng 6 năm 2007.",
     "hint": "Năm này Steve Jobs giới thiệu sản phẩm cách mạng với màn hình cảm ứng, cùng năm Facebook mở rộng ra công chúng."
   },
   "q_tec_004": {
     "question": "Ngôn ngữ lập trình nào nổi tiếng với việc sử dụng trong trình duyệt web?",
     "correct": "JavaScript",
-    "wrong": ["Python", "Java", "C++"],
+    "wrong": [
+      "Python",
+      "Java",
+      "C++"
+    ],
     "explanation": "JavaScript là ngôn ngữ chính cho nội dung web tương tác trong trình duyệt.",
     "hint": "Ngôn ngữ này có tên bắt đầu bằng 'Java' nhưng không phải là Java, và được tạo ra bởi Brendan Eich trong 10 ngày."
   },
   "q_tec_005": {
     "question": "Ai là người sáng lập Microsoft?",
     "correct": "Bill Gates và Paul Allen",
-    "wrong": ["Steve Jobs", "Mark Zuckerberg", "Jeff Bezos"],
+    "wrong": [
+      "Steve Jobs",
+      "Mark Zuckerberg",
+      "Jeff Bezos"
+    ],
     "explanation": "Bill Gates và Paul Allen sáng lập Microsoft vào năm 1975.",
     "hint": "Một trong hai người này từng là người giàu nhất thế giới nhiều năm và sáng lập quỹ từ thiện lớn nhất."
   },
   "q_tec_006": {
     "question": "Wi-Fi là viết tắt của gì?",
     "correct": "Wireless Fidelity",
-    "wrong": ["Wide Frequency", "Wired Filter", "Wireless Function"],
+    "wrong": [
+      "Wide Frequency",
+      "Wired Filter",
+      "Wireless Function"
+    ],
     "hint": "Công nghệ này cho phép các thiết bị kết nối internet không dây.",
     "explanation": "Wi-Fi là viết tắt của Wireless Fidelity, sử dụng sóng vô tuyến để kết nối mạng."
   },
   "q_tec_007": {
     "question": "Công ty nào phát triển hệ điều hành Android?",
     "correct": "Google",
-    "wrong": ["Apple", "Samsung", "Microsoft"],
+    "wrong": [
+      "Apple",
+      "Samsung",
+      "Microsoft"
+    ],
     "hint": "Tên công ty này là thuật ngữ toán học chỉ số 10 mũ 100.",
     "explanation": "Google mua lại Android Inc. vào năm 2005 và ra mắt điện thoại Android đầu tiên vào năm 2008."
   },
   "q_tec_008": {
     "question": "Máy tính lập trình được đầu tiên có tên là gì?",
     "correct": "Z3",
-    "wrong": ["ENIAC", "UNIVAC", "Colossus"],
+    "wrong": [
+      "ENIAC",
+      "UNIVAC",
+      "Colossus"
+    ],
     "hint": "Được Konrad Zuse chế tạo tại Đức vào năm 1941.",
     "explanation": "Z3 hoàn thành năm 1941 bởi Konrad Zuse được coi là máy tính lập trình được và tự động đầu tiên trên thế giới."
   },
   "q_tec_009": {
     "question": "GPS là viết tắt của gì?",
     "correct": "Hệ thống Định vị Toàn cầu",
-    "wrong": ["Vệ tinh Đa năng", "Hệ thống Xử lý Toàn cầu", "Tín hiệu Địa vật lý"],
+    "wrong": [
+      "Vệ tinh Đa năng",
+      "Hệ thống Xử lý Toàn cầu",
+      "Tín hiệu Địa vật lý"
+    ],
     "hint": "Hệ thống dẫn đường vệ tinh này ban đầu được phát triển bởi quân đội Hoa Kỳ.",
     "explanation": "GPS (Hệ thống Định vị Toàn cầu) sử dụng mạng lưới vệ tinh để cung cấp thông tin vị trí và thời gian ở mọi nơi trên Trái Đất."
   },
   "q_tec_010": {
     "question": "Ai được công nhận là cha đẻ của World Wide Web?",
     "correct": "Tim Berners-Lee",
-    "wrong": ["Vint Cerf", "Steve Wozniak", "Larry Page"],
+    "wrong": [
+      "Vint Cerf",
+      "Steve Wozniak",
+      "Larry Page"
+    ],
     "hint": "Ông phát minh ra nó tại CERN năm 1989 và tạo ra trình duyệt web đầu tiên.",
     "explanation": "Tim Berners-Lee phát minh ra World Wide Web năm 1989 khi làm việc tại CERN ở Thụy Sĩ."
+  },
+  "q_tec_011": {
+    "question": "'USB' là viết tắt của gì?",
+    "correct": "Universal Serial Bus",
+    "wrong": [
+      "Ultra Speed Bridge",
+      "Unified System Buffer",
+      "Universal System Bridge"
+    ],
+    "hint": "Đầu nối tiêu chuẩn này dùng để kết nối thiết bị ngoại vi như bàn phím.",
+    "explanation": "USB được giới thiệu năm 1996."
+  },
+  "q_tec_012": {
+    "question": "Công ty nào tạo ra máy tính cá nhân thành công thương mại đầu tiên?",
+    "correct": "Apple",
+    "wrong": [
+      "IBM",
+      "Microsoft",
+      "Hewlett-Packard"
+    ],
+    "hint": "Apple II ra mắt năm 1977 là một trong những máy vi tính sản xuất hàng loạt đầu tiên.",
+    "explanation": "Apple II (1977) đã giúp khởi đầu cuộc cách mạng PC."
   }
 }

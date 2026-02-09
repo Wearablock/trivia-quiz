@@ -68,5 +68,26 @@
     "wrong": ["Johann Sebastian Bach", "George Frideric Handel", "Franz Schubert"],
     "hint": "This Italian Baroque composer was a red-haired priest nicknamed 'The Red Priest'.",
     "explanation": "Vivaldi composed The Four Seasons around 1723, a set of four violin concertos."
+  },
+  "q_art_011": {
+    "question": "Who painted 'Girl with a Pearl Earring'?",
+    "correct": "Johannes Vermeer",
+    "wrong": ["Rembrandt", "Peter Paul Rubens", "Jan van Eyck"],
+    "hint": "This Dutch Golden Age painter was known for his masterful use of light.",
+    "explanation": "Vermeer painted Girl with a Pearl Earring around 1665. It is often called the 'Mona Lisa of the North'."
+  },
+  "q_art_012": {
+    "question": "Which artist is famous for painting Campbell's soup cans?",
+    "correct": "Andy Warhol",
+    "wrong": ["Roy Lichtenstein", "Jasper Johns", "Jean-Michel Basquiat"],
+    "hint": "He was a leading figure in the Pop Art movement and ran a studio called 'The Factory'.",
+    "explanation": "Andy Warhol created 'Campbell's Soup Cans' in 1962, making it an icon of the Pop Art movement."
+  },
+  "q_art_013": {
+    "question": "What is the name of the opera composed by Bizet that features a Spanish gypsy?",
+    "correct": "Carmen",
+    "wrong": ["La Traviata", "Aida", "Madama Butterfly"],
+    "hint": "The story is set in Seville, Spain, and includes the famous 'Habanera' aria.",
+    "explanation": "Georges Bizet's Carmen premiered in 1875 and became one of the most popular operas ever written."
   }
 }

@@ -2,71 +2,144 @@
   "q_spo_001": {
     "question": "Wie viele Spieler hat eine Fußballmannschaft auf dem Spielfeld?",
     "correct": "11",
-    "wrong": ["9", "10", "12"],
+    "wrong": [
+      "9",
+      "10",
+      "12"
+    ],
     "explanation": "Jede Fußballmannschaft hat 11 Spieler auf dem Feld, einschließlich des Torwarts.",
     "hint": "Es ist eine ungerade Zahl zwischen 10 und 12."
   },
   "q_spo_002": {
     "question": "In welcher Sportart führt man einen Slam Dunk aus?",
     "correct": "Basketball",
-    "wrong": ["Volleyball", "Tennis", "Baseball"],
+    "wrong": [
+      "Volleyball",
+      "Tennis",
+      "Baseball"
+    ],
     "explanation": "Ein Slam Dunk ist eine Basketballbewegung, bei der ein Spieler springt und den Ball direkt durch den Korb wirft.",
     "hint": "Bei dieser Sportart wirft man einen Ball durch einen erhöhten Ring mit Netz."
   },
   "q_spo_003": {
     "question": "Welches Land hat die meisten FIFA-Weltmeistertitel gewonnen?",
     "correct": "Brasilien",
-    "wrong": ["Deutschland", "Italien", "Argentinien"],
+    "wrong": [
+      "Deutschland",
+      "Italien",
+      "Argentinien"
+    ],
     "explanation": "Brasilien hat die FIFA-Weltmeisterschaft 5 Mal gewonnen (1958, 1962, 1970, 1994, 2002).",
     "hint": "Dieses südamerikanische Land ist bekannt für Spieler wie Pelé und Neymar und trägt gelbe Trikots."
   },
   "q_spo_004": {
     "question": "Was ist die höchste Punktzahl beim 10-Pin-Bowling?",
     "correct": "300",
-    "wrong": ["200", "250", "350"],
+    "wrong": [
+      "200",
+      "250",
+      "350"
+    ],
     "explanation": "Ein perfektes Spiel beim Bowling erzielt 300 Punkte mit 12 aufeinanderfolgenden Strikes.",
     "hint": "Diese Punktzahl wird erreicht, wenn man in jedem Frame alle Pins mit dem ersten Wurf abräumt."
   },
   "q_spo_005": {
     "question": "Welches Grand-Slam-Tennisturnier wird auf Sandplätzen gespielt?",
     "correct": "French Open",
-    "wrong": ["Wimbledon", "US Open", "Australian Open"],
+    "wrong": [
+      "Wimbledon",
+      "US Open",
+      "Australian Open"
+    ],
     "explanation": "Die French Open in Roland Garros ist das einzige Grand-Slam-Turnier, das auf Sand gespielt wird.",
     "hint": "Dieses Turnier findet jährlich in Paris statt und ist nach dem Land benannt, in dem es ausgetragen wird."
   },
   "q_spo_006": {
     "question": "Wie viele Ringe sind auf der olympischen Flagge?",
     "correct": "5",
-    "wrong": ["4", "6", "7"],
+    "wrong": [
+      "4",
+      "6",
+      "7"
+    ],
     "hint": "Jeder Ring steht für einen Kontinent, der an den Olympischen Spielen teilnimmt.",
     "explanation": "Die fünf olympischen Ringe repräsentieren die fünf Kontinente: Afrika, Amerika, Asien, Europa und Ozeanien."
   },
   "q_spo_007": {
     "question": "In welcher Sportart bedeutet ein 'Birdie' einen Schlag unter Par?",
     "correct": "Golf",
-    "wrong": ["Badminton", "Tennis", "Cricket"],
+    "wrong": [
+      "Badminton",
+      "Tennis",
+      "Cricket"
+    ],
     "hint": "Dieser Sport wird auf Plätzen mit 18 Löchern gespielt, mit Schlägern und einem kleinen Ball.",
     "explanation": "Beim Golf bedeutet ein Birdie, dass ein Loch mit einem Schlag weniger als Par abgeschlossen wird."
   },
   "q_spo_008": {
     "question": "Welches Land hat den Sport Cricket erfunden?",
     "correct": "England",
-    "wrong": ["Indien", "Australien", "Südafrika"],
+    "wrong": [
+      "Indien",
+      "Australien",
+      "Südafrika"
+    ],
     "hint": "Dieser Sport reicht bis ins 16. Jahrhundert zurück und ist der nationale Sommersport dieses Landes.",
     "explanation": "Cricket entstand im späten 16. Jahrhundert in England und verbreitete sich über das Britische Empire."
   },
   "q_spo_009": {
     "question": "Wie lang ist ein Marathon in Kilometern?",
     "correct": "42,195 km",
-    "wrong": ["40 km", "45 km", "50 km"],
+    "wrong": [
+      "40 km",
+      "45 km",
+      "50 km"
+    ],
     "hint": "Die Distanz wurde bei den Olympischen Spielen 1908 in London standardisiert.",
     "explanation": "Ein Marathon ist 42,195 km (26,2 Meilen) lang, eine Distanz, die 1908 bei den Olympischen Spielen in London festgelegt wurde."
   },
   "q_spo_010": {
     "question": "Welcher Sport verwendet das größte Spielfeld?",
     "correct": "Polo",
-    "wrong": ["Fußball", "Rugby", "American Football"],
+    "wrong": [
+      "Fußball",
+      "Rugby",
+      "American Football"
+    ],
     "hint": "Dieser Sport wird zu Pferd gespielt und das Feld kann bis zu 275 Meter lang sein.",
     "explanation": "Ein Polofeld ist mit bis zu 275 mal 180 Metern das größte Spielfeld im organisierten Sport."
+  },
+  "q_spo_011": {
+    "question": "In welcher Sportart bedeutet 'Love' null Punkte?",
+    "correct": "Tennis",
+    "wrong": [
+      "Badminton",
+      "Squash",
+      "Tischtennis"
+    ],
+    "hint": "Diese Sportart verwendet ein ungewöhnliches Punktesystem: 15, 30, 40.",
+    "explanation": "Im Tennis bedeutet 'Love' null Punkte."
+  },
+  "q_spo_012": {
+    "question": "Was ist der Nationalsport Japans?",
+    "correct": "Sumo-Ringen",
+    "wrong": [
+      "Judo",
+      "Karate",
+      "Kendo"
+    ],
+    "hint": "Die Kämpfer versuchen, ihren Gegner aus einem kreisförmigen Ring zu drängen.",
+    "explanation": "Sumo ist Japans Nationalsport mit über 1.500 Jahren Geschichte."
+  },
+  "q_spo_013": {
+    "question": "Wie viele Spieler hat ein Volleyballteam auf dem Feld?",
+    "correct": "6",
+    "wrong": [
+      "5",
+      "7",
+      "8"
+    ],
+    "hint": "Die Spieler rotieren ihre Positionen nach jedem gewonnenen Aufschlag.",
+    "explanation": "Jedes Volleyballteam hat 6 Spieler auf dem Feld."
   }
 }

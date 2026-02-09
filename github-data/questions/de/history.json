@@ -2,71 +2,144 @@
   "q_his_001": {
     "question": "In welchem Jahr endete der Zweite Weltkrieg?",
     "correct": "1945",
-    "wrong": ["1944", "1946", "1943"],
+    "wrong": [
+      "1944",
+      "1946",
+      "1943"
+    ],
     "explanation": "Der Zweite Weltkrieg endete 1945 mit der Kapitulation Deutschlands im Mai und Japans im September.",
     "hint": "Es war das Jahr, in dem die Atombomben auf Hiroshima und Nagasaki fielen."
   },
   "q_his_002": {
     "question": "Wer war der erste Präsident der Vereinigten Staaten?",
     "correct": "George Washington",
-    "wrong": ["Thomas Jefferson", "Abraham Lincoln", "John Adams"],
+    "wrong": [
+      "Thomas Jefferson",
+      "Abraham Lincoln",
+      "John Adams"
+    ],
     "explanation": "George Washington war von 1789 bis 1797 der erste US-Präsident.",
     "hint": "Nach ihm ist die Hauptstadt der USA und ein Bundesstaat benannt."
   },
   "q_his_003": {
     "question": "Welche antike Zivilisation baute die Pyramiden von Gizeh?",
     "correct": "Die alten Ägypter",
-    "wrong": ["Römer", "Griechen", "Mesopotamier"],
+    "wrong": [
+      "Römer",
+      "Griechen",
+      "Mesopotamier"
+    ],
     "explanation": "Die Große Pyramide von Gizeh wurde um 2560 v. Chr. für Pharao Cheops erbaut.",
     "hint": "Diese Hochkultur entstand am Nil und ist für Hieroglyphen und Pharaonen bekannt."
   },
   "q_his_004": {
     "question": "In welchem Jahr fiel die Berliner Mauer?",
     "correct": "1989",
-    "wrong": ["1987", "1991", "1985"],
+    "wrong": [
+      "1987",
+      "1991",
+      "1985"
+    ],
     "explanation": "Die Berliner Mauer fiel am 9. November 1989 und markierte einen entscheidenden Moment am Ende des Kalten Krieges.",
     "hint": "Es war im selben Jahr, in dem die friedliche Revolution in der DDR stattfand."
   },
   "q_his_005": {
     "question": "Welches Reich wurde von Dschingis Khan regiert?",
     "correct": "Mongolisches Reich",
-    "wrong": ["Osmanisches Reich", "Römisches Reich", "Persisches Reich"],
+    "wrong": [
+      "Osmanisches Reich",
+      "Römisches Reich",
+      "Persisches Reich"
+    ],
     "explanation": "Dschingis Khan gründete und regierte das Mongolische Reich, das größte zusammenhängende Landreich der Geschichte.",
     "hint": "Dieses Reich hatte seinen Ursprung in den Steppen Zentralasiens."
   },
   "q_his_006": {
     "question": "Wer war der erste Mensch, der den Mond betrat?",
     "correct": "Neil Armstrong",
-    "wrong": ["Buzz Aldrin", "Juri Gagarin", "John Glenn"],
+    "wrong": [
+      "Buzz Aldrin",
+      "Juri Gagarin",
+      "John Glenn"
+    ],
     "hint": "Er sagte: 'Das ist ein kleiner Schritt für einen Menschen, aber ein großer Sprung für die Menschheit.'",
     "explanation": "Neil Armstrong betrat am 20. Juli 1969 während der Apollo-11-Mission als erster Mensch den Mond."
   },
   "q_his_007": {
     "question": "Welches Schiff sank 1912 auf seiner Jungfernfahrt?",
     "correct": "RMS Titanic",
-    "wrong": ["RMS Lusitania", "HMS Britannic", "SS Andrea Doria"],
+    "wrong": [
+      "RMS Lusitania",
+      "HMS Britannic",
+      "SS Andrea Doria"
+    ],
     "hint": "Es wurde als 'unsinkbar' bezeichnet und kollidierte mit einem Eisberg im Nordatlantik.",
     "explanation": "Die Titanic sank am 15. April 1912 nach einer Kollision mit einem Eisberg, wobei über 1.500 Menschen starben."
   },
   "q_his_008": {
     "question": "In welchem Jahrhundert begann die Renaissance?",
     "correct": "14. Jahrhundert",
-    "wrong": ["12. Jahrhundert", "16. Jahrhundert", "15. Jahrhundert"],
+    "wrong": [
+      "12. Jahrhundert",
+      "16. Jahrhundert",
+      "15. Jahrhundert"
+    ],
     "hint": "Sie begann in Italien, insbesondere in Florenz, und bedeutet 'Wiedergeburt'.",
     "explanation": "Die Renaissance begann im 14. Jahrhundert in Italien und markierte einen kulturellen Wandel vom Mittelalter zur Neuzeit."
   },
   "q_his_009": {
     "question": "Wer entdeckte das Penicillin?",
     "correct": "Alexander Fleming",
-    "wrong": ["Louis Pasteur", "Robert Koch", "Joseph Lister"],
+    "wrong": [
+      "Louis Pasteur",
+      "Robert Koch",
+      "Joseph Lister"
+    ],
     "hint": "Er entdeckte es zufällig durch Schimmel, der 1928 in einer Petrischale wuchs.",
     "explanation": "Alexander Fleming entdeckte 1928 das Penicillin und revolutionierte die Medizin mit dem ersten echten Antibiotikum."
   },
   "q_his_010": {
     "question": "Welches antike Weltwunder befand sich in Alexandria, Ägypten?",
     "correct": "Der Leuchtturm",
-    "wrong": ["Der Koloss", "Die Hängenden Gärten", "Der Tempel der Artemis"],
+    "wrong": [
+      "Der Koloss",
+      "Die Hängenden Gärten",
+      "Der Tempel der Artemis"
+    ],
     "hint": "Dieses Bauwerk war über 100 Meter hoch und leitete Seeleute in den Hafen.",
     "explanation": "Der Leuchtturm von Alexandria (Pharos) wurde um 280 v. Chr. erbaut und war eines der höchsten Bauwerke der antiken Welt."
+  },
+  "q_his_011": {
+    "question": "Wer war die erste weibliche Premierministerin des Vereinigten Königreichs?",
+    "correct": "Margaret Thatcher",
+    "wrong": [
+      "Theresa May",
+      "Königin Victoria",
+      "Emmeline Pankhurst"
+    ],
+    "hint": "Sie wurde 'Die Eiserne Lady' genannt und regierte von 1979 bis 1990.",
+    "explanation": "Margaret Thatcher wurde 1979 die erste weibliche Premierministerin Großbritanniens."
+  },
+  "q_his_012": {
+    "question": "In welchem Jahr begann die Französische Revolution?",
+    "correct": "1789",
+    "wrong": [
+      "1776",
+      "1804",
+      "1815"
+    ],
+    "hint": "Sie begann mit dem Sturm auf eine berühmte Gefängnisfestung in Paris.",
+    "explanation": "Die Französische Revolution begann am 14. Juli 1789 mit dem Sturm auf die Bastille."
+  },
+  "q_his_013": {
+    "question": "Welche antike Stadt wurde 79 n. Chr. vom Vesuv verschüttet?",
+    "correct": "Pompeji",
+    "wrong": [
+      "Athen",
+      "Karthago",
+      "Troja"
+    ],
+    "hint": "Diese römische Stadt wurde unter Vulkanasche konserviert und im 18. Jahrhundert wiederentdeckt.",
+    "explanation": "Pompeji wurde unter Metern von Vulkanasche begraben."
   }
 }

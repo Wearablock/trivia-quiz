@@ -2,71 +2,144 @@
   "q_foo_001": {
     "question": "Negara mana asal sushi?",
     "correct": "Jepang",
-    "wrong": ["Tiongkok", "Korea", "Thailand"],
+    "wrong": [
+      "Tiongkok",
+      "Korea",
+      "Thailand"
+    ],
     "explanation": "Sushi berasal dari Jepang, dengan bentuk awal yang berasal dari abad ke-8.",
     "hint": "Negara matahari terbit ini juga terkenal dengan ramen, sake, dan budaya samurai."
   },
   "q_foo_002": {
     "question": "Apa bahan utama dalam guacamole?",
     "correct": "Alpukat",
-    "wrong": ["Tomat", "Paprika", "Bawang"],
+    "wrong": [
+      "Tomat",
+      "Paprika",
+      "Bawang"
+    ],
     "explanation": "Guacamole adalah saus celup Meksiko yang dibuat terutama dari alpukat yang dihaluskan.",
     "hint": "Buah berwarna hijau ini memiliki daging lembut dan biji besar di tengahnya."
   },
   "q_foo_003": {
     "question": "Vitamin apa yang ditemukan berlimpah dalam buah jeruk?",
     "correct": "Vitamin C",
-    "wrong": ["Vitamin A", "Vitamin D", "Vitamin B12"],
+    "wrong": [
+      "Vitamin A",
+      "Vitamin D",
+      "Vitamin B12"
+    ],
     "explanation": "Buah jeruk seperti jeruk dan lemon adalah sumber Vitamin C yang kaya.",
     "hint": "Vitamin ini juga dikenal sebagai asam askorbat dan membantu mencegah penyakit kudis."
   },
   "q_foo_004": {
     "question": "Jenis pasta apa yang berbentuk seperti butiran beras kecil?",
     "correct": "Orzo",
-    "wrong": ["Penne", "Fusilli", "Farfalle"],
+    "wrong": [
+      "Penne",
+      "Fusilli",
+      "Farfalle"
+    ],
     "explanation": "Orzo adalah pasta berbentuk beras yang sering digunakan dalam sup dan salad.",
     "hint": "Nama pasta Italia ini berarti 'barley' dan ukurannya sangat kecil."
   },
   "q_foo_005": {
     "question": "Bumbu apa yang memberikan warna kuning pada kari?",
     "correct": "Kunyit",
-    "wrong": ["Paprika", "Jintan", "Ketumbar"],
+    "wrong": [
+      "Paprika",
+      "Jintan",
+      "Ketumbar"
+    ],
     "explanation": "Kunyit mengandung kurkumin, yang memberikan warna kuning khas pada kari.",
     "hint": "Rempah dari keluarga jahe ini sering digunakan dalam jamu tradisional Indonesia."
   },
   "q_foo_006": {
     "question": "Setelah air, minuman apa yang paling banyak dikonsumsi di dunia?",
     "correct": "Teh",
-    "wrong": ["Kopi", "Bir", "Susu"],
+    "wrong": [
+      "Kopi",
+      "Bir",
+      "Susu"
+    ],
     "explanation": "Teh adalah minuman yang paling banyak dikonsumsi di dunia setelah air, dengan sejarah ribuan tahun.",
     "hint": "Minuman ini berasal dari Tiongkok dan dibuat dengan menyeduh daun kering dalam air panas."
   },
   "q_foo_007": {
     "question": "Negara mana yang memproduksi kopi paling banyak di dunia?",
     "correct": "Brasil",
-    "wrong": ["Kolombia", "Vietnam", "Ethiopia"],
+    "wrong": [
+      "Kolombia",
+      "Vietnam",
+      "Ethiopia"
+    ],
     "explanation": "Brasil adalah produsen kopi terbesar di dunia, menghasilkan sekitar sepertiga produksi global.",
     "hint": "Negara Amerika Selatan terbesar ini juga terkenal dengan karnaval dan sepak bolanya."
   },
   "q_foo_008": {
     "question": "Wasabi dibuat dari bagian tanaman apa?",
     "correct": "Akar",
-    "wrong": ["Daun", "Bunga", "Biji"],
+    "wrong": [
+      "Daun",
+      "Bunga",
+      "Biji"
+    ],
     "explanation": "Wasabi dibuat dari akar (rimpang) tanaman wasabi, menghasilkan rasa pedas yang khas.",
     "hint": "Bumbu Jepang berwarna hijau pedas ini diparut dari bagian tanaman yang tumbuh di bawah tanah."
   },
   "q_foo_009": {
     "question": "Buah apa yang dijuluki 'Raja Buah-buahan'?",
     "correct": "Durian",
-    "wrong": ["Mangga", "Nanas", "Nangka"],
+    "wrong": [
+      "Mangga",
+      "Nanas",
+      "Nangka"
+    ],
     "explanation": "Durian dijuluki 'Raja Buah-buahan' di Asia Tenggara karena ukurannya yang besar dan rasanya yang kuat.",
     "hint": "Buah berduri ini terkenal dengan baunya yang menyengat dan dilarang di banyak hotel dan transportasi umum."
   },
   "q_foo_010": {
     "question": "Apa bahan utama hummus?",
     "correct": "Kacang Arab",
-    "wrong": ["Lentil", "Kacang Hitam", "Kacang Merah"],
+    "wrong": [
+      "Lentil",
+      "Kacang Hitam",
+      "Kacang Merah"
+    ],
     "explanation": "Hummus adalah hidangan Timur Tengah yang terbuat dari kacang arab yang dihaluskan, dicampur dengan tahini, lemon, dan bawang putih.",
     "hint": "Saus celup Timur Tengah ini terbuat dari kacang bundar berwarna krem yang juga disebut chickpea."
+  },
+  "q_foo_011": {
+    "question": "Apa rempah termahal di dunia berdasarkan berat?",
+    "correct": "Safron",
+    "wrong": [
+      "Vanila",
+      "Kapulaga",
+      "Kayu manis"
+    ],
+    "hint": "Berasal dari putik bunga crocus dan memberikan warna emas.",
+    "explanation": "Safron bisa berharga lebih dari 5.000 dolar per pon."
+  },
+  "q_foo_012": {
+    "question": "Dari negara mana croissant berasal?",
+    "correct": "Austria",
+    "wrong": [
+      "Prancis",
+      "Italia",
+      "Belgia"
+    ],
+    "hint": "Bentuk bulan sabitnya terinspirasi dari lambang Kekaisaran Ottoman.",
+    "explanation": "Nenek moyang croissant, kipferl, berasal dari Austria."
+  },
+  "q_foo_013": {
+    "question": "Brie adalah jenis makanan apa?",
+    "correct": "Keju",
+    "wrong": [
+      "Roti",
+      "Kue",
+      "Sosis"
+    ],
+    "hint": "Produk lembut dan creamy ini dinamai dari wilayah di Prancis utara.",
+    "explanation": "Brie adalah keju lunak dari susu sapi dari wilayah Brie, Prancis."
   }
 }

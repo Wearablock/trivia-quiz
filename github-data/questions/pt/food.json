@@ -2,71 +2,144 @@
   "q_foo_001": {
     "question": "Qual pais e a origem do sushi?",
     "correct": "Japao",
-    "wrong": ["China", "Coreia", "Tailandia"],
+    "wrong": [
+      "China",
+      "Coreia",
+      "Tailandia"
+    ],
     "explanation": "O sushi originou-se no Japao, com formas iniciais datando do seculo VIII.",
     "hint": "Este pais e formado por ilhas e sua capital e Toquio."
   },
   "q_foo_002": {
     "question": "Qual e o ingrediente principal do guacamole?",
     "correct": "Abacate",
-    "wrong": ["Tomate", "Pimentao", "Cebola"],
+    "wrong": [
+      "Tomate",
+      "Pimentao",
+      "Cebola"
+    ],
     "explanation": "Guacamole e um molho mexicano feito principalmente de abacates amassados.",
     "hint": "Esta fruta verde tem uma grande semente no centro e e rica em gorduras saudaveis."
   },
   "q_foo_003": {
     "question": "Qual vitamina e encontrada em abundancia nas frutas citricas?",
     "correct": "Vitamina C",
-    "wrong": ["Vitamina A", "Vitamina D", "Vitamina B12"],
+    "wrong": [
+      "Vitamina A",
+      "Vitamina D",
+      "Vitamina B12"
+    ],
     "explanation": "Frutas citricas como laranjas e limoes sao ricas fontes de Vitamina C.",
     "hint": "Esta vitamina e conhecida por fortalecer o sistema imunologico e prevenir o escorbuto."
   },
   "q_foo_004": {
     "question": "Qual tipo de massa tem formato de pequenos graos de arroz?",
     "correct": "Orzo",
-    "wrong": ["Penne", "Fusilli", "Farfalle"],
+    "wrong": [
+      "Penne",
+      "Fusilli",
+      "Farfalle"
+    ],
     "explanation": "Orzo e uma massa em formato de arroz frequentemente usada em sopas e saladas.",
     "hint": "O nome desta massa vem da palavra italiana para 'cevada'."
   },
   "q_foo_005": {
     "question": "Qual tempero da a cor amarela ao curry?",
     "correct": "Acafrao-da-terra",
-    "wrong": ["Paprica", "Cominho", "Coentro"],
+    "wrong": [
+      "Paprica",
+      "Cominho",
+      "Coentro"
+    ],
     "explanation": "O acafrao-da-terra contem curcumina, que da ao curry sua cor amarela caracteristica.",
     "hint": "Este tempero tambem e conhecido como curcuma e tem propriedades anti-inflamatorias."
   },
   "q_foo_006": {
     "question": "Qual e a bebida mais consumida no mundo depois da agua?",
     "correct": "Cha",
-    "wrong": ["Cafe", "Cerveja", "Leite"],
+    "wrong": [
+      "Cafe",
+      "Cerveja",
+      "Leite"
+    ],
     "hint": "Esta bebida originou-se na China e existe em variedades verde, preta e branca.",
     "explanation": "O cha e a bebida mais consumida depois da agua, com origens na China que remontam a 2737 a.C."
   },
   "q_foo_007": {
     "question": "Qual pais e o maior produtor de cafe do mundo?",
     "correct": "Brasil",
-    "wrong": ["Colombia", "Etiopia", "Vietna"],
+    "wrong": [
+      "Colombia",
+      "Etiopia",
+      "Vietna"
+    ],
     "hint": "Este pais sul-americano tambem e famoso pelo samba e pelo carnaval.",
     "explanation": "O Brasil e o maior produtor de cafe ha mais de 150 anos, produzindo cerca de um terco do suprimento mundial."
   },
   "q_foo_008": {
     "question": "A partir de que o wasabi e tradicionalmente feito?",
     "correct": "Uma raiz de planta",
-    "wrong": ["Pimentas verdes", "Sementes de mostarda", "Raiz-forte e corante"],
+    "wrong": [
+      "Pimentas verdes",
+      "Sementes de mostarda",
+      "Raiz-forte e corante"
+    ],
     "hint": "O wasabi autentico e muito caro e deve ser ralado fresco a partir de um rizoma.",
     "explanation": "O wasabi real e feito do rizoma da planta Wasabia japonica, embora a maioria dos restaurantes use raiz-forte com corante."
   },
   "q_foo_009": {
     "question": "Qual fruta e conhecida como o 'rei das frutas' no Sudeste Asiatico?",
     "correct": "Durian",
-    "wrong": ["Manga", "Jaca", "Mamao"],
+    "wrong": [
+      "Manga",
+      "Jaca",
+      "Mamao"
+    ],
     "hint": "Esta fruta e famosa por seu cheiro forte e e proibida em muitos hoteis.",
     "explanation": "O durian e chamado de rei das frutas no Sudeste Asiatico, apesar de seu odor penetrante que divide opinioes."
   },
   "q_foo_010": {
     "question": "Qual e o ingrediente principal do homus?",
     "correct": "Grao-de-bico",
-    "wrong": ["Lentilhas", "Feijao branco", "Favas"],
+    "wrong": [
+      "Lentilhas",
+      "Feijao branco",
+      "Favas"
+    ],
     "hint": "Este dip do Oriente Medio tambem leva tahini, suco de limao e alho.",
     "explanation": "O homus e um dip levantino feito principalmente de grao-de-bico cozido e amassado misturado com tahini."
+  },
+  "q_foo_011": {
+    "question": "Qual é o tempero mais caro do mundo por peso?",
+    "correct": "Açafrão",
+    "wrong": [
+      "Baunilha",
+      "Cardamomo",
+      "Canela"
+    ],
+    "hint": "Vem dos estigmas de uma flor de croco e dá uma cor dourada.",
+    "explanation": "O açafrão pode custar mais de 5.000 dólares por libra."
+  },
+  "q_foo_012": {
+    "question": "De qual país o croissant é originário?",
+    "correct": "Áustria",
+    "wrong": [
+      "França",
+      "Itália",
+      "Bélgica"
+    ],
+    "hint": "Sua forma de meia-lua foi inspirada no emblema do Império Otomano.",
+    "explanation": "O ancestral do croissant, o kipferl, originou-se na Áustria."
+  },
+  "q_foo_013": {
+    "question": "Que tipo de alimento é o Brie?",
+    "correct": "Queijo",
+    "wrong": [
+      "Pão",
+      "Pastelaria",
+      "Salsicha"
+    ],
+    "hint": "Este produto macio e cremoso leva o nome de uma região do norte da França.",
+    "explanation": "O Brie é um queijo macio de leite de vaca da região francesa de Brie."
   }
 }

@@ -2,78 +2,144 @@
   "q_geo_001": {
     "question": "Qual e a capital da Franca?",
     "correct": "Paris",
-    "wrong": ["Londres", "Berlim", "Madrid"],
+    "wrong": [
+      "Londres",
+      "Berlim",
+      "Madrid"
+    ],
     "explanation": "Paris e a capital da Franca desde o final do seculo X.",
     "hint": "Esta cidade e famosa pela Torre Eiffel e e conhecida como a 'Cidade Luz'."
   },
   "q_geo_002": {
     "question": "Qual e o maior oceano da Terra?",
     "correct": "Oceano Pacifico",
-    "wrong": ["Oceano Atlantico", "Oceano Indico", "Oceano Artico"],
+    "wrong": [
+      "Oceano Atlantico",
+      "Oceano Indico",
+      "Oceano Artico"
+    ],
     "explanation": "O Oceano Pacifico cobre aproximadamente 165 milhoes de quilometros quadrados.",
     "hint": "Este oceano banha a costa oeste das Americas e a costa leste da Asia."
   },
   "q_geo_003": {
     "question": "Qual pais tem a maior linha costeira do mundo?",
     "correct": "Canada",
-    "wrong": ["Russia", "Australia", "Indonesia"],
+    "wrong": [
+      "Russia",
+      "Australia",
+      "Indonesia"
+    ],
     "explanation": "O Canada tem mais de 202.080 km de linha costeira.",
     "hint": "Este pais fica ao norte dos Estados Unidos e tem costas em tres oceanos diferentes."
   },
   "q_geo_004": {
     "question": "Qual e a capital da Australia?",
     "correct": "Camberra",
-    "wrong": ["Sydney", "Melbourne", "Brisbane"],
+    "wrong": [
+      "Sydney",
+      "Melbourne",
+      "Brisbane"
+    ],
     "explanation": "Camberra foi selecionada como capital em 1908 como um compromisso entre Sydney e Melbourne.",
     "hint": "Nao e a maior cidade do pais; foi construida especificamente para ser a capital."
   },
   "q_geo_005": {
     "question": "Qual rio atravessa o maior numero de paises?",
     "correct": "Danubio",
-    "wrong": ["Nilo", "Amazonas", "Reno"],
+    "wrong": [
+      "Nilo",
+      "Amazonas",
+      "Reno"
+    ],
     "explanation": "O Danubio atravessa 10 paises na Europa.",
     "hint": "Este rio europeu passa por Viena, Budapeste e Belgrado."
   },
   "q_geo_006": {
     "question": "Qual e o maior deserto quente do mundo?",
     "correct": "Saara",
-    "wrong": ["Deserto da Arabia", "Gobi", "Kalahari"],
+    "wrong": [
+      "Deserto da Arabia",
+      "Gobi",
+      "Kalahari"
+    ],
     "hint": "Este deserto africano e quase tao grande quanto os Estados Unidos.",
     "explanation": "O Saara cobre aproximadamente 9,2 milhoes de quilometros quadrados no norte da Africa."
   },
   "q_geo_007": {
     "question": "Qual e o menor pais do mundo em area?",
     "correct": "Cidade do Vaticano",
-    "wrong": ["Monaco", "San Marino", "Liechtenstein"],
+    "wrong": [
+      "Monaco",
+      "San Marino",
+      "Liechtenstein"
+    ],
     "hint": "Este pais esta inteiramente dentro da cidade de Roma.",
     "explanation": "A Cidade do Vaticano ocupa apenas 0,44 quilometros quadrados e e a sede da Igreja Catolica Romana."
   },
   "q_geo_008": {
     "question": "Qual estreito separa a Europa da Asia?",
     "correct": "Bosforo",
-    "wrong": ["Estreito de Gibraltar", "Estreito de Malaca", "Estreito de Ormuz"],
+    "wrong": [
+      "Estreito de Gibraltar",
+      "Estreito de Malaca",
+      "Estreito de Ormuz"
+    ],
     "hint": "Esta via aquatica estreita atravessa a cidade de Istambul.",
     "explanation": "O Bosforo divide Istambul e separa a Turquia europeia da Turquia asiatica."
   },
   "q_geo_009": {
     "question": "Qual e o rio mais longo da America do Sul?",
     "correct": "Amazonas",
-    "wrong": ["Parana", "Orinoco", "Sao Francisco"],
+    "wrong": [
+      "Parana",
+      "Orinoco",
+      "Sao Francisco"
+    ],
     "hint": "Este rio transporta mais agua do que qualquer outro e atravessa a maior floresta tropical do mundo.",
     "explanation": "O Amazonas se estende por cerca de 6.400 km e tem a maior vazao de todos os rios."
   },
   "q_geo_010": {
     "question": "Qual pais tem o maior numero de fusos horarios?",
     "correct": "Franca",
-    "wrong": ["Russia", "Estados Unidos", "Reino Unido"],
+    "wrong": [
+      "Russia",
+      "Estados Unidos",
+      "Reino Unido"
+    ],
     "hint": "Seus territorios ultramarinos se estendem do Caribe ao Pacifico.",
     "explanation": "A Franca tem 12 fusos horarios gracas aos seus territorios ultramarinos, mais do que os 11 da Russia."
   },
   "q_geo_100": {
     "question": "Qual e a montanha mais alta do mundo?",
     "correct": "Monte Everest",
-    "wrong": ["K2", "Kangchenjunga", "Lhotse"],
+    "wrong": [
+      "K2",
+      "Kangchenjunga",
+      "Lhotse"
+    ],
     "hint": "Localizada no Himalaia, na fronteira entre Nepal e Tibete.",
     "explanation": "O Monte Everest tem 8.849 metros acima do nivel do mar."
+  },
+  "q_geo_011": {
+    "question": "Qual é o continente mais seco da Terra?",
+    "correct": "Antártida",
+    "wrong": [
+      "África",
+      "Austrália",
+      "Ásia"
+    ],
+    "hint": "Apesar de coberto de gelo, este continente recebe muito pouca precipitação.",
+    "explanation": "A Antártida é tecnicamente um deserto com menos de 200 mm de precipitação anual."
+  },
+  "q_geo_012": {
+    "question": "Qual país europeu tem formato de bota?",
+    "correct": "Itália",
+    "wrong": [
+      "Espanha",
+      "Grécia",
+      "Portugal"
+    ],
+    "hint": "Este país é uma península que se projeta no Mediterrâneo.",
+    "explanation": "O formato de bota da Itália é um dos contornos de país mais reconhecíveis do mundo."
   }
 }

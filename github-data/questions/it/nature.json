@@ -2,71 +2,133 @@
   "q_nat_001": {
     "question": "Qual e il mammifero piu grande del mondo?",
     "correct": "Balenottera azzurra",
-    "wrong": ["Elefante", "Giraffa", "Ippopotamo"],
+    "wrong": [
+      "Elefante",
+      "Giraffa",
+      "Ippopotamo"
+    ],
     "explanation": "Le balenottere azzurre possono raggiungere lunghezze superiori ai 30 metri e pesare fino a 200 tonnellate.",
     "hint": "Questo gigante marino vive negli oceani e il suo cuore puo pesare quanto un'automobile."
   },
   "q_nat_002": {
     "question": "Quante zampe ha un ragno?",
     "correct": "8",
-    "wrong": ["6", "10", "12"],
+    "wrong": [
+      "6",
+      "10",
+      "12"
+    ],
     "explanation": "Tutti i ragni sono aracnidi e hanno 8 zampe.",
     "hint": "Sono due in piu rispetto agli insetti, che ne hanno sei."
   },
   "q_nat_003": {
     "question": "Qual e la specie di albero piu alta del mondo?",
     "correct": "Sequoia costiera",
-    "wrong": ["Sequoia gigante", "Eucalipto", "Abete di Douglas"],
+    "wrong": [
+      "Sequoia gigante",
+      "Eucalipto",
+      "Abete di Douglas"
+    ],
     "explanation": "Le sequoie costiere possono crescere oltre i 115 metri di altezza.",
     "hint": "Questi alberi crescono lungo la costa della California e possono vivere oltre 2000 anni."
   },
   "q_nat_004": {
     "question": "Quale gas assorbono le piante dall'atmosfera?",
     "correct": "Anidride carbonica",
-    "wrong": ["Ossigeno", "Azoto", "Idrogeno"],
+    "wrong": [
+      "Ossigeno",
+      "Azoto",
+      "Idrogeno"
+    ],
     "explanation": "Le piante usano l'anidride carbonica nella fotosintesi per produrre ossigeno e glucosio.",
     "hint": "E il gas che noi esseri umani espiriamo e la cui formula chimica e CO2."
   },
   "q_nat_005": {
     "question": "Qual e l'animale terrestre piu veloce?",
     "correct": "Ghepardo",
-    "wrong": ["Leone", "Gazzella", "Cavallo"],
+    "wrong": [
+      "Leone",
+      "Gazzella",
+      "Cavallo"
+    ],
     "explanation": "I ghepardi possono raggiungere velocita fino a 112 km/h.",
     "hint": "Questo felino africano ha un corpo snello e macchie nere sul mantello giallo."
   },
   "q_nat_006": {
     "question": "Qual e la specie di squalo piu grande?",
     "correct": "Squalo balena",
-    "wrong": ["Grande squalo bianco", "Squalo martello", "Squalo tigre"],
+    "wrong": [
+      "Grande squalo bianco",
+      "Squalo martello",
+      "Squalo tigre"
+    ],
     "hint": "Nonostante le sue dimensioni enormi, questo squalo e un pacifico filtratore che si nutre di plancton.",
     "explanation": "Gli squali balena possono crescere fino a 12 metri di lunghezza e sono i pesci piu grandi dell'oceano."
   },
   "q_nat_007": {
     "question": "Quale uccello puo volare all'indietro?",
     "correct": "Colibri",
-    "wrong": ["Martin pescatore", "Rondine", "Passero"],
+    "wrong": [
+      "Martin pescatore",
+      "Rondine",
+      "Passero"
+    ],
     "hint": "Questo piccolo uccello batte le ali fino a 80 volte al secondo e si nutre di nettare.",
     "explanation": "I colibri sono gli unici uccelli capaci di volo stazionario prolungato e di volare all'indietro grazie alla loro struttura alare unica."
   },
   "q_nat_008": {
     "question": "Qual e la roccia naturale piu dura?",
     "correct": "Granito",
-    "wrong": ["Marmo", "Calcare", "Arenaria"],
+    "wrong": [
+      "Marmo",
+      "Calcare",
+      "Arenaria"
+    ],
     "hint": "Questa roccia ignea e comunemente usata per piani di cucina e monumenti.",
     "explanation": "Il granito e una delle rocce naturali piu dure, formata dal magma raffreddato nelle profondita della Terra."
   },
   "q_nat_009": {
     "question": "Quanto tempo puo sopravvivere uno scarafaggio senza testa?",
     "correct": "Circa una settimana",
-    "wrong": ["Pochi secondi", "Circa un'ora", "Circa un mese"],
+    "wrong": [
+      "Pochi secondi",
+      "Circa un'ora",
+      "Circa un mese"
+    ],
     "hint": "Questi insetti respirano attraverso piccoli fori nei segmenti del corpo, non attraverso la bocca.",
     "explanation": "Gli scarafaggi possono sopravvivere circa una settimana senza testa perche respirano attraverso spiracoli sul corpo."
   },
   "q_nat_010": {
     "question": "Qual e l'oceano piu profondo?",
     "correct": "Oceano Pacifico",
-    "wrong": ["Oceano Atlantico", "Oceano Indiano", "Oceano Meridionale"],
+    "wrong": [
+      "Oceano Atlantico",
+      "Oceano Indiano",
+      "Oceano Meridionale"
+    ],
     "hint": "La Fossa delle Marianne, il punto piu profondo della Terra, si trova in questo oceano.",
     "explanation": "L'Oceano Pacifico contiene la Fossa delle Marianne, che raggiunge una profondita di circa 11.034 metri nel Challenger Deep."
+  },
+  "q_nat_011": {
+    "question": "Qual è l'unico mammifero capace di volare davvero?",
+    "correct": "Pipistrello",
+    "wrong": [
+      "Scoiattolo volante",
+      "Petauro dello zucchero",
+      "Colugho"
+    ],
+    "hint": "Questo animale notturno usa l'ecolocalizzazione per orientarsi al buio.",
+    "explanation": "I pipistrelli sono gli unici mammiferi capaci di volo attivo."
+  },
+  "q_nat_012": {
+    "question": "Quanti cuori ha un polpo?",
+    "correct": "3",
+    "wrong": [
+      "1",
+      "2",
+      "4"
+    ],
+    "hint": "Due cuori pompano sangue alle branchie, il terzo al resto del corpo.",
+    "explanation": "Un polpo ha tre cuori."
   }
 }

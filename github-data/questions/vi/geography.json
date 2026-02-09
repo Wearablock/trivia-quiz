@@ -2,78 +2,144 @@
   "q_geo_001": {
     "question": "Thủ đô của Pháp là gì?",
     "correct": "Paris",
-    "wrong": ["London", "Berlin", "Madrid"],
+    "wrong": [
+      "London",
+      "Berlin",
+      "Madrid"
+    ],
     "explanation": "Paris là thủ đô của Pháp từ cuối thế kỷ 10.",
     "hint": "Thành phố này nổi tiếng với tháp Eiffel và dòng sông Seine."
   },
   "q_geo_002": {
     "question": "Đại dương lớn nhất trên Trái Đất là gì?",
     "correct": "Thái Bình Dương",
-    "wrong": ["Đại Tây Dương", "Ấn Độ Dương", "Bắc Băng Dương"],
+    "wrong": [
+      "Đại Tây Dương",
+      "Ấn Độ Dương",
+      "Bắc Băng Dương"
+    ],
     "explanation": "Thái Bình Dương có diện tích khoảng 165 triệu km vuông.",
     "hint": "Đại dương này nằm giữa châu Á và châu Mỹ, tên của nó có nghĩa là 'yên bình'."
   },
   "q_geo_003": {
     "question": "Quốc gia nào có đường bờ biển dài nhất thế giới?",
     "correct": "Canada",
-    "wrong": ["Nga", "Úc", "Indonesia"],
+    "wrong": [
+      "Nga",
+      "Úc",
+      "Indonesia"
+    ],
     "explanation": "Canada có hơn 202.080 km đường bờ biển.",
     "hint": "Quốc gia Bắc Mỹ này nổi tiếng với lá cờ hình lá phong đỏ."
   },
   "q_geo_004": {
     "question": "Thủ đô của Úc là gì?",
     "correct": "Canberra",
-    "wrong": ["Sydney", "Melbourne", "Brisbane"],
+    "wrong": [
+      "Sydney",
+      "Melbourne",
+      "Brisbane"
+    ],
     "explanation": "Canberra được chọn làm thủ đô vào năm 1908 như một sự thỏa hiệp giữa Sydney và Melbourne.",
     "hint": "Thành phố này không phải là Sydney hay Melbourne, mà là một thành phố được xây dựng riêng để làm thủ đô."
   },
   "q_geo_005": {
     "question": "Con sông nào chảy qua nhiều quốc gia nhất?",
     "correct": "Sông Danube",
-    "wrong": ["Sông Nile", "Sông Amazon", "Sông Rhine"],
+    "wrong": [
+      "Sông Nile",
+      "Sông Amazon",
+      "Sông Rhine"
+    ],
     "explanation": "Sông Danube chảy qua 10 quốc gia ở châu Âu.",
     "hint": "Con sông châu Âu này bắt nguồn từ Đức và đổ ra Biển Đen, đi qua Vienna và Budapest."
   },
   "q_geo_006": {
     "question": "Sa mạc nóng lớn nhất thế giới là gì?",
     "correct": "Sahara",
-    "wrong": ["Gobi", "Kalahari", "Arabian"],
+    "wrong": [
+      "Gobi",
+      "Kalahari",
+      "Arabian"
+    ],
     "explanation": "Sa mạc Sahara ở Bắc Phi có diện tích khoảng 9,2 triệu km vuông, là sa mạc nóng lớn nhất thế giới.",
     "hint": "Sa mạc Bắc Phi này có diện tích gần bằng toàn bộ Hoa Kỳ."
   },
   "q_geo_007": {
     "question": "Quốc gia nhỏ nhất thế giới về diện tích là gì?",
     "correct": "Thành Vatican",
-    "wrong": ["Monaco", "San Marino", "Liechtenstein"],
+    "wrong": [
+      "Monaco",
+      "San Marino",
+      "Liechtenstein"
+    ],
     "explanation": "Thành Vatican có diện tích chỉ khoảng 0,44 km vuông, nằm hoàn toàn trong thành phố Rome.",
     "hint": "Quốc gia này là trụ sở của Giáo hoàng và nằm hoàn toàn trong thành phố Rome, Ý."
   },
   "q_geo_008": {
     "question": "Eo biển nào ngăn cách châu Âu và châu Á ở Thổ Nhĩ Kỳ?",
     "correct": "Eo biển Bosphorus",
-    "wrong": ["Eo biển Gibraltar", "Eo biển Malacca", "Eo biển Hormuz"],
+    "wrong": [
+      "Eo biển Gibraltar",
+      "Eo biển Malacca",
+      "Eo biển Hormuz"
+    ],
     "explanation": "Eo biển Bosphorus ở Istanbul, Thổ Nhĩ Kỳ nối Biển Đen với Biển Marmara và ngăn cách hai châu lục.",
     "hint": "Eo biển này chảy qua thành phố Istanbul, nơi duy nhất trên thế giới nằm trên hai châu lục."
   },
   "q_geo_009": {
     "question": "Con sông dài nhất ở Nam Mỹ là gì?",
     "correct": "Sông Amazon",
-    "wrong": ["Sông Paraná", "Sông Orinoco", "Sông São Francisco"],
+    "wrong": [
+      "Sông Paraná",
+      "Sông Orinoco",
+      "Sông São Francisco"
+    ],
     "explanation": "Sông Amazon dài khoảng 6.400 km và có lưu vực sông lớn nhất thế giới.",
     "hint": "Con sông này chảy qua rừng nhiệt đới lớn nhất thế giới và đổ ra Đại Tây Dương."
   },
   "q_geo_010": {
     "question": "Quốc gia nào có nhiều múi giờ nhất?",
     "correct": "Pháp",
-    "wrong": ["Nga", "Hoa Kỳ", "Trung Quốc"],
+    "wrong": [
+      "Nga",
+      "Hoa Kỳ",
+      "Trung Quốc"
+    ],
     "explanation": "Pháp có 12 múi giờ nhờ các lãnh thổ hải ngoại trải dài khắp thế giới.",
     "hint": "Nhờ các lãnh thổ hải ngoại ở Thái Bình Dương, Ấn Độ Dương và châu Mỹ, quốc gia châu Âu này vượt qua cả Nga."
   },
   "q_geo_100": {
     "question": "Ngọn núi cao nhất thế giới là gì?",
     "correct": "Đỉnh Everest",
-    "wrong": ["K2", "Kangchenjunga", "Lhotse"],
+    "wrong": [
+      "K2",
+      "Kangchenjunga",
+      "Lhotse"
+    ],
     "hint": "Nằm trong dãy Himalaya trên biên giới giữa Nepal và Tây Tạng.",
     "explanation": "Đỉnh Everest cao 8.849 mét so với mực nước biển."
+  },
+  "q_geo_011": {
+    "question": "Lục địa khô nhất trên Trái Đất là gì?",
+    "correct": "Nam Cực",
+    "wrong": [
+      "Châu Phi",
+      "Úc",
+      "Châu Á"
+    ],
+    "hint": "Dù được bao phủ bởi băng, lục địa này nhận rất ít mưa.",
+    "explanation": "Nam Cực về mặt kỹ thuật là một sa mạc với lượng mưa dưới 200 mm/năm."
+  },
+  "q_geo_012": {
+    "question": "Quốc gia châu Âu nào có hình dạng chiếc ủng?",
+    "correct": "Ý",
+    "wrong": [
+      "Tây Ban Nha",
+      "Hy Lạp",
+      "Bồ Đào Nha"
+    ],
+    "hint": "Quốc gia này là bán đảo nhô ra Địa Trung Hải.",
+    "explanation": "Hình dạng chiếc ủng của Ý là một trong những đường viền quốc gia dễ nhận biết nhất."
   }
 }

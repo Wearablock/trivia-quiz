@@ -2,71 +2,144 @@
   "q_spo_001": {
     "question": "Quanti giocatori ci sono in una squadra di calcio in campo?",
     "correct": "11",
-    "wrong": ["9", "10", "12"],
+    "wrong": [
+      "9",
+      "10",
+      "12"
+    ],
     "explanation": "Ogni squadra di calcio schiera 11 giocatori, compreso il portiere.",
     "hint": "E lo stesso numero delle formazioni iniziali che vedi prima delle partite."
   },
   "q_spo_002": {
     "question": "In quale sport si esegue una schiacciata?",
     "correct": "Pallacanestro",
-    "wrong": ["Pallavolo", "Tennis", "Baseball"],
+    "wrong": [
+      "Pallavolo",
+      "Tennis",
+      "Baseball"
+    ],
     "explanation": "Una schiacciata e una mossa della pallacanestro in cui un giocatore salta e segna mettendo la palla direttamente nel canestro.",
     "hint": "In questo sport si segna mettendo la palla in un canestro appeso a 3,05 metri."
   },
   "q_spo_003": {
     "question": "Quale paese ha vinto piu titoli della Coppa del Mondo FIFA?",
     "correct": "Brasile",
-    "wrong": ["Germania", "Italia", "Argentina"],
+    "wrong": [
+      "Germania",
+      "Italia",
+      "Argentina"
+    ],
     "explanation": "Il Brasile ha vinto la Coppa del Mondo FIFA 5 volte (1958, 1962, 1970, 1994, 2002).",
     "hint": "Questo paese sudamericano e la patria di Pele e ha la maglia giallo-verdeoro."
   },
   "q_spo_004": {
     "question": "Qual e il punteggio massimo possibile nel bowling a 10 birilli?",
     "correct": "300",
-    "wrong": ["200", "250", "350"],
+    "wrong": [
+      "200",
+      "250",
+      "350"
+    ],
     "explanation": "Una partita perfetta di bowling segna 300 punti con 12 strike consecutivi.",
     "hint": "Si ottiene facendo strike in tutti i 10 frame piu i due tiri bonus."
   },
   "q_spo_005": {
     "question": "Quale torneo del Grande Slam di tennis si gioca su terra battuta?",
     "correct": "Open di Francia",
-    "wrong": ["Wimbledon", "US Open", "Australian Open"],
+    "wrong": [
+      "Wimbledon",
+      "US Open",
+      "Australian Open"
+    ],
     "explanation": "L'Open di Francia al Roland Garros e l'unico Grande Slam giocato su terra battuta.",
     "hint": "Si svolge a Parigi nel famoso stadio Roland Garros."
   },
   "q_spo_006": {
     "question": "Quanti anelli ci sono sulla bandiera olimpica?",
     "correct": "5",
-    "wrong": ["4", "6", "7"],
+    "wrong": [
+      "4",
+      "6",
+      "7"
+    ],
     "hint": "Ogni anello rappresenta un continente che partecipa ai Giochi Olimpici.",
     "explanation": "I cinque anelli olimpici rappresentano i cinque continenti: Africa, Americhe, Asia, Europa e Oceania."
   },
   "q_spo_007": {
     "question": "In quale sport un 'birdie' significa un colpo sotto il par?",
     "correct": "Golf",
-    "wrong": ["Badminton", "Tennis", "Cricket"],
+    "wrong": [
+      "Badminton",
+      "Tennis",
+      "Cricket"
+    ],
     "hint": "Questo sport si gioca su campi con 18 buche usando mazze e una pallina.",
     "explanation": "Nel golf, un birdie significa completare una buca con un colpo in meno rispetto al par."
   },
   "q_spo_008": {
     "question": "Quale paese ha inventato lo sport del cricket?",
     "correct": "Inghilterra",
-    "wrong": ["India", "Australia", "Sudafrica"],
+    "wrong": [
+      "India",
+      "Australia",
+      "Sudafrica"
+    ],
     "hint": "Questo sport risale al XVI secolo ed e lo sport nazionale estivo di questo paese.",
     "explanation": "Il cricket ha avuto origine in Inghilterra alla fine del XVI secolo e si e diffuso attraverso l'Impero Britannico."
   },
   "q_spo_009": {
     "question": "Quanto e lunga una maratona in chilometri?",
     "correct": "42,195 km",
-    "wrong": ["40 km", "45 km", "50 km"],
+    "wrong": [
+      "40 km",
+      "45 km",
+      "50 km"
+    ],
     "hint": "La distanza fu standardizzata alle Olimpiadi di Londra del 1908.",
     "explanation": "Una maratona e lunga 42,195 km (26,2 miglia), distanza stabilita alle Olimpiadi di Londra del 1908."
   },
   "q_spo_010": {
     "question": "Quale sport utilizza il campo da gioco piu grande?",
     "correct": "Polo",
-    "wrong": ["Calcio", "Rugby", "Football americano"],
+    "wrong": [
+      "Calcio",
+      "Rugby",
+      "Football americano"
+    ],
     "hint": "Questo sport si pratica a cavallo e il campo puo misurare fino a 275 metri di lunghezza.",
     "explanation": "Un campo da polo e il piu grande campo da gioco nello sport organizzato, misurando fino a 275 per 180 metri."
+  },
+  "q_spo_011": {
+    "question": "In quale sport 'love' significa zero punti?",
+    "correct": "Tennis",
+    "wrong": [
+      "Badminton",
+      "Squash",
+      "Ping pong"
+    ],
+    "hint": "Questo sport usa un sistema di punteggio peculiare: 15, 30, 40.",
+    "explanation": "Nel tennis, 'love' significa zero punti."
+  },
+  "q_spo_012": {
+    "question": "Qual è lo sport nazionale del Giappone?",
+    "correct": "Sumo",
+    "wrong": [
+      "Judo",
+      "Karate",
+      "Kendo"
+    ],
+    "hint": "I lottatori cercano di spingere l'avversario fuori da un ring circolare.",
+    "explanation": "Il sumo è lo sport nazionale giapponese con oltre 1.500 anni di storia."
+  },
+  "q_spo_013": {
+    "question": "Quanti giocatori per squadra ci sono in campo nella pallavolo?",
+    "correct": "6",
+    "wrong": [
+      "5",
+      "7",
+      "8"
+    ],
+    "hint": "I giocatori ruotano posizione ogni volta che vincono il servizio.",
+    "explanation": "Ogni squadra di pallavolo ha 6 giocatori in campo."
   }
 }

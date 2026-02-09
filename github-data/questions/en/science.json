@@ -75,5 +75,19 @@
     "wrong": ["90°C", "110°C", "120°C"],
     "hint": "In Fahrenheit, this temperature is 212 degrees.",
     "explanation": "Water boils at 100°C (212°F) at standard atmospheric pressure at sea level."
+  },
+  "q_sci_011": {
+    "question": "What is the nearest star to Earth?",
+    "correct": "The Sun",
+    "wrong": ["Proxima Centauri", "Alpha Centauri", "Sirius"],
+    "hint": "It's so close that its light reaches us in about 8 minutes.",
+    "explanation": "The Sun is about 150 million km from Earth. The next nearest star, Proxima Centauri, is about 4.24 light-years away."
+  },
+  "q_sci_012": {
+    "question": "What element does the chemical symbol 'Fe' represent?",
+    "correct": "Iron",
+    "wrong": ["Lead", "Fluorine", "Fermium"],
+    "hint": "The symbol comes from the Latin word 'ferrum'.",
+    "explanation": "Fe stands for Iron, from the Latin 'ferrum'. It is the most common element on Earth by mass."
   }
 }

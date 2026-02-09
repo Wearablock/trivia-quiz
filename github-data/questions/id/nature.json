@@ -2,71 +2,133 @@
   "q_nat_001": {
     "question": "Apa mamalia terbesar di dunia?",
     "correct": "Paus Biru",
-    "wrong": ["Gajah", "Jerapah", "Kuda Nil"],
+    "wrong": [
+      "Gajah",
+      "Jerapah",
+      "Kuda Nil"
+    ],
     "explanation": "Paus biru dapat mencapai panjang lebih dari 30 meter dan berat hingga 200 ton.",
     "hint": "Hewan laut raksasa ini memiliki jantung sebesar mobil kecil dan warnanya sesuai namanya."
   },
   "q_nat_002": {
     "question": "Berapa jumlah kaki laba-laba?",
     "correct": "8",
-    "wrong": ["6", "10", "12"],
+    "wrong": [
+      "6",
+      "10",
+      "12"
+    ],
     "explanation": "Semua laba-laba adalah arakhnida dan memiliki 8 kaki.",
     "hint": "Jumlahnya dua kali lipat dari serangga biasa yang memiliki 4 pasang kaki."
   },
   "q_nat_003": {
     "question": "Apa spesies pohon tertinggi di dunia?",
     "correct": "Redwood Pantai",
-    "wrong": ["Sequoia Raksasa", "Eukaliptus", "Cemara Douglas"],
+    "wrong": [
+      "Sequoia Raksasa",
+      "Eukaliptus",
+      "Cemara Douglas"
+    ],
     "explanation": "Redwood Pantai dapat tumbuh lebih dari 115 meter.",
     "hint": "Pohon ini tumbuh di pesisir California dan memiliki kulit kayu berwarna kemerahan."
   },
   "q_nat_004": {
     "question": "Gas apa yang diserap tumbuhan dari atmosfer?",
     "correct": "Karbon Dioksida",
-    "wrong": ["Oksigen", "Nitrogen", "Hidrogen"],
+    "wrong": [
+      "Oksigen",
+      "Nitrogen",
+      "Hidrogen"
+    ],
     "explanation": "Tumbuhan menggunakan karbon dioksida dalam fotosintesis untuk menghasilkan oksigen dan glukosa.",
     "hint": "Gas ini dihasilkan saat manusia bernapas dan berkontribusi pada efek rumah kaca."
   },
   "q_nat_005": {
     "question": "Apa hewan darat tercepat?",
     "correct": "Cheetah",
-    "wrong": ["Singa", "Kijang", "Kuda"],
+    "wrong": [
+      "Singa",
+      "Kijang",
+      "Kuda"
+    ],
     "explanation": "Cheetah dapat mencapai kecepatan hingga 112 km/jam.",
     "hint": "Kucing besar Afrika ini memiliki bintik-bintik hitam dan garis air mata di wajahnya."
   },
   "q_nat_006": {
     "question": "Apa spesies hiu terbesar?",
     "correct": "Hiu Paus",
-    "wrong": ["Hiu Putih Besar", "Hiu Martil", "Hiu Harimau"],
+    "wrong": [
+      "Hiu Putih Besar",
+      "Hiu Martil",
+      "Hiu Harimau"
+    ],
     "hint": "Meskipun berukuran sangat besar, hiu ini adalah pemakan filter yang jinak dan hanya memakan plankton.",
     "explanation": "Hiu paus dapat mencapai panjang hingga 12 meter dan merupakan ikan terbesar di samudra."
   },
   "q_nat_007": {
     "question": "Burung apa yang bisa terbang mundur?",
     "correct": "Burung Kolibri",
-    "wrong": ["Burung Raja Udang", "Burung Layang-layang", "Burung Gereja"],
+    "wrong": [
+      "Burung Raja Udang",
+      "Burung Layang-layang",
+      "Burung Gereja"
+    ],
     "hint": "Burung kecil ini dapat mengepakkan sayapnya hingga 80 kali per detik dan menghisap nektar bunga.",
     "explanation": "Burung kolibri adalah satu-satunya burung yang dapat terbang diam di tempat dan terbang mundur berkat struktur sayap yang unik."
   },
   "q_nat_008": {
     "question": "Apa batu alam terkeras?",
     "correct": "Granit",
-    "wrong": ["Marmer", "Batu Kapur", "Batu Pasir"],
+    "wrong": [
+      "Marmer",
+      "Batu Kapur",
+      "Batu Pasir"
+    ],
     "hint": "Batu beku ini sering digunakan untuk permukaan dapur dan monumen.",
     "explanation": "Granit adalah salah satu batu alam terkeras, terbentuk dari magma yang mendingin jauh di dalam bumi."
   },
   "q_nat_009": {
     "question": "Berapa lama kecoa dapat hidup tanpa kepala?",
     "correct": "Sekitar satu minggu",
-    "wrong": ["Beberapa detik", "Sekitar satu jam", "Sekitar satu bulan"],
+    "wrong": [
+      "Beberapa detik",
+      "Sekitar satu jam",
+      "Sekitar satu bulan"
+    ],
     "hint": "Serangga ini bernapas melalui lubang-lubang kecil di tubuhnya, bukan melalui mulut.",
     "explanation": "Kecoa dapat hidup sekitar satu minggu tanpa kepala karena bernapas melalui spirakel di tubuhnya."
   },
   "q_nat_010": {
     "question": "Samudra mana yang paling dalam?",
     "correct": "Samudra Pasifik",
-    "wrong": ["Samudra Atlantik", "Samudra Hindia", "Samudra Selatan"],
+    "wrong": [
+      "Samudra Atlantik",
+      "Samudra Hindia",
+      "Samudra Selatan"
+    ],
     "hint": "Palung Mariana, titik terdalam di Bumi, terletak di samudra ini.",
     "explanation": "Samudra Pasifik memiliki Palung Mariana yang dalamnya sekitar 11.034 meter di Challenger Deep."
+  },
+  "q_nat_011": {
+    "question": "Satu-satunya mamalia yang bisa terbang sungguhan adalah?",
+    "correct": "Kelelawar",
+    "wrong": [
+      "Tupai terbang",
+      "Sugar glider",
+      "Colugo"
+    ],
+    "hint": "Hewan nokturnal ini menggunakan ekolokasi untuk navigasi dalam gelap.",
+    "explanation": "Kelelawar adalah satu-satunya mamalia yang bisa terbang sungguhan."
+  },
+  "q_nat_012": {
+    "question": "Berapa jumlah jantung gurita?",
+    "correct": "3",
+    "wrong": [
+      "1",
+      "2",
+      "4"
+    ],
+    "hint": "Dua jantung memompa darah ke insang, yang ketiga ke seluruh tubuh.",
+    "explanation": "Gurita memiliki tiga jantung."
   }
 }

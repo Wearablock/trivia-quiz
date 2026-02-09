@@ -2,71 +2,144 @@
   "q_art_001": {
     "question": "Qui a peint la Joconde ?",
     "correct": "Leonard de Vinci",
-    "wrong": ["Michel-Ange", "Raphael", "Botticelli"],
+    "wrong": [
+      "Michel-Ange",
+      "Raphael",
+      "Botticelli"
+    ],
     "explanation": "Leonard de Vinci a peint la Joconde entre 1503 et 1519.",
     "hint": "Ce genie italien de la Renaissance etait aussi inventeur et scientifique."
   },
   "q_art_002": {
     "question": "Quel compositeur a ecrit la 'Neuvieme Symphonie' ?",
     "correct": "Ludwig van Beethoven",
-    "wrong": ["Mozart", "Bach", "Chopin"],
+    "wrong": [
+      "Mozart",
+      "Bach",
+      "Chopin"
+    ],
     "explanation": "La Neuvieme Symphonie de Beethoven, achevee en 1824, comprend le celebre 'Hymne a la joie'.",
     "hint": "Ce compositeur allemand a continue a composer meme apres etre devenu sourd."
   },
   "q_art_003": {
     "question": "Dans quelle ville se trouve le musee du Louvre ?",
     "correct": "Paris",
-    "wrong": ["Londres", "Rome", "Madrid"],
+    "wrong": [
+      "Londres",
+      "Rome",
+      "Madrid"
+    ],
     "explanation": "Le Louvre a Paris est le plus grand musee d'art du monde.",
     "hint": "Ce musee est celebre pour sa pyramide de verre et abrite la Joconde."
   },
   "q_art_004": {
     "question": "Qui a ecrit 'Romeo et Juliette' ?",
     "correct": "William Shakespeare",
-    "wrong": ["Charles Dickens", "Jane Austen", "Oscar Wilde"],
+    "wrong": [
+      "Charles Dickens",
+      "Jane Austen",
+      "Oscar Wilde"
+    ],
     "explanation": "Shakespeare a ecrit Romeo et Juliette vers 1594-1596.",
     "hint": "Ce dramaturge anglais est ne a Stratford-upon-Avon et a ecrit au Globe Theatre."
   },
   "q_art_005": {
     "question": "A quel mouvement artistique Salvador Dali appartenait-il ?",
     "correct": "Surrealisme",
-    "wrong": ["Impressionnisme", "Cubisme", "Expressionnisme"],
+    "wrong": [
+      "Impressionnisme",
+      "Cubisme",
+      "Expressionnisme"
+    ],
     "explanation": "Dali etait une figure majeure du mouvement surrealiste, connu pour ses images saisissantes.",
     "hint": "Ce mouvement explore les reves et l'inconscient, avec des images oniriques et bizarres."
   },
   "q_art_006": {
     "question": "Qui a peint 'La Nuit etoilee' ?",
     "correct": "Vincent van Gogh",
-    "wrong": ["Claude Monet", "Paul Cezanne", "Edgar Degas"],
+    "wrong": [
+      "Claude Monet",
+      "Paul Cezanne",
+      "Edgar Degas"
+    ],
     "hint": "Ce peintre neerlandais s'est coupe une partie de l'oreille.",
     "explanation": "Van Gogh a peint La Nuit etoilee en 1889 lors de son sejour a l'asile de Saint-Remy-de-Provence."
   },
   "q_art_007": {
     "question": "Quel instrument de musique possede 88 touches ?",
     "correct": "Piano",
-    "wrong": ["Orgue", "Clavecin", "Accordeon"],
+    "wrong": [
+      "Orgue",
+      "Clavecin",
+      "Accordeon"
+    ],
     "hint": "Il possede des touches noires et blanches et a ete invente en Italie vers 1700.",
     "explanation": "Un piano moderne standard possede 52 touches blanches et 36 touches noires, soit 88 au total."
   },
   "q_art_008": {
     "question": "Qui a sculpte 'Le Penseur' ?",
     "correct": "Auguste Rodin",
-    "wrong": ["Donatello", "Le Bernin", "Henry Moore"],
+    "wrong": [
+      "Donatello",
+      "Le Bernin",
+      "Henry Moore"
+    ],
     "hint": "Ce sculpteur francais est souvent appele le pere de la sculpture moderne.",
     "explanation": "Rodin a cree Le Penseur en 1904, a l'origine comme partie d'une oeuvre plus grande appelee La Porte de l'Enfer."
   },
   "q_art_009": {
     "question": "Quel roman commence par 'Appelez-moi Ismael' ?",
     "correct": "Moby Dick",
-    "wrong": ["L'Ile au tresor", "Le Vieil Homme et la Mer", "Robinson Crusoe"],
+    "wrong": [
+      "L'Ile au tresor",
+      "Le Vieil Homme et la Mer",
+      "Robinson Crusoe"
+    ],
     "hint": "Ce roman raconte l'obsession d'un capitaine pour une baleine blanche.",
     "explanation": "Moby Dick d'Herman Melville, publie en 1851, commence par l'une des phrases les plus celebres de la litterature."
   },
   "q_art_010": {
     "question": "Qui a compose 'Les Quatre Saisons' ?",
     "correct": "Antonio Vivaldi",
-    "wrong": ["Jean-Sebastien Bach", "Georg Friedrich Haendel", "Franz Schubert"],
+    "wrong": [
+      "Jean-Sebastien Bach",
+      "Georg Friedrich Haendel",
+      "Franz Schubert"
+    ],
     "hint": "Ce compositeur baroque italien etait un pretre roux surnomme 'Le Pretre roux'.",
     "explanation": "Vivaldi a compose Les Quatre Saisons vers 1723, un ensemble de quatre concertos pour violon."
+  },
+  "q_art_011": {
+    "question": "Qui a peint 'La Jeune Fille à la perle' ?",
+    "correct": "Johannes Vermeer",
+    "wrong": [
+      "Rembrandt",
+      "Pierre Paul Rubens",
+      "Jan van Eyck"
+    ],
+    "hint": "Ce peintre de l'Âge d'or néerlandais était un maître de la lumière.",
+    "explanation": "Vermeer a peint cette œuvre vers 1665."
+  },
+  "q_art_012": {
+    "question": "Quel artiste est célèbre pour avoir peint des boîtes de soupe Campbell ?",
+    "correct": "Andy Warhol",
+    "wrong": [
+      "Roy Lichtenstein",
+      "Jasper Johns",
+      "Jean-Michel Basquiat"
+    ],
+    "hint": "Il était le leader du mouvement Pop Art et dirigeait un atelier appelé 'The Factory'.",
+    "explanation": "Andy Warhol a créé 'Campbell's Soup Cans' en 1962."
+  },
+  "q_art_013": {
+    "question": "Comment s'appelle l'opéra de Bizet mettant en scène une gitane espagnole ?",
+    "correct": "Carmen",
+    "wrong": [
+      "La Traviata",
+      "Aïda",
+      "Madame Butterfly"
+    ],
+    "hint": "L'histoire se déroule à Séville et comprend le célèbre air 'Habanera'.",
+    "explanation": "Carmen de Georges Bizet a été créé en 1875."
   }
 }

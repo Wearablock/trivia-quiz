@@ -2,71 +2,144 @@
   "q_art_001": {
     "question": "Siapa yang melukis Mona Lisa?",
     "correct": "Leonardo da Vinci",
-    "wrong": ["Michelangelo", "Raphael", "Botticelli"],
+    "wrong": [
+      "Michelangelo",
+      "Raphael",
+      "Botticelli"
+    ],
     "explanation": "Leonardo da Vinci melukis Mona Lisa antara tahun 1503 dan 1519.",
     "hint": "Seniman Italia dari masa Renaisans ini juga merancang mesin terbang dan menggambar Manusia Vitruvian."
   },
   "q_art_002": {
     "question": "Komposer mana yang menulis 'Simfoni Kesembilan'?",
     "correct": "Ludwig van Beethoven",
-    "wrong": ["Mozart", "Bach", "Chopin"],
+    "wrong": [
+      "Mozart",
+      "Bach",
+      "Chopin"
+    ],
     "explanation": "Simfoni Kesembilan Beethoven, yang diselesaikan pada tahun 1824, mencakup 'Ode to Joy' yang terkenal.",
     "hint": "Komposer Jerman ini kehilangan pendengarannya namun tetap menciptakan karya agung."
   },
   "q_art_003": {
     "question": "Di kota mana Museum Louvre berada?",
     "correct": "Paris",
-    "wrong": ["London", "Roma", "Madrid"],
+    "wrong": [
+      "London",
+      "Roma",
+      "Madrid"
+    ],
     "explanation": "Louvre di Paris adalah museum seni terbesar di dunia.",
     "hint": "Museum ini memiliki piramida kaca yang ikonik dan terletak di ibu kota Prancis."
   },
   "q_art_004": {
     "question": "Siapa yang menulis 'Romeo dan Juliet'?",
     "correct": "William Shakespeare",
-    "wrong": ["Charles Dickens", "Jane Austen", "Oscar Wilde"],
+    "wrong": [
+      "Charles Dickens",
+      "Jane Austen",
+      "Oscar Wilde"
+    ],
     "explanation": "Shakespeare menulis Romeo dan Juliet sekitar tahun 1594-1596.",
     "hint": "Penulis drama Inggris ini berasal dari Stratford-upon-Avon dan dijuluki 'Bard of Avon'."
   },
   "q_art_005": {
     "question": "Aliran seni apa yang dianut Salvador Dali?",
     "correct": "Surealisme",
-    "wrong": ["Impresionisme", "Kubisme", "Ekspresionisme"],
+    "wrong": [
+      "Impresionisme",
+      "Kubisme",
+      "Ekspresionisme"
+    ],
     "explanation": "Dali adalah tokoh terkemuka dalam gerakan Surealis yang dikenal dengan citranya yang mencolok.",
     "hint": "Aliran ini menggambarkan dunia mimpi dan alam bawah sadar, seperti dalam lukisan 'Jam Meleleh'."
   },
   "q_art_006": {
     "question": "Siapa yang melukis 'Malam Berbintang'?",
     "correct": "Vincent van Gogh",
-    "wrong": ["Claude Monet", "Paul Cézanne", "Paul Gauguin"],
+    "wrong": [
+      "Claude Monet",
+      "Paul Cézanne",
+      "Paul Gauguin"
+    ],
     "explanation": "Van Gogh melukis 'Malam Berbintang' pada tahun 1889 saat berada di rumah sakit jiwa Saint-Rémy-de-Provence.",
     "hint": "Pelukis pasca-Impresionis asal Belanda ini terkenal karena memotong telinganya sendiri."
   },
   "q_art_007": {
     "question": "Berapa jumlah tuts pada piano standar?",
     "correct": "88",
-    "wrong": ["76", "92", "64"],
+    "wrong": [
+      "76",
+      "92",
+      "64"
+    ],
     "explanation": "Piano modern standar memiliki 88 tuts: 52 tuts putih dan 36 tuts hitam.",
     "hint": "Jumlah ini terdiri dari 52 tuts putih dan 36 tuts hitam, mencakup lebih dari 7 oktaf."
   },
   "q_art_008": {
     "question": "Siapa yang menciptakan patung 'Sang Pemikir'?",
     "correct": "Auguste Rodin",
-    "wrong": ["Michelangelo", "Donatello", "Bernini"],
+    "wrong": [
+      "Michelangelo",
+      "Donatello",
+      "Bernini"
+    ],
     "explanation": "Rodin menciptakan 'Sang Pemikir' sekitar tahun 1880, awalnya sebagai bagian dari karya 'Gerbang Neraka'.",
     "hint": "Pematung Prancis ini dianggap sebagai bapak seni pahat modern."
   },
   "q_art_009": {
     "question": "Kalimat pembuka terkenal 'Panggil aku Ishmael' berasal dari novel apa?",
     "correct": "Moby Dick",
-    "wrong": ["Robinson Crusoe", "Pulau Harta Karun", "Orang Tua dan Laut"],
+    "wrong": [
+      "Robinson Crusoe",
+      "Pulau Harta Karun",
+      "Orang Tua dan Laut"
+    ],
     "explanation": "'Moby Dick' ditulis oleh Herman Melville pada tahun 1851, menceritakan perburuan seekor paus putih raksasa.",
     "hint": "Novel ini mengisahkan perjalanan Kapten Ahab memburu seekor paus putih raksasa."
   },
   "q_art_010": {
     "question": "Siapa yang menggubah empat konserto biola 'Empat Musim'?",
     "correct": "Antonio Vivaldi",
-    "wrong": ["Johann Sebastian Bach", "Wolfgang Amadeus Mozart", "George Frideric Handel"],
+    "wrong": [
+      "Johann Sebastian Bach",
+      "Wolfgang Amadeus Mozart",
+      "George Frideric Handel"
+    ],
     "explanation": "'Empat Musim' digubah oleh Vivaldi pada tahun 1723, menjadi salah satu karya musik klasik yang paling dikenal.",
     "hint": "Komposer dan pemain biola Italia era Barok ini dijuluki 'Pendeta Merah' karena rambut merahnya."
+  },
+  "q_art_011": {
+    "question": "Siapa yang melukis 'Gadis dengan Anting Mutiara'?",
+    "correct": "Johannes Vermeer",
+    "wrong": [
+      "Rembrandt",
+      "Peter Paul Rubens",
+      "Jan van Eyck"
+    ],
+    "hint": "Pelukis Zaman Keemasan Belanda ini ahli dalam penggunaan cahaya.",
+    "explanation": "Vermeer melukis karya ini sekitar tahun 1665."
+  },
+  "q_art_012": {
+    "question": "Seniman mana yang terkenal melukis kaleng sup Campbell?",
+    "correct": "Andy Warhol",
+    "wrong": [
+      "Roy Lichtenstein",
+      "Jasper Johns",
+      "Jean-Michel Basquiat"
+    ],
+    "hint": "Ia pemimpin gerakan Pop Art dan mengelola studio bernama 'The Factory'.",
+    "explanation": "Andy Warhol menciptakan 'Kaleng Sup Campbell' pada 1962."
+  },
+  "q_art_013": {
+    "question": "Apa nama opera Bizet yang menampilkan gadis gipsi Spanyol?",
+    "correct": "Carmen",
+    "wrong": [
+      "La Traviata",
+      "Aida",
+      "Madama Butterfly"
+    ],
+    "hint": "Ceritanya berlatar di Sevilla dan berisi aria 'Habanera' yang terkenal.",
+    "explanation": "Carmen karya Georges Bizet ditampilkan pertama kali pada 1875."
   }
 }

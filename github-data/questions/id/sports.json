@@ -2,71 +2,144 @@
   "q_spo_001": {
     "question": "Berapa jumlah pemain dalam satu tim sepak bola di lapangan?",
     "correct": "11",
-    "wrong": ["9", "10", "12"],
+    "wrong": [
+      "9",
+      "10",
+      "12"
+    ],
     "explanation": "Setiap tim sepak bola memainkan 11 pemain termasuk penjaga gawang.",
     "hint": "Jumlahnya sama dengan angka di jersey yang sering dipakai striker legendaris."
   },
   "q_spo_002": {
     "question": "Dalam olahraga apa Anda melakukan slam dunk?",
     "correct": "Bola Basket",
-    "wrong": ["Bola Voli", "Tenis", "Bisbol"],
+    "wrong": [
+      "Bola Voli",
+      "Tenis",
+      "Bisbol"
+    ],
     "explanation": "Slam dunk adalah gerakan bola basket di mana pemain melompat dan mencetak gol dengan memasukkan bola langsung ke dalam ring.",
     "hint": "Olahraga ini diciptakan oleh James Naismith dan dimainkan dengan ring setinggi 3,05 meter."
   },
   "q_spo_003": {
     "question": "Negara mana yang memenangkan gelar Piala Dunia FIFA paling banyak?",
     "correct": "Brasil",
-    "wrong": ["Jerman", "Italia", "Argentina"],
+    "wrong": [
+      "Jerman",
+      "Italia",
+      "Argentina"
+    ],
     "explanation": "Brasil telah memenangkan Piala Dunia FIFA 5 kali (1958, 1962, 1970, 1994, 2002).",
     "hint": "Negara Amerika Selatan ini terkenal dengan pemain legendaris seperti Pele dan jersey kuning-hijaunya."
   },
   "q_spo_004": {
     "question": "Berapa skor tertinggi yang mungkin dalam bowling 10 pin?",
     "correct": "300",
-    "wrong": ["200", "250", "350"],
+    "wrong": [
+      "200",
+      "250",
+      "350"
+    ],
     "explanation": "Permainan sempurna dalam bowling mencetak 300 poin dengan 12 strike berturut-turut.",
     "hint": "Skor ini dicapai dengan menjatuhkan semua pin di setiap lemparan selama 10 frame."
   },
   "q_spo_005": {
     "question": "Turnamen tenis Grand Slam mana yang dimainkan di lapangan tanah liat?",
     "correct": "Prancis Terbuka",
-    "wrong": ["Wimbledon", "AS Terbuka", "Australia Terbuka"],
+    "wrong": [
+      "Wimbledon",
+      "AS Terbuka",
+      "Australia Terbuka"
+    ],
     "explanation": "Prancis Terbuka di Roland Garros adalah satu-satunya Grand Slam yang dimainkan di tanah liat.",
     "hint": "Turnamen ini diadakan di Paris dan permukaan merahnya memperlambat permainan bola."
   },
   "q_spo_006": {
     "question": "Berapa jumlah lingkaran pada bendera Olimpiade?",
     "correct": "5",
-    "wrong": ["4", "6", "7"],
+    "wrong": [
+      "4",
+      "6",
+      "7"
+    ],
     "hint": "Setiap lingkaran mewakili satu benua yang berpartisipasi dalam Olimpiade.",
     "explanation": "Lima lingkaran Olimpiade mewakili 5 benua: Afrika, Amerika, Asia, Eropa, dan Oseania."
   },
   "q_spo_007": {
     "question": "Dalam olahraga apa 'birdie' berarti satu pukulan di bawah par?",
     "correct": "Golf",
-    "wrong": ["Bulu Tangkis", "Tenis", "Kriket"],
+    "wrong": [
+      "Bulu Tangkis",
+      "Tenis",
+      "Kriket"
+    ],
     "hint": "Olahraga ini dimainkan di lapangan dengan 18 lubang, menggunakan tongkat dan bola kecil.",
     "explanation": "Dalam golf, birdie berarti menyelesaikan satu lubang dengan jumlah pukulan satu kurang dari par."
   },
   "q_spo_008": {
     "question": "Negara mana yang menjadi tempat kelahiran olahraga kriket?",
     "correct": "Inggris",
-    "wrong": ["India", "Australia", "Afrika Selatan"],
+    "wrong": [
+      "India",
+      "Australia",
+      "Afrika Selatan"
+    ],
     "hint": "Olahraga ini sudah ada sejak abad ke-16 dan merupakan olahraga musim panas nasional negara ini.",
     "explanation": "Kriket berasal dari Inggris pada akhir abad ke-16 dan menyebar melalui Kekaisaran Britania."
   },
   "q_spo_009": {
     "question": "Berapa jarak lari maraton dalam kilometer?",
     "correct": "42,195 km",
-    "wrong": ["40 km", "45 km", "50 km"],
+    "wrong": [
+      "40 km",
+      "45 km",
+      "50 km"
+    ],
     "hint": "Jarak ini distandarisasi pada Olimpiade London tahun 1908.",
     "explanation": "Maraton berjarak 42,195 km (26,2 mil), distandarisasi pada Olimpiade London tahun 1908."
   },
   "q_spo_010": {
     "question": "Olahraga apa yang menggunakan lapangan terbesar?",
     "correct": "Polo",
-    "wrong": ["Sepak Bola", "Rugbi", "American Football"],
+    "wrong": [
+      "Sepak Bola",
+      "Rugbi",
+      "American Football"
+    ],
     "hint": "Olahraga ini dimainkan di atas kuda, dengan lapangan yang bisa sepanjang 275 meter.",
     "explanation": "Lapangan polo adalah lapangan terbesar dalam olahraga terorganisir, dengan ukuran maksimal 275 x 180 meter."
+  },
+  "q_spo_011": {
+    "question": "Dalam olahraga apa 'love' berarti nol poin?",
+    "correct": "Tenis",
+    "wrong": [
+      "Bulu tangkis",
+      "Squash",
+      "Tenis meja"
+    ],
+    "hint": "Olahraga ini menggunakan sistem skor unik: 15, 30, 40.",
+    "explanation": "Dalam tenis, 'love' berarti nol poin."
+  },
+  "q_spo_012": {
+    "question": "Apa olahraga nasional Jepang?",
+    "correct": "Sumo",
+    "wrong": [
+      "Judo",
+      "Karate",
+      "Kendo"
+    ],
+    "hint": "Pegulat berusaha mendorong lawan keluar dari ring bundar.",
+    "explanation": "Sumo adalah olahraga nasional Jepang dengan sejarah lebih dari 1.500 tahun."
+  },
+  "q_spo_013": {
+    "question": "Berapa pemain per tim di lapangan voli?",
+    "correct": "6",
+    "wrong": [
+      "5",
+      "7",
+      "8"
+    ],
+    "hint": "Pemain berputar posisi setiap mendapat giliran servis.",
+    "explanation": "Setiap tim voli memiliki 6 pemain di lapangan."
   }
 }

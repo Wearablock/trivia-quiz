@@ -68,5 +68,26 @@
     "wrong": ["Lentils", "White beans", "Fava beans"],
     "hint": "This Middle Eastern dip is also made with tahini, lemon juice, and garlic.",
     "explanation": "Hummus is a Levantine dip made primarily from cooked and mashed chickpeas blended with tahini."
+  },
+  "q_foo_011": {
+    "question": "What is the world's most expensive spice by weight?",
+    "correct": "Saffron",
+    "wrong": ["Vanilla", "Cardamom", "Cinnamon"],
+    "hint": "It comes from the stigmas of a crocus flower and gives food a golden-yellow color.",
+    "explanation": "Saffron can cost over $5,000 per pound because each flower produces only three tiny stigmas, all harvested by hand."
+  },
+  "q_foo_012": {
+    "question": "Which country is the origin of the croissant?",
+    "correct": "Austria",
+    "wrong": ["France", "Italy", "Belgium"],
+    "hint": "Its crescent shape was inspired by the Ottoman Empire's emblem after a famous siege.",
+    "explanation": "The croissant's ancestor, the kipferl, originated in Austria. It was later adapted by French bakers into the flaky pastry we know today."
+  },
+  "q_foo_013": {
+    "question": "What type of food is Brie?",
+    "correct": "Cheese",
+    "wrong": ["Bread", "Pastry", "Sausage"],
+    "hint": "This soft, creamy product is named after a region in northern France.",
+    "explanation": "Brie is a soft cow's-milk cheese named after the Brie region of France, known for its edible white rind."
   }
 }
