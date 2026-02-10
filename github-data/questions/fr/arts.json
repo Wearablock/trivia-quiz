@@ -141,5 +141,38 @@
     ],
     "hint": "L'histoire se déroule à Séville et comprend le célèbre air 'Habanera'.",
     "explanation": "Carmen de Georges Bizet a été créé en 1875."
+  },
+  "q_art_014": {
+    "question": "Quel ballet de Tchaïkovski met en scène une princesse maudite transformée en cygne ?",
+    "correct": "Le Lac des cygnes",
+    "wrong": [
+      "Casse-Noisette",
+      "La Belle au bois dormant",
+      "Giselle"
+    ],
+    "hint": "Ce ballet a été créé à Moscou en 1877 et est l'un des ballets les plus représentés au monde.",
+    "explanation": "Le Lac des cygnes, composé par Tchaïkovski entre 1875 et 1876, raconte l'histoire de la princesse Odette, transformée en cygne par un sorcier maléfique."
+  },
+  "q_art_015": {
+    "question": "Qui a écrit le roman dystopique « 1984 » ?",
+    "correct": "George Orwell",
+    "wrong": [
+      "Aldous Huxley",
+      "Ray Bradbury",
+      "H.G. Wells"
+    ],
+    "hint": "Cet écrivain britannique a également écrit « La Ferme des animaux » et a combattu pendant la guerre civile espagnole.",
+    "explanation": "George Orwell a publié « 1984 » en 1949, décrivant une société totalitaire sous la surveillance permanente de Big Brother."
+  },
+  "q_art_016": {
+    "question": "Quelle artiste mexicaine est célèbre pour ses autoportraits vibrants inspirés de l'art populaire ?",
+    "correct": "Frida Kahlo",
+    "wrong": [
+      "Diego Rivera",
+      "Remedios Varo",
+      "Rufino Tamayo"
+    ],
+    "hint": "Elle était mariée au muraliste Diego Rivera et a subi un grave accident de bus dans sa jeunesse.",
+    "explanation": "Frida Kahlo a créé 55 autoportraits reflétant sa douleur et son identité, devenant une icône de l'art mexicain et du féminisme."
   }
 }

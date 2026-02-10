@@ -130,5 +130,38 @@
     ],
     "hint": "L'Apple II sorti en 1977 fut l'un des premiers micro-ordinateurs produits en masse.",
     "explanation": "L'Apple II d'Apple (1977) a contribué à lancer la révolution du PC."
+  },
+  "q_tec_013": {
+    "question": "Que signifie « IA » en informatique ?",
+    "correct": "Intelligence Artificielle",
+    "wrong": [
+      "Interface Automatisée",
+      "Intégration Avancée",
+      "Entrée Analogique"
+    ],
+    "hint": "Ce domaine vise à créer des machines capables d'apprendre, de raisonner et de prendre des décisions comme les humains.",
+    "explanation": "L'Intelligence Artificielle (IA) est une branche de l'informatique axée sur la création de systèmes capables d'effectuer des tâches nécessitant normalement l'intelligence humaine."
+  },
+  "q_tec_014": {
+    "question": "Quelle entreprise a développé ChatGPT ?",
+    "correct": "OpenAI",
+    "wrong": [
+      "Google",
+      "Meta",
+      "Microsoft"
+    ],
+    "hint": "Ce laboratoire de recherche en IA a été cofondé par Sam Altman et a lancé ChatGPT en novembre 2022.",
+    "explanation": "OpenAI a développé ChatGPT, un chatbot basé sur un grand modèle de langage lancé en novembre 2022, devenu l'application grand public à la croissance la plus rapide de l'histoire."
+  },
+  "q_tec_015": {
+    "question": "Que signifie « SSD » en stockage informatique ?",
+    "correct": "Disque à état solide (Solid State Drive)",
+    "wrong": [
+      "Disque super rapide",
+      "Dispositif de stockage système",
+      "Disque à signal série"
+    ],
+    "hint": "Contrairement aux disques durs traditionnels, ce stockage n'a pas de pièces mobiles et est beaucoup plus rapide.",
+    "explanation": "Le SSD (Solid State Drive) utilise de la mémoire flash sans pièces mécaniques, offrant des vitesses de lecture/écriture plus rapides et une meilleure durabilité que les HDD traditionnels."
   }
 }

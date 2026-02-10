@@ -141,5 +141,38 @@
     ],
     "hint": "Este producto suave y cremoso lleva el nombre de una región del norte de Francia.",
     "explanation": "El Brie es un queso blando de leche de vaca de la región francesa de Brie."
+  },
+  "q_foo_014": {
+    "question": "¿Cuál es la bebida alcohólica tradicional japonesa hecha de arroz fermentado?",
+    "correct": "Sake",
+    "wrong": [
+      "Soju",
+      "Shochu",
+      "Mirin"
+    ],
+    "hint": "Se sirve caliente o frío y desempeña un papel en las ceremonias sintoístas.",
+    "explanation": "El sake es un vino de arroz japonés elaborado por fermentación de arroz pulido, con una historia de más de 2.000 años."
+  },
+  "q_foo_015": {
+    "question": "¿Qué fruto seco es el ingrediente principal del mazapán?",
+    "correct": "Almendra",
+    "wrong": [
+      "Nuez",
+      "Anacardo",
+      "Pistacho"
+    ],
+    "hint": "Este fruto seco también se usa para hacer una popular leche vegetal.",
+    "explanation": "El mazapán es un dulce hecho principalmente de almendras molidas y azúcar, ampliamente utilizado en la repostería europea."
+  },
+  "q_foo_016": {
+    "question": "¿En qué país se originó el pad thai?",
+    "correct": "Tailandia",
+    "wrong": [
+      "Vietnam",
+      "Camboya",
+      "Malasia"
+    ],
+    "hint": "Este plato de fideos salteados fue promovido como plato nacional en la década de 1930.",
+    "explanation": "El pad thai se popularizó en Tailandia durante los años 1930-40 como parte de una campaña de identidad nacional del primer ministro Plaek Phibunsongkhram."
   }
 }

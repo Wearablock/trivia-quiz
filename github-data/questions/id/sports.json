@@ -141,5 +141,27 @@
     ],
     "hint": "Pemain berputar posisi setiap mendapat giliran servis.",
     "explanation": "Setiap tim voli memiliki 6 pemain di lapangan."
+  },
+  "q_spo_014": {
+    "question": "Di kota mana Olimpiade modern pertama diadakan pada tahun 1896?",
+    "correct": "Athena",
+    "wrong": [
+      "Paris",
+      "London",
+      "Roma"
+    ],
+    "hint": "Kota ini adalah ibu kota Yunani, tempat kelahiran Olimpiade kuno.",
+    "explanation": "Olimpiade modern pertama diadakan di Athena, Yunani, pada tahun 1896, diselenggarakan oleh Pierre de Coubertin dan IOC."
+  },
+  "q_spo_015": {
+    "question": "Dalam bisbol, berapa strike yang menghasilkan satu out?",
+    "correct": "3",
+    "wrong": [
+      "2",
+      "4",
+      "5"
+    ],
+    "hint": "Aturan ini adalah salah satu yang paling dasar dalam olahraga, sering disebut 'tiga strike dan kamu keluar'.",
+    "explanation": "Dalam bisbol, pemukul dinyatakan out setelah mengumpulkan tiga strike, aturan fundamental sejak awal olahraga ini."
   }
 }

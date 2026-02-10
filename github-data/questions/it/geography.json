@@ -141,5 +141,27 @@
     ],
     "hint": "Questo paese è una penisola che si protende nel Mediterraneo.",
     "explanation": "La caratteristica forma a stivale dell'Italia è uno dei contorni nazionali più riconoscibili al mondo."
+  },
+  "q_geo_013": {
+    "question": "Qual è la catena montuosa più lunga del mondo?",
+    "correct": "Le Ande",
+    "wrong": [
+      "L'Himalaya",
+      "Le Montagne Rocciose",
+      "Le Alpi"
+    ],
+    "hint": "Questa catena montuosa si estende lungo la costa occidentale del Sud America.",
+    "explanation": "Le Ande si estendono per oltre 7.000 km attraverso sette paesi sudamericani, rendendola la più lunga catena montuosa continentale."
+  },
+  "q_geo_014": {
+    "question": "Quale paese ha il maggior numero di piramidi al mondo?",
+    "correct": "Sudan",
+    "wrong": [
+      "Egitto",
+      "Messico",
+      "Perù"
+    ],
+    "hint": "Questo paese africano ha oltre 200 piramidi, più del suo famoso vicino del nord.",
+    "explanation": "Il Sudan ha circa 255 piramidi, costruite dagli antichi regni nubiani di Kush, rispetto alle circa 138 dell'Egitto."
   }
 }

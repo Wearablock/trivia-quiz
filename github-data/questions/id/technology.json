@@ -130,5 +130,38 @@
     ],
     "hint": "Apple II tahun 1977 adalah salah satu mikrokomputer produksi massal pertama.",
     "explanation": "Apple II (1977) membantu memulai revolusi PC."
+  },
+  "q_tec_013": {
+    "question": "Apa kepanjangan 'AI' dalam komputasi?",
+    "correct": "Kecerdasan Buatan (Artificial Intelligence)",
+    "wrong": [
+      "Antarmuka Otomatis",
+      "Integrasi Lanjutan",
+      "Input Analog"
+    ],
+    "hint": "Bidang ini bertujuan menciptakan mesin yang dapat belajar, bernalar, dan membuat keputusan seperti manusia.",
+    "explanation": "Kecerdasan Buatan (AI) adalah cabang ilmu komputer yang berfokus pada pembuatan sistem yang mampu melakukan tugas yang biasanya memerlukan kecerdasan manusia."
+  },
+  "q_tec_014": {
+    "question": "Perusahaan mana yang mengembangkan ChatGPT?",
+    "correct": "OpenAI",
+    "wrong": [
+      "Google",
+      "Meta",
+      "Microsoft"
+    ],
+    "hint": "Lab riset AI ini ikut didirikan oleh Sam Altman dan meluncurkan ChatGPT pada November 2022.",
+    "explanation": "OpenAI mengembangkan ChatGPT, chatbot model bahasa besar yang diluncurkan pada November 2022 yang menjadi aplikasi konsumen dengan pertumbuhan tercepat dalam sejarah."
+  },
+  "q_tec_015": {
+    "question": "Apa kepanjangan 'SSD' dalam penyimpanan komputer?",
+    "correct": "Solid State Drive",
+    "wrong": [
+      "Super Speed Disk",
+      "System Storage Device",
+      "Serial Signal Drive"
+    ],
+    "hint": "Berbeda dengan hard drive tradisional, penyimpanan ini tidak memiliki bagian yang bergerak dan jauh lebih cepat.",
+    "explanation": "SSD (Solid State Drive) menggunakan memori flash tanpa komponen mekanis, menawarkan kecepatan baca/tulis lebih cepat dan daya tahan lebih tinggi dibandingkan HDD tradisional."
   }
 }

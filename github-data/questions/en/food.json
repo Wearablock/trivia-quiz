@@ -2,92 +2,177 @@
   "q_foo_001": {
     "question": "Which country is the origin of sushi?",
     "correct": "Japan",
-    "wrong": ["China", "Korea", "Thailand"],
+    "wrong": [
+      "China",
+      "Korea",
+      "Thailand"
+    ],
     "hint": "This country is also famous for ramen, tempura, and sake.",
     "explanation": "Sushi originated in Japan, with early forms dating back to the 8th century."
   },
   "q_foo_002": {
     "question": "What is the main ingredient in guacamole?",
     "correct": "Avocado",
-    "wrong": ["Tomato", "Pepper", "Onion"],
+    "wrong": [
+      "Tomato",
+      "Pepper",
+      "Onion"
+    ],
     "hint": "This green fruit is also called 'alligator pear'.",
     "explanation": "Guacamole is a Mexican dip made primarily from mashed avocados."
   },
   "q_foo_003": {
     "question": "Which vitamin is found abundantly in citrus fruits?",
     "correct": "Vitamin C",
-    "wrong": ["Vitamin A", "Vitamin D", "Vitamin B12"],
+    "wrong": [
+      "Vitamin A",
+      "Vitamin D",
+      "Vitamin B12"
+    ],
     "hint": "Sailors ate citrus fruits to prevent scurvy.",
     "explanation": "Citrus fruits like oranges and lemons are rich sources of Vitamin C."
   },
   "q_foo_004": {
     "question": "What type of pasta is shaped like small rice grains?",
     "correct": "Orzo",
-    "wrong": ["Penne", "Fusilli", "Farfalle"],
+    "wrong": [
+      "Penne",
+      "Fusilli",
+      "Farfalle"
+    ],
     "hint": "Its Italian name means 'barley' and it's often used in soups.",
     "explanation": "Orzo is a rice-shaped pasta often used in soups and salads."
   },
   "q_foo_005": {
     "question": "Which spice gives curry its yellow color?",
     "correct": "Turmeric",
-    "wrong": ["Paprika", "Cumin", "Coriander"],
+    "wrong": [
+      "Paprika",
+      "Cumin",
+      "Coriander"
+    ],
     "hint": "This root spice contains curcumin and is also used in traditional medicine.",
     "explanation": "Turmeric contains curcumin, which gives curry its distinctive yellow color."
   },
   "q_foo_006": {
     "question": "What is the most consumed beverage in the world after water?",
     "correct": "Tea",
-    "wrong": ["Coffee", "Beer", "Milk"],
+    "wrong": [
+      "Coffee",
+      "Beer",
+      "Milk"
+    ],
     "hint": "This drink originated in China thousands of years ago and comes in green, black, and white varieties.",
     "explanation": "Tea is the most widely consumed beverage after water, with origins in China dating back to 2737 BCE."
   },
   "q_foo_007": {
     "question": "Which country is the largest producer of coffee?",
     "correct": "Brazil",
-    "wrong": ["Colombia", "Ethiopia", "Vietnam"],
+    "wrong": [
+      "Colombia",
+      "Ethiopia",
+      "Vietnam"
+    ],
     "hint": "This South American country is also famous for samba and carnival.",
     "explanation": "Brazil has been the world's largest coffee producer for over 150 years, growing about a third of the world's supply."
   },
   "q_foo_008": {
     "question": "What is wasabi traditionally made from?",
     "correct": "A plant root",
-    "wrong": ["Green chili peppers", "Mustard seeds", "Horseradish and food coloring"],
+    "wrong": [
+      "Green chili peppers",
+      "Mustard seeds",
+      "Horseradish and food coloring"
+    ],
     "hint": "Real wasabi is extremely expensive and must be freshly grated from a rhizome.",
     "explanation": "True wasabi is made from the grated rhizome of the Wasabia japonica plant, though most restaurant wasabi is actually colored horseradish."
   },
   "q_foo_009": {
     "question": "Which fruit is known as the 'king of fruits' in Southeast Asia?",
     "correct": "Durian",
-    "wrong": ["Mango", "Jackfruit", "Papaya"],
+    "wrong": [
+      "Mango",
+      "Jackfruit",
+      "Papaya"
+    ],
     "hint": "This fruit is famous for its strong smell and is banned in many hotels and public transport.",
     "explanation": "Durian is called the king of fruits in Southeast Asia despite its pungent odor that divides opinion."
   },
   "q_foo_010": {
     "question": "What is the main ingredient in hummus?",
     "correct": "Chickpeas",
-    "wrong": ["Lentils", "White beans", "Fava beans"],
+    "wrong": [
+      "Lentils",
+      "White beans",
+      "Fava beans"
+    ],
     "hint": "This Middle Eastern dip is also made with tahini, lemon juice, and garlic.",
     "explanation": "Hummus is a Levantine dip made primarily from cooked and mashed chickpeas blended with tahini."
   },
   "q_foo_011": {
     "question": "What is the world's most expensive spice by weight?",
     "correct": "Saffron",
-    "wrong": ["Vanilla", "Cardamom", "Cinnamon"],
+    "wrong": [
+      "Vanilla",
+      "Cardamom",
+      "Cinnamon"
+    ],
     "hint": "It comes from the stigmas of a crocus flower and gives food a golden-yellow color.",
     "explanation": "Saffron can cost over $5,000 per pound because each flower produces only three tiny stigmas, all harvested by hand."
   },
   "q_foo_012": {
     "question": "Which country is the origin of the croissant?",
     "correct": "Austria",
-    "wrong": ["France", "Italy", "Belgium"],
+    "wrong": [
+      "France",
+      "Italy",
+      "Belgium"
+    ],
     "hint": "Its crescent shape was inspired by the Ottoman Empire's emblem after a famous siege.",
     "explanation": "The croissant's ancestor, the kipferl, originated in Austria. It was later adapted by French bakers into the flaky pastry we know today."
   },
   "q_foo_013": {
     "question": "What type of food is Brie?",
     "correct": "Cheese",
-    "wrong": ["Bread", "Pastry", "Sausage"],
+    "wrong": [
+      "Bread",
+      "Pastry",
+      "Sausage"
+    ],
     "hint": "This soft, creamy product is named after a region in northern France.",
     "explanation": "Brie is a soft cow's-milk cheese named after the Brie region of France, known for its edible white rind."
+  },
+  "q_foo_014": {
+    "question": "What is the traditional Japanese alcoholic drink made from fermented rice?",
+    "correct": "Sake",
+    "wrong": [
+      "Soju",
+      "Shochu",
+      "Mirin"
+    ],
+    "hint": "It is often served warm or cold and plays a role in Shinto ceremonies.",
+    "explanation": "Sake is a Japanese rice wine brewed by fermenting polished rice, with a history spanning over 2,000 years."
+  },
+  "q_foo_015": {
+    "question": "Which nut is the main ingredient in marzipan?",
+    "correct": "Almond",
+    "wrong": [
+      "Walnut",
+      "Cashew",
+      "Pistachio"
+    ],
+    "hint": "This nut is also used to make a popular plant-based milk.",
+    "explanation": "Marzipan is a confection made primarily from ground almonds and sugar, widely used in European pastries and cakes."
+  },
+  "q_foo_016": {
+    "question": "In which country did pad thai originate?",
+    "correct": "Thailand",
+    "wrong": [
+      "Vietnam",
+      "Cambodia",
+      "Malaysia"
+    ],
+    "hint": "This stir-fried noodle dish was promoted as a national dish in the 1930s.",
+    "explanation": "Pad thai was popularized in Thailand during the 1930s-40s as part of a national identity campaign by Prime Minister Plaek Phibunsongkhram."
   }
 }

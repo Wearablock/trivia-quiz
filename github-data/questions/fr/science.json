@@ -141,5 +141,38 @@
     ],
     "hint": "Ce symbole vient du latin 'ferrum'.",
     "explanation": "Fe signifie fer, du latin 'ferrum'."
+  },
+  "q_sci_013": {
+    "question": "Quel est l'élément le plus abondant dans l'univers ?",
+    "correct": "Hydrogène",
+    "wrong": [
+      "Hélium",
+      "Oxygène",
+      "Carbone"
+    ],
+    "hint": "Cet élément constitue environ 75 % de toute la matière normale et est le plus léger.",
+    "explanation": "L'hydrogène représente environ 75 % de toute la masse baryonique de l'univers et est le combustible de la fusion stellaire."
+  },
+  "q_sci_014": {
+    "question": "Qui a proposé la théorie de la relativité générale ?",
+    "correct": "Albert Einstein",
+    "wrong": [
+      "Isaac Newton",
+      "Niels Bohr",
+      "Max Planck"
+    ],
+    "hint": "Ce physicien a publié la théorie en 1915, décrivant la gravité comme la courbure de l'espace-temps.",
+    "explanation": "Albert Einstein a publié sa théorie de la relativité générale en 1915, révolutionnant notre compréhension de la gravité, de l'espace et du temps."
+  },
+  "q_sci_015": {
+    "question": "Quelle est la valeur du pH de l'eau pure ?",
+    "correct": "7",
+    "wrong": [
+      "0",
+      "5",
+      "14"
+    ],
+    "hint": "Cette valeur est considérée comme neutre, ni acide ni basique.",
+    "explanation": "L'eau pure a un pH de 7, le point neutre sur l'échelle de pH allant de 0 (le plus acide) à 14 (le plus basique)."
   }
 }

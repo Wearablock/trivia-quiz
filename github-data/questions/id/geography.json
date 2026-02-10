@@ -141,5 +141,27 @@
     ],
     "hint": "Negara ini adalah semenanjung yang menjorok ke Laut Mediterania.",
     "explanation": "Bentuk sepatu bot Italia adalah salah satu garis batas negara yang paling mudah dikenali."
+  },
+  "q_geo_013": {
+    "question": "Apa pegunungan terpanjang di dunia?",
+    "correct": "Pegunungan Andes",
+    "wrong": [
+      "Pegunungan Himalaya",
+      "Pegunungan Rocky",
+      "Pegunungan Alpen"
+    ],
+    "hint": "Pegunungan ini membentang di sepanjang pantai barat Amerika Selatan.",
+    "explanation": "Pegunungan Andes membentang lebih dari 7.000 km melalui tujuh negara Amerika Selatan, menjadikannya pegunungan benua terpanjang."
+  },
+  "q_geo_014": {
+    "question": "Negara mana yang memiliki piramida terbanyak di dunia?",
+    "correct": "Sudan",
+    "wrong": [
+      "Mesir",
+      "Meksiko",
+      "Peru"
+    ],
+    "hint": "Negara Afrika ini memiliki lebih dari 200 piramida, lebih banyak dari tetangga utaranya yang terkenal.",
+    "explanation": "Sudan memiliki sekitar 255 piramida, dibangun oleh kerajaan Nubia kuno Kush, dibandingkan dengan sekitar 138 di Mesir."
   }
 }

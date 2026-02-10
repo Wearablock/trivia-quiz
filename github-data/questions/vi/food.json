@@ -141,5 +141,38 @@
     ],
     "hint": "Sản phẩm mềm kem này được đặt tên theo một vùng ở miền bắc Pháp.",
     "explanation": "Brie là phô mai mềm từ sữa bò của vùng Brie, Pháp."
+  },
+  "q_foo_014": {
+    "question": "Đồ uống có cồn truyền thống của Nhật Bản làm từ gạo lên men là gì?",
+    "correct": "Sake",
+    "wrong": [
+      "Soju",
+      "Shochu",
+      "Mirin"
+    ],
+    "hint": "Nó thường được phục vụ nóng hoặc lạnh và đóng vai trò trong các nghi lễ Thần đạo.",
+    "explanation": "Sake là rượu gạo Nhật Bản được ủ bằng cách lên men gạo đã xát, có lịch sử hơn 2.000 năm."
+  },
+  "q_foo_015": {
+    "question": "Loại hạt nào là thành phần chính trong marzipan?",
+    "correct": "Hạnh nhân",
+    "wrong": [
+      "Óc chó",
+      "Hạt điều",
+      "Hồ trăn"
+    ],
+    "hint": "Loại hạt này cũng được dùng để làm sữa thực vật phổ biến.",
+    "explanation": "Marzipan là loại bánh kẹo làm chủ yếu từ hạnh nhân xay và đường, được sử dụng rộng rãi trong bánh ngọt châu Âu."
+  },
+  "q_foo_016": {
+    "question": "Pad Thai có nguồn gốc từ quốc gia nào?",
+    "correct": "Thái Lan",
+    "wrong": [
+      "Việt Nam",
+      "Campuchia",
+      "Malaysia"
+    ],
+    "hint": "Món mì xào này được quảng bá là món ăn quốc gia vào những năm 1930.",
+    "explanation": "Pad Thai được phổ biến ở Thái Lan trong những năm 1930-40 như một phần của chiến dịch bản sắc dân tộc của Thủ tướng Plaek Phibunsongkhram."
   }
 }

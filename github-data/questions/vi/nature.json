@@ -130,5 +130,38 @@
     ],
     "hint": "Hai trái tim bơm máu đến mang, trái thứ ba bơm đi khắp cơ thể.",
     "explanation": "Bạch tuộc có ba trái tim."
+  },
+  "q_nat_013": {
+    "question": "Loài chim nào có tuyến đường di cư dài nhất thế giới?",
+    "correct": "Nhàn Bắc Cực",
+    "wrong": [
+      "Hải âu",
+      "Choắt lớn đuôi vằn",
+      "Chim én"
+    ],
+    "hint": "Loài chim này di chuyển từ cực này sang cực kia, bay khoảng 70.000 km mỗi năm.",
+    "explanation": "Nhàn Bắc Cực di cư từ Bắc Cực đến Nam Cực và ngược lại mỗi năm, bay khoảng 70.000 km — cuộc di cư dài nhất của bất kỳ loài động vật nào."
+  },
+  "q_nat_014": {
+    "question": "Bông hoa đơn lẻ lớn nhất thế giới là gì?",
+    "correct": "Rafflesia arnoldii",
+    "wrong": [
+      "Hoa hướng dương",
+      "Hoa xác thối",
+      "Súng Victoria"
+    ],
+    "hint": "Loài hoa ký sinh này được tìm thấy trong rừng mưa nhiệt đới Đông Nam Á, nổi tiếng với mùi hôi thối.",
+    "explanation": "Rafflesia arnoldii có thể đạt đường kính 1 mét và nặng tới 11 kg. Nó tỏa mùi thịt thối để thu hút ruồi thụ phấn."
+  },
+  "q_nat_015": {
+    "question": "Loài động vật nào có thể ngủ lên đến ba năm?",
+    "correct": "Ốc sên",
+    "wrong": [
+      "Gấu",
+      "Dơi",
+      "Rùa"
+    ],
+    "hint": "Sinh vật di chuyển chậm này mang nhà trên lưng và ngủ đông trong điều kiện khô hạn.",
+    "explanation": "Một số loài ốc sên có thể vào trạng thái ngủ hè kéo dài đến ba năm để sống sót qua điều kiện hạn hán."
   }
 }

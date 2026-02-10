@@ -141,5 +141,38 @@
     ],
     "hint": "La storia è ambientata a Siviglia e include la famosa aria 'Habanera'.",
     "explanation": "La Carmen di Georges Bizet debuttò nel 1875."
+  },
+  "q_art_014": {
+    "question": "Quale balletto di Čajkovskij presenta una principessa maledetta trasformata in cigno?",
+    "correct": "Il lago dei cigni",
+    "wrong": [
+      "Lo Schiaccianoci",
+      "La bella addormentata",
+      "Giselle"
+    ],
+    "hint": "Questo balletto debuttò a Mosca nel 1877 ed è uno dei più rappresentati al mondo.",
+    "explanation": "Il lago dei cigni, composto da Čajkovskij nel 1875-1876, racconta la storia della principessa Odette, trasformata in cigno da un mago malvagio."
+  },
+  "q_art_015": {
+    "question": "Chi ha scritto il romanzo distopico '1984'?",
+    "correct": "George Orwell",
+    "wrong": [
+      "Aldous Huxley",
+      "Ray Bradbury",
+      "H.G. Wells"
+    ],
+    "hint": "Questo autore britannico scrisse anche 'La fattoria degli animali' e combatté nella guerra civile spagnola.",
+    "explanation": "George Orwell pubblicò '1984' nel 1949, descrivendo una società totalitaria sotto la sorveglianza costante del Grande Fratello."
+  },
+  "q_art_016": {
+    "question": "Quale artista messicana è famosa per vividi autoritratti ispirati all'arte popolare?",
+    "correct": "Frida Kahlo",
+    "wrong": [
+      "Diego Rivera",
+      "Remedios Varo",
+      "Rufino Tamayo"
+    ],
+    "hint": "Era sposata con il muralista Diego Rivera e subì un grave incidente d'autobus in gioventù.",
+    "explanation": "Frida Kahlo creò 55 autoritratti che riflettono il suo dolore e la sua identità, diventando un'icona dell'arte messicana e del femminismo."
   }
 }

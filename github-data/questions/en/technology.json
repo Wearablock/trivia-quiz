@@ -2,85 +2,166 @@
   "q_tec_001": {
     "question": "Who is credited with inventing the telephone?",
     "correct": "Alexander Graham Bell",
-    "wrong": ["Thomas Edison", "Nikola Tesla", "Guglielmo Marconi"],
+    "wrong": [
+      "Thomas Edison",
+      "Nikola Tesla",
+      "Guglielmo Marconi"
+    ],
     "hint": "His famous first words on it were 'Mr. Watson, come here.'",
     "explanation": "Alexander Graham Bell patented the telephone in 1876."
   },
   "q_tec_002": {
     "question": "What does 'HTTP' stand for?",
     "correct": "HyperText Transfer Protocol",
-    "wrong": ["High Tech Transfer Protocol", "HyperText Technical Process", "Home Tool Transfer Protocol"],
+    "wrong": [
+      "High Tech Transfer Protocol",
+      "HyperText Technical Process",
+      "Home Tool Transfer Protocol"
+    ],
     "hint": "You see it at the beginning of website addresses.",
     "explanation": "HTTP is the foundation of data communication on the World Wide Web."
   },
   "q_tec_003": {
     "question": "In what year was the first iPhone released?",
     "correct": "2007",
-    "wrong": ["2005", "2008", "2010"],
+    "wrong": [
+      "2005",
+      "2008",
+      "2010"
+    ],
     "hint": "Steve Jobs unveiled it at Macworld in San Francisco.",
     "explanation": "Apple released the first iPhone on June 29, 2007."
   },
   "q_tec_004": {
     "question": "What programming language is known for its use in web browsers?",
     "correct": "JavaScript",
-    "wrong": ["Python", "Java", "C++"],
+    "wrong": [
+      "Python",
+      "Java",
+      "C++"
+    ],
     "hint": "Despite its name, it's not related to Java; it runs in browsers.",
     "explanation": "JavaScript is the primary language for interactive web content in browsers."
   },
   "q_tec_005": {
     "question": "Who founded Microsoft?",
     "correct": "Bill Gates and Paul Allen",
-    "wrong": ["Steve Jobs", "Mark Zuckerberg", "Jeff Bezos"],
+    "wrong": [
+      "Steve Jobs",
+      "Mark Zuckerberg",
+      "Jeff Bezos"
+    ],
     "hint": "They started the company in 1975 in Albuquerque, New Mexico.",
     "explanation": "Bill Gates and Paul Allen founded Microsoft in 1975."
   },
   "q_tec_006": {
     "question": "What does 'Wi-Fi' stand for?",
     "correct": "Wireless Fidelity",
-    "wrong": ["Wide Frequency", "Wired Filter", "Wireless Function"],
+    "wrong": [
+      "Wide Frequency",
+      "Wired Filter",
+      "Wireless Function"
+    ],
     "hint": "This technology allows devices to connect to the internet without cables.",
     "explanation": "Wi-Fi stands for Wireless Fidelity and uses radio waves to provide network connectivity."
   },
   "q_tec_007": {
     "question": "Which company developed the Android operating system?",
     "correct": "Google",
-    "wrong": ["Apple", "Samsung", "Microsoft"],
+    "wrong": [
+      "Apple",
+      "Samsung",
+      "Microsoft"
+    ],
     "hint": "This company's name is also a mathematical term for 10 to the power of 100.",
     "explanation": "Google acquired Android Inc. in 2005 and released the first Android phone in 2008."
   },
   "q_tec_008": {
     "question": "What was the first programmable computer called?",
     "correct": "Z3",
-    "wrong": ["ENIAC", "UNIVAC", "Colossus"],
+    "wrong": [
+      "ENIAC",
+      "UNIVAC",
+      "Colossus"
+    ],
     "hint": "It was created by Konrad Zuse in Germany in 1941.",
     "explanation": "The Z3, completed in 1941 by Konrad Zuse, is considered the world's first working programmable, fully automatic computer."
   },
   "q_tec_009": {
     "question": "What does 'GPS' stand for?",
     "correct": "Global Positioning System",
-    "wrong": ["General Purpose Satellite", "Global Processing System", "Geo-Physical Signal"],
+    "wrong": [
+      "General Purpose Satellite",
+      "Global Processing System",
+      "Geo-Physical Signal"
+    ],
     "hint": "This satellite-based navigation system was originally developed by the US military.",
     "explanation": "GPS (Global Positioning System) uses a network of satellites to provide location and time information anywhere on Earth."
   },
   "q_tec_010": {
     "question": "Who is known as the father of the World Wide Web?",
     "correct": "Tim Berners-Lee",
-    "wrong": ["Vint Cerf", "Steve Wozniak", "Larry Page"],
+    "wrong": [
+      "Vint Cerf",
+      "Steve Wozniak",
+      "Larry Page"
+    ],
     "hint": "He invented it at CERN in 1989 and created the first web browser.",
     "explanation": "Tim Berners-Lee invented the World Wide Web in 1989 while working at CERN in Switzerland."
   },
   "q_tec_011": {
     "question": "What does 'USB' stand for?",
     "correct": "Universal Serial Bus",
-    "wrong": ["Ultra Speed Bridge", "Unified System Buffer", "Universal System Bridge"],
+    "wrong": [
+      "Ultra Speed Bridge",
+      "Unified System Buffer",
+      "Universal System Bridge"
+    ],
     "hint": "This standard connector is used to connect peripherals like keyboards and flash drives.",
     "explanation": "USB (Universal Serial Bus) was introduced in 1996 to standardize the connection of peripherals to computers."
   },
   "q_tec_012": {
     "question": "Which company created the first commercially successful personal computer?",
     "correct": "Apple",
-    "wrong": ["IBM", "Microsoft", "Hewlett-Packard"],
+    "wrong": [
+      "IBM",
+      "Microsoft",
+      "Hewlett-Packard"
+    ],
     "hint": "The Apple II, released in 1977, was one of the first mass-produced microcomputers.",
     "explanation": "Apple's Apple II (1977) was one of the first highly successful mass-produced personal computers, helping launch the PC revolution."
+  },
+  "q_tec_013": {
+    "question": "What does 'AI' stand for in computing?",
+    "correct": "Artificial Intelligence",
+    "wrong": [
+      "Automated Interface",
+      "Advanced Integration",
+      "Analog Input"
+    ],
+    "hint": "This field aims to create machines that can learn, reason, and make decisions like humans.",
+    "explanation": "Artificial Intelligence (AI) is a branch of computer science focused on creating systems capable of performing tasks that typically require human intelligence."
+  },
+  "q_tec_014": {
+    "question": "Which company developed ChatGPT?",
+    "correct": "OpenAI",
+    "wrong": [
+      "Google",
+      "Meta",
+      "Microsoft"
+    ],
+    "hint": "This AI research lab was co-founded by Sam Altman and launched ChatGPT in November 2022.",
+    "explanation": "OpenAI developed ChatGPT, a large language model chatbot launched in November 2022 that became the fastest-growing consumer application in history."
+  },
+  "q_tec_015": {
+    "question": "What does 'SSD' stand for in computer storage?",
+    "correct": "Solid State Drive",
+    "wrong": [
+      "Super Speed Disk",
+      "System Storage Device",
+      "Serial Signal Drive"
+    ],
+    "hint": "Unlike traditional hard drives, this storage has no moving parts and is much faster.",
+    "explanation": "SSD (Solid State Drive) uses flash memory with no mechanical parts, offering faster read/write speeds and greater durability than traditional HDDs."
   }
 }

@@ -141,5 +141,27 @@
     ],
     "hint": "Cette ville romaine a été préservée sous les cendres volcaniques et redécouverte au XVIIIe siècle.",
     "explanation": "Pompéi a été ensevelie sous des mètres de cendres volcaniques."
+  },
+  "q_his_014": {
+    "question": "Qui fut le premier empereur à unifier la Chine ?",
+    "correct": "Qin Shi Huang",
+    "wrong": [
+      "Liu Bang",
+      "Kubilaï Khan",
+      "Wu Zetian"
+    ],
+    "hint": "Il a également ordonné la construction de la Grande Muraille et fut enterré avec la célèbre Armée de terre cuite.",
+    "explanation": "Qin Shi Huang a unifié la Chine en 221 av. J.-C., fondé la dynastie Qin et standardisé les poids, les mesures et l'écriture dans tout l'empire."
+  },
+  "q_his_015": {
+    "question": "En quelle année la catastrophe nucléaire de Tchernobyl a-t-elle eu lieu ?",
+    "correct": "1986",
+    "wrong": [
+      "1984",
+      "1988",
+      "1979"
+    ],
+    "hint": "Cette catastrophe s'est produite en Union soviétique, dans ce qui est aujourd'hui le nord de l'Ukraine.",
+    "explanation": "La catastrophe de Tchernobyl a eu lieu le 26 avril 1986 et reste le pire accident de centrale nucléaire de l'histoire."
   }
 }

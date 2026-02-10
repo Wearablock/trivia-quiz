@@ -141,5 +141,38 @@
     ],
     "hint": "La historia se desarrolla en Sevilla e incluye la famosa aria 'Habanera'.",
     "explanation": "Carmen de Georges Bizet se estrenó en 1875."
+  },
+  "q_art_014": {
+    "question": "¿Qué ballet de Chaikovski presenta a una princesa maldita que se convierte en cisne?",
+    "correct": "El lago de los cisnes",
+    "wrong": [
+      "El cascanueces",
+      "La bella durmiente",
+      "Giselle"
+    ],
+    "hint": "Este ballet se estrenó en Moscú en 1877 y es uno de los más representados del mundo.",
+    "explanation": "El lago de los cisnes, compuesto por Chaikovski entre 1875-1876, cuenta la historia de la princesa Odette, convertida en cisne por un hechicero malvado."
+  },
+  "q_art_015": {
+    "question": "¿Quién escribió la novela distópica '1984'?",
+    "correct": "George Orwell",
+    "wrong": [
+      "Aldous Huxley",
+      "Ray Bradbury",
+      "H.G. Wells"
+    ],
+    "hint": "Este autor británico también escribió 'Rebelión en la granja' y luchó en la Guerra Civil Española.",
+    "explanation": "George Orwell publicó '1984' en 1949, describiendo una sociedad totalitaria bajo la vigilancia constante del Gran Hermano."
+  },
+  "q_art_016": {
+    "question": "¿Qué artista mexicana es famosa por sus vívidos autorretratos inspirados en el arte popular?",
+    "correct": "Frida Kahlo",
+    "wrong": [
+      "Diego Rivera",
+      "Remedios Varo",
+      "Rufino Tamayo"
+    ],
+    "hint": "Estuvo casada con el muralista Diego Rivera y sufrió un grave accidente de autobús en su juventud.",
+    "explanation": "Frida Kahlo creó 55 autorretratos que reflejan su dolor e identidad, convirtiéndose en un icono del arte mexicano y el feminismo."
   }
 }

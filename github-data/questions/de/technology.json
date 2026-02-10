@@ -130,5 +130,38 @@
     ],
     "hint": "Der 1977 veröffentlichte Apple II war einer der ersten Massencomputer.",
     "explanation": "Apples Apple II (1977) half, die PC-Revolution einzuleiten."
+  },
+  "q_tec_013": {
+    "question": "Wofür steht 'KI' in der Informatik?",
+    "correct": "Künstliche Intelligenz",
+    "wrong": [
+      "Kontrollierte Interaktion",
+      "Komplexe Integration",
+      "Kalkulierte Interferenz"
+    ],
+    "hint": "Dieses Feld zielt darauf ab, Maschinen zu schaffen, die wie Menschen lernen, denken und entscheiden können.",
+    "explanation": "Künstliche Intelligenz (KI) ist ein Bereich der Informatik, der sich auf die Schaffung von Systemen konzentriert, die Aufgaben ausführen können, die normalerweise menschliche Intelligenz erfordern."
+  },
+  "q_tec_014": {
+    "question": "Welches Unternehmen hat ChatGPT entwickelt?",
+    "correct": "OpenAI",
+    "wrong": [
+      "Google",
+      "Meta",
+      "Microsoft"
+    ],
+    "hint": "Dieses KI-Forschungslabor wurde von Sam Altman mitgegründet und startete ChatGPT im November 2022.",
+    "explanation": "OpenAI entwickelte ChatGPT, einen Chatbot auf Basis eines großen Sprachmodells, der im November 2022 gestartet wurde und zur am schnellsten wachsenden Verbraucheranwendung der Geschichte wurde."
+  },
+  "q_tec_015": {
+    "question": "Wofür steht 'SSD' bei Computerspeicher?",
+    "correct": "Solid State Drive (Festkörperlaufwerk)",
+    "wrong": [
+      "Super Speed Disk",
+      "System Storage Device",
+      "Serial Signal Drive"
+    ],
+    "hint": "Im Gegensatz zu herkömmlichen Festplatten hat dieser Speicher keine beweglichen Teile und ist viel schneller.",
+    "explanation": "SSD (Solid State Drive) verwendet Flash-Speicher ohne mechanische Teile und bietet schnellere Lese-/Schreibgeschwindigkeiten und höhere Haltbarkeit als herkömmliche HDDs."
   }
 }

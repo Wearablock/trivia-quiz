@@ -130,5 +130,38 @@
     ],
     "hint": "Zwei Herzen pumpen Blut zu den Kiemen, das dritte versorgt den Körper.",
     "explanation": "Ein Oktopus hat drei Herzen."
+  },
+  "q_nat_013": {
+    "question": "Welcher Vogel hat die längste Zugroute der Welt?",
+    "correct": "Küstenseeschwalbe",
+    "wrong": [
+      "Albatros",
+      "Pfuhlschnepfe",
+      "Schwalbe"
+    ],
+    "hint": "Dieser Vogel reist von Pol zu Pol und legt jährlich etwa 70.000 km zurück.",
+    "explanation": "Die Küstenseeschwalbe wandert jedes Jahr von der Arktis zur Antarktis und zurück und legt dabei etwa 70.000 km zurück — die längste Wanderung aller Tiere."
+  },
+  "q_nat_014": {
+    "question": "Was ist die größte einzelne Blüte der Welt?",
+    "correct": "Rafflesia arnoldii",
+    "wrong": [
+      "Sonnenblume",
+      "Titanwurz",
+      "Victoria-Seerose"
+    ],
+    "hint": "Diese parasitäre Blume in den Regenwäldern Südostasiens ist für ihren üblen Geruch bekannt.",
+    "explanation": "Die Rafflesia arnoldii kann bis zu 1 Meter Durchmesser erreichen und bis zu 11 kg wiegen. Sie verströmt einen Aasgeruch, um bestäubende Fliegen anzulocken."
+  },
+  "q_nat_015": {
+    "question": "Welches Tier kann bis zu drei Jahre lang schlafen?",
+    "correct": "Schnecke",
+    "wrong": [
+      "Bär",
+      "Fledermaus",
+      "Schildkröte"
+    ],
+    "hint": "Dieses langsame Tier trägt sein Haus auf dem Rücken und hält bei Trockenheit Winterschlaf.",
+    "explanation": "Einige Schneckenarten können in einen Ruhezustand (Ästivation) von bis zu drei Jahren eintreten, um Dürreperioden zu überleben."
   }
 }

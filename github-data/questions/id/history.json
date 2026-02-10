@@ -141,5 +141,27 @@
     ],
     "hint": "Kota Romawi ini terawetkan di bawah abu vulkanik dan ditemukan kembali pada abad ke-18.",
     "explanation": "Pompeii terkubur di bawah beberapa meter abu vulkanik."
+  },
+  "q_his_014": {
+    "question": "Siapa kaisar pertama yang menyatukan Tiongkok?",
+    "correct": "Qin Shi Huang",
+    "wrong": [
+      "Liu Bang",
+      "Kublai Khan",
+      "Wu Zetian"
+    ],
+    "hint": "Ia juga memerintahkan pembangunan Tembok Besar dan dimakamkan bersama Pasukan Terakota yang terkenal.",
+    "explanation": "Qin Shi Huang menyatukan Tiongkok pada 221 SM, mendirikan dinasti Qin, dan menstandarisasi berat, ukuran, dan tulisan di seluruh kekaisaran."
+  },
+  "q_his_015": {
+    "question": "Pada tahun berapa bencana nuklir Chernobyl terjadi?",
+    "correct": "1986",
+    "wrong": [
+      "1984",
+      "1988",
+      "1979"
+    ],
+    "hint": "Bencana ini terjadi di Uni Soviet, di wilayah yang sekarang menjadi Ukraina utara.",
+    "explanation": "Bencana Chernobyl terjadi pada 26 April 1986 dan tetap menjadi kecelakaan pembangkit listrik tenaga nuklir terburuk dalam sejarah."
   }
 }

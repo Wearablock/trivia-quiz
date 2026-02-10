@@ -141,5 +141,38 @@
     ],
     "hint": "O símbolo vem do latim 'ferrum'.",
     "explanation": "Fe significa ferro, do latim 'ferrum'."
+  },
+  "q_sci_013": {
+    "question": "Qual é o elemento mais abundante no universo?",
+    "correct": "Hidrogênio",
+    "wrong": [
+      "Hélio",
+      "Oxigênio",
+      "Carbono"
+    ],
+    "hint": "Este elemento compõe cerca de 75% de toda a matéria normal e é o mais leve.",
+    "explanation": "O hidrogênio compõe aproximadamente 75% de toda a massa bariônica do universo e é o combustível da fusão estelar."
+  },
+  "q_sci_014": {
+    "question": "Quem propôs a teoria da relatividade geral?",
+    "correct": "Albert Einstein",
+    "wrong": [
+      "Isaac Newton",
+      "Niels Bohr",
+      "Max Planck"
+    ],
+    "hint": "Este físico publicou a teoria em 1915, descrevendo a gravidade como a curvatura do espaço-tempo.",
+    "explanation": "Albert Einstein publicou sua teoria da relatividade geral em 1915, revolucionando nossa compreensão da gravidade, do espaço e do tempo."
+  },
+  "q_sci_015": {
+    "question": "Qual é o valor do pH da água pura?",
+    "correct": "7",
+    "wrong": [
+      "0",
+      "5",
+      "14"
+    ],
+    "hint": "Este valor é considerado neutro, nem ácido nem básico.",
+    "explanation": "A água pura tem um pH de 7, que é o ponto neutro na escala de pH que vai de 0 (mais ácido) a 14 (mais básico)."
   }
 }

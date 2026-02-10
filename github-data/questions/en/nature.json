@@ -2,85 +2,166 @@
   "q_nat_001": {
     "question": "What is the largest mammal in the world?",
     "correct": "Blue Whale",
-    "wrong": ["Elephant", "Giraffe", "Hippopotamus"],
+    "wrong": [
+      "Elephant",
+      "Giraffe",
+      "Hippopotamus"
+    ],
     "hint": "This marine animal can weigh up to 200 tons and is blue-gray in color.",
     "explanation": "Blue whales can reach lengths of over 100 feet and weigh up to 200 tons."
   },
   "q_nat_002": {
     "question": "How many legs does a spider have?",
     "correct": "8",
-    "wrong": ["6", "10", "12"],
+    "wrong": [
+      "6",
+      "10",
+      "12"
+    ],
     "hint": "They have two more legs than insects.",
     "explanation": "All spiders are arachnids and have 8 legs."
   },
   "q_nat_003": {
     "question": "What is the tallest tree species in the world?",
     "correct": "Coast Redwood",
-    "wrong": ["Giant Sequoia", "Eucalyptus", "Douglas Fir"],
+    "wrong": [
+      "Giant Sequoia",
+      "Eucalyptus",
+      "Douglas Fir"
+    ],
     "hint": "These trees are found along the California coast and can grow over 380 feet.",
     "explanation": "Coast Redwoods can grow over 380 feet tall."
   },
   "q_nat_004": {
     "question": "Which gas do plants absorb from the atmosphere?",
     "correct": "Carbon Dioxide",
-    "wrong": ["Oxygen", "Nitrogen", "Hydrogen"],
+    "wrong": [
+      "Oxygen",
+      "Nitrogen",
+      "Hydrogen"
+    ],
     "hint": "It's the gas humans exhale and plants use for photosynthesis.",
     "explanation": "Plants use carbon dioxide in photosynthesis to produce oxygen and glucose."
   },
   "q_nat_005": {
     "question": "What is the fastest land animal?",
     "correct": "Cheetah",
-    "wrong": ["Lion", "Gazelle", "Horse"],
+    "wrong": [
+      "Lion",
+      "Gazelle",
+      "Horse"
+    ],
     "hint": "This spotted big cat can run at 70 mph in short bursts.",
     "explanation": "Cheetahs can reach speeds up to 70 mph (112 km/h)."
   },
   "q_nat_006": {
     "question": "What is the largest species of shark?",
     "correct": "Whale Shark",
-    "wrong": ["Great White Shark", "Hammerhead Shark", "Tiger Shark"],
+    "wrong": [
+      "Great White Shark",
+      "Hammerhead Shark",
+      "Tiger Shark"
+    ],
     "hint": "Despite its massive size, this shark is a gentle filter feeder that eats plankton.",
     "explanation": "Whale sharks can grow up to 12 meters long and are the largest fish in the ocean."
   },
   "q_nat_007": {
     "question": "Which bird can fly backwards?",
     "correct": "Hummingbird",
-    "wrong": ["Kingfisher", "Swallow", "Sparrow"],
+    "wrong": [
+      "Kingfisher",
+      "Swallow",
+      "Sparrow"
+    ],
     "hint": "This tiny bird beats its wings up to 80 times per second and feeds on nectar.",
     "explanation": "Hummingbirds are the only birds that can sustain hovering and fly backwards thanks to their unique wing structure."
   },
   "q_nat_008": {
     "question": "What is the hardest natural rock?",
     "correct": "Granite",
-    "wrong": ["Marble", "Limestone", "Sandstone"],
+    "wrong": [
+      "Marble",
+      "Limestone",
+      "Sandstone"
+    ],
     "hint": "This igneous rock is commonly used for kitchen countertops and monuments.",
     "explanation": "Granite is one of the hardest natural rocks, formed from cooled magma deep within the Earth."
   },
   "q_nat_009": {
     "question": "How long can a cockroach survive without its head?",
     "correct": "About a week",
-    "wrong": ["A few seconds", "About an hour", "About a month"],
+    "wrong": [
+      "A few seconds",
+      "About an hour",
+      "About a month"
+    ],
     "hint": "These insects breathe through small holes in their body segments, not through their mouth.",
     "explanation": "Cockroaches can survive about a week without their head because they breathe through spiracles in their body."
   },
   "q_nat_010": {
     "question": "Which ocean is the deepest?",
     "correct": "Pacific Ocean",
-    "wrong": ["Atlantic Ocean", "Indian Ocean", "Southern Ocean"],
+    "wrong": [
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Southern Ocean"
+    ],
     "hint": "The Mariana Trench, the deepest point on Earth, is located in this ocean.",
     "explanation": "The Pacific Ocean contains the Mariana Trench, reaching a depth of about 11,034 meters at the Challenger Deep."
   },
   "q_nat_011": {
     "question": "What is the only mammal capable of true flight?",
     "correct": "Bat",
-    "wrong": ["Flying squirrel", "Sugar glider", "Colugo"],
+    "wrong": [
+      "Flying squirrel",
+      "Sugar glider",
+      "Colugo"
+    ],
     "hint": "This nocturnal animal uses echolocation to navigate in the dark.",
     "explanation": "Bats are the only mammals that can truly fly. Flying squirrels and sugar gliders only glide."
   },
   "q_nat_012": {
     "question": "How many hearts does an octopus have?",
     "correct": "3",
-    "wrong": ["1", "2", "4"],
+    "wrong": [
+      "1",
+      "2",
+      "4"
+    ],
     "hint": "Two of its hearts pump blood to the gills, while the third circulates it to the body.",
     "explanation": "An octopus has three hearts: two branchial hearts for the gills and one systemic heart for the rest of the body."
+  },
+  "q_nat_013": {
+    "question": "Which bird has the longest migration route in the world?",
+    "correct": "Arctic Tern",
+    "wrong": [
+      "Albatross",
+      "Bar-tailed Godwit",
+      "Swallow"
+    ],
+    "hint": "This bird travels from pole to pole, covering roughly 70,000 km each year.",
+    "explanation": "Arctic Terns migrate from the Arctic to the Antarctic and back each year, covering about 70,000 km — the longest migration of any animal."
+  },
+  "q_nat_014": {
+    "question": "What is the largest individual flower in the world?",
+    "correct": "Rafflesia arnoldii",
+    "wrong": [
+      "Sunflower",
+      "Titan arum",
+      "Victoria water lily"
+    ],
+    "hint": "This parasitic flower found in Southeast Asian rainforests is famous for its foul smell.",
+    "explanation": "Rafflesia arnoldii can grow up to 1 meter in diameter and weigh up to 11 kg. It emits a rotting flesh odor to attract pollinating flies."
+  },
+  "q_nat_015": {
+    "question": "Which animal can sleep for up to three years?",
+    "correct": "Snail",
+    "wrong": [
+      "Bear",
+      "Bat",
+      "Tortoise"
+    ],
+    "hint": "This slow-moving creature carries its home on its back and hibernates in dry conditions.",
+    "explanation": "Some snail species can enter a state of dormancy (estivation) for up to three years to survive drought conditions."
   }
 }

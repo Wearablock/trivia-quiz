@@ -130,5 +130,38 @@
     ],
     "hint": "Deux cœurs pompent le sang vers les branchies, le troisième vers le reste du corps.",
     "explanation": "Une pieuvre possède trois cœurs."
+  },
+  "q_nat_013": {
+    "question": "Quel oiseau possède la route migratoire la plus longue au monde ?",
+    "correct": "Sterne arctique",
+    "wrong": [
+      "Albatros",
+      "Barge rousse",
+      "Hirondelle"
+    ],
+    "hint": "Cet oiseau voyage de pôle en pôle, parcourant environ 70 000 km chaque année.",
+    "explanation": "La sterne arctique migre de l'Arctique à l'Antarctique et inversement chaque année, couvrant environ 70 000 km — la plus longue migration de tout animal."
+  },
+  "q_nat_014": {
+    "question": "Quelle est la plus grande fleur individuelle au monde ?",
+    "correct": "Rafflesia arnoldii",
+    "wrong": [
+      "Tournesol",
+      "Arum titan",
+      "Nénuphar Victoria"
+    ],
+    "hint": "Cette fleur parasite des forêts tropicales d'Asie du Sud-Est est célèbre pour son odeur nauséabonde.",
+    "explanation": "La Rafflesia arnoldii peut atteindre 1 mètre de diamètre et peser jusqu'à 11 kg. Elle émet une odeur de chair en décomposition pour attirer les mouches pollinisatrices."
+  },
+  "q_nat_015": {
+    "question": "Quel animal peut dormir jusqu'à trois ans ?",
+    "correct": "Escargot",
+    "wrong": [
+      "Ours",
+      "Chauve-souris",
+      "Tortue"
+    ],
+    "hint": "Cette créature lente porte sa maison sur son dos et hiberne dans des conditions sèches.",
+    "explanation": "Certaines espèces d'escargots peuvent entrer en dormance (estivation) pendant trois ans pour survivre à la sécheresse."
   }
 }

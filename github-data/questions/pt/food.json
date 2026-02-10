@@ -141,5 +141,38 @@
     ],
     "hint": "Este produto macio e cremoso leva o nome de uma região do norte da França.",
     "explanation": "O Brie é um queijo macio de leite de vaca da região francesa de Brie."
+  },
+  "q_foo_014": {
+    "question": "Qual é a bebida alcoólica tradicional japonesa feita de arroz fermentado?",
+    "correct": "Saquê",
+    "wrong": [
+      "Soju",
+      "Shochu",
+      "Mirin"
+    ],
+    "hint": "É frequentemente servida quente ou fria e tem um papel nas cerimônias xintoístas.",
+    "explanation": "O saquê é um vinho de arroz japonês produzido pela fermentação de arroz polido, com uma história de mais de 2.000 anos."
+  },
+  "q_foo_015": {
+    "question": "Qual castanha é o ingrediente principal do marzipã?",
+    "correct": "Amêndoa",
+    "wrong": [
+      "Noz",
+      "Castanha de caju",
+      "Pistache"
+    ],
+    "hint": "Esta castanha também é usada para fazer um leite vegetal popular.",
+    "explanation": "O marzipã é um doce feito principalmente de amêndoas moídas e açúcar, amplamente utilizado na confeitaria europeia."
+  },
+  "q_foo_016": {
+    "question": "Em qual país o pad thai se originou?",
+    "correct": "Tailândia",
+    "wrong": [
+      "Vietnã",
+      "Camboja",
+      "Malásia"
+    ],
+    "hint": "Este prato de macarrão frito foi promovido como prato nacional na década de 1930.",
+    "explanation": "O pad thai foi popularizado na Tailândia durante os anos 1930-40 como parte de uma campanha de identidade nacional do primeiro-ministro Plaek Phibunsongkhram."
   }
 }

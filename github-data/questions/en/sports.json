@@ -2,92 +2,166 @@
   "q_spo_001": {
     "question": "How many players are on a soccer team on the field?",
     "correct": "11",
-    "wrong": ["9", "10", "12"],
+    "wrong": [
+      "9",
+      "10",
+      "12"
+    ],
     "hint": "Same as the number of players in a cricket team.",
     "explanation": "Each soccer team fields 11 players including the goalkeeper."
   },
   "q_spo_002": {
     "question": "In which sport would you perform a slam dunk?",
     "correct": "Basketball",
-    "wrong": ["Volleyball", "Tennis", "Baseball"],
+    "wrong": [
+      "Volleyball",
+      "Tennis",
+      "Baseball"
+    ],
     "hint": "Michael Jordan and LeBron James are legends in this sport.",
     "explanation": "A slam dunk is a basketball move where a player jumps and scores by putting the ball directly through the hoop."
   },
   "q_spo_003": {
     "question": "Which country has won the most FIFA World Cup titles?",
     "correct": "Brazil",
-    "wrong": ["Germany", "Italy", "Argentina"],
+    "wrong": [
+      "Germany",
+      "Italy",
+      "Argentina"
+    ],
     "hint": "Pelé played for this South American country's national team.",
     "explanation": "Brazil has won the FIFA World Cup 5 times (1958, 1962, 1970, 1994, 2002)."
   },
   "q_spo_004": {
     "question": "What is the highest score possible in 10-pin bowling?",
     "correct": "300",
-    "wrong": ["200", "250", "350"],
+    "wrong": [
+      "200",
+      "250",
+      "350"
+    ],
     "hint": "A perfect game requires 12 consecutive strikes.",
     "explanation": "A perfect game in bowling scores 300 points with 12 consecutive strikes."
   },
   "q_spo_005": {
     "question": "Which Grand Slam tennis tournament is played on clay courts?",
     "correct": "French Open",
-    "wrong": ["Wimbledon", "US Open", "Australian Open"],
+    "wrong": [
+      "Wimbledon",
+      "US Open",
+      "Australian Open"
+    ],
     "hint": "Rafael Nadal has won this tournament a record number of times at Roland Garros.",
     "explanation": "The French Open at Roland Garros is the only Grand Slam played on clay."
   },
   "q_spo_006": {
     "question": "How many rings are on the Olympic flag?",
     "correct": "5",
-    "wrong": ["4", "6", "7"],
+    "wrong": [
+      "4",
+      "6",
+      "7"
+    ],
     "hint": "Each ring represents a continent that participates in the Olympic Games.",
     "explanation": "The five Olympic rings represent the five continents: Africa, Americas, Asia, Europe, and Oceania."
   },
   "q_spo_007": {
     "question": "In which sport is a 'birdie' a term for one under par?",
     "correct": "Golf",
-    "wrong": ["Badminton", "Tennis", "Cricket"],
+    "wrong": [
+      "Badminton",
+      "Tennis",
+      "Cricket"
+    ],
     "hint": "This sport is played on courses with 18 holes and uses clubs to hit a small ball.",
     "explanation": "In golf, a birdie means completing a hole in one stroke fewer than par."
   },
   "q_spo_008": {
     "question": "Which country invented the sport of cricket?",
     "correct": "England",
-    "wrong": ["India", "Australia", "South Africa"],
+    "wrong": [
+      "India",
+      "Australia",
+      "South Africa"
+    ],
     "hint": "This sport dates back to the 16th century and is the national summer sport of this country.",
     "explanation": "Cricket originated in England in the late 16th century and spread through the British Empire."
   },
   "q_spo_009": {
     "question": "How long is a marathon in kilometers?",
     "correct": "42.195 km",
-    "wrong": ["40 km", "45 km", "50 km"],
+    "wrong": [
+      "40 km",
+      "45 km",
+      "50 km"
+    ],
     "hint": "The distance was standardized at the 1908 London Olympics.",
     "explanation": "A marathon is 42.195 km (26.2 miles), a distance set at the 1908 London Olympics to finish in front of the royal box."
   },
   "q_spo_010": {
     "question": "Which sport uses the largest playing field?",
     "correct": "Polo",
-    "wrong": ["Soccer", "Rugby", "American Football"],
+    "wrong": [
+      "Soccer",
+      "Rugby",
+      "American Football"
+    ],
     "hint": "This sport is played on horseback and the field can be up to 275 meters long.",
     "explanation": "A polo field is the largest playing field in organized sport, measuring up to 275 by 180 meters."
   },
   "q_spo_011": {
     "question": "In which sport is the term 'love' used to mean zero?",
     "correct": "Tennis",
-    "wrong": ["Badminton", "Squash", "Table Tennis"],
+    "wrong": [
+      "Badminton",
+      "Squash",
+      "Table Tennis"
+    ],
     "hint": "This sport uses an unusual scoring system: 15, 30, 40, and game.",
     "explanation": "In tennis, 'love' means zero. The term may derive from the French 'l'oeuf' (egg), referring to the shape of zero."
   },
   "q_spo_012": {
     "question": "What is the national sport of Japan?",
     "correct": "Sumo wrestling",
-    "wrong": ["Judo", "Karate", "Kendo"],
+    "wrong": [
+      "Judo",
+      "Karate",
+      "Kendo"
+    ],
     "hint": "Wrestlers in this sport try to push their opponent out of a circular ring.",
     "explanation": "Sumo is Japan's national sport with a history spanning over 1,500 years, deeply rooted in Shinto tradition."
   },
   "q_spo_013": {
     "question": "How many players are on a standard volleyball team on the court?",
     "correct": "6",
-    "wrong": ["5", "7", "8"],
+    "wrong": [
+      "5",
+      "7",
+      "8"
+    ],
     "hint": "Players rotate positions each time their team wins the serve.",
     "explanation": "Each volleyball team has 6 players on the court, rotating clockwise through positions after winning a rally."
+  },
+  "q_spo_014": {
+    "question": "In which city were the first modern Olympic Games held in 1896?",
+    "correct": "Athens",
+    "wrong": [
+      "Paris",
+      "London",
+      "Rome"
+    ],
+    "hint": "This city is the capital of Greece, the birthplace of the ancient Olympics.",
+    "explanation": "The first modern Olympic Games were held in Athens, Greece, in 1896, organized by Pierre de Coubertin and the IOC."
+  },
+  "q_spo_015": {
+    "question": "In baseball, how many strikes make an out?",
+    "correct": "3",
+    "wrong": [
+      "2",
+      "4",
+      "5"
+    ],
+    "hint": "This rule is one of the most basic in the sport, often referenced as 'three strikes and you're out'.",
+    "explanation": "In baseball, a batter is called out after accumulating three strikes, a fundamental rule since the sport's early days."
   }
 }

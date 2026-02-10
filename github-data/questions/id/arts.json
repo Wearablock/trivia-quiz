@@ -141,5 +141,38 @@
     ],
     "hint": "Ceritanya berlatar di Sevilla dan berisi aria 'Habanera' yang terkenal.",
     "explanation": "Carmen karya Georges Bizet ditampilkan pertama kali pada 1875."
+  },
+  "q_art_014": {
+    "question": "Balet Tchaikovsky mana yang menceritakan kisah putri yang dikutuk menjadi angsa?",
+    "correct": "Danau Angsa",
+    "wrong": [
+      "The Nutcracker",
+      "Sleeping Beauty",
+      "Giselle"
+    ],
+    "hint": "Balet ini pertama kali ditampilkan di Moskow pada tahun 1877 dan merupakan salah satu balet yang paling sering dipentaskan di dunia.",
+    "explanation": "Danau Angsa, digubah oleh Tchaikovsky pada 1875-1876, menceritakan kisah Putri Odette yang diubah menjadi angsa oleh penyihir jahat."
+  },
+  "q_art_015": {
+    "question": "Siapa yang menulis novel distopia '1984'?",
+    "correct": "George Orwell",
+    "wrong": [
+      "Aldous Huxley",
+      "Ray Bradbury",
+      "H.G. Wells"
+    ],
+    "hint": "Penulis Inggris ini juga menulis 'Animal Farm' dan bertempur dalam Perang Saudara Spanyol.",
+    "explanation": "George Orwell menerbitkan '1984' pada tahun 1949, menggambarkan masyarakat totaliter di bawah pengawasan Big Brother."
+  },
+  "q_art_016": {
+    "question": "Seniman wanita Meksiko mana yang terkenal dengan potret diri yang penuh warna yang terinspirasi seni rakyat?",
+    "correct": "Frida Kahlo",
+    "wrong": [
+      "Diego Rivera",
+      "Remedios Varo",
+      "Rufino Tamayo"
+    ],
+    "hint": "Ia menikah dengan pelukis mural Diego Rivera dan mengalami kecelakaan bus parah di masa mudanya.",
+    "explanation": "Frida Kahlo menciptakan 55 potret diri yang mencerminkan rasa sakit dan identitasnya, menjadi ikon seni Meksiko dan feminisme."
   }
 }

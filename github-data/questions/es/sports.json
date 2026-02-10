@@ -141,5 +141,27 @@
     ],
     "hint": "Los jugadores rotan posiciones cada vez que ganan el saque.",
     "explanation": "Cada equipo de voleibol tiene 6 jugadores en la cancha."
+  },
+  "q_spo_014": {
+    "question": "¿En qué ciudad se celebraron los primeros Juegos Olímpicos modernos en 1896?",
+    "correct": "Atenas",
+    "wrong": [
+      "París",
+      "Londres",
+      "Roma"
+    ],
+    "hint": "Esta ciudad es la capital de Grecia, cuna de los Juegos Olímpicos antiguos.",
+    "explanation": "Los primeros Juegos Olímpicos modernos se celebraron en Atenas, Grecia, en 1896, organizados por Pierre de Coubertin y el COI."
+  },
+  "q_spo_015": {
+    "question": "En béisbol, ¿cuántos strikes forman un out?",
+    "correct": "3",
+    "wrong": [
+      "2",
+      "4",
+      "5"
+    ],
+    "hint": "Esta regla es una de las más básicas del deporte, a menudo referida como 'tres strikes y estás fuera'.",
+    "explanation": "En béisbol, un bateador es declarado out después de acumular tres strikes, una regla fundamental desde los inicios del deporte."
   }
 }

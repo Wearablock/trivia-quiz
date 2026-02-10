@@ -2,92 +2,177 @@
   "q_art_001": {
     "question": "Who painted the Mona Lisa?",
     "correct": "Leonardo da Vinci",
-    "wrong": ["Michelangelo", "Raphael", "Botticelli"],
+    "wrong": [
+      "Michelangelo",
+      "Raphael",
+      "Botticelli"
+    ],
     "hint": "This Italian polymath also designed flying machines and studied anatomy.",
     "explanation": "Leonardo da Vinci painted the Mona Lisa between 1503 and 1519."
   },
   "q_art_002": {
     "question": "Which composer wrote the 'Ninth Symphony'?",
     "correct": "Ludwig van Beethoven",
-    "wrong": ["Mozart", "Bach", "Chopin"],
+    "wrong": [
+      "Mozart",
+      "Bach",
+      "Chopin"
+    ],
     "hint": "He was deaf when he composed this symphony featuring 'Ode to Joy'.",
     "explanation": "Beethoven's Ninth Symphony, completed in 1824, includes the famous 'Ode to Joy'."
   },
   "q_art_003": {
     "question": "In which city is the Louvre Museum located?",
     "correct": "Paris",
-    "wrong": ["London", "Rome", "Madrid"],
+    "wrong": [
+      "London",
+      "Rome",
+      "Madrid"
+    ],
     "hint": "This museum has a famous glass pyramid entrance designed by I.M. Pei.",
     "explanation": "The Louvre in Paris is the world's largest art museum."
   },
   "q_art_004": {
     "question": "Who wrote 'Romeo and Juliet'?",
     "correct": "William Shakespeare",
-    "wrong": ["Charles Dickens", "Jane Austen", "Oscar Wilde"],
+    "wrong": [
+      "Charles Dickens",
+      "Jane Austen",
+      "Oscar Wilde"
+    ],
     "hint": "This playwright was born in Stratford-upon-Avon and wrote for the Globe Theatre.",
     "explanation": "Shakespeare wrote Romeo and Juliet around 1594-1596."
   },
   "q_art_005": {
     "question": "Which art movement did Salvador Dalí belong to?",
     "correct": "Surrealism",
-    "wrong": ["Impressionism", "Cubism", "Expressionism"],
+    "wrong": [
+      "Impressionism",
+      "Cubism",
+      "Expressionism"
+    ],
     "hint": "This movement explored dreams and the unconscious mind in art.",
     "explanation": "Dalí was a leading figure in the Surrealist movement known for his striking imagery."
   },
   "q_art_006": {
     "question": "Who painted 'The Starry Night'?",
     "correct": "Vincent van Gogh",
-    "wrong": ["Claude Monet", "Paul Cézanne", "Edgar Degas"],
+    "wrong": [
+      "Claude Monet",
+      "Paul Cézanne",
+      "Edgar Degas"
+    ],
     "hint": "This Dutch painter cut off part of his own ear and painted many self-portraits.",
     "explanation": "Van Gogh painted The Starry Night in 1889 while staying at an asylum in Saint-Rémy-de-Provence."
   },
   "q_art_007": {
     "question": "Which musical instrument has 88 keys?",
     "correct": "Piano",
-    "wrong": ["Organ", "Harpsichord", "Accordion"],
+    "wrong": [
+      "Organ",
+      "Harpsichord",
+      "Accordion"
+    ],
     "hint": "It has both black and white keys and was invented in Italy around 1700.",
     "explanation": "A standard modern piano has 88 keys: 52 white and 36 black."
   },
   "q_art_008": {
     "question": "Who sculpted 'The Thinker'?",
     "correct": "Auguste Rodin",
-    "wrong": ["Donatello", "Bernini", "Henry Moore"],
+    "wrong": [
+      "Donatello",
+      "Bernini",
+      "Henry Moore"
+    ],
     "hint": "This French sculptor is often called the father of modern sculpture.",
     "explanation": "Rodin created The Thinker in 1904, originally as part of a larger work called The Gates of Hell."
   },
   "q_art_009": {
     "question": "Which novel begins with 'Call me Ishmael'?",
     "correct": "Moby-Dick",
-    "wrong": ["Treasure Island", "The Old Man and the Sea", "Robinson Crusoe"],
+    "wrong": [
+      "Treasure Island",
+      "The Old Man and the Sea",
+      "Robinson Crusoe"
+    ],
     "hint": "This novel is about a sea captain's obsession with a white whale.",
     "explanation": "Herman Melville's Moby-Dick, published in 1851, opens with one of literature's most famous lines."
   },
   "q_art_010": {
     "question": "Who composed 'The Four Seasons'?",
     "correct": "Antonio Vivaldi",
-    "wrong": ["Johann Sebastian Bach", "George Frideric Handel", "Franz Schubert"],
+    "wrong": [
+      "Johann Sebastian Bach",
+      "George Frideric Handel",
+      "Franz Schubert"
+    ],
     "hint": "This Italian Baroque composer was a red-haired priest nicknamed 'The Red Priest'.",
     "explanation": "Vivaldi composed The Four Seasons around 1723, a set of four violin concertos."
   },
   "q_art_011": {
     "question": "Who painted 'Girl with a Pearl Earring'?",
     "correct": "Johannes Vermeer",
-    "wrong": ["Rembrandt", "Peter Paul Rubens", "Jan van Eyck"],
+    "wrong": [
+      "Rembrandt",
+      "Peter Paul Rubens",
+      "Jan van Eyck"
+    ],
     "hint": "This Dutch Golden Age painter was known for his masterful use of light.",
     "explanation": "Vermeer painted Girl with a Pearl Earring around 1665. It is often called the 'Mona Lisa of the North'."
   },
   "q_art_012": {
     "question": "Which artist is famous for painting Campbell's soup cans?",
     "correct": "Andy Warhol",
-    "wrong": ["Roy Lichtenstein", "Jasper Johns", "Jean-Michel Basquiat"],
+    "wrong": [
+      "Roy Lichtenstein",
+      "Jasper Johns",
+      "Jean-Michel Basquiat"
+    ],
     "hint": "He was a leading figure in the Pop Art movement and ran a studio called 'The Factory'.",
     "explanation": "Andy Warhol created 'Campbell's Soup Cans' in 1962, making it an icon of the Pop Art movement."
   },
   "q_art_013": {
     "question": "What is the name of the opera composed by Bizet that features a Spanish gypsy?",
     "correct": "Carmen",
-    "wrong": ["La Traviata", "Aida", "Madama Butterfly"],
+    "wrong": [
+      "La Traviata",
+      "Aida",
+      "Madama Butterfly"
+    ],
     "hint": "The story is set in Seville, Spain, and includes the famous 'Habanera' aria.",
     "explanation": "Georges Bizet's Carmen premiered in 1875 and became one of the most popular operas ever written."
+  },
+  "q_art_014": {
+    "question": "Which ballet by Tchaikovsky features a princess cursed to become a swan?",
+    "correct": "Swan Lake",
+    "wrong": [
+      "The Nutcracker",
+      "Sleeping Beauty",
+      "Giselle"
+    ],
+    "hint": "This ballet premiered in Moscow in 1877 and is one of the most performed ballets worldwide.",
+    "explanation": "Swan Lake, composed by Tchaikovsky in 1875-1876, tells the story of Princess Odette who is turned into a swan by an evil sorcerer."
+  },
+  "q_art_015": {
+    "question": "Who wrote the dystopian novel '1984'?",
+    "correct": "George Orwell",
+    "wrong": [
+      "Aldous Huxley",
+      "Ray Bradbury",
+      "H.G. Wells"
+    ],
+    "hint": "This British author also wrote 'Animal Farm' and fought in the Spanish Civil War.",
+    "explanation": "George Orwell published '1984' in 1949, depicting a totalitarian society under constant surveillance by Big Brother."
+  },
+  "q_art_016": {
+    "question": "Which Mexican artist is famous for vivid self-portraits inspired by folk art?",
+    "correct": "Frida Kahlo",
+    "wrong": [
+      "Diego Rivera",
+      "Remedios Varo",
+      "Rufino Tamayo"
+    ],
+    "hint": "She was married to muralist Diego Rivera and suffered a severe bus accident in her youth.",
+    "explanation": "Frida Kahlo created 55 self-portraits reflecting her pain and identity, becoming an icon of Mexican art and feminism."
   }
 }

@@ -141,5 +141,27 @@
     ],
     "hint": "Diese römische Stadt wurde unter Vulkanasche konserviert und im 18. Jahrhundert wiederentdeckt.",
     "explanation": "Pompeji wurde unter Metern von Vulkanasche begraben."
+  },
+  "q_his_014": {
+    "question": "Wer war der erste Kaiser, der China vereinte?",
+    "correct": "Qin Shi Huang",
+    "wrong": [
+      "Liu Bang",
+      "Kublai Khan",
+      "Wu Zetian"
+    ],
+    "hint": "Er ordnete auch den Bau der Großen Mauer an und wurde mit der berühmten Terrakotta-Armee begraben.",
+    "explanation": "Qin Shi Huang vereinte China 221 v. Chr., gründete die Qin-Dynastie und standardisierte Gewichte, Maße und Schrift im gesamten Reich."
+  },
+  "q_his_015": {
+    "question": "In welchem Jahr ereignete sich die Nuklearkatastrophe von Tschernobyl?",
+    "correct": "1986",
+    "wrong": [
+      "1984",
+      "1988",
+      "1979"
+    ],
+    "hint": "Diese Katastrophe ereignete sich in der Sowjetunion, im heutigen Norden der Ukraine.",
+    "explanation": "Die Katastrophe von Tschernobyl ereignete sich am 26. April 1986 und bleibt der schlimmste Unfall in einem Kernkraftwerk der Geschichte."
   }
 }

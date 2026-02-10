@@ -141,5 +141,27 @@
     ],
     "hint": "Thành phố La Mã này được bảo tồn dưới tro núi lửa và tái phát hiện vào thế kỷ 18.",
     "explanation": "Pompeii bị chôn vùi dưới hàng mét tro núi lửa."
+  },
+  "q_his_014": {
+    "question": "Ai là hoàng đế đầu tiên thống nhất Trung Quốc?",
+    "correct": "Tần Thủy Hoàng",
+    "wrong": [
+      "Lưu Bang",
+      "Hốt Tất Liệt",
+      "Võ Tắc Thiên"
+    ],
+    "hint": "Ông cũng ra lệnh xây dựng Vạn Lý Trường Thành và được chôn cùng đội quân đất nung nổi tiếng.",
+    "explanation": "Tần Thủy Hoàng thống nhất Trung Quốc năm 221 TCN, thành lập nhà Tần và thống nhất đo lường và chữ viết trong toàn đế chế."
+  },
+  "q_his_015": {
+    "question": "Thảm họa hạt nhân Chernobyl xảy ra năm nào?",
+    "correct": "1986",
+    "wrong": [
+      "1984",
+      "1988",
+      "1979"
+    ],
+    "hint": "Thảm họa này xảy ra tại Liên Xô, nơi ngày nay là miền bắc Ukraine.",
+    "explanation": "Thảm họa Chernobyl xảy ra vào ngày 26 tháng 4 năm 1986 và vẫn là vụ tai nạn nhà máy điện hạt nhân tồi tệ nhất trong lịch sử."
   }
 }

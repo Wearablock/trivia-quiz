@@ -141,5 +141,38 @@
     ],
     "hint": "Questo prodotto morbido e cremoso prende il nome da una regione del nord della Francia.",
     "explanation": "Il Brie è un formaggio a pasta molle di latte vaccino della regione francese di Brie."
+  },
+  "q_foo_014": {
+    "question": "Qual è la tradizionale bevanda alcolica giapponese fatta con riso fermentato?",
+    "correct": "Sake",
+    "wrong": [
+      "Soju",
+      "Shochu",
+      "Mirin"
+    ],
+    "hint": "Viene spesso servito caldo o freddo e ha un ruolo nelle cerimonie shintoiste.",
+    "explanation": "Il sake è un vino di riso giapponese prodotto dalla fermentazione di riso brillato, con una storia di oltre 2.000 anni."
+  },
+  "q_foo_015": {
+    "question": "Quale frutta secca è l'ingrediente principale del marzapane?",
+    "correct": "Mandorla",
+    "wrong": [
+      "Noce",
+      "Anacardo",
+      "Pistacchio"
+    ],
+    "hint": "Questa frutta secca è anche usata per preparare un popolare latte vegetale.",
+    "explanation": "Il marzapane è un dolce fatto principalmente con mandorle macinate e zucchero, ampiamente utilizzato nella pasticceria europea."
+  },
+  "q_foo_016": {
+    "question": "In quale paese è nato il pad thai?",
+    "correct": "Thailandia",
+    "wrong": [
+      "Vietnam",
+      "Cambogia",
+      "Malesia"
+    ],
+    "hint": "Questo piatto di noodle saltati fu promosso come piatto nazionale negli anni '30.",
+    "explanation": "Il pad thai fu reso popolare in Thailandia negli anni '30-'40 come parte di una campagna di identità nazionale del primo ministro Plaek Phibunsongkhram."
   }
 }

@@ -130,5 +130,38 @@
     ],
     "hint": "Dua jantung memompa darah ke insang, yang ketiga ke seluruh tubuh.",
     "explanation": "Gurita memiliki tiga jantung."
+  },
+  "q_nat_013": {
+    "question": "Burung apa yang memiliki rute migrasi terpanjang di dunia?",
+    "correct": "Dara laut Arktik",
+    "wrong": [
+      "Albatros",
+      "Kedidi ekor loreng",
+      "Burung layang-layang"
+    ],
+    "hint": "Burung ini berpindah dari kutub ke kutub, menempuh sekitar 70.000 km setiap tahun.",
+    "explanation": "Dara laut Arktik bermigrasi dari Arktik ke Antartika dan kembali setiap tahun, menempuh sekitar 70.000 km — migrasi terpanjang dari hewan mana pun."
+  },
+  "q_nat_014": {
+    "question": "Apa bunga individual terbesar di dunia?",
+    "correct": "Rafflesia arnoldii",
+    "wrong": [
+      "Bunga matahari",
+      "Bunga bangkai",
+      "Teratai Victoria"
+    ],
+    "hint": "Bunga parasit yang ditemukan di hutan hujan tropis Asia Tenggara ini terkenal dengan baunya yang busuk.",
+    "explanation": "Rafflesia arnoldii dapat tumbuh hingga diameter 1 meter dan berat hingga 11 kg. Bunga ini mengeluarkan bau daging busuk untuk menarik lalat penyerbuk."
+  },
+  "q_nat_015": {
+    "question": "Hewan apa yang bisa tidur hingga tiga tahun?",
+    "correct": "Siput",
+    "wrong": [
+      "Beruang",
+      "Kelelawar",
+      "Kura-kura"
+    ],
+    "hint": "Makhluk lambat ini membawa rumahnya di punggung dan berhibernasi dalam kondisi kering.",
+    "explanation": "Beberapa spesies siput dapat memasuki keadaan dormansi (estivasi) hingga tiga tahun untuk bertahan dari kondisi kekeringan."
   }
 }

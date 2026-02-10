@@ -141,5 +141,27 @@
     ],
     "hint": "Os jogadores fazem rodízio de posição a cada saque conquistado.",
     "explanation": "Cada equipe de vôlei tem 6 jogadores em quadra."
+  },
+  "q_spo_014": {
+    "question": "Em qual cidade foram realizados os primeiros Jogos Olímpicos modernos em 1896?",
+    "correct": "Atenas",
+    "wrong": [
+      "Paris",
+      "Londres",
+      "Roma"
+    ],
+    "hint": "Esta cidade é a capital da Grécia, berço dos Jogos Olímpicos antigos.",
+    "explanation": "Os primeiros Jogos Olímpicos modernos foram realizados em Atenas, Grécia, em 1896, organizados por Pierre de Coubertin e o COI."
+  },
+  "q_spo_015": {
+    "question": "No beisebol, quantos strikes formam um out?",
+    "correct": "3",
+    "wrong": [
+      "2",
+      "4",
+      "5"
+    ],
+    "hint": "Esta regra é uma das mais básicas do esporte, frequentemente referida como 'três strikes e você está fora'.",
+    "explanation": "No beisebol, um rebatedor é declarado out após acumular três strikes, uma regra fundamental desde os primórdios do esporte."
   }
 }

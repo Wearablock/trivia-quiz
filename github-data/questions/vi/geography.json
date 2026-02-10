@@ -141,5 +141,27 @@
     ],
     "hint": "Quốc gia này là bán đảo nhô ra Địa Trung Hải.",
     "explanation": "Hình dạng chiếc ủng của Ý là một trong những đường viền quốc gia dễ nhận biết nhất."
+  },
+  "q_geo_013": {
+    "question": "Dãy núi dài nhất thế giới là gì?",
+    "correct": "Dãy Andes",
+    "wrong": [
+      "Dãy Himalaya",
+      "Dãy Rocky",
+      "Dãy Alps"
+    ],
+    "hint": "Dãy núi này trải dài dọc bờ biển phía tây Nam Mỹ.",
+    "explanation": "Dãy Andes trải dài hơn 7.000 km qua bảy quốc gia Nam Mỹ, là dãy núi lục địa dài nhất."
+  },
+  "q_geo_014": {
+    "question": "Quốc gia nào có nhiều kim tự tháp nhất thế giới?",
+    "correct": "Sudan",
+    "wrong": [
+      "Ai Cập",
+      "Mexico",
+      "Peru"
+    ],
+    "hint": "Quốc gia châu Phi này có hơn 200 kim tự tháp, nhiều hơn nước láng giềng phía bắc nổi tiếng.",
+    "explanation": "Sudan có khoảng 255 kim tự tháp, được xây bởi các vương quốc Nubia cổ đại của Kush, so với khoảng 138 của Ai Cập."
   }
 }

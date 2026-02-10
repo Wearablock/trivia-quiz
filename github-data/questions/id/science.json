@@ -141,5 +141,38 @@
     ],
     "hint": "Simbol ini berasal dari bahasa Latin 'ferrum'.",
     "explanation": "Fe berarti besi, dari bahasa Latin 'ferrum'."
+  },
+  "q_sci_013": {
+    "question": "Apa unsur yang paling melimpah di alam semesta?",
+    "correct": "Hidrogen",
+    "wrong": [
+      "Helium",
+      "Oksigen",
+      "Karbon"
+    ],
+    "hint": "Unsur ini menyusun sekitar 75% dari semua materi normal dan merupakan unsur paling ringan.",
+    "explanation": "Hidrogen menyusun sekitar 75% dari total massa barion di alam semesta dan merupakan bahan bakar fusi bintang."
+  },
+  "q_sci_014": {
+    "question": "Siapa yang mengajukan teori relativitas umum?",
+    "correct": "Albert Einstein",
+    "wrong": [
+      "Isaac Newton",
+      "Niels Bohr",
+      "Max Planck"
+    ],
+    "hint": "Fisikawan ini menerbitkan teorinya pada tahun 1915, menggambarkan gravitasi sebagai kelengkungan ruang-waktu.",
+    "explanation": "Albert Einstein menerbitkan teori relativitas umumnya pada tahun 1915, merevolusi pemahaman kita tentang gravitasi, ruang, dan waktu."
+  },
+  "q_sci_015": {
+    "question": "Berapa nilai pH air murni?",
+    "correct": "7",
+    "wrong": [
+      "0",
+      "5",
+      "14"
+    ],
+    "hint": "Nilai ini dianggap netral, tidak asam maupun basa.",
+    "explanation": "Air murni memiliki pH 7, yang merupakan titik netral pada skala pH dari 0 (paling asam) hingga 14 (paling basa)."
   }
 }

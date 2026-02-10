@@ -130,5 +130,38 @@
     ],
     "hint": "Apple II ra mắt năm 1977 là một trong những máy vi tính sản xuất hàng loạt đầu tiên.",
     "explanation": "Apple II (1977) đã giúp khởi đầu cuộc cách mạng PC."
+  },
+  "q_tec_013": {
+    "question": "Trong tin học, 'AI' là viết tắt của gì?",
+    "correct": "Trí tuệ nhân tạo (Artificial Intelligence)",
+    "wrong": [
+      "Giao diện tự động",
+      "Tích hợp nâng cao",
+      "Đầu vào tương tự"
+    ],
+    "hint": "Lĩnh vực này nhằm tạo ra máy móc có thể học, suy luận và đưa ra quyết định như con người.",
+    "explanation": "Trí tuệ nhân tạo (AI) là một nhánh của khoa học máy tính tập trung vào việc tạo ra các hệ thống có khả năng thực hiện các nhiệm vụ thường đòi hỏi trí thông minh của con người."
+  },
+  "q_tec_014": {
+    "question": "Công ty nào đã phát triển ChatGPT?",
+    "correct": "OpenAI",
+    "wrong": [
+      "Google",
+      "Meta",
+      "Microsoft"
+    ],
+    "hint": "Phòng thí nghiệm nghiên cứu AI này được đồng sáng lập bởi Sam Altman và ra mắt ChatGPT vào tháng 11 năm 2022.",
+    "explanation": "OpenAI đã phát triển ChatGPT, một chatbot mô hình ngôn ngữ lớn ra mắt vào tháng 11 năm 2022, trở thành ứng dụng tiêu dùng phát triển nhanh nhất trong lịch sử."
+  },
+  "q_tec_015": {
+    "question": "Trong lưu trữ máy tính, 'SSD' là viết tắt của gì?",
+    "correct": "Ổ đĩa thể rắn (Solid State Drive)",
+    "wrong": [
+      "Đĩa siêu tốc",
+      "Thiết bị lưu trữ hệ thống",
+      "Ổ tín hiệu nối tiếp"
+    ],
+    "hint": "Khác với ổ cứng truyền thống, loại lưu trữ này không có bộ phận chuyển động và nhanh hơn nhiều.",
+    "explanation": "SSD (Solid State Drive) sử dụng bộ nhớ flash không có bộ phận cơ khí, cung cấp tốc độ đọc/ghi nhanh hơn và độ bền cao hơn so với HDD truyền thống."
   }
 }

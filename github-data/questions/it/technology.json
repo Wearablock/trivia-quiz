@@ -130,5 +130,38 @@
     ],
     "hint": "L'Apple II del 1977 fu uno dei primi microcomputer prodotti in serie.",
     "explanation": "L'Apple II (1977) contribuì a lanciare la rivoluzione del PC."
+  },
+  "q_tec_013": {
+    "question": "Cosa significa 'IA' nell'informatica?",
+    "correct": "Intelligenza Artificiale",
+    "wrong": [
+      "Interfaccia Automatizzata",
+      "Integrazione Avanzata",
+      "Input Analogico"
+    ],
+    "hint": "Questo campo mira a creare macchine capaci di apprendere, ragionare e prendere decisioni come gli esseri umani.",
+    "explanation": "L'Intelligenza Artificiale (IA) è un ramo dell'informatica focalizzato sulla creazione di sistemi capaci di svolgere compiti che normalmente richiedono l'intelligenza umana."
+  },
+  "q_tec_014": {
+    "question": "Quale azienda ha sviluppato ChatGPT?",
+    "correct": "OpenAI",
+    "wrong": [
+      "Google",
+      "Meta",
+      "Microsoft"
+    ],
+    "hint": "Questo laboratorio di ricerca sull'IA è stato cofondato da Sam Altman e ha lanciato ChatGPT nel novembre 2022.",
+    "explanation": "OpenAI ha sviluppato ChatGPT, un chatbot basato su un grande modello linguistico lanciato nel novembre 2022, diventato l'applicazione consumer a più rapida crescita della storia."
+  },
+  "q_tec_015": {
+    "question": "Cosa significa 'SSD' nell'archiviazione informatica?",
+    "correct": "Unità a Stato Solido (Solid State Drive)",
+    "wrong": [
+      "Disco Super Veloce",
+      "Dispositivo di Archiviazione di Sistema",
+      "Unità a Segnale Seriale"
+    ],
+    "hint": "A differenza dei dischi rigidi tradizionali, questa memoria non ha parti mobili ed è molto più veloce.",
+    "explanation": "L'SSD (Solid State Drive) utilizza memoria flash senza parti meccaniche, offrendo velocità di lettura/scrittura più elevate e maggiore durata rispetto agli HDD tradizionali."
   }
 }

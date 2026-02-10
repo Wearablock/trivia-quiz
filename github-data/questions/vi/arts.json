@@ -141,5 +141,38 @@
     ],
     "hint": "Câu chuyện diễn ra ở Seville và có aria 'Habanera' nổi tiếng.",
     "explanation": "Carmen của Georges Bizet ra mắt lần đầu năm 1875."
+  },
+  "q_art_014": {
+    "question": "Vở ballet nào của Tchaikovsky kể về công chúa bị nguyền trở thành thiên nga?",
+    "correct": "Hồ thiên nga",
+    "wrong": [
+      "Kẹp hạt dẻ",
+      "Người đẹp ngủ trong rừng",
+      "Giselle"
+    ],
+    "hint": "Vở ballet này ra mắt tại Moscow năm 1877 và là một trong những vở ballet được biểu diễn nhiều nhất thế giới.",
+    "explanation": "Hồ thiên nga, do Tchaikovsky sáng tác năm 1875-1876, kể câu chuyện công chúa Odette bị phù thủy độc ác biến thành thiên nga."
+  },
+  "q_art_015": {
+    "question": "Ai đã viết tiểu thuyết phản địa đàng '1984'?",
+    "correct": "George Orwell",
+    "wrong": [
+      "Aldous Huxley",
+      "Ray Bradbury",
+      "H.G. Wells"
+    ],
+    "hint": "Nhà văn người Anh này cũng viết 'Trại súc vật' và từng chiến đấu trong Nội chiến Tây Ban Nha.",
+    "explanation": "George Orwell xuất bản '1984' năm 1949, mô tả một xã hội toàn trị dưới sự giám sát liên tục của Big Brother."
+  },
+  "q_art_016": {
+    "question": "Nữ họa sĩ Mexico nào nổi tiếng với những bức chân dung tự họa sống động lấy cảm hứng từ nghệ thuật dân gian?",
+    "correct": "Frida Kahlo",
+    "wrong": [
+      "Diego Rivera",
+      "Remedios Varo",
+      "Rufino Tamayo"
+    ],
+    "hint": "Bà kết hôn với họa sĩ bích họa Diego Rivera và từng gặp tai nạn xe buýt nghiêm trọng thời trẻ.",
+    "explanation": "Frida Kahlo đã tạo ra 55 bức chân dung tự họa phản ánh nỗi đau và bản sắc của bà, trở thành biểu tượng của nghệ thuật Mexico và chủ nghĩa nữ quyền."
   }
 }

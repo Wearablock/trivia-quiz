@@ -130,5 +130,38 @@
     ],
     "hint": "Dois corações bombeiam sangue para as brânquias e o terceiro para o resto do corpo.",
     "explanation": "Um polvo tem três corações."
+  },
+  "q_nat_013": {
+    "question": "Qual ave tem a rota migratória mais longa do mundo?",
+    "correct": "Andorinha-do-ártico",
+    "wrong": [
+      "Albatroz",
+      "Fuselo",
+      "Andorinha"
+    ],
+    "hint": "Esta ave viaja de polo a polo, percorrendo aproximadamente 70.000 km por ano.",
+    "explanation": "A andorinha-do-ártico migra do Ártico para a Antártida e volta todos os anos, percorrendo cerca de 70.000 km — a migração mais longa de qualquer animal."
+  },
+  "q_nat_014": {
+    "question": "Qual é a maior flor individual do mundo?",
+    "correct": "Rafflesia arnoldii",
+    "wrong": [
+      "Girassol",
+      "Jarro-titã",
+      "Vitória-régia"
+    ],
+    "hint": "Esta flor parasita das florestas tropicais do sudeste asiático é famosa pelo mau cheiro.",
+    "explanation": "A Rafflesia arnoldii pode crescer até 1 metro de diâmetro e pesar até 11 kg. Ela emite um odor de carne podre para atrair moscas polinizadoras."
+  },
+  "q_nat_015": {
+    "question": "Qual animal pode dormir por até três anos?",
+    "correct": "Caracol",
+    "wrong": [
+      "Urso",
+      "Morcego",
+      "Tartaruga"
+    ],
+    "hint": "Esta criatura lenta carrega sua casa nas costas e hiberna em condições secas.",
+    "explanation": "Algumas espécies de caracóis podem entrar em estado de dormência (estivação) por até três anos para sobreviver a condições de seca."
   }
 }

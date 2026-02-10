@@ -141,5 +141,38 @@
     ],
     "hint": "Produk lembut dan creamy ini dinamai dari wilayah di Prancis utara.",
     "explanation": "Brie adalah keju lunak dari susu sapi dari wilayah Brie, Prancis."
+  },
+  "q_foo_014": {
+    "question": "Apa minuman beralkohol tradisional Jepang yang terbuat dari beras yang difermentasi?",
+    "correct": "Sake",
+    "wrong": [
+      "Soju",
+      "Shochu",
+      "Mirin"
+    ],
+    "hint": "Minuman ini sering disajikan hangat atau dingin dan berperan dalam upacara Shinto.",
+    "explanation": "Sake adalah anggur beras Jepang yang dibuat dengan memfermentasi beras yang dipoles, dengan sejarah lebih dari 2.000 tahun."
+  },
+  "q_foo_015": {
+    "question": "Kacang apa yang menjadi bahan utama marzipan?",
+    "correct": "Almond",
+    "wrong": [
+      "Kenari",
+      "Kacang mete",
+      "Pistachio"
+    ],
+    "hint": "Kacang ini juga digunakan untuk membuat susu nabati yang populer.",
+    "explanation": "Marzipan adalah manisan yang dibuat terutama dari almond yang digiling dan gula, banyak digunakan dalam kue-kue Eropa."
+  },
+  "q_foo_016": {
+    "question": "Di negara mana pad thai berasal?",
+    "correct": "Thailand",
+    "wrong": [
+      "Vietnam",
+      "Kamboja",
+      "Malaysia"
+    ],
+    "hint": "Hidangan mi goreng ini dipromosikan sebagai makanan nasional pada tahun 1930-an.",
+    "explanation": "Pad thai dipopulerkan di Thailand pada tahun 1930-40-an sebagai bagian dari kampanye identitas nasional Perdana Menteri Plaek Phibunsongkhram."
   }
 }

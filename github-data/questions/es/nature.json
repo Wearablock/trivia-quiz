@@ -130,5 +130,38 @@
     ],
     "hint": "Dos corazones bombean sangre a las branquias y el tercero al resto del cuerpo.",
     "explanation": "Un pulpo tiene tres corazones."
+  },
+  "q_nat_013": {
+    "question": "¿Qué ave tiene la ruta migratoria más larga del mundo?",
+    "correct": "Charrán ártico",
+    "wrong": [
+      "Albatros",
+      "Aguja colipinta",
+      "Golondrina"
+    ],
+    "hint": "Esta ave viaja de polo a polo, recorriendo aproximadamente 70.000 km cada año.",
+    "explanation": "El charrán ártico migra del Ártico a la Antártida y viceversa cada año, cubriendo unos 70.000 km, la migración más larga de cualquier animal."
+  },
+  "q_nat_014": {
+    "question": "¿Cuál es la flor individual más grande del mundo?",
+    "correct": "Rafflesia arnoldii",
+    "wrong": [
+      "Girasol",
+      "Aro gigante",
+      "Victoria regia"
+    ],
+    "hint": "Esta flor parásita de las selvas tropicales del sudeste asiático es famosa por su mal olor.",
+    "explanation": "La Rafflesia arnoldii puede crecer hasta 1 metro de diámetro y pesar hasta 11 kg. Emite un olor a carne en descomposición para atraer moscas polinizadoras."
+  },
+  "q_nat_015": {
+    "question": "¿Qué animal puede dormir hasta tres años?",
+    "correct": "Caracol",
+    "wrong": [
+      "Oso",
+      "Murciélago",
+      "Tortuga"
+    ],
+    "hint": "Esta criatura de movimiento lento lleva su hogar a cuestas e hiberna en condiciones secas.",
+    "explanation": "Algunas especies de caracoles pueden entrar en un estado de dormancia (estivación) de hasta tres años para sobrevivir a condiciones de sequía."
   }
 }

@@ -141,5 +141,38 @@
     ],
     "hint": "A história se passa em Sevilha e inclui a famosa ária 'Habanera'.",
     "explanation": "Carmen de Georges Bizet estreou em 1875."
+  },
+  "q_art_014": {
+    "question": "Qual balé de Tchaikovsky apresenta uma princesa amaldiçoada que se transforma em cisne?",
+    "correct": "O Lago dos Cisnes",
+    "wrong": [
+      "O Quebra-Nozes",
+      "A Bela Adormecida",
+      "Giselle"
+    ],
+    "hint": "Este balé estreou em Moscou em 1877 e é um dos mais encenados do mundo.",
+    "explanation": "O Lago dos Cisnes, composto por Tchaikovsky em 1875-1876, conta a história da Princesa Odette, transformada em cisne por um feiticeiro malvado."
+  },
+  "q_art_015": {
+    "question": "Quem escreveu o romance distópico '1984'?",
+    "correct": "George Orwell",
+    "wrong": [
+      "Aldous Huxley",
+      "Ray Bradbury",
+      "H.G. Wells"
+    ],
+    "hint": "Este autor britânico também escreveu 'A Revolução dos Bichos' e lutou na Guerra Civil Espanhola.",
+    "explanation": "George Orwell publicou '1984' em 1949, retratando uma sociedade totalitária sob vigilância constante do Grande Irmão."
+  },
+  "q_art_016": {
+    "question": "Qual artista mexicana é famosa por autorretratos vívidos inspirados na arte popular?",
+    "correct": "Frida Kahlo",
+    "wrong": [
+      "Diego Rivera",
+      "Remedios Varo",
+      "Rufino Tamayo"
+    ],
+    "hint": "Ela foi casada com o muralista Diego Rivera e sofreu um grave acidente de ônibus na juventude.",
+    "explanation": "Frida Kahlo criou 55 autorretratos refletindo sua dor e identidade, tornando-se um ícone da arte mexicana e do feminismo."
   }
 }

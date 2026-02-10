@@ -130,5 +130,38 @@
     ],
     "hint": "Due cuori pompano sangue alle branchie, il terzo al resto del corpo.",
     "explanation": "Un polpo ha tre cuori."
+  },
+  "q_nat_013": {
+    "question": "Quale uccello ha la rotta migratoria più lunga al mondo?",
+    "correct": "Sterna artica",
+    "wrong": [
+      "Albatros",
+      "Pittima minore",
+      "Rondine"
+    ],
+    "hint": "Questo uccello viaggia da polo a polo, percorrendo circa 70.000 km ogni anno.",
+    "explanation": "La sterna artica migra dall'Artico all'Antartico e ritorno ogni anno, coprendo circa 70.000 km — la migrazione più lunga di qualsiasi animale."
+  },
+  "q_nat_014": {
+    "question": "Qual è il fiore singolo più grande del mondo?",
+    "correct": "Rafflesia arnoldii",
+    "wrong": [
+      "Girasole",
+      "Aro titano",
+      "Ninfea Victoria"
+    ],
+    "hint": "Questo fiore parassita delle foreste pluviali del Sud-Est asiatico è famoso per il suo cattivo odore.",
+    "explanation": "La Rafflesia arnoldii può raggiungere 1 metro di diametro e pesare fino a 11 kg. Emette un odore di carne in decomposizione per attirare le mosche impollinatrici."
+  },
+  "q_nat_015": {
+    "question": "Quale animale può dormire fino a tre anni?",
+    "correct": "Lumaca",
+    "wrong": [
+      "Orso",
+      "Pipistrello",
+      "Tartaruga"
+    ],
+    "hint": "Questa creatura lenta porta la sua casa sulla schiena e va in letargo in condizioni di siccità.",
+    "explanation": "Alcune specie di lumache possono entrare in uno stato di dormienza (estivazione) fino a tre anni per sopravvivere alla siccità."
   }
 }

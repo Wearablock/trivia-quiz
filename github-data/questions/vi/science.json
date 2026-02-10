@@ -141,5 +141,38 @@
     ],
     "hint": "Ký hiệu này xuất phát từ tiếng Latin 'ferrum'.",
     "explanation": "Fe là ký hiệu của sắt, từ tiếng Latin 'ferrum'."
+  },
+  "q_sci_013": {
+    "question": "Nguyên tố phong phú nhất trong vũ trụ là gì?",
+    "correct": "Hydro",
+    "wrong": [
+      "Heli",
+      "Oxy",
+      "Carbon"
+    ],
+    "hint": "Nguyên tố này chiếm khoảng 75% tổng vật chất thông thường và là nguyên tố nhẹ nhất.",
+    "explanation": "Hydro chiếm khoảng 75% tổng khối lượng baryon trong vũ trụ và là nhiên liệu cho phản ứng tổng hợp hạt nhân sao."
+  },
+  "q_sci_014": {
+    "question": "Ai đã đề xuất thuyết tương đối rộng?",
+    "correct": "Albert Einstein",
+    "wrong": [
+      "Isaac Newton",
+      "Niels Bohr",
+      "Max Planck"
+    ],
+    "hint": "Nhà vật lý này công bố lý thuyết năm 1915, mô tả lực hấp dẫn là độ cong của không-thời gian.",
+    "explanation": "Albert Einstein công bố thuyết tương đối rộng năm 1915, cách mạng hóa hiểu biết của chúng ta về lực hấp dẫn, không gian và thời gian."
+  },
+  "q_sci_015": {
+    "question": "Giá trị pH của nước tinh khiết là bao nhiêu?",
+    "correct": "7",
+    "wrong": [
+      "0",
+      "5",
+      "14"
+    ],
+    "hint": "Giá trị này được coi là trung tính, không phải axit cũng không phải bazơ.",
+    "explanation": "Nước tinh khiết có pH bằng 7, là điểm trung tính trên thang pH từ 0 (axit nhất) đến 14 (bazơ nhất)."
   }
 }

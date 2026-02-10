@@ -2,92 +2,177 @@
   "q_sci_001": {
     "question": "What is the chemical symbol for water?",
     "correct": "H2O",
-    "wrong": ["CO2", "NaCl", "O2"],
+    "wrong": [
+      "CO2",
+      "NaCl",
+      "O2"
+    ],
     "hint": "It contains two hydrogen atoms and one oxygen atom.",
     "explanation": "Water consists of two hydrogen atoms and one oxygen atom."
   },
   "q_sci_002": {
     "question": "What planet is known as the Red Planet?",
     "correct": "Mars",
-    "wrong": ["Venus", "Jupiter", "Saturn"],
+    "wrong": [
+      "Venus",
+      "Jupiter",
+      "Saturn"
+    ],
     "hint": "It's named after the Roman god of war.",
     "explanation": "Mars appears red due to iron oxide (rust) on its surface."
   },
   "q_sci_003": {
     "question": "What is the hardest natural substance on Earth?",
     "correct": "Diamond",
-    "wrong": ["Gold", "Iron", "Quartz"],
+    "wrong": [
+      "Gold",
+      "Iron",
+      "Quartz"
+    ],
     "hint": "This precious gemstone is often used in engagement rings.",
     "explanation": "Diamond rates 10 on the Mohs hardness scale, the maximum rating."
   },
   "q_sci_004": {
     "question": "What is the speed of light in a vacuum?",
     "correct": "299,792 km/s",
-    "wrong": ["150,000 km/s", "500,000 km/s", "1,000,000 km/s"],
+    "wrong": [
+      "150,000 km/s",
+      "500,000 km/s",
+      "1,000,000 km/s"
+    ],
     "hint": "It's approximately 300,000 km/s, which Einstein used in E=mc².",
     "explanation": "Light travels at approximately 299,792 kilometers per second in a vacuum."
   },
   "q_sci_005": {
     "question": "What is the smallest unit of matter?",
     "correct": "Atom",
-    "wrong": ["Molecule", "Cell", "Electron"],
+    "wrong": [
+      "Molecule",
+      "Cell",
+      "Electron"
+    ],
     "hint": "Its name comes from Greek meaning 'indivisible'.",
     "explanation": "While subatomic particles exist, atoms are the smallest units that retain chemical properties."
   },
   "q_sci_100": {
     "question": "What is the approximate temperature of the Sun's core?",
     "correct": "15 million °C",
-    "wrong": ["1 million °C", "100 million °C", "6,000 °C"],
+    "wrong": [
+      "1 million °C",
+      "100 million °C",
+      "6,000 °C"
+    ],
     "hint": "It's hot enough to fuse hydrogen atoms into helium.",
     "explanation": "The Sun's core reaches about 15 million degrees Celsius, enabling nuclear fusion."
   },
   "q_sci_006": {
     "question": "What is the most abundant gas in Earth's atmosphere?",
     "correct": "Nitrogen",
-    "wrong": ["Oxygen", "Carbon Dioxide", "Argon"],
+    "wrong": [
+      "Oxygen",
+      "Carbon Dioxide",
+      "Argon"
+    ],
     "hint": "It makes up about 78% of the air we breathe.",
     "explanation": "Nitrogen makes up approximately 78% of Earth's atmosphere, while oxygen makes up about 21%."
   },
   "q_sci_007": {
     "question": "What is the chemical symbol for gold?",
     "correct": "Au",
-    "wrong": ["Go", "Gd", "Ag"],
+    "wrong": [
+      "Go",
+      "Gd",
+      "Ag"
+    ],
     "hint": "It comes from the Latin word 'aurum'.",
     "explanation": "Gold's chemical symbol Au is derived from the Latin word 'aurum', meaning 'shining dawn'."
   },
   "q_sci_008": {
     "question": "Which planet has the most moons in our solar system?",
     "correct": "Saturn",
-    "wrong": ["Jupiter", "Uranus", "Neptune"],
+    "wrong": [
+      "Jupiter",
+      "Uranus",
+      "Neptune"
+    ],
     "hint": "This ringed planet has over 140 known moons including Titan.",
     "explanation": "Saturn has over 140 confirmed moons, surpassing Jupiter's count, with Titan being the largest."
   },
   "q_sci_009": {
     "question": "What does DNA stand for?",
     "correct": "Deoxyribonucleic Acid",
-    "wrong": ["Dioxynitric Acid", "Deoxyribose Nucleic Atom", "Dynamic Nucleic Acid"],
+    "wrong": [
+      "Dioxynitric Acid",
+      "Deoxyribose Nucleic Atom",
+      "Dynamic Nucleic Acid"
+    ],
     "hint": "It has a double-helix structure and carries genetic information.",
     "explanation": "DNA (Deoxyribonucleic Acid) carries the genetic instructions for all living organisms."
   },
   "q_sci_010": {
     "question": "What is the boiling point of water at sea level?",
     "correct": "100°C",
-    "wrong": ["90°C", "110°C", "120°C"],
+    "wrong": [
+      "90°C",
+      "110°C",
+      "120°C"
+    ],
     "hint": "In Fahrenheit, this temperature is 212 degrees.",
     "explanation": "Water boils at 100°C (212°F) at standard atmospheric pressure at sea level."
   },
   "q_sci_011": {
     "question": "What is the nearest star to Earth?",
     "correct": "The Sun",
-    "wrong": ["Proxima Centauri", "Alpha Centauri", "Sirius"],
+    "wrong": [
+      "Proxima Centauri",
+      "Alpha Centauri",
+      "Sirius"
+    ],
     "hint": "It's so close that its light reaches us in about 8 minutes.",
     "explanation": "The Sun is about 150 million km from Earth. The next nearest star, Proxima Centauri, is about 4.24 light-years away."
   },
   "q_sci_012": {
     "question": "What element does the chemical symbol 'Fe' represent?",
     "correct": "Iron",
-    "wrong": ["Lead", "Fluorine", "Fermium"],
+    "wrong": [
+      "Lead",
+      "Fluorine",
+      "Fermium"
+    ],
     "hint": "The symbol comes from the Latin word 'ferrum'.",
     "explanation": "Fe stands for Iron, from the Latin 'ferrum'. It is the most common element on Earth by mass."
+  },
+  "q_sci_013": {
+    "question": "What is the most abundant element in the universe?",
+    "correct": "Hydrogen",
+    "wrong": [
+      "Helium",
+      "Oxygen",
+      "Carbon"
+    ],
+    "hint": "This element makes up about 75% of all normal matter and is the lightest element.",
+    "explanation": "Hydrogen makes up approximately 75% of all baryonic mass in the universe and is the fuel for stellar fusion."
+  },
+  "q_sci_014": {
+    "question": "Who proposed the theory of general relativity?",
+    "correct": "Albert Einstein",
+    "wrong": [
+      "Isaac Newton",
+      "Niels Bohr",
+      "Max Planck"
+    ],
+    "hint": "This physicist published the theory in 1915, describing gravity as the curvature of spacetime.",
+    "explanation": "Albert Einstein published his theory of general relativity in 1915, revolutionizing our understanding of gravity, space, and time."
+  },
+  "q_sci_015": {
+    "question": "What is the pH value of pure water?",
+    "correct": "7",
+    "wrong": [
+      "0",
+      "5",
+      "14"
+    ],
+    "hint": "This value is considered neutral, neither acidic nor basic.",
+    "explanation": "Pure water has a pH of 7, which is the neutral point on the pH scale ranging from 0 (most acidic) to 14 (most basic)."
   }
 }

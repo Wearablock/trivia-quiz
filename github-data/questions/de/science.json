@@ -141,5 +141,38 @@
     ],
     "hint": "Das Symbol stammt vom lateinischen Wort 'ferrum'.",
     "explanation": "Fe steht für Eisen, vom lateinischen 'ferrum'."
+  },
+  "q_sci_013": {
+    "question": "Was ist das häufigste Element im Universum?",
+    "correct": "Wasserstoff",
+    "wrong": [
+      "Helium",
+      "Sauerstoff",
+      "Kohlenstoff"
+    ],
+    "hint": "Dieses Element macht etwa 75 % aller normalen Materie aus und ist das leichteste Element.",
+    "explanation": "Wasserstoff macht etwa 75 % der gesamten baryonischen Masse im Universum aus und ist der Brennstoff für die stellare Fusion."
+  },
+  "q_sci_014": {
+    "question": "Wer hat die allgemeine Relativitätstheorie vorgeschlagen?",
+    "correct": "Albert Einstein",
+    "wrong": [
+      "Isaac Newton",
+      "Niels Bohr",
+      "Max Planck"
+    ],
+    "hint": "Dieser Physiker veröffentlichte die Theorie 1915 und beschrieb die Gravitation als Krümmung der Raumzeit.",
+    "explanation": "Albert Einstein veröffentlichte seine allgemeine Relativitätstheorie 1915 und revolutionierte unser Verständnis von Gravitation, Raum und Zeit."
+  },
+  "q_sci_015": {
+    "question": "Welchen pH-Wert hat reines Wasser?",
+    "correct": "7",
+    "wrong": [
+      "0",
+      "5",
+      "14"
+    ],
+    "hint": "Dieser Wert gilt als neutral, weder sauer noch basisch.",
+    "explanation": "Reines Wasser hat einen pH-Wert von 7, dem neutralen Punkt auf der pH-Skala von 0 (am sauersten) bis 14 (am basischsten)."
   }
 }

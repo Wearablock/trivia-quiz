@@ -141,5 +141,27 @@
     ],
     "hint": "Die Spieler rotieren ihre Positionen nach jedem gewonnenen Aufschlag.",
     "explanation": "Jedes Volleyballteam hat 6 Spieler auf dem Feld."
+  },
+  "q_spo_014": {
+    "question": "In welcher Stadt fanden 1896 die ersten modernen Olympischen Spiele statt?",
+    "correct": "Athen",
+    "wrong": [
+      "Paris",
+      "London",
+      "Rom"
+    ],
+    "hint": "Diese Stadt ist die Hauptstadt Griechenlands, der Wiege der antiken Olympischen Spiele.",
+    "explanation": "Die ersten modernen Olympischen Spiele fanden 1896 in Athen, Griechenland, statt, organisiert von Pierre de Coubertin und dem IOC."
+  },
+  "q_spo_015": {
+    "question": "Wie viele Strikes ergeben im Baseball ein Out?",
+    "correct": "3",
+    "wrong": [
+      "2",
+      "4",
+      "5"
+    ],
+    "hint": "Diese Regel ist eine der grundlegendsten im Sport, oft als 'drei Strikes und du bist raus' bezeichnet.",
+    "explanation": "Im Baseball wird ein Schlagmann nach drei Strikes für out erklärt, eine grundlegende Regel seit den Anfängen des Sports."
   }
 }

@@ -141,5 +141,27 @@
     ],
     "hint": "Các cầu thủ xoay vòng vị trí mỗi khi giành quyền giao bóng.",
     "explanation": "Mỗi đội bóng chuyền có 6 cầu thủ trên sân."
+  },
+  "q_spo_014": {
+    "question": "Thế vận hội hiện đại đầu tiên được tổ chức tại thành phố nào vào năm 1896?",
+    "correct": "Athens",
+    "wrong": [
+      "Paris",
+      "London",
+      "Rome"
+    ],
+    "hint": "Thành phố này là thủ đô của Hy Lạp, nơi khởi nguồn của Thế vận hội cổ đại.",
+    "explanation": "Thế vận hội hiện đại đầu tiên được tổ chức tại Athens, Hy Lạp, năm 1896, do Pierre de Coubertin và IOC tổ chức."
+  },
+  "q_spo_015": {
+    "question": "Trong bóng chày, bao nhiêu strike tạo thành một out?",
+    "correct": "3",
+    "wrong": [
+      "2",
+      "4",
+      "5"
+    ],
+    "hint": "Đây là một trong những quy tắc cơ bản nhất của môn thể thao, thường được gọi là 'ba strike là bạn ra ngoài'.",
+    "explanation": "Trong bóng chày, người đánh bóng bị tuyên bố out sau khi tích lũy ba strike, một quy tắc cơ bản từ những ngày đầu của môn thể thao."
   }
 }

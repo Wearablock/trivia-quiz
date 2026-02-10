@@ -141,5 +141,27 @@
     ],
     "hint": "Questa città romana fu conservata sotto la cenere vulcanica e riscoperta nel XVIII secolo.",
     "explanation": "Pompei fu sepolta sotto metri di cenere vulcanica."
+  },
+  "q_his_014": {
+    "question": "Chi fu il primo imperatore a unificare la Cina?",
+    "correct": "Qin Shi Huang",
+    "wrong": [
+      "Liu Bang",
+      "Kublai Khan",
+      "Wu Zetian"
+    ],
+    "hint": "Ordinò anche la costruzione della Grande Muraglia e fu sepolto con il famoso Esercito di Terracotta.",
+    "explanation": "Qin Shi Huang unificò la Cina nel 221 a.C., fondò la dinastia Qin e standardizzò pesi, misure e scrittura in tutto l'impero."
+  },
+  "q_his_015": {
+    "question": "In quale anno si verificò il disastro nucleare di Chernobyl?",
+    "correct": "1986",
+    "wrong": [
+      "1984",
+      "1988",
+      "1979"
+    ],
+    "hint": "Questo disastro avvenne in Unione Sovietica, nell'attuale Ucraina settentrionale.",
+    "explanation": "Il disastro di Chernobyl avvenne il 26 aprile 1986 e rimane il peggior incidente in una centrale nucleare della storia."
   }
 }

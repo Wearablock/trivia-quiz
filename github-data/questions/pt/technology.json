@@ -130,5 +130,38 @@
     ],
     "hint": "O Apple II de 1977 foi um dos primeiros microcomputadores produzidos em massa.",
     "explanation": "O Apple II (1977) ajudou a iniciar a revolução do PC."
+  },
+  "q_tec_013": {
+    "question": "O que significa 'IA' na computação?",
+    "correct": "Inteligência Artificial",
+    "wrong": [
+      "Interface Automatizada",
+      "Integração Avançada",
+      "Entrada Analógica"
+    ],
+    "hint": "Este campo visa criar máquinas que possam aprender, raciocinar e tomar decisões como humanos.",
+    "explanation": "Inteligência Artificial (IA) é um ramo da ciência da computação focado na criação de sistemas capazes de realizar tarefas que normalmente requerem inteligência humana."
+  },
+  "q_tec_014": {
+    "question": "Qual empresa desenvolveu o ChatGPT?",
+    "correct": "OpenAI",
+    "wrong": [
+      "Google",
+      "Meta",
+      "Microsoft"
+    ],
+    "hint": "Este laboratório de pesquisa em IA foi cofundado por Sam Altman e lançou o ChatGPT em novembro de 2022.",
+    "explanation": "A OpenAI desenvolveu o ChatGPT, um chatbot de modelo de linguagem grande lançado em novembro de 2022 que se tornou o aplicativo de consumo com crescimento mais rápido da história."
+  },
+  "q_tec_015": {
+    "question": "O que significa 'SSD' em armazenamento de computador?",
+    "correct": "Unidade de Estado Sólido (Solid State Drive)",
+    "wrong": [
+      "Disco de Super Velocidade",
+      "Dispositivo de Armazenamento do Sistema",
+      "Unidade de Sinal Serial"
+    ],
+    "hint": "Ao contrário dos discos rígidos tradicionais, este armazenamento não tem partes móveis e é muito mais rápido.",
+    "explanation": "SSD (Solid State Drive) usa memória flash sem partes mecânicas, oferecendo velocidades de leitura/gravação mais rápidas e maior durabilidade do que os HDDs tradicionais."
   }
 }

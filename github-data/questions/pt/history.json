@@ -141,5 +141,27 @@
     ],
     "hint": "Esta cidade romana foi preservada sob cinzas vulcânicas e redescoberta no século XVIII.",
     "explanation": "Pompeia foi soterrada sob metros de cinzas vulcânicas."
+  },
+  "q_his_014": {
+    "question": "Quem foi o primeiro imperador a unificar a China?",
+    "correct": "Qin Shi Huang",
+    "wrong": [
+      "Liu Bang",
+      "Kublai Khan",
+      "Wu Zetian"
+    ],
+    "hint": "Ele também ordenou a construção da Grande Muralha e foi enterrado com o famoso Exército de Terracota.",
+    "explanation": "Qin Shi Huang unificou a China em 221 a.C., estabeleceu a dinastia Qin e padronizou pesos, medidas e escrita em todo o império."
+  },
+  "q_his_015": {
+    "question": "Em que ano ocorreu o desastre nuclear de Chernobyl?",
+    "correct": "1986",
+    "wrong": [
+      "1984",
+      "1988",
+      "1979"
+    ],
+    "hint": "Este desastre ocorreu na União Soviética, no que hoje é o norte da Ucrânia.",
+    "explanation": "O desastre de Chernobyl ocorreu em 26 de abril de 1986 e continua sendo o pior acidente em usina nuclear da história."
   }
 }

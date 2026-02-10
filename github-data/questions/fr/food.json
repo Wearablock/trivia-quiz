@@ -141,5 +141,38 @@
     ],
     "hint": "Ce produit doux et crémeux porte le nom d'une région du nord de la France.",
     "explanation": "Le Brie est un fromage à pâte molle au lait de vache de la région de Brie."
+  },
+  "q_foo_014": {
+    "question": "Quelle est la boisson alcoolisée traditionnelle japonaise faite à partir de riz fermenté ?",
+    "correct": "Saké",
+    "wrong": [
+      "Soju",
+      "Shochu",
+      "Mirin"
+    ],
+    "hint": "Elle est souvent servie chaude ou froide et joue un rôle dans les cérémonies shintoïstes.",
+    "explanation": "Le saké est un vin de riz japonais brassé par fermentation de riz poli, avec une histoire de plus de 2 000 ans."
+  },
+  "q_foo_015": {
+    "question": "Quel fruit à coque est l'ingrédient principal du massepain ?",
+    "correct": "Amande",
+    "wrong": [
+      "Noix",
+      "Noix de cajou",
+      "Pistache"
+    ],
+    "hint": "Ce fruit à coque est aussi utilisé pour fabriquer un lait végétal populaire.",
+    "explanation": "Le massepain est une confiserie faite principalement d'amandes moulues et de sucre, largement utilisée dans les pâtisseries européennes."
+  },
+  "q_foo_016": {
+    "question": "Dans quel pays le pad thaï est-il né ?",
+    "correct": "Thaïlande",
+    "wrong": [
+      "Vietnam",
+      "Cambodge",
+      "Malaisie"
+    ],
+    "hint": "Ce plat de nouilles sautées a été promu comme plat national dans les années 1930.",
+    "explanation": "Le pad thaï a été popularisé en Thaïlande dans les années 1930-40 dans le cadre d'une campagne d'identité nationale du Premier ministre Plaek Phibunsongkhram."
   }
 }

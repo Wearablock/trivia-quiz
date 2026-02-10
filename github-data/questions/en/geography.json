@@ -2,92 +2,166 @@
   "q_geo_001": {
     "question": "What is the capital of France?",
     "correct": "Paris",
-    "wrong": ["London", "Berlin", "Madrid"],
+    "wrong": [
+      "London",
+      "Berlin",
+      "Madrid"
+    ],
     "hint": "This city is famous for the Eiffel Tower.",
     "explanation": "Paris has been the capital of France since the late 10th century."
   },
   "q_geo_002": {
     "question": "Which is the largest ocean on Earth?",
     "correct": "Pacific Ocean",
-    "wrong": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean"],
+    "wrong": [
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Arctic Ocean"
+    ],
     "hint": "Its name means 'peaceful' in Latin.",
     "explanation": "The Pacific Ocean covers approximately 63 million square miles."
   },
   "q_geo_003": {
     "question": "Which country has the longest coastline in the world?",
     "correct": "Canada",
-    "wrong": ["Russia", "Australia", "Indonesia"],
+    "wrong": [
+      "Russia",
+      "Australia",
+      "Indonesia"
+    ],
     "hint": "This country shares the world's longest land border with the USA.",
     "explanation": "Canada has over 202,080 km of coastline."
   },
   "q_geo_004": {
     "question": "What is the capital of Australia?",
     "correct": "Canberra",
-    "wrong": ["Sydney", "Melbourne", "Brisbane"],
+    "wrong": [
+      "Sydney",
+      "Melbourne",
+      "Brisbane"
+    ],
     "hint": "It was purpose-built as the capital and is not the largest city.",
     "explanation": "Canberra was selected as the capital in 1908 as a compromise between Sydney and Melbourne."
   },
   "q_geo_005": {
     "question": "Which river flows through the most countries?",
     "correct": "Danube",
-    "wrong": ["Nile", "Amazon", "Rhine"],
+    "wrong": [
+      "Nile",
+      "Amazon",
+      "Rhine"
+    ],
     "hint": "This river flows through 10 European countries including Germany and Austria.",
     "explanation": "The Danube flows through 10 countries in Europe."
   },
   "q_geo_100": {
     "question": "What is the highest mountain in the world?",
     "correct": "Mount Everest",
-    "wrong": ["K2", "Kangchenjunga", "Lhotse"],
+    "wrong": [
+      "K2",
+      "Kangchenjunga",
+      "Lhotse"
+    ],
     "hint": "Located in the Himalayas on the border of Nepal and Tibet.",
     "explanation": "Mount Everest stands at 8,849 meters (29,032 feet) above sea level."
   },
   "q_geo_006": {
     "question": "Which desert is the largest hot desert in the world?",
     "correct": "Sahara",
-    "wrong": ["Arabian", "Gobi", "Kalahari"],
+    "wrong": [
+      "Arabian",
+      "Gobi",
+      "Kalahari"
+    ],
     "hint": "This African desert is almost as large as the entire United States.",
     "explanation": "The Sahara Desert covers approximately 9.2 million square kilometers across North Africa."
   },
   "q_geo_007": {
     "question": "What is the smallest country in the world by area?",
     "correct": "Vatican City",
-    "wrong": ["Monaco", "San Marino", "Liechtenstein"],
+    "wrong": [
+      "Monaco",
+      "San Marino",
+      "Liechtenstein"
+    ],
     "hint": "This country is located entirely within the city of Rome.",
     "explanation": "Vatican City covers only 0.44 square kilometers and is the headquarters of the Roman Catholic Church."
   },
   "q_geo_008": {
     "question": "Which strait separates Europe from Asia?",
     "correct": "Bosphorus",
-    "wrong": ["Strait of Gibraltar", "Strait of Malacca", "Strait of Hormuz"],
+    "wrong": [
+      "Strait of Gibraltar",
+      "Strait of Malacca",
+      "Strait of Hormuz"
+    ],
     "hint": "This narrow waterway runs through the city of Istanbul.",
     "explanation": "The Bosphorus strait divides Istanbul and separates European Turkey from Asian Turkey."
   },
   "q_geo_009": {
     "question": "What is the longest river in South America?",
     "correct": "Amazon",
-    "wrong": ["Paraná", "Orinoco", "São Francisco"],
+    "wrong": [
+      "Paraná",
+      "Orinoco",
+      "São Francisco"
+    ],
     "hint": "This river carries more water than any other river and flows through the world's largest rainforest.",
     "explanation": "The Amazon River stretches approximately 6,400 km and has the largest discharge of any river."
   },
   "q_geo_010": {
     "question": "Which country has the most time zones?",
     "correct": "France",
-    "wrong": ["Russia", "United States", "United Kingdom"],
+    "wrong": [
+      "Russia",
+      "United States",
+      "United Kingdom"
+    ],
     "hint": "Its overseas territories span across the globe from the Caribbean to the Pacific.",
     "explanation": "France has 12 time zones due to its overseas territories, more than any other country including Russia's 11."
   },
   "q_geo_011": {
     "question": "What is the driest continent on Earth?",
     "correct": "Antarctica",
-    "wrong": ["Africa", "Australia", "Asia"],
+    "wrong": [
+      "Africa",
+      "Australia",
+      "Asia"
+    ],
     "hint": "Despite being covered in ice, this continent receives very little precipitation.",
     "explanation": "Antarctica is technically a desert, receiving less than 200 mm of precipitation per year on average."
   },
   "q_geo_012": {
     "question": "Which European country is shaped like a boot?",
     "correct": "Italy",
-    "wrong": ["Spain", "Greece", "Portugal"],
+    "wrong": [
+      "Spain",
+      "Greece",
+      "Portugal"
+    ],
     "hint": "This country is a peninsula extending into the Mediterranean Sea.",
     "explanation": "Italy's distinctive boot shape is one of the most recognizable country outlines in the world."
+  },
+  "q_geo_013": {
+    "question": "What is the longest mountain range in the world?",
+    "correct": "Andes",
+    "wrong": [
+      "Himalayas",
+      "Rocky Mountains",
+      "Alps"
+    ],
+    "hint": "This mountain range stretches along the western coast of South America.",
+    "explanation": "The Andes stretch over 7,000 km through seven South American countries, making it the longest continental mountain range."
+  },
+  "q_geo_014": {
+    "question": "Which country has the most pyramids in the world?",
+    "correct": "Sudan",
+    "wrong": [
+      "Egypt",
+      "Mexico",
+      "Peru"
+    ],
+    "hint": "This African country has over 200 pyramids, more than its famous northern neighbor.",
+    "explanation": "Sudan has approximately 255 pyramids, built by the ancient Nubian kingdoms of Kush, compared to Egypt's roughly 138."
   }
 }

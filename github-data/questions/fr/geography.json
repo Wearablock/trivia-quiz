@@ -141,5 +141,27 @@
     ],
     "hint": "Ce pays est une péninsule qui s'avance dans la Méditerranée.",
     "explanation": "La forme de botte distinctive de l'Italie est l'un des contours de pays les plus reconnaissables."
+  },
+  "q_geo_013": {
+    "question": "Quelle est la chaîne de montagnes la plus longue du monde ?",
+    "correct": "Les Andes",
+    "wrong": [
+      "L'Himalaya",
+      "Les Montagnes Rocheuses",
+      "Les Alpes"
+    ],
+    "hint": "Cette chaîne de montagnes s'étend le long de la côte ouest de l'Amérique du Sud.",
+    "explanation": "Les Andes s'étendent sur plus de 7 000 km à travers sept pays sud-américains, ce qui en fait la plus longue chaîne de montagnes continentale."
+  },
+  "q_geo_014": {
+    "question": "Quel pays possède le plus de pyramides au monde ?",
+    "correct": "Soudan",
+    "wrong": [
+      "Égypte",
+      "Mexique",
+      "Pérou"
+    ],
+    "hint": "Ce pays africain possède plus de 200 pyramides, davantage que son célèbre voisin du nord.",
+    "explanation": "Le Soudan compte environ 255 pyramides, construites par les anciens royaumes nubiens de Koush, contre environ 138 pour l'Égypte."
   }
 }

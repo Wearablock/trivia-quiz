@@ -141,5 +141,27 @@
     ],
     "hint": "Dieses Land ist eine Halbinsel, die ins Mittelmeer ragt.",
     "explanation": "Italiens markante Stiefelform ist eine der bekanntesten Landesumrisse der Welt."
+  },
+  "q_geo_013": {
+    "question": "Was ist das längste Gebirge der Welt?",
+    "correct": "Die Anden",
+    "wrong": [
+      "Der Himalaya",
+      "Die Rocky Mountains",
+      "Die Alpen"
+    ],
+    "hint": "Dieses Gebirge erstreckt sich entlang der Westküste Südamerikas.",
+    "explanation": "Die Anden erstrecken sich über 7.000 km durch sieben südamerikanische Länder und sind damit das längste kontinentale Gebirge."
+  },
+  "q_geo_014": {
+    "question": "Welches Land hat die meisten Pyramiden der Welt?",
+    "correct": "Sudan",
+    "wrong": [
+      "Ägypten",
+      "Mexiko",
+      "Peru"
+    ],
+    "hint": "Dieses afrikanische Land hat über 200 Pyramiden, mehr als sein berühmter nördlicher Nachbar.",
+    "explanation": "Der Sudan hat etwa 255 Pyramiden, die von den antiken nubischen Königreichen von Kusch erbaut wurden, verglichen mit Ägyptens etwa 138."
   }
 }

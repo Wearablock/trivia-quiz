@@ -141,5 +141,27 @@
     ],
     "hint": "Este país é uma península que se projeta no Mediterrâneo.",
     "explanation": "O formato de bota da Itália é um dos contornos de país mais reconhecíveis do mundo."
+  },
+  "q_geo_013": {
+    "question": "Qual é a cordilheira mais longa do mundo?",
+    "correct": "Andes",
+    "wrong": [
+      "Himalaia",
+      "Montanhas Rochosas",
+      "Alpes"
+    ],
+    "hint": "Esta cordilheira se estende ao longo da costa ocidental da América do Sul.",
+    "explanation": "Os Andes se estendem por mais de 7.000 km através de sete países sul-americanos, sendo a mais longa cordilheira continental."
+  },
+  "q_geo_014": {
+    "question": "Qual país tem mais pirâmides no mundo?",
+    "correct": "Sudão",
+    "wrong": [
+      "Egito",
+      "México",
+      "Peru"
+    ],
+    "hint": "Este país africano tem mais de 200 pirâmides, mais do que seu famoso vizinho ao norte.",
+    "explanation": "O Sudão tem aproximadamente 255 pirâmides, construídas pelos antigos reinos núbios de Cuxe, comparado com as cerca de 138 do Egito."
   }
 }

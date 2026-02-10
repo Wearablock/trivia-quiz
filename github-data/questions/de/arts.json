@@ -141,5 +141,38 @@
     ],
     "hint": "Die Geschichte spielt in Sevilla und enthält die berühmte 'Habanera'-Arie.",
     "explanation": "Georges Bizets Carmen wurde 1875 uraufgeführt."
+  },
+  "q_art_014": {
+    "question": "In welchem Ballett von Tschaikowski wird eine Prinzessin verflucht und in einen Schwan verwandelt?",
+    "correct": "Schwanensee",
+    "wrong": [
+      "Der Nussknacker",
+      "Dornröschen",
+      "Giselle"
+    ],
+    "hint": "Dieses Ballett wurde 1877 in Moskau uraufgeführt und ist eines der meistaufgeführten Ballette weltweit.",
+    "explanation": "Schwanensee, komponiert von Tschaikowski 1875-1876, erzählt die Geschichte der Prinzessin Odette, die von einem bösen Zauberer in einen Schwan verwandelt wird."
+  },
+  "q_art_015": {
+    "question": "Wer schrieb den dystopischen Roman '1984'?",
+    "correct": "George Orwell",
+    "wrong": [
+      "Aldous Huxley",
+      "Ray Bradbury",
+      "H.G. Wells"
+    ],
+    "hint": "Dieser britische Autor schrieb auch 'Farm der Tiere' und kämpfte im Spanischen Bürgerkrieg.",
+    "explanation": "George Orwell veröffentlichte '1984' im Jahr 1949 und beschrieb eine totalitäre Gesellschaft unter ständiger Überwachung durch den Großen Bruder."
+  },
+  "q_art_016": {
+    "question": "Welche mexikanische Künstlerin ist berühmt für lebhafte Selbstporträts, inspiriert von der Volkskunst?",
+    "correct": "Frida Kahlo",
+    "wrong": [
+      "Diego Rivera",
+      "Remedios Varo",
+      "Rufino Tamayo"
+    ],
+    "hint": "Sie war mit dem Wandmaler Diego Rivera verheiratet und erlitt in ihrer Jugend einen schweren Busunfall.",
+    "explanation": "Frida Kahlo schuf 55 Selbstporträts, die ihren Schmerz und ihre Identität widerspiegeln, und wurde zu einer Ikone der mexikanischen Kunst und des Feminismus."
   }
 }

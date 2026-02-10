@@ -141,5 +141,38 @@
     ],
     "hint": "Dieses weiche, cremige Produkt ist nach einer Region in Nordfrankreich benannt.",
     "explanation": "Brie ist ein Weichkäse aus Kuhmilch aus der französischen Region Brie."
+  },
+  "q_foo_014": {
+    "question": "Wie heißt das traditionelle japanische alkoholische Getränk aus fermentiertem Reis?",
+    "correct": "Sake",
+    "wrong": [
+      "Soju",
+      "Shochu",
+      "Mirin"
+    ],
+    "hint": "Es wird oft warm oder kalt serviert und spielt eine Rolle bei Shinto-Zeremonien.",
+    "explanation": "Sake ist ein japanischer Reiswein, der durch Fermentation von poliertem Reis gebraut wird und eine über 2.000 Jahre alte Geschichte hat."
+  },
+  "q_foo_015": {
+    "question": "Welche Nuss ist die Hauptzutat von Marzipan?",
+    "correct": "Mandel",
+    "wrong": [
+      "Walnuss",
+      "Cashew",
+      "Pistazie"
+    ],
+    "hint": "Diese Nuss wird auch zur Herstellung einer beliebten Pflanzenmilch verwendet.",
+    "explanation": "Marzipan ist eine Süßware, die hauptsächlich aus gemahlenen Mandeln und Zucker hergestellt wird und in der europäischen Konditorei weit verbreitet ist."
+  },
+  "q_foo_016": {
+    "question": "In welchem Land wurde Pad Thai erfunden?",
+    "correct": "Thailand",
+    "wrong": [
+      "Vietnam",
+      "Kambodscha",
+      "Malaysia"
+    ],
+    "hint": "Dieses gebratene Nudelgericht wurde in den 1930er Jahren als Nationalgericht beworben.",
+    "explanation": "Pad Thai wurde in den 1930er-40er Jahren in Thailand im Rahmen einer nationalen Identitätskampagne von Premierminister Plaek Phibunsongkhram populär gemacht."
   }
 }
