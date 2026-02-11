@@ -31,13 +31,15 @@ class QuestionRepository {
   ];
 
   /// 카테고리별 문제 로드
-  /// [answeredIds] - 이미 푼 문제 ID (안 푼 문제 우선 정렬용)
+  /// [answeredIds] - 이미 푼 문제 ID
+  /// [wrongIds] - 최근 오답 문제 ID (미답변과 동등 우선)
   Future<List<Question>> getQuestionsByCategory({
     required String categoryId,
     required String locale,
     int? limit,
     bool shuffle = true,
     List<String>? answeredIds,
+    List<String>? wrongIds,
   }) async {
     final contents = await _loadCategoryContent(categoryId, locale);
 
@@ -58,9 +60,9 @@ class QuestionRepository {
       questions.shuffle(Random());
     }
 
-    // 안 푼 문제 우선 정렬
+    // 신규 + 오답 우선, 기존 정답 후순위
     if (answeredIds != null && answeredIds.isNotEmpty) {
-      questions = _prioritizeUnanswered(questions, answeredIds);
+      questions = _prioritizeQuestions(questions, answeredIds, wrongIds ?? []);
     }
 
     if (limit != null && limit < questions.length) {
@@ -102,13 +104,15 @@ class QuestionRepository {
   }
 
   /// 랜덤 문제 로드 (여러 카테고리에서)
-  /// [answeredIds] - 이미 푼 문제 ID (안 푼 문제 우선 정렬용)
+  /// [answeredIds] - 이미 푼 문제 ID
+  /// [wrongIds] - 최근 오답 문제 ID (미답변과 동등 우선)
   Future<List<Question>> getRandomQuestions({
     required String locale,
     required int count,
     List<String>? categoryIds,
     List<String>? excludeIds,
     List<String>? answeredIds,
+    List<String>? wrongIds,
   }) async {
     final allQuestions = <Question>[];
     final categories = categoryIds ?? CategoryUtils.allCategoryIds;
@@ -136,34 +140,38 @@ class QuestionRepository {
     // 셔플
     filtered.shuffle(Random());
 
-    // 안 푼 문제 우선 정렬
+    // 신규 + 오답 우선, 기존 정답 후순위
     if (answeredIds != null && answeredIds.isNotEmpty) {
-      filtered = _prioritizeUnanswered(filtered, answeredIds);
+      filtered = _prioritizeQuestions(filtered, answeredIds, wrongIds ?? []);
     }
 
     return filtered.take(count).toList();
   }
 
-  /// 안 푼 문제를 우선적으로 정렬
-  /// 안 푼 문제를 앞에, 푼 문제를 뒤에 배치 (각각 셔플된 상태 유지)
-  List<Question> _prioritizeUnanswered(
+  /// 문제 우선순위 정렬 (각 그룹 내 셔플 상태 유지)
+  /// 1순위: 미답변 + 오답 (섞여서 출제)
+  /// 2순위: 기존 정답 문제
+  List<Question> _prioritizeQuestions(
     List<Question> questions,
     List<String> answeredIds,
+    List<String> wrongIds,
   ) {
     final answeredSet = answeredIds.toSet();
-    final unanswered = <Question>[];
-    final answered = <Question>[];
+    final wrongSet = wrongIds.toSet();
+    final priority = <Question>[];
+    final rest = <Question>[];
 
     for (final q in questions) {
-      if (answeredSet.contains(q.id)) {
-        answered.add(q);
+      if (!answeredSet.contains(q.id) || wrongSet.contains(q.id)) {
+        // 미답변 또는 오답 → 우선 출제
+        priority.add(q);
       } else {
-        unanswered.add(q);
+        // 기존 정답 → 후순위
+        rest.add(q);
       }
     }
 
-    // 안 푼 문제 먼저, 그 다음 푼 문제
-    return [...unanswered, ...answered];
+    return [...priority, ...rest];
   }
 
   /// 카테고리 콘텐츠 로드 (캐싱)

@@ -163,5 +163,16 @@
     ],
     "hint": "Negara Afrika ini memiliki lebih dari 200 piramida, lebih banyak dari tetangga utaranya yang terkenal.",
     "explanation": "Sudan memiliki sekitar 255 piramida, dibangun oleh kerajaan Nubia kuno Kush, dibandingkan dengan sekitar 138 di Mesir."
+  },
+  "q_geo_015": {
+    "question": "Danau terluas di dunia berdasarkan luas permukaan adalah?",
+    "correct": "Laut Kaspia",
+    "wrong": [
+      "Danau Superior",
+      "Danau Victoria",
+      "Danau Baikal"
+    ],
+    "hint": "Secara teknis diklasifikasikan sebagai danau meskipun namanya.",
+    "explanation": "Laut Kaspia dengan luas sekitar 371.000 km² adalah badan air pedalaman tertutup terbesar di dunia."
   }
 }

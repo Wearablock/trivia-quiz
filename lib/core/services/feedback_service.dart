@@ -36,21 +36,14 @@ class FeedbackService {
     ]);
   }
 
-  /// 힌트 사용 피드백
+  /// 힌트 사용 피드백 (진동만)
   Future<void> onHintUsed() async {
-    await Future.wait([
-      _sound.play(SoundEffect.hint),
-      _haptic.trigger(HapticType.light),
-    ]);
+    await _haptic.trigger(HapticType.light);
   }
 
-  /// 퀴즈 완료 피드백 (점수에 따라 다른 효과음)
-  /// [isPassed] - 기준점 통과 여부 (기본 50%)
+  /// 퀴즈 완료 피드백 (진동만)
   Future<void> onQuizComplete({required bool isPassed}) async {
-    await Future.wait([
-      _sound.play(isPassed ? SoundEffect.quizPass : SoundEffect.quizFail),
-      _haptic.trigger(isPassed ? HapticType.heavy : HapticType.warning),
-    ]);
+    await _haptic.trigger(isPassed ? HapticType.heavy : HapticType.warning);
   }
 
   /// 시간 경고 피드백 (5초 이하)

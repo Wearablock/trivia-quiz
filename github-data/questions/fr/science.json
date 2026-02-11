@@ -174,5 +174,16 @@
     ],
     "hint": "Cette valeur est considérée comme neutre, ni acide ni basique.",
     "explanation": "L'eau pure a un pH de 7, le point neutre sur l'échelle de pH allant de 0 (le plus acide) à 14 (le plus basique)."
+  },
+  "q_sci_016": {
+    "question": "Quelle est la formule chimique du sel de table ?",
+    "correct": "NaCl",
+    "wrong": [
+      "KCl",
+      "NaOH",
+      "CaCO3"
+    ],
+    "hint": "C'est un composé de sodium et de chlore.",
+    "explanation": "Le sel de table est le chlorure de sodium (NaCl), formé par la liaison ionique d'atomes de sodium et de chlore."
   }
 }

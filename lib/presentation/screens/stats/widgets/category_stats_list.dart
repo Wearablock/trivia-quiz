@@ -105,7 +105,7 @@ class _CategoryStatTile extends ConsumerWidget {
                 Text(
                   '$accuracy%',
                   style: Theme.of(context).textTheme.bodyMedium?.copyWith(
-                        fontWeight: FontWeight.bold,
+                        fontWeight: FontWeight.w700,
                       ),
                 ),
               ],

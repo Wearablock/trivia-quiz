@@ -163,5 +163,16 @@
     ],
     "hint": "This disaster happened in the Soviet Union, in what is now northern Ukraine.",
     "explanation": "The Chernobyl disaster occurred on April 26, 1986, and remains the worst nuclear power plant accident in history."
+  },
+  "q_his_016": {
+    "question": "Which ancient trade route connected China to the Mediterranean?",
+    "correct": "Silk Road",
+    "wrong": [
+      "Spice Route",
+      "Amber Road",
+      "Incense Route"
+    ],
+    "hint": "It was named after the most valuable commodity traded along it.",
+    "explanation": "The Silk Road was a network of trade routes spanning over 6,400 km, connecting East Asia to the Mediterranean from the 2nd century BC."
   }
 }

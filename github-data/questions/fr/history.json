@@ -163,5 +163,16 @@
     ],
     "hint": "Cette catastrophe s'est produite en Union soviétique, dans ce qui est aujourd'hui le nord de l'Ukraine.",
     "explanation": "La catastrophe de Tchernobyl a eu lieu le 26 avril 1986 et reste le pire accident de centrale nucléaire de l'histoire."
+  },
+  "q_his_016": {
+    "question": "Quelle ancienne route commerciale reliait la Chine à la Méditerranée ?",
+    "correct": "Route de la soie",
+    "wrong": [
+      "Route des épices",
+      "Route de l'ambre",
+      "Route de l'encens"
+    ],
+    "hint": "Elle a été nommée d'après la marchandise la plus précieuse qui y était échangée.",
+    "explanation": "La Route de la soie était un réseau de routes commerciales de plus de 6 400 km reliant l'Asie de l'Est à la Méditerranée depuis le IIe siècle av. J.-C."
   }
 }

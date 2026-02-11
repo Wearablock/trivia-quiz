@@ -174,5 +174,16 @@
     ],
     "hint": "Hidangan mi goreng ini dipromosikan sebagai makanan nasional pada tahun 1930-an.",
     "explanation": "Pad thai dipopulerkan di Thailand pada tahun 1930-40-an sebagai bagian dari kampanye identitas nasional Perdana Menteri Plaek Phibunsongkhram."
+  },
+  "q_foo_017": {
+    "question": "Dari negara mana kimchi berasal?",
+    "correct": "Korea Selatan",
+    "wrong": [
+      "Jepang",
+      "Tiongkok",
+      "Thailand"
+    ],
+    "hint": "Hidangan ini merupakan lauk utama dalam masakan Korea.",
+    "explanation": "Kimchi adalah hidangan tradisional Korea berupa sayuran yang diasinkan dan difermentasi, biasanya sawi putih dan lobak, dengan sejarah ribuan tahun."
   }
 }

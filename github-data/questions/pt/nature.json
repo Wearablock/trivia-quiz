@@ -163,5 +163,16 @@
     ],
     "hint": "Esta criatura lenta carrega sua casa nas costas e hiberna em condições secas.",
     "explanation": "Algumas espécies de caracóis podem entrar em estado de dormência (estivação) por até três anos para sobreviver a condições de seca."
+  },
+  "q_nat_016": {
+    "question": "Qual é a maior espécie de pinguim?",
+    "correct": "Pinguim-imperador",
+    "wrong": [
+      "Pinguim-rei",
+      "Pinguim-gentoo",
+      "Pinguim-macaroni"
+    ],
+    "hint": "Eles se reproduzem durante o inverno antártico.",
+    "explanation": "O pinguim-imperador pode atingir 1,2 metro de altura e pesar até 45 kg, sendo o maior de todas as espécies de pinguins."
   }
 }

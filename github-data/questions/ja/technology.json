@@ -163,5 +163,16 @@
     ],
     "hint": "従来のハードドライブと異なり、可動部品がないため高速です。",
     "explanation": "SSD（ソリッドステートドライブ）は機械部品のないフラッシュメモリを使用し、従来のHDDより高速な読み書き速度と耐久性を提供します。"
+  },
+  "q_tec_016": {
+    "question": "コンピュータにおける「RAM」とは何の略ですか？",
+    "correct": "Random Access Memory",
+    "wrong": [
+      "Read Access Memory",
+      "Rapid Application Memory",
+      "Remote Access Module"
+    ],
+    "hint": "揮発性コンピュータメモリの一種です。",
+    "explanation": "RAM（Random Access Memory）は、データを任意の順序で読み書きできる一時的な記憶装置で、コンピュータの電源を切ると消去されます。"
   }
 }

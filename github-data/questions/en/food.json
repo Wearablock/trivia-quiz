@@ -174,5 +174,16 @@
     ],
     "hint": "This stir-fried noodle dish was promoted as a national dish in the 1930s.",
     "explanation": "Pad thai was popularized in Thailand during the 1930s-40s as part of a national identity campaign by Prime Minister Plaek Phibunsongkhram."
+  },
+  "q_foo_017": {
+    "question": "Which country is the origin of kimchi?",
+    "correct": "South Korea",
+    "wrong": [
+      "Japan",
+      "China",
+      "Thailand"
+    ],
+    "hint": "This dish is a staple side dish in Korean cuisine.",
+    "explanation": "Kimchi is a traditional Korean dish of salted and fermented vegetables, most commonly napa cabbage and radish, with a history dating back thousands of years."
   }
 }

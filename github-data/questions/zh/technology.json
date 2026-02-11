@@ -163,5 +163,16 @@
     ],
     "hint": "与传统硬盘不同，这种存储没有活动部件，速度更快。",
     "explanation": "SSD（固态硬盘）使用无机械部件的闪存，比传统HDD提供更快的读写速度和更高的耐久性。"
+  },
+  "q_tec_016": {
+    "question": "计算机中的RAM代表什么？",
+    "correct": "Random Access Memory",
+    "wrong": [
+      "Read Access Memory",
+      "Rapid Application Memory",
+      "Remote Access Module"
+    ],
+    "hint": "它是一种易失性计算机存储器。",
+    "explanation": "RAM（随机存取存储器）是一种临时存储器，允许以任意顺序读写数据，计算机关机后数据会被清除。"
   }
 }

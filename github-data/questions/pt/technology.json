@@ -163,5 +163,16 @@
     ],
     "hint": "Ao contrário dos discos rígidos tradicionais, este armazenamento não tem partes móveis e é muito mais rápido.",
     "explanation": "SSD (Solid State Drive) usa memória flash sem partes mecânicas, oferecendo velocidades de leitura/gravação mais rápidas e maior durabilidade do que os HDDs tradicionais."
+  },
+  "q_tec_016": {
+    "question": "O que significa 'RAM' na computação?",
+    "correct": "Random Access Memory",
+    "wrong": [
+      "Read Access Memory",
+      "Rapid Application Memory",
+      "Remote Access Module"
+    ],
+    "hint": "É um tipo de memória volátil.",
+    "explanation": "RAM (Random Access Memory) é uma forma de armazenamento temporário que permite ler e gravar dados em qualquer ordem, e é apagada quando o computador é desligado."
   }
 }

@@ -163,5 +163,16 @@
     ],
     "hint": "Esta regla es una de las más básicas del deporte, a menudo referida como 'tres strikes y estás fuera'.",
     "explanation": "En béisbol, un bateador es declarado out después de acumular tres strikes, una regla fundamental desde los inicios del deporte."
+  },
+  "q_spo_016": {
+    "question": "¿Cuántos períodos tiene un partido de hockey sobre hielo estándar?",
+    "correct": "3",
+    "wrong": [
+      "2",
+      "4",
+      "5"
+    ],
+    "hint": "Cada período dura 20 minutos.",
+    "explanation": "Un partido estándar de hockey sobre hielo consta de tres períodos de 20 minutos, totalizando 60 minutos de juego."
   }
 }

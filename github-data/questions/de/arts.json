@@ -174,5 +174,16 @@
     ],
     "hint": "Sie war mit dem Wandmaler Diego Rivera verheiratet und erlitt in ihrer Jugend einen schweren Busunfall.",
     "explanation": "Frida Kahlo schuf 55 Selbstporträts, die ihren Schmerz und ihre Identität widerspiegeln, und wurde zu einer Ikone der mexikanischen Kunst und des Feminismus."
+  },
+  "q_art_017": {
+    "question": "Wer komponierte die Oper 'Die Zauberflöte'?",
+    "correct": "Wolfgang Amadeus Mozart",
+    "wrong": [
+      "Ludwig van Beethoven",
+      "Johann Sebastian Bach",
+      "Georg Friedrich Händel"
+    ],
+    "hint": "Dieser österreichische Komponist starb im Alter von 35 Jahren.",
+    "explanation": "Die Zauberflöte wurde von Mozart 1791 komponiert, dem letzten Jahr seines Lebens."
   }
 }

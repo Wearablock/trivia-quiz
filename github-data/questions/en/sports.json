@@ -163,5 +163,16 @@
     ],
     "hint": "This rule is one of the most basic in the sport, often referenced as 'three strikes and you're out'.",
     "explanation": "In baseball, a batter is called out after accumulating three strikes, a fundamental rule since the sport's early days."
+  },
+  "q_spo_016": {
+    "question": "How many periods are in a standard ice hockey game?",
+    "correct": "3",
+    "wrong": [
+      "2",
+      "4",
+      "5"
+    ],
+    "hint": "Each period is 20 minutes long.",
+    "explanation": "A standard ice hockey game consists of three 20-minute periods, totaling 60 minutes of play."
   }
 }

@@ -163,5 +163,16 @@
     ],
     "hint": "Dieses langsame Tier trägt sein Haus auf dem Rücken und hält bei Trockenheit Winterschlaf.",
     "explanation": "Einige Schneckenarten können in einen Ruhezustand (Ästivation) von bis zu drei Jahren eintreten, um Dürreperioden zu überleben."
+  },
+  "q_nat_016": {
+    "question": "Was ist die größte Pinguinart?",
+    "correct": "Kaiserpinguin",
+    "wrong": [
+      "Königspinguin",
+      "Eselspinguin",
+      "Goldschopfpinguin"
+    ],
+    "hint": "Sie brüten während des antarktischen Winters.",
+    "explanation": "Der Kaiserpinguin kann bis zu 1,2 Meter groß und bis zu 45 kg schwer werden und ist damit die größte aller Pinguinarten."
   }
 }

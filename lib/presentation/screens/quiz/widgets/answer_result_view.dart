@@ -65,7 +65,7 @@ class _AnswerResultViewState extends ConsumerState<AnswerResultView> {
                 : (selectedAnswer == null ? l10n.timeUp : l10n.wrongAnswer),
             style: Theme.of(context).textTheme.headlineSmall?.copyWith(
                   color: isCorrect ? Colors.green : Colors.red,
-                  fontWeight: FontWeight.bold,
+                  fontWeight: FontWeight.w700,
                 ),
             textAlign: TextAlign.center,
           ),

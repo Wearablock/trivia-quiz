@@ -174,5 +174,16 @@
     ],
     "hint": "Ela foi casada com o muralista Diego Rivera e sofreu um grave acidente de ônibus na juventude.",
     "explanation": "Frida Kahlo criou 55 autorretratos refletindo sua dor e identidade, tornando-se um ícone da arte mexicana e do feminismo."
+  },
+  "q_art_017": {
+    "question": "Quem compôs a ópera 'A Flauta Mágica'?",
+    "correct": "Wolfgang Amadeus Mozart",
+    "wrong": [
+      "Ludwig van Beethoven",
+      "Johann Sebastian Bach",
+      "Georg Friedrich Händel"
+    ],
+    "hint": "Este compositor austríaco morreu aos 35 anos.",
+    "explanation": "A Flauta Mágica (Die Zauberflöte) foi composta por Mozart em 1791, o último ano de sua vida."
   }
 }

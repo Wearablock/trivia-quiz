@@ -163,5 +163,16 @@
     ],
     "hint": "Questo paese africano ha oltre 200 piramidi, più del suo famoso vicino del nord.",
     "explanation": "Il Sudan ha circa 255 piramidi, costruite dagli antichi regni nubiani di Kush, rispetto alle circa 138 dell'Egitto."
+  },
+  "q_geo_015": {
+    "question": "Qual è il lago più grande del mondo per superficie?",
+    "correct": "Mar Caspio",
+    "wrong": [
+      "Lago Superiore",
+      "Lago Vittoria",
+      "Lago Baikal"
+    ],
+    "hint": "È tecnicamente classificato come un lago nonostante il suo nome.",
+    "explanation": "Il mar Caspio, con una superficie di circa 371.000 km², è il più grande specchio d'acqua interno chiuso del mondo."
   }
 }

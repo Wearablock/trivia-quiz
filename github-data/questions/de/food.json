@@ -174,5 +174,16 @@
     ],
     "hint": "Dieses gebratene Nudelgericht wurde in den 1930er Jahren als Nationalgericht beworben.",
     "explanation": "Pad Thai wurde in den 1930er-40er Jahren in Thailand im Rahmen einer nationalen Identitätskampagne von Premierminister Plaek Phibunsongkhram populär gemacht."
+  },
+  "q_foo_017": {
+    "question": "Aus welchem Land stammt Kimchi?",
+    "correct": "Südkorea",
+    "wrong": [
+      "Japan",
+      "China",
+      "Thailand"
+    ],
+    "hint": "Dieses Gericht ist eine wichtige Beilage in der koreanischen Küche.",
+    "explanation": "Kimchi ist ein traditionelles koreanisches Gericht aus gesalzenem und fermentiertem Gemüse, meist Chinakohl und Rettich, mit einer jahrtausendealten Geschichte."
   }
 }

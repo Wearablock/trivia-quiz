@@ -41,7 +41,7 @@ class OptionButton extends StatelessWidget {
         onTap: showResult ? null : onPressed,
         borderRadius: BorderRadius.circular(12),
         child: Container(
-          padding: const EdgeInsets.symmetric(vertical: 16, horizontal: 20),
+          padding: const EdgeInsets.symmetric(vertical: 16, horizontal: 24),
           decoration: BoxDecoration(
             border: Border.all(
               color: borderColor ?? Theme.of(context).colorScheme.outline,
@@ -58,8 +58,8 @@ class OptionButton extends StatelessWidget {
                     fontSize: 16,
                     color: textColor,
                     fontWeight: showResult && (isCorrect == true || isSelected)
-                        ? FontWeight.bold
-                        : FontWeight.normal,
+                        ? FontWeight.w700
+                        : FontWeight.w500,
                   ),
                 ),
               ),

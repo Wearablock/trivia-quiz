@@ -163,5 +163,16 @@
     ],
     "hint": "Quốc gia châu Phi này có hơn 200 kim tự tháp, nhiều hơn nước láng giềng phía bắc nổi tiếng.",
     "explanation": "Sudan có khoảng 255 kim tự tháp, được xây bởi các vương quốc Nubia cổ đại của Kush, so với khoảng 138 của Ai Cập."
+  },
+  "q_geo_015": {
+    "question": "Hồ nào có diện tích bề mặt lớn nhất thế giới?",
+    "correct": "Biển Caspi",
+    "wrong": [
+      "Hồ Superior",
+      "Hồ Victoria",
+      "Hồ Baikal"
+    ],
+    "hint": "Về mặt kỹ thuật, nó được phân loại là hồ mặc dù có tên là biển.",
+    "explanation": "Biển Caspi với diện tích khoảng 371.000 km² là vùng nước nội địa khép kín lớn nhất thế giới."
   }
 }

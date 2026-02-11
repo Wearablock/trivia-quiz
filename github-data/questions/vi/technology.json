@@ -163,5 +163,16 @@
     ],
     "hint": "Khác với ổ cứng truyền thống, loại lưu trữ này không có bộ phận chuyển động và nhanh hơn nhiều.",
     "explanation": "SSD (Solid State Drive) sử dụng bộ nhớ flash không có bộ phận cơ khí, cung cấp tốc độ đọc/ghi nhanh hơn và độ bền cao hơn so với HDD truyền thống."
+  },
+  "q_tec_016": {
+    "question": "RAM trong máy tính là viết tắt của gì?",
+    "correct": "Random Access Memory",
+    "wrong": [
+      "Read Access Memory",
+      "Rapid Application Memory",
+      "Remote Access Module"
+    ],
+    "hint": "Đó là một loại bộ nhớ máy tính dễ bay hơi.",
+    "explanation": "RAM (Random Access Memory) là bộ nhớ tạm thời cho phép đọc và ghi dữ liệu theo bất kỳ thứ tự nào, và bị xóa khi tắt máy tính."
   }
 }

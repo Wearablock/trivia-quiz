@@ -163,5 +163,16 @@
     ],
     "hint": "Questo disastro avvenne in Unione Sovietica, nell'attuale Ucraina settentrionale.",
     "explanation": "Il disastro di Chernobyl avvenne il 26 aprile 1986 e rimane il peggior incidente in una centrale nucleare della storia."
+  },
+  "q_his_016": {
+    "question": "Quale antica rotta commerciale collegava la Cina al Mediterraneo?",
+    "correct": "Via della seta",
+    "wrong": [
+      "Via delle spezie",
+      "Via dell'ambra",
+      "Via dell'incenso"
+    ],
+    "hint": "Prende il nome dalla merce più preziosa che vi veniva commerciata.",
+    "explanation": "La Via della seta era una rete di rotte commerciali di oltre 6.400 km che collegava l'Asia orientale al Mediterraneo dal II secolo a.C."
   }
 }

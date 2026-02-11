@@ -163,5 +163,16 @@
     ],
     "hint": "Sinh vật di chuyển chậm này mang nhà trên lưng và ngủ đông trong điều kiện khô hạn.",
     "explanation": "Một số loài ốc sên có thể vào trạng thái ngủ hè kéo dài đến ba năm để sống sót qua điều kiện hạn hán."
+  },
+  "q_nat_016": {
+    "question": "Loài chim cánh cụt lớn nhất là gì?",
+    "correct": "Chim cánh cụt hoàng đế",
+    "wrong": [
+      "Chim cánh cụt vua",
+      "Chim cánh cụt Gentoo",
+      "Chim cánh cụt Macaroni"
+    ],
+    "hint": "Chúng sinh sản trong mùa đông Nam Cực.",
+    "explanation": "Chim cánh cụt hoàng đế có thể cao tới 1,2 mét và nặng tới 45 kg, là loài lớn nhất trong tất cả các loài chim cánh cụt."
   }
 }

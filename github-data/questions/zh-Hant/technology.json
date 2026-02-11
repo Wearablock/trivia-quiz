@@ -163,5 +163,16 @@
     ],
     "hint": "與傳統硬碟不同，這種儲存沒有活動零件，速度更快。",
     "explanation": "SSD（固態硬碟）使用無機械零件的快閃記憶體，比傳統HDD提供更快的讀寫速度和更高的耐久性。"
+  },
+  "q_tec_016": {
+    "question": "電腦中的RAM代表什麼？",
+    "correct": "Random Access Memory",
+    "wrong": [
+      "Read Access Memory",
+      "Rapid Application Memory",
+      "Remote Access Module"
+    ],
+    "hint": "它是一種揮發性電腦記憶體。",
+    "explanation": "RAM（隨機存取記憶體）是一種臨時儲存裝置，允許以任意順序讀寫資料，電腦關機後資料會被清除。"
   }
 }

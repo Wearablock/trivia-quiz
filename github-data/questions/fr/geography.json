@@ -163,5 +163,16 @@
     ],
     "hint": "Ce pays africain possède plus de 200 pyramides, davantage que son célèbre voisin du nord.",
     "explanation": "Le Soudan compte environ 255 pyramides, construites par les anciens royaumes nubiens de Koush, contre environ 138 pour l'Égypte."
+  },
+  "q_geo_015": {
+    "question": "Quel est le plus grand lac du monde par superficie ?",
+    "correct": "Mer Caspienne",
+    "wrong": [
+      "Lac Supérieur",
+      "Lac Victoria",
+      "Lac Baïkal"
+    ],
+    "hint": "Il est techniquement classé comme un lac malgré son nom.",
+    "explanation": "La mer Caspienne, avec une superficie d'environ 371 000 km², est la plus grande étendue d'eau intérieure fermée au monde."
   }
 }

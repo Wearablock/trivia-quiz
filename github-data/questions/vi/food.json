@@ -174,5 +174,16 @@
     ],
     "hint": "Món mì xào này được quảng bá là món ăn quốc gia vào những năm 1930.",
     "explanation": "Pad Thai được phổ biến ở Thái Lan trong những năm 1930-40 như một phần của chiến dịch bản sắc dân tộc của Thủ tướng Plaek Phibunsongkhram."
+  },
+  "q_foo_017": {
+    "question": "Kimchi có nguồn gốc từ quốc gia nào?",
+    "correct": "Hàn Quốc",
+    "wrong": [
+      "Nhật Bản",
+      "Trung Quốc",
+      "Thái Lan"
+    ],
+    "hint": "Món ăn này là món phụ chính trong ẩm thực Hàn Quốc.",
+    "explanation": "Kimchi là món ăn truyền thống của Hàn Quốc gồm rau muối lên men, thường là cải thảo và củ cải, có lịch sử hàng nghìn năm."
   }
 }

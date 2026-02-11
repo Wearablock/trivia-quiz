@@ -163,5 +163,16 @@
     ],
     "hint": "Unlike traditional hard drives, this storage has no moving parts and is much faster.",
     "explanation": "SSD (Solid State Drive) uses flash memory with no mechanical parts, offering faster read/write speeds and greater durability than traditional HDDs."
+  },
+  "q_tec_016": {
+    "question": "What does 'RAM' stand for in computing?",
+    "correct": "Random Access Memory",
+    "wrong": [
+      "Read Access Memory",
+      "Rapid Application Memory",
+      "Remote Access Module"
+    ],
+    "hint": "It is a type of volatile computer memory.",
+    "explanation": "RAM (Random Access Memory) is a form of temporary storage that allows data to be read and written in any order, and is erased when the computer is turned off."
   }
 }

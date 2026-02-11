@@ -38,10 +38,13 @@ class QuizNotifier extends StateNotifier<QuizState> {
     state = state.copyWith(phase: QuizPhase.loading);
 
     try {
-      // 이미 푼 문제 ID 조회 (안 푼 문제 우선)
-      final answeredIds = await _historyRepository.getAnsweredQuestionIds(
-        categoryId: categoryId,
-      );
+      // 이미 푼 문제 ID + 오답 문제 ID 동시 조회
+      final results = await Future.wait([
+        _historyRepository.getAnsweredQuestionIds(categoryId: categoryId),
+        _historyRepository.getWrongQuestionIds(categoryId: categoryId),
+      ]);
+      final answeredIds = results[0];
+      final wrongIds = results[1];
 
       final questions = await _questionRepository.getQuestionsByCategory(
         categoryId: categoryId,
@@ -49,6 +52,7 @@ class QuizNotifier extends StateNotifier<QuizState> {
         limit: questionCount,
         shuffle: true,
         answeredIds: answeredIds,
+        wrongIds: wrongIds,
       );
 
       if (questions.isEmpty) {
@@ -77,14 +81,20 @@ class QuizNotifier extends StateNotifier<QuizState> {
     state = state.copyWith(phase: QuizPhase.loading);
 
     try {
-      // 이미 푼 문제 ID 조회 (안 푼 문제 우선)
-      final answeredIds = await _historyRepository.getAnsweredQuestionIds();
+      // 이미 푼 문제 ID + 오답 문제 ID 동시 조회
+      final results = await Future.wait([
+        _historyRepository.getAnsweredQuestionIds(),
+        _historyRepository.getWrongQuestionIds(),
+      ]);
+      final answeredIds = results[0];
+      final wrongIds = results[1];
 
       final questions = await _questionRepository.getRandomQuestions(
         locale: locale,
         count: questionCount,
         categoryIds: categoryIds,
         answeredIds: answeredIds,
+        wrongIds: wrongIds,
       );
 
       if (questions.isEmpty) {

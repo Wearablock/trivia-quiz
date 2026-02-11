@@ -174,5 +174,16 @@
     ],
     "hint": "Nilai ini dianggap netral, tidak asam maupun basa.",
     "explanation": "Air murni memiliki pH 7, yang merupakan titik netral pada skala pH dari 0 (paling asam) hingga 14 (paling basa)."
+  },
+  "q_sci_016": {
+    "question": "Apa rumus kimia garam dapur?",
+    "correct": "NaCl",
+    "wrong": [
+      "KCl",
+      "NaOH",
+      "CaCO3"
+    ],
+    "hint": "Ini adalah senyawa natrium dan klorin.",
+    "explanation": "Garam dapur adalah natrium klorida (NaCl), terbentuk dari ikatan ionik atom natrium dan klorin."
   }
 }

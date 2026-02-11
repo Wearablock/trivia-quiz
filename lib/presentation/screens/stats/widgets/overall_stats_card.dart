@@ -103,7 +103,7 @@ class _StatColumn extends StatelessWidget {
         Text(
           value,
           style: Theme.of(context).textTheme.headlineSmall?.copyWith(
-                fontWeight: FontWeight.bold,
+                fontWeight: FontWeight.w700,
               ),
         ),
         Text(

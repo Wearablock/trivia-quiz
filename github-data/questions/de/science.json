@@ -174,5 +174,16 @@
     ],
     "hint": "Dieser Wert gilt als neutral, weder sauer noch basisch.",
     "explanation": "Reines Wasser hat einen pH-Wert von 7, dem neutralen Punkt auf der pH-Skala von 0 (am sauersten) bis 14 (am basischsten)."
+  },
+  "q_sci_016": {
+    "question": "Wie lautet die chemische Formel von Speisesalz?",
+    "correct": "NaCl",
+    "wrong": [
+      "KCl",
+      "NaOH",
+      "CaCO3"
+    ],
+    "hint": "Es ist eine Verbindung aus Natrium und Chlor.",
+    "explanation": "Speisesalz ist Natriumchlorid (NaCl), das durch die Ionenbindung von Natrium- und Chloratomen entsteht."
   }
 }

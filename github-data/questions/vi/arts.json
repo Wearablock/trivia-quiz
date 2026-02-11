@@ -174,5 +174,16 @@
     ],
     "hint": "Bà kết hôn với họa sĩ bích họa Diego Rivera và từng gặp tai nạn xe buýt nghiêm trọng thời trẻ.",
     "explanation": "Frida Kahlo đã tạo ra 55 bức chân dung tự họa phản ánh nỗi đau và bản sắc của bà, trở thành biểu tượng của nghệ thuật Mexico và chủ nghĩa nữ quyền."
+  },
+  "q_art_017": {
+    "question": "Ai là người sáng tác vở opera 'Cây sáo thần'?",
+    "correct": "Wolfgang Amadeus Mozart",
+    "wrong": [
+      "Ludwig van Beethoven",
+      "Johann Sebastian Bach",
+      "George Frideric Handel"
+    ],
+    "hint": "Nhà soạn nhạc người Áo này qua đời ở tuổi 35.",
+    "explanation": "Cây sáo thần (Die Zauberflöte) được Mozart sáng tác vào năm 1791, năm cuối cùng của cuộc đời ông."
   }
 }

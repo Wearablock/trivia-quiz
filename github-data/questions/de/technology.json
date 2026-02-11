@@ -163,5 +163,16 @@
     ],
     "hint": "Im Gegensatz zu herkömmlichen Festplatten hat dieser Speicher keine beweglichen Teile und ist viel schneller.",
     "explanation": "SSD (Solid State Drive) verwendet Flash-Speicher ohne mechanische Teile und bietet schnellere Lese-/Schreibgeschwindigkeiten und höhere Haltbarkeit als herkömmliche HDDs."
+  },
+  "q_tec_016": {
+    "question": "Wofür steht 'RAM' in der Informatik?",
+    "correct": "Random Access Memory",
+    "wrong": [
+      "Read Access Memory",
+      "Rapid Application Memory",
+      "Remote Access Module"
+    ],
+    "hint": "Es ist eine Art flüchtiger Computerspeicher.",
+    "explanation": "RAM (Random Access Memory) ist ein temporärer Speicher, der das Lesen und Schreiben von Daten in beliebiger Reihenfolge ermöglicht und beim Ausschalten gelöscht wird."
   }
 }

@@ -174,5 +174,16 @@
     ],
     "hint": "Ia menikah dengan pelukis mural Diego Rivera dan mengalami kecelakaan bus parah di masa mudanya.",
     "explanation": "Frida Kahlo menciptakan 55 potret diri yang mencerminkan rasa sakit dan identitasnya, menjadi ikon seni Meksiko dan feminisme."
+  },
+  "q_art_017": {
+    "question": "Siapa yang menggubah opera 'The Magic Flute'?",
+    "correct": "Wolfgang Amadeus Mozart",
+    "wrong": [
+      "Ludwig van Beethoven",
+      "Johann Sebastian Bach",
+      "George Frideric Handel"
+    ],
+    "hint": "Komposer Austria ini meninggal pada usia 35 tahun.",
+    "explanation": "The Magic Flute (Die Zauberflöte) digubah oleh Mozart pada tahun 1791, tahun terakhir hidupnya."
   }
 }

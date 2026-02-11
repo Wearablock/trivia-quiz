@@ -174,5 +174,16 @@
     ],
     "hint": "Este plato de fideos salteados fue promovido como plato nacional en la década de 1930.",
     "explanation": "El pad thai se popularizó en Tailandia durante los años 1930-40 como parte de una campaña de identidad nacional del primer ministro Plaek Phibunsongkhram."
+  },
+  "q_foo_017": {
+    "question": "¿En qué país se originó el kimchi?",
+    "correct": "Corea del Sur",
+    "wrong": [
+      "Japón",
+      "China",
+      "Tailandia"
+    ],
+    "hint": "Este plato es un acompañamiento básico de la cocina coreana.",
+    "explanation": "El kimchi es un plato tradicional coreano de verduras saladas y fermentadas, generalmente col china y rábano, con una historia de miles de años."
   }
 }

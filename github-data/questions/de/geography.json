@@ -163,5 +163,16 @@
     ],
     "hint": "Dieses afrikanische Land hat über 200 Pyramiden, mehr als sein berühmter nördlicher Nachbar.",
     "explanation": "Der Sudan hat etwa 255 Pyramiden, die von den antiken nubischen Königreichen von Kusch erbaut wurden, verglichen mit Ägyptens etwa 138."
+  },
+  "q_geo_015": {
+    "question": "Welcher ist der größte See der Welt nach Fläche?",
+    "correct": "Kaspisches Meer",
+    "wrong": [
+      "Oberer See",
+      "Viktoriasee",
+      "Baikalsee"
+    ],
+    "hint": "Er wird trotz seines Namens technisch als See eingestuft.",
+    "explanation": "Das Kaspische Meer ist mit einer Fläche von etwa 371.000 km² das größte geschlossene Binnengewässer der Welt."
   }
 }

@@ -174,5 +174,16 @@
     ],
     "hint": "She was married to muralist Diego Rivera and suffered a severe bus accident in her youth.",
     "explanation": "Frida Kahlo created 55 self-portraits reflecting her pain and identity, becoming an icon of Mexican art and feminism."
+  },
+  "q_art_017": {
+    "question": "Who composed the opera 'The Magic Flute'?",
+    "correct": "Wolfgang Amadeus Mozart",
+    "wrong": [
+      "Ludwig van Beethoven",
+      "Johann Sebastian Bach",
+      "George Frideric Handel"
+    ],
+    "hint": "This Austrian composer died at the age of 35.",
+    "explanation": "The Magic Flute (Die Zauberflöte) was composed by Mozart in 1791, the last year of his life."
   }
 }

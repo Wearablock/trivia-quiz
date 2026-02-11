@@ -163,5 +163,16 @@
     ],
     "hint": "Questa regola è una delle più basilari dello sport, spesso detta 'tre strike e sei eliminato'.",
     "explanation": "Nel baseball, un battitore è eliminato dopo aver accumulato tre strike, una regola fondamentale fin dagli albori dello sport."
+  },
+  "q_spo_016": {
+    "question": "Quanti periodi ci sono in una partita di hockey su ghiaccio standard?",
+    "correct": "3",
+    "wrong": [
+      "2",
+      "4",
+      "5"
+    ],
+    "hint": "Ogni periodo dura 20 minuti.",
+    "explanation": "Una partita standard di hockey su ghiaccio consiste in tre periodi di 20 minuti, per un totale di 60 minuti di gioco."
   }
 }

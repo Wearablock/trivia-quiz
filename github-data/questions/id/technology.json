@@ -163,5 +163,16 @@
     ],
     "hint": "Berbeda dengan hard drive tradisional, penyimpanan ini tidak memiliki bagian yang bergerak dan jauh lebih cepat.",
     "explanation": "SSD (Solid State Drive) menggunakan memori flash tanpa komponen mekanis, menawarkan kecepatan baca/tulis lebih cepat dan daya tahan lebih tinggi dibandingkan HDD tradisional."
+  },
+  "q_tec_016": {
+    "question": "Apa kepanjangan dari 'RAM' dalam komputasi?",
+    "correct": "Random Access Memory",
+    "wrong": [
+      "Read Access Memory",
+      "Rapid Application Memory",
+      "Remote Access Module"
+    ],
+    "hint": "Ini adalah jenis memori komputer yang bersifat sementara.",
+    "explanation": "RAM (Random Access Memory) adalah penyimpanan sementara yang memungkinkan data dibaca dan ditulis dalam urutan apa pun, dan terhapus saat komputer dimatikan."
   }
 }

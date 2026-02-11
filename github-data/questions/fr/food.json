@@ -174,5 +174,16 @@
     ],
     "hint": "Ce plat de nouilles sautées a été promu comme plat national dans les années 1930.",
     "explanation": "Le pad thaï a été popularisé en Thaïlande dans les années 1930-40 dans le cadre d'une campagne d'identité nationale du Premier ministre Plaek Phibunsongkhram."
+  },
+  "q_foo_017": {
+    "question": "De quel pays le kimchi est-il originaire ?",
+    "correct": "Corée du Sud",
+    "wrong": [
+      "Japon",
+      "Chine",
+      "Thaïlande"
+    ],
+    "hint": "Ce plat est un accompagnement incontournable de la cuisine coréenne.",
+    "explanation": "Le kimchi est un plat traditionnel coréen de légumes salés et fermentés, généralement du chou chinois et du radis, avec une histoire millénaire."
   }
 }

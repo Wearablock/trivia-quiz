@@ -163,5 +163,16 @@
     ],
     "hint": "Thảm họa này xảy ra tại Liên Xô, nơi ngày nay là miền bắc Ukraine.",
     "explanation": "Thảm họa Chernobyl xảy ra vào ngày 26 tháng 4 năm 1986 và vẫn là vụ tai nạn nhà máy điện hạt nhân tồi tệ nhất trong lịch sử."
+  },
+  "q_his_016": {
+    "question": "Con đường thương mại cổ đại nào kết nối Trung Quốc với Địa Trung Hải?",
+    "correct": "Con đường Tơ lụa",
+    "wrong": [
+      "Con đường Gia vị",
+      "Con đường Hổ phách",
+      "Con đường Trầm hương"
+    ],
+    "hint": "Được đặt tên theo mặt hàng có giá trị nhất được giao dịch trên đó.",
+    "explanation": "Con đường Tơ lụa là mạng lưới các tuyến thương mại dài hơn 6.400 km, kết nối Đông Á với Địa Trung Hải từ thế kỷ 2 TCN."
   }
 }

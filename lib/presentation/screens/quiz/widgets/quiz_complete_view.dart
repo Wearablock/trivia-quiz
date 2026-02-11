@@ -67,7 +67,7 @@ class _QuizCompleteViewState extends ConsumerState<QuizCompleteView> {
           Text(
             l10n.quizComplete,
             style: Theme.of(context).textTheme.headlineMedium?.copyWith(
-                  fontWeight: FontWeight.bold,
+                  fontWeight: FontWeight.w700,
                 ),
           ),
           const SizedBox(height: 32),
@@ -86,7 +86,7 @@ class _QuizCompleteViewState extends ConsumerState<QuizCompleteView> {
                   Text(
                     l10n.outOf(result.correctCount, result.totalCount),
                     style: Theme.of(context).textTheme.headlineLarge?.copyWith(
-                          fontWeight: FontWeight.bold,
+                          fontWeight: FontWeight.w700,
                           color: _getScoreColor(result.accuracyPercent),
                         ),
                   ),

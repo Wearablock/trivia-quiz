@@ -163,5 +163,16 @@
     ],
     "hint": "Diese Katastrophe ereignete sich in der Sowjetunion, im heutigen Norden der Ukraine.",
     "explanation": "Die Katastrophe von Tschernobyl ereignete sich am 26. April 1986 und bleibt der schlimmste Unfall in einem Kernkraftwerk der Geschichte."
+  },
+  "q_his_016": {
+    "question": "Welche antike Handelsroute verband China mit dem Mittelmeer?",
+    "correct": "Seidenstraße",
+    "wrong": [
+      "Gewürzroute",
+      "Bernsteinstraße",
+      "Weihrauchstraße"
+    ],
+    "hint": "Sie wurde nach der wertvollsten Ware benannt, die dort gehandelt wurde.",
+    "explanation": "Die Seidenstraße war ein Netz von Handelsrouten über 6.400 km, das Ostasien seit dem 2. Jahrhundert v. Chr. mit dem Mittelmeer verband."
   }
 }

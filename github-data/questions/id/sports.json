@@ -163,5 +163,16 @@
     ],
     "hint": "Aturan ini adalah salah satu yang paling dasar dalam olahraga, sering disebut 'tiga strike dan kamu keluar'.",
     "explanation": "Dalam bisbol, pemukul dinyatakan out setelah mengumpulkan tiga strike, aturan fundamental sejak awal olahraga ini."
+  },
+  "q_spo_016": {
+    "question": "Berapa jumlah periode dalam pertandingan hoki es standar?",
+    "correct": "3",
+    "wrong": [
+      "2",
+      "4",
+      "5"
+    ],
+    "hint": "Setiap periode berdurasi 20 menit.",
+    "explanation": "Pertandingan hoki es standar terdiri dari tiga periode masing-masing 20 menit, total 60 menit permainan."
   }
 }

@@ -163,5 +163,16 @@
     ],
     "hint": "Esta criatura de movimiento lento lleva su hogar a cuestas e hiberna en condiciones secas.",
     "explanation": "Algunas especies de caracoles pueden entrar en un estado de dormancia (estivación) de hasta tres años para sobrevivir a condiciones de sequía."
+  },
+  "q_nat_016": {
+    "question": "¿Cuál es la especie de pingüino más grande?",
+    "correct": "Pingüino emperador",
+    "wrong": [
+      "Pingüino rey",
+      "Pingüino papúa",
+      "Pingüino macaroni"
+    ],
+    "hint": "Se reproducen durante el invierno antártico.",
+    "explanation": "El pingüino emperador puede alcanzar 1,2 metros de altura y pesar hasta 45 kg, siendo el más grande de todas las especies de pingüinos."
   }
 }

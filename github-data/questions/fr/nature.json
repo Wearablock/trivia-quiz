@@ -163,5 +163,16 @@
     ],
     "hint": "Cette créature lente porte sa maison sur son dos et hiberne dans des conditions sèches.",
     "explanation": "Certaines espèces d'escargots peuvent entrer en dormance (estivation) pendant trois ans pour survivre à la sécheresse."
+  },
+  "q_nat_016": {
+    "question": "Quelle est la plus grande espèce de manchot ?",
+    "correct": "Manchot empereur",
+    "wrong": [
+      "Manchot royal",
+      "Manchot papou",
+      "Gorfou macaroni"
+    ],
+    "hint": "Ils se reproduisent pendant l'hiver antarctique.",
+    "explanation": "Le manchot empereur peut atteindre 1,2 mètre de haut et peser jusqu'à 45 kg, ce qui en fait le plus grand de tous les manchots."
   }
 }

@@ -163,5 +163,16 @@
     ],
     "hint": "Este país africano tem mais de 200 pirâmides, mais do que seu famoso vizinho ao norte.",
     "explanation": "O Sudão tem aproximadamente 255 pirâmides, construídas pelos antigos reinos núbios de Cuxe, comparado com as cerca de 138 do Egito."
+  },
+  "q_geo_015": {
+    "question": "Qual é o maior lago do mundo em área de superfície?",
+    "correct": "Mar Cáspio",
+    "wrong": [
+      "Lago Superior",
+      "Lago Vitória",
+      "Lago Baikal"
+    ],
+    "hint": "É tecnicamente classificado como um lago apesar do seu nome.",
+    "explanation": "O mar Cáspio, com uma área de cerca de 371.000 km², é o maior corpo de água interior fechado do mundo."
   }
 }

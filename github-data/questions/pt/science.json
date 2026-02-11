@@ -174,5 +174,16 @@
     ],
     "hint": "Este valor é considerado neutro, nem ácido nem básico.",
     "explanation": "A água pura tem um pH de 7, que é o ponto neutro na escala de pH que vai de 0 (mais ácido) a 14 (mais básico)."
+  },
+  "q_sci_016": {
+    "question": "Qual é a fórmula química do sal de cozinha?",
+    "correct": "NaCl",
+    "wrong": [
+      "KCl",
+      "NaOH",
+      "CaCO3"
+    ],
+    "hint": "É um composto de sódio e cloro.",
+    "explanation": "O sal de cozinha é cloreto de sódio (NaCl), formado pela ligação iônica de átomos de sódio e cloro."
   }
 }

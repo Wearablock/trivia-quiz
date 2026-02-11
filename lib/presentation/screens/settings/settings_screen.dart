@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
+import 'package:package_info_plus/package_info_plus.dart';
 import '../../../core/constants/app_urls.dart';
 import '../../../core/services/feedback_service.dart';
 import '../../../core/services/remote_sync_service.dart';
@@ -31,7 +32,7 @@ class SettingsScreen extends ConsumerWidget {
               l10n.premium,
               style: Theme.of(context).textTheme.titleSmall?.copyWith(
                     color: Theme.of(context).colorScheme.primary,
-                    fontWeight: FontWeight.bold,
+                    fontWeight: FontWeight.w700,
                   ),
             ),
           ),
@@ -308,11 +309,13 @@ class SettingsScreen extends ConsumerWidget {
     );
   }
 
-  void _showAboutDialog(BuildContext context, AppLocalizations l10n) {
+  void _showAboutDialog(BuildContext context, AppLocalizations l10n) async {
+    final info = await PackageInfo.fromPlatform();
+    if (!context.mounted) return;
     showAboutDialog(
       context: context,
       applicationName: l10n.appTitle,
-      applicationVersion: '1.0.0',
+      applicationVersion: '${info.version} (${info.buildNumber})',
       applicationIcon: const Icon(Icons.quiz, size: 48),
       children: [
         Text(l10n.aboutDescription),

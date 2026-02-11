@@ -163,5 +163,16 @@
     ],
     "hint": "This African country has over 200 pyramids, more than its famous northern neighbor.",
     "explanation": "Sudan has approximately 255 pyramids, built by the ancient Nubian kingdoms of Kush, compared to Egypt's roughly 138."
+  },
+  "q_geo_015": {
+    "question": "What is the largest lake by surface area in the world?",
+    "correct": "Caspian Sea",
+    "wrong": [
+      "Lake Superior",
+      "Lake Victoria",
+      "Lake Baikal"
+    ],
+    "hint": "It is technically classified as a lake despite its name.",
+    "explanation": "The Caspian Sea, with a surface area of about 371,000 km², is the world's largest enclosed inland body of water."
   }
 }

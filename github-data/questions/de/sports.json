@@ -163,5 +163,16 @@
     ],
     "hint": "Diese Regel ist eine der grundlegendsten im Sport, oft als 'drei Strikes und du bist raus' bezeichnet.",
     "explanation": "Im Baseball wird ein Schlagmann nach drei Strikes für out erklärt, eine grundlegende Regel seit den Anfängen des Sports."
+  },
+  "q_spo_016": {
+    "question": "Wie viele Drittel hat ein Standard-Eishockeyspiel?",
+    "correct": "3",
+    "wrong": [
+      "2",
+      "4",
+      "5"
+    ],
+    "hint": "Jedes Drittel dauert 20 Minuten.",
+    "explanation": "Ein Standard-Eishockeyspiel besteht aus drei Dritteln à 20 Minuten, insgesamt 60 Minuten Spielzeit."
   }
 }

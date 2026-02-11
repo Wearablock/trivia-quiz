@@ -174,5 +174,16 @@
     ],
     "hint": "Questo piatto di noodle saltati fu promosso come piatto nazionale negli anni '30.",
     "explanation": "Il pad thai fu reso popolare in Thailandia negli anni '30-'40 come parte di una campagna di identità nazionale del primo ministro Plaek Phibunsongkhram."
+  },
+  "q_foo_017": {
+    "question": "In quale paese ha origine il kimchi?",
+    "correct": "Corea del Sud",
+    "wrong": [
+      "Giappone",
+      "Cina",
+      "Thailandia"
+    ],
+    "hint": "Questo piatto è un contorno fondamentale della cucina coreana.",
+    "explanation": "Il kimchi è un piatto tradizionale coreano di verdure salate e fermentate, solitamente cavolo cinese e ravanello, con una storia millenaria."
   }
 }

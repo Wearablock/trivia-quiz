@@ -174,5 +174,16 @@
     ],
     "hint": "Era sposata con il muralista Diego Rivera e subì un grave incidente d'autobus in gioventù.",
     "explanation": "Frida Kahlo creò 55 autoritratti che riflettono il suo dolore e la sua identità, diventando un'icona dell'arte messicana e del femminismo."
+  },
+  "q_art_017": {
+    "question": "Chi ha composto l'opera 'Il flauto magico'?",
+    "correct": "Wolfgang Amadeus Mozart",
+    "wrong": [
+      "Ludwig van Beethoven",
+      "Johann Sebastian Bach",
+      "Georg Friedrich Händel"
+    ],
+    "hint": "Questo compositore austriaco morì all'età di 35 anni.",
+    "explanation": "Il flauto magico (Die Zauberflöte) fu composto da Mozart nel 1791, l'ultimo anno della sua vita."
   }
 }

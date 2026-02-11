@@ -163,5 +163,16 @@
     ],
     "hint": "Contrairement aux disques durs traditionnels, ce stockage n'a pas de pièces mobiles et est beaucoup plus rapide.",
     "explanation": "Le SSD (Solid State Drive) utilise de la mémoire flash sans pièces mécaniques, offrant des vitesses de lecture/écriture plus rapides et une meilleure durabilité que les HDD traditionnels."
+  },
+  "q_tec_016": {
+    "question": "Que signifie 'RAM' en informatique ?",
+    "correct": "Random Access Memory",
+    "wrong": [
+      "Read Access Memory",
+      "Rapid Application Memory",
+      "Remote Access Module"
+    ],
+    "hint": "C'est un type de mémoire volatile.",
+    "explanation": "La RAM (Random Access Memory) est une mémoire temporaire qui permet de lire et écrire des données dans n'importe quel ordre, et qui s'efface à l'extinction de l'ordinateur."
   }
 }

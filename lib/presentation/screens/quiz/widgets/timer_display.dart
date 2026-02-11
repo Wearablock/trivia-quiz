@@ -29,7 +29,7 @@ class TimerDisplay extends ConsumerWidget {
           Text(
             '${remainingTime}s',
             style: TextStyle(
-              fontWeight: FontWeight.bold,
+              fontWeight: FontWeight.w700,
               color: isLowTime ? Colors.red : Colors.blue,
             ),
           ),

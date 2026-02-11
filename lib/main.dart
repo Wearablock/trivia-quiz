@@ -118,8 +118,15 @@ class TriviaQuizApp extends ConsumerWidget {
       supportedLocales: supportedLocales,
 
       home: UpgradeAlert(
-        showIgnore: false,  // "무시" 버튼 숨김 (권장)
-        showLater: true,    // "나중에" 버튼 표시
+        upgrader: Upgrader(
+          durationUntilAlertAgain: const Duration(days: 1),
+          countryCode: locale?.countryCode,
+          languageCode: locale?.languageCode,
+        ),
+        dialogStyle: UpgradeDialogStyle.material,
+        showIgnore: false,
+        showLater: true,
+        showReleaseNotes: true,
         child: const MainShell(),
       ),
     );

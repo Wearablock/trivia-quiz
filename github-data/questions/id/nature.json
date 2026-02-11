@@ -163,5 +163,16 @@
     ],
     "hint": "Makhluk lambat ini membawa rumahnya di punggung dan berhibernasi dalam kondisi kering.",
     "explanation": "Beberapa spesies siput dapat memasuki keadaan dormansi (estivasi) hingga tiga tahun untuk bertahan dari kondisi kekeringan."
+  },
+  "q_nat_016": {
+    "question": "Apa spesies penguin terbesar?",
+    "correct": "Penguin kaisar",
+    "wrong": [
+      "Penguin raja",
+      "Penguin gentoo",
+      "Penguin makaroni"
+    ],
+    "hint": "Mereka berkembang biak selama musim dingin Antartika.",
+    "explanation": "Penguin kaisar dapat mencapai tinggi 1,2 meter dan berat hingga 45 kg, menjadikannya yang terbesar dari semua spesies penguin."
   }
 }

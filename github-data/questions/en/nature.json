@@ -163,5 +163,16 @@
     ],
     "hint": "This slow-moving creature carries its home on its back and hibernates in dry conditions.",
     "explanation": "Some snail species can enter a state of dormancy (estivation) for up to three years to survive drought conditions."
+  },
+  "q_nat_016": {
+    "question": "What is the largest species of penguin?",
+    "correct": "Emperor penguin",
+    "wrong": [
+      "King penguin",
+      "Gentoo penguin",
+      "Macaroni penguin"
+    ],
+    "hint": "They breed during the Antarctic winter.",
+    "explanation": "The Emperor penguin can reach up to 1.2 meters tall and weigh up to 45 kg, making it the largest of all penguin species."
   }
 }

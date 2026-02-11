@@ -174,5 +174,16 @@
     ],
     "hint": "Elle était mariée au muraliste Diego Rivera et a subi un grave accident de bus dans sa jeunesse.",
     "explanation": "Frida Kahlo a créé 55 autoportraits reflétant sa douleur et son identité, devenant une icône de l'art mexicain et du féminisme."
+  },
+  "q_art_017": {
+    "question": "Qui a composé l'opéra 'La Flûte enchantée' ?",
+    "correct": "Wolfgang Amadeus Mozart",
+    "wrong": [
+      "Ludwig van Beethoven",
+      "Johann Sebastian Bach",
+      "Georg Friedrich Haendel"
+    ],
+    "hint": "Ce compositeur autrichien est mort à l'âge de 35 ans.",
+    "explanation": "La Flûte enchantée (Die Zauberflöte) a été composée par Mozart en 1791, la dernière année de sa vie."
   }
 }

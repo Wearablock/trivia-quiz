@@ -28,7 +28,7 @@ class QuizErrorView extends ConsumerWidget {
             const SizedBox(height: 24),
             Text(
               l10n.oopsSomethingWentWrong,
-              style: const TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
+              style: const TextStyle(fontSize: 20, fontWeight: FontWeight.w700),
             ),
             const SizedBox(height: 8),
             Text(

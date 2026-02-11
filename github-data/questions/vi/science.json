@@ -174,5 +174,16 @@
     ],
     "hint": "Giá trị này được coi là trung tính, không phải axit cũng không phải bazơ.",
     "explanation": "Nước tinh khiết có pH bằng 7, là điểm trung tính trên thang pH từ 0 (axit nhất) đến 14 (bazơ nhất)."
+  },
+  "q_sci_016": {
+    "question": "Công thức hóa học của muối ăn là gì?",
+    "correct": "NaCl",
+    "wrong": [
+      "KCl",
+      "NaOH",
+      "CaCO3"
+    ],
+    "hint": "Đó là hợp chất của natri và clo.",
+    "explanation": "Muối ăn là natri clorua (NaCl), được hình thành bởi liên kết ion giữa nguyên tử natri và clo."
   }
 }

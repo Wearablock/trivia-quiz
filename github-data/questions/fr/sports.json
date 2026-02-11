@@ -163,5 +163,16 @@
     ],
     "hint": "Cette règle est l'une des plus fondamentales du sport, souvent résumée par « trois prises et vous êtes retiré ».",
     "explanation": "Au baseball, un frappeur est déclaré retiré après avoir accumulé trois strikes, une règle fondamentale depuis les débuts du sport."
+  },
+  "q_spo_016": {
+    "question": "Combien de périodes comporte un match de hockey sur glace standard ?",
+    "correct": "3",
+    "wrong": [
+      "2",
+      "4",
+      "5"
+    ],
+    "hint": "Chaque période dure 20 minutes.",
+    "explanation": "Un match standard de hockey sur glace se compose de trois périodes de 20 minutes, soit 60 minutes de jeu au total."
   }
 }

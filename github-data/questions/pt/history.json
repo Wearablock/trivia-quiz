@@ -163,5 +163,16 @@
     ],
     "hint": "Este desastre ocorreu na União Soviética, no que hoje é o norte da Ucrânia.",
     "explanation": "O desastre de Chernobyl ocorreu em 26 de abril de 1986 e continua sendo o pior acidente em usina nuclear da história."
+  },
+  "q_his_016": {
+    "question": "Qual antiga rota comercial conectava a China ao Mediterrâneo?",
+    "correct": "Rota da Seda",
+    "wrong": [
+      "Rota das Especiarias",
+      "Rota do Âmbar",
+      "Rota do Incenso"
+    ],
+    "hint": "Foi nomeada pelo produto mais valioso comercializado nela.",
+    "explanation": "A Rota da Seda era uma rede de rotas comerciais com mais de 6.400 km que conectava o Leste Asiático ao Mediterrâneo desde o século II a.C."
   }
 }

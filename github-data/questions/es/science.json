@@ -174,5 +174,16 @@
     ],
     "hint": "Este valor se considera neutro, ni ácido ni básico.",
     "explanation": "El agua pura tiene un pH de 7, que es el punto neutro en la escala de pH que va de 0 (más ácido) a 14 (más básico)."
+  },
+  "q_sci_016": {
+    "question": "¿Cuál es la fórmula química de la sal de mesa?",
+    "correct": "NaCl",
+    "wrong": [
+      "KCl",
+      "NaOH",
+      "CaCO3"
+    ],
+    "hint": "Es un compuesto de sodio y cloro.",
+    "explanation": "La sal de mesa es cloruro de sodio (NaCl), formado por el enlace iónico de átomos de sodio y cloro."
   }
 }

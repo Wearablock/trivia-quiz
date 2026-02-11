@@ -163,5 +163,16 @@
     ],
     "hint": "Bencana ini terjadi di Uni Soviet, di wilayah yang sekarang menjadi Ukraina utara.",
     "explanation": "Bencana Chernobyl terjadi pada 26 April 1986 dan tetap menjadi kecelakaan pembangkit listrik tenaga nuklir terburuk dalam sejarah."
+  },
+  "q_his_016": {
+    "question": "Jalur perdagangan kuno apa yang menghubungkan Tiongkok dengan Mediterania?",
+    "correct": "Jalur Sutra",
+    "wrong": [
+      "Jalur Rempah",
+      "Jalur Amber",
+      "Jalur Kemenyan"
+    ],
+    "hint": "Dinamai berdasarkan komoditas paling berharga yang diperdagangkan di sepanjang jalur tersebut.",
+    "explanation": "Jalur Sutra adalah jaringan rute perdagangan sepanjang lebih dari 6.400 km yang menghubungkan Asia Timur dengan Mediterania sejak abad ke-2 SM."
   }
 }

@@ -163,5 +163,16 @@
     ],
     "hint": "기존 하드 드라이브와 달리 움직이는 부품이 없어 훨씬 빠릅니다.",
     "explanation": "SSD(솔리드 스테이트 드라이브)는 기계적 부품 없이 플래시 메모리를 사용하여 기존 HDD보다 빠른 읽기/쓰기 속도와 내구성을 제공합니다."
+  },
+  "q_tec_016": {
+    "question": "컴퓨터에서 'RAM'은 무엇의 약자인가요?",
+    "correct": "Random Access Memory",
+    "wrong": [
+      "Read Access Memory",
+      "Rapid Application Memory",
+      "Remote Access Module"
+    ],
+    "hint": "휘발성 컴퓨터 메모리의 한 종류입니다.",
+    "explanation": "RAM(Random Access Memory)은 데이터를 임의의 순서로 읽고 쓸 수 있는 임시 저장 장치로, 컴퓨터가 꺼지면 데이터가 삭제됩니다."
   }
 }

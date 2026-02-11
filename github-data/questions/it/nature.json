@@ -163,5 +163,16 @@
     ],
     "hint": "Questa creatura lenta porta la sua casa sulla schiena e va in letargo in condizioni di siccità.",
     "explanation": "Alcune specie di lumache possono entrare in uno stato di dormienza (estivazione) fino a tre anni per sopravvivere alla siccità."
+  },
+  "q_nat_016": {
+    "question": "Qual è la specie di pinguino più grande?",
+    "correct": "Pinguino imperatore",
+    "wrong": [
+      "Pinguino reale",
+      "Pinguino Papua",
+      "Pinguino macaroni"
+    ],
+    "hint": "Si riproducono durante l'inverno antartico.",
+    "explanation": "Il pinguino imperatore può raggiungere 1,2 metri di altezza e pesare fino a 45 kg, rendendolo il più grande tra tutte le specie di pinguini."
   }
 }

@@ -174,5 +174,16 @@
     ],
     "hint": "Este prato de macarrão frito foi promovido como prato nacional na década de 1930.",
     "explanation": "O pad thai foi popularizado na Tailândia durante os anos 1930-40 como parte de uma campanha de identidade nacional do primeiro-ministro Plaek Phibunsongkhram."
+  },
+  "q_foo_017": {
+    "question": "De que país o kimchi é originário?",
+    "correct": "Coreia do Sul",
+    "wrong": [
+      "Japão",
+      "China",
+      "Tailândia"
+    ],
+    "hint": "Este prato é um acompanhamento básico da culinária coreana.",
+    "explanation": "Kimchi é um prato tradicional coreano de vegetais salgados e fermentados, geralmente repolho chinês e rabanete, com uma história de milhares de anos."
   }
 }

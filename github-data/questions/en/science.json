@@ -174,5 +174,16 @@
     ],
     "hint": "This value is considered neutral, neither acidic nor basic.",
     "explanation": "Pure water has a pH of 7, which is the neutral point on the pH scale ranging from 0 (most acidic) to 14 (most basic)."
+  },
+  "q_sci_016": {
+    "question": "What is the chemical formula for table salt?",
+    "correct": "NaCl",
+    "wrong": [
+      "KCl",
+      "NaOH",
+      "CaCO3"
+    ],
+    "hint": "It is a compound of sodium and chlorine.",
+    "explanation": "Table salt is sodium chloride (NaCl), formed by the ionic bonding of sodium and chlorine atoms."
   }
 }

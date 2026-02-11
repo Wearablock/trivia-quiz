@@ -163,5 +163,16 @@
     ],
     "hint": "Đây là một trong những quy tắc cơ bản nhất của môn thể thao, thường được gọi là 'ba strike là bạn ra ngoài'.",
     "explanation": "Trong bóng chày, người đánh bóng bị tuyên bố out sau khi tích lũy ba strike, một quy tắc cơ bản từ những ngày đầu của môn thể thao."
+  },
+  "q_spo_016": {
+    "question": "Một trận khúc côn cầu trên băng tiêu chuẩn có bao nhiêu hiệp?",
+    "correct": "3",
+    "wrong": [
+      "2",
+      "4",
+      "5"
+    ],
+    "hint": "Mỗi hiệp kéo dài 20 phút.",
+    "explanation": "Một trận khúc côn cầu trên băng tiêu chuẩn gồm ba hiệp, mỗi hiệp 20 phút, tổng cộng 60 phút thi đấu."
   }
 }
