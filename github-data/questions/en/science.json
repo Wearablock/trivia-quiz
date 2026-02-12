@@ -185,5 +185,54 @@
     ],
     "hint": "It is a compound of sodium and chlorine.",
     "explanation": "Table salt is sodium chloride (NaCl), formed by the ionic bonding of sodium and chlorine atoms."
+  },
+  "q_sci_017": {
+    "question": "What is the closest planet to the Sun?",
+    "correct": "Mercury",
+    "wrong": ["Venus", "Earth", "Mars"],
+    "hint": "This planet has no atmosphere and extreme temperature swings between day and night.",
+    "explanation": "Mercury orbits the Sun at an average distance of about 58 million km, making it the closest planet to our star."
+  },
+  "q_sci_018": {
+    "question": "What is the unit of electrical resistance?",
+    "correct": "Ohm",
+    "wrong": ["Volt", "Ampere", "Watt"],
+    "hint": "It is named after a German physicist and is symbolized by the Greek letter omega (Ω).",
+    "explanation": "The ohm (Ω) is the SI unit of electrical resistance, named after Georg Simon Ohm who formulated Ohm's Law."
+  },
+  "q_sci_019": {
+    "question": "How many bones are in the adult human body?",
+    "correct": "206",
+    "wrong": ["186", "256", "300"],
+    "hint": "Babies are born with about 270 bones, but many fuse together as they grow.",
+    "explanation": "An adult human body has 206 bones. Babies are born with approximately 270 bones, many of which fuse together during development."
+  },
+  "q_sci_020": {
+    "question": "What is the chemical symbol for potassium?",
+    "correct": "K",
+    "wrong": ["P", "Po", "Pt"],
+    "hint": "The symbol comes from the Latin word 'kalium'.",
+    "explanation": "Potassium's chemical symbol K comes from the Latin 'kalium', derived from the Arabic word for plant ash, 'al-qalyah'."
+  },
+  "q_sci_021": {
+    "question": "What is the largest organ in the human body?",
+    "correct": "Skin",
+    "wrong": ["Liver", "Brain", "Lungs"],
+    "hint": "This organ covers the entire body and serves as a protective barrier.",
+    "explanation": "The skin is the largest organ of the human body, covering about 1.5 to 2 square meters in an adult and weighing about 3.6 kg."
+  },
+  "q_sci_022": {
+    "question": "Which planet in our solar system has the strongest gravity?",
+    "correct": "Jupiter",
+    "wrong": ["Saturn", "Neptune", "Earth"],
+    "hint": "This gas giant is the largest planet in our solar system.",
+    "explanation": "Jupiter has the strongest surface gravity of any planet in our solar system at about 24.79 m/s², approximately 2.5 times Earth's gravity."
+  },
+  "q_sci_023": {
+    "question": "What is the rarest naturally occurring element in Earth's crust?",
+    "correct": "Astatine",
+    "wrong": ["Francium", "Plutonium", "Radium"],
+    "hint": "This radioactive halogen has a half-life of only about 8 hours.",
+    "explanation": "Astatine is the rarest naturally occurring element, with less than 30 grams estimated to exist in the entire Earth's crust at any given time."
   }
 }

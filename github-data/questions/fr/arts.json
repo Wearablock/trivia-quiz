@@ -185,5 +185,47 @@
     ],
     "hint": "Ce compositeur autrichien est mort à l'âge de 35 ans.",
     "explanation": "La Flûte enchantée (Die Zauberflöte) a été composée par Mozart en 1791, la dernière année de sa vie."
+  },
+  "q_art_018": {
+    "question": "Qui a écrit 'Don Quichotte' ?",
+    "correct": "Miguel de Cervantes",
+    "wrong": ["García Márquez", "García Lorca", "Borges"],
+    "hint": "Romancier espagnol, 1605 et 1615.",
+    "explanation": "Considéré comme le premier roman moderne."
+  },
+  "q_art_019": {
+    "question": "Quel architecte a conçu la Sagrada Família ?",
+    "correct": "Antoni Gaudí",
+    "wrong": ["Santiago Calatrava", "Le Corbusier", "Frank Lloyd Wright"],
+    "hint": "Catalan, formes organiques.",
+    "explanation": "Commencée en 1882, toujours en construction."
+  },
+  "q_art_020": {
+    "question": "Qui a peint le plafond de la chapelle Sixtine ?",
+    "correct": "Michel-Ange",
+    "wrong": ["Raphaël", "Botticelli", "Le Caravage"],
+    "hint": "Il a aussi sculpté le David.",
+    "explanation": "Peint entre 1508 et 1512, comprend La Création d'Adam."
+  },
+  "q_art_021": {
+    "question": "Qui a écrit « Orgueil et Préjugés » ?",
+    "correct": "Jane Austen",
+    "wrong": ["Charlotte Brontë", "Emily Brontë", "Virginia Woolf"],
+    "hint": "Romancière anglaise connue pour sa critique sociale acerbe de l'Angleterre de la Régence.",
+    "explanation": "Publié en 1813."
+  },
+  "q_art_022": {
+    "question": "Quelle technique picturale utilise de petits points de couleur pour former une image ?",
+    "correct": "Pointillisme",
+    "wrong": ["Impressionnisme", "Cubisme", "Fauvisme"],
+    "hint": "« Un dimanche après-midi à l'Île de la Grande Jatte » de Georges Seurat en est un exemple célèbre.",
+    "explanation": "Développé par Seurat et Signac dans les années 1880."
+  },
+  "q_art_023": {
+    "question": "Comment s'appelle la sculpture grecque antique représentant un lanceur de disque ?",
+    "correct": "Discobole",
+    "wrong": ["Vénus de Milo", "Laocoon", "Victoire de Samothrace"],
+    "hint": "Créée par le sculpteur Myron, elle capture un athlète en plein mouvement.",
+    "explanation": "Créée vers 450 av. J.-C."
   }
 }

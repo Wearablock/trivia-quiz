@@ -185,5 +185,47 @@
     ],
     "hint": "This Austrian composer died at the age of 35.",
     "explanation": "The Magic Flute (Die Zauberflöte) was composed by Mozart in 1791, the last year of his life."
+  },
+  "q_art_018": {
+    "question": "Who wrote 'Don Quixote'?",
+    "correct": "Miguel de Cervantes",
+    "wrong": ["Gabriel García Márquez", "Federico García Lorca", "Jorge Luis Borges"],
+    "hint": "This Spanish novelist published the book in two parts, in 1605 and 1615.",
+    "explanation": "Miguel de Cervantes wrote Don Quixote, often considered the first modern novel and one of the greatest works of literature ever written."
+  },
+  "q_art_019": {
+    "question": "Which architect designed the Sagrada Família in Barcelona?",
+    "correct": "Antoni Gaudí",
+    "wrong": ["Santiago Calatrava", "Le Corbusier", "Frank Lloyd Wright"],
+    "hint": "This Catalan architect's work is characterized by organic, nature-inspired forms.",
+    "explanation": "Antoni Gaudí began designing the Sagrada Família in 1882. The basilica remains under construction over 140 years later."
+  },
+  "q_art_020": {
+    "question": "Who painted the ceiling of the Sistine Chapel?",
+    "correct": "Michelangelo",
+    "wrong": ["Raphael", "Sandro Botticelli", "Caravaggio"],
+    "hint": "This Italian artist also sculpted the famous statue of David in Florence.",
+    "explanation": "Michelangelo painted the Sistine Chapel ceiling between 1508 and 1512, commissioned by Pope Julius II. It includes the iconic 'Creation of Adam'."
+  },
+  "q_art_021": {
+    "question": "Who wrote 'Pride and Prejudice'?",
+    "correct": "Jane Austen",
+    "wrong": ["Charlotte Brontë", "Emily Brontë", "Virginia Woolf"],
+    "hint": "This English novelist is known for her sharp social commentary on Regency-era England.",
+    "explanation": "Jane Austen published Pride and Prejudice in 1813. It is one of the most beloved novels in English literature."
+  },
+  "q_art_022": {
+    "question": "Which painting technique uses small dots of color to form an image?",
+    "correct": "Pointillism",
+    "wrong": ["Impressionism", "Cubism", "Fauvism"],
+    "hint": "Georges Seurat's 'A Sunday Afternoon on the Island of La Grande Jatte' is a famous example.",
+    "explanation": "Pointillism was developed by Georges Seurat and Paul Signac in the 1880s, using tiny distinct dots of color applied in patterns to form an image."
+  },
+  "q_art_023": {
+    "question": "What is the name of the ancient Greek sculpture depicting a discus thrower?",
+    "correct": "Discobolus",
+    "wrong": ["Venus de Milo", "Laocoön", "Nike of Samothrace"],
+    "hint": "This sculpture captures an athlete in mid-motion and was created by the sculptor Myron.",
+    "explanation": "Discobolus (The Discus Thrower) was created by the sculptor Myron around 450 BCE. The original bronze is lost, but Roman marble copies survive."
   }
 }

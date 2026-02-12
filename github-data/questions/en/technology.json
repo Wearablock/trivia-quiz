@@ -174,5 +174,54 @@
     ],
     "hint": "It is a type of volatile computer memory.",
     "explanation": "RAM (Random Access Memory) is a form of temporary storage that allows data to be read and written in any order, and is erased when the computer is turned off."
+  },
+  "q_tec_017": {
+    "question": "What does 'LED' stand for?",
+    "correct": "Light Emitting Diode",
+    "wrong": ["Light Energy Display", "Laser Emission Device", "Low Energy Driver"],
+    "hint": "This technology is used in modern TV screens, light bulbs, and smartphone displays.",
+    "explanation": "LED (Light Emitting Diode) is a semiconductor device that emits light when current flows through it, widely used for energy-efficient lighting."
+  },
+  "q_tec_018": {
+    "question": "In what year was the first email sent?",
+    "correct": "1971",
+    "wrong": ["1965", "1978", "1983"],
+    "hint": "Ray Tomlinson sent it over ARPANET, the precursor to the internet.",
+    "explanation": "Ray Tomlinson sent the first email in 1971 using ARPANET. He also introduced the '@' symbol for email addresses."
+  },
+  "q_tec_019": {
+    "question": "What does 'PDF' stand for?",
+    "correct": "Portable Document Format",
+    "wrong": ["Printed Data File", "Page Design Format", "Personal Document File"],
+    "hint": "Adobe developed this file format in the early 1990s.",
+    "explanation": "PDF (Portable Document Format) was created by Adobe in 1992 to present documents consistently across different devices and platforms."
+  },
+  "q_tec_020": {
+    "question": "Which technology is named after a 10th-century Scandinavian king?",
+    "correct": "Bluetooth",
+    "wrong": ["Wi-Fi", "NFC", "Ethernet"],
+    "hint": "This wireless technology is used for short-range data transfer between devices.",
+    "explanation": "Bluetooth is named after Harald Bluetooth, a 10th-century Danish king who united warring factions, symbolizing the technology's goal of uniting communication protocols."
+  },
+  "q_tec_021": {
+    "question": "What does 'HTML' stand for?",
+    "correct": "HyperText Markup Language",
+    "wrong": ["High Tech Modern Language", "HyperText Machine Language", "Home Tool Markup Language"],
+    "hint": "This is the standard language used to create and structure content on web pages.",
+    "explanation": "HTML (HyperText Markup Language) was created by Tim Berners-Lee in 1991 and is the foundational language for all web pages."
+  },
+  "q_tec_022": {
+    "question": "Who co-founded Apple alongside Steve Jobs?",
+    "correct": "Steve Wozniak",
+    "wrong": ["Bill Gates", "Tim Cook", "Jony Ive"],
+    "hint": "This engineer built the Apple I computer by hand in a garage.",
+    "explanation": "Steve Wozniak co-founded Apple with Steve Jobs and Ronald Wayne in 1976. Wozniak designed the Apple I and Apple II computers."
+  },
+  "q_tec_023": {
+    "question": "In what year was Wikipedia launched?",
+    "correct": "2001",
+    "wrong": ["1998", "2003", "2005"],
+    "hint": "Jimmy Wales and Larry Sanger created this free online encyclopedia.",
+    "explanation": "Wikipedia was launched on January 15, 2001, by Jimmy Wales and Larry Sanger. It has since become the largest encyclopedia ever compiled."
   }
 }

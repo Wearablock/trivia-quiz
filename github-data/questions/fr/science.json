@@ -185,5 +185,54 @@
     ],
     "hint": "C'est un composé de sodium et de chlore.",
     "explanation": "Le sel de table est le chlorure de sodium (NaCl), formé par la liaison ionique d'atomes de sodium et de chlore."
+  },
+  "q_sci_017": {
+    "question": "Quelle est la planète la plus proche du Soleil ?",
+    "correct": "Mercure",
+    "wrong": ["Vénus", "Terre", "Mars"],
+    "hint": "Pas d'atmosphère, températures extrêmes.",
+    "explanation": "À 58 millions de km du Soleil."
+  },
+  "q_sci_018": {
+    "question": "Quelle est l'unité de résistance électrique ?",
+    "correct": "Ohm",
+    "wrong": ["Volt", "Ampère", "Watt"],
+    "hint": "Physicien allemand, symbole oméga.",
+    "explanation": "Unité SI, Georg Simon Ohm."
+  },
+  "q_sci_019": {
+    "question": "Combien d'os compte le corps humain adulte ?",
+    "correct": "206",
+    "wrong": ["186", "256", "300"],
+    "hint": "Les bébés naissent avec 270 os.",
+    "explanation": "Beaucoup fusionnent au cours de la croissance."
+  },
+  "q_sci_020": {
+    "question": "Quel est le symbole chimique du potassium ?",
+    "correct": "K",
+    "wrong": ["P", "Po", "Pt"],
+    "hint": "Du latin 'kalium'.",
+    "explanation": "Dérivé de l'arabe 'al-qalyah'."
+  },
+  "q_sci_021": {
+    "question": "Quel est le plus grand organe du corps humain ?",
+    "correct": "La peau",
+    "wrong": ["Foie", "Cerveau", "Poumons"],
+    "hint": "Cet organe recouvre tout le corps et sert de barrière protectrice.",
+    "explanation": "La peau couvre entre 1,5 et 2 mètres carrés et pèse environ 3,6 kg."
+  },
+  "q_sci_022": {
+    "question": "Quelle planète de notre système solaire possède la gravité la plus forte ?",
+    "correct": "Jupiter",
+    "wrong": ["Saturne", "Neptune", "Terre"],
+    "hint": "Cette géante gazeuse est la plus grande planète du système solaire.",
+    "explanation": "Jupiter possède la gravité la plus forte, environ 24,79 m/s²."
+  },
+  "q_sci_023": {
+    "question": "Quel est l'élément naturel le plus rare de la croûte terrestre ?",
+    "correct": "Astate",
+    "wrong": ["Francium", "Plutonium", "Radium"],
+    "hint": "Cet halogène radioactif a une demi-vie d'environ 8 heures seulement.",
+    "explanation": "On estime qu'il existe moins de 30 grammes d'astate dans l'ensemble de la croûte terrestre."
   }
 }

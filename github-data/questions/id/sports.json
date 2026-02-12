@@ -174,5 +174,54 @@
     ],
     "hint": "Setiap periode berdurasi 20 menit.",
     "explanation": "Pertandingan hoki es standar terdiri dari tiga periode masing-masing 20 menit, total 60 menit permainan."
+  },
+  "q_spo_017": {
+    "question": "Dalam olahraga apa tim-tim bersaing memperebutkan Piala Stanley?",
+    "correct": "Hoki Es",
+    "wrong": ["Bola Basket", "Bisbol", "American Football"],
+    "hint": "Kanada, 1892",
+    "explanation": "Trofi liga NHL"
+  },
+  "q_spo_018": {
+    "question": "Negara mana yang meraih medali emas Olimpiade paling banyak?",
+    "correct": "Amerika Serikat",
+    "wrong": ["Uni Soviet", "Tiongkok", "Britania Raya"],
+    "hint": "Pernah menjadi tuan rumah Olimpiade 4 kali",
+    "explanation": "Lebih dari 1.000 medali emas"
+  },
+  "q_spo_019": {
+    "question": "Berapa poin nilai sebuah touchdown?",
+    "correct": "6",
+    "wrong": ["3", "5", "7"],
+    "hint": "Ada tendangan tambahan setelahnya",
+    "explanation": "Ditambah konversi"
+  },
+  "q_spo_020": {
+    "question": "Negara mana yang menjadi tuan rumah Piala Dunia FIFA pertama pada tahun 1930?",
+    "correct": "Uruguay",
+    "wrong": ["Brasil", "Italia", "Prancis"],
+    "hint": "Juga memenangkan turnamen tersebut",
+    "explanation": "Mengalahkan Argentina 4-2"
+  },
+  "q_spo_021": {
+    "question": "Berapa diameter ring basket standar dalam inci?",
+    "correct": "18 inci",
+    "wrong": ["16 inci", "20 inci", "22 inci"],
+    "hint": "Ring sedikit lebih besar dari dua kali diameter bola basket.",
+    "explanation": "Ring basket standar memiliki diameter dalam 18 inci (46 cm), sedangkan bola basket NBA memiliki diameter sekitar 9,4 inci."
+  },
+  "q_spo_022": {
+    "question": "Negara mana yang memenangkan Piala Dunia Rugby pertama pada tahun 1987?",
+    "correct": "Selandia Baru",
+    "wrong": ["Australia", "Afrika Selatan", "Inggris"],
+    "hint": "Tim rugby negara ini dikenal sebagai All Blacks.",
+    "explanation": "Selandia Baru memenangkan Piala Dunia Rugby pertama pada tahun 1987, mengalahkan Prancis 29-9 di final yang digelar di Auckland."
+  },
+  "q_spo_023": {
+    "question": "Berapa skor break maksimum dalam snooker?",
+    "correct": "147",
+    "wrong": ["155", "170", "180"],
+    "hint": "Skor ini membutuhkan memasukkan semua 15 bola merah dengan bola hitam, diikuti enam bola warna.",
+    "explanation": "Break maksimum 147 dalam snooker dicapai dengan memasukkan 15 bola merah (masing-masing diikuti bola hitam) kemudian semua enam bola warna secara berurutan."
   }
 }

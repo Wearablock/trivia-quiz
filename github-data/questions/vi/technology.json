@@ -174,5 +174,54 @@
     ],
     "hint": "Đó là một loại bộ nhớ máy tính dễ bay hơi.",
     "explanation": "RAM (Random Access Memory) là bộ nhớ tạm thời cho phép đọc và ghi dữ liệu theo bất kỳ thứ tự nào, và bị xóa khi tắt máy tính."
+  },
+  "q_tec_017": {
+    "question": "'LED' là viết tắt của gì?",
+    "correct": "Điốt phát quang (Light Emitting Diode)",
+    "wrong": ["Light Energy Display", "Laser Emission Device", "Low Energy Driver"],
+    "hint": "Dùng trong TV, đèn, điện thoại",
+    "explanation": "Là linh kiện bán dẫn"
+  },
+  "q_tec_018": {
+    "question": "Email đầu tiên được gửi vào năm nào?",
+    "correct": "1971",
+    "wrong": ["1965", "1978", "1983"],
+    "hint": "Mạng ARPANET",
+    "explanation": "Ray Tomlinson, ký hiệu '@'"
+  },
+  "q_tec_019": {
+    "question": "'PDF' là viết tắt của gì?",
+    "correct": "Portable Document Format",
+    "wrong": ["Printed Data File", "Page Design Format", "Personal Document File"],
+    "hint": "Adobe, thập niên 1990",
+    "explanation": "Ra mắt năm 1992"
+  },
+  "q_tec_020": {
+    "question": "Công nghệ nào được đặt tên theo một vị vua Bắc Âu?",
+    "correct": "Bluetooth",
+    "wrong": ["Wi-Fi", "NFC", "Ethernet"],
+    "hint": "Kết nối không dây tầm ngắn",
+    "explanation": "Đặt theo tên vua Harald Bluetooth"
+  },
+  "q_tec_021": {
+    "question": "'HTML' là viết tắt của gì?",
+    "correct": "HyperText Markup Language",
+    "wrong": ["High Tech Modern Language", "HyperText Machine Language", "Home Tool Markup Language"],
+    "hint": "Đây là ngôn ngữ tiêu chuẩn dùng để tạo và cấu trúc nội dung trên các trang web.",
+    "explanation": "HTML (HyperText Markup Language) được Tim Berners-Lee tạo ra vào năm 1991 và là ngôn ngữ nền tảng cho tất cả các trang web."
+  },
+  "q_tec_022": {
+    "question": "Ai đồng sáng lập Apple cùng Steve Jobs?",
+    "correct": "Steve Wozniak",
+    "wrong": ["Bill Gates", "Tim Cook", "Jony Ive"],
+    "hint": "Kỹ sư này đã tự tay lắp ráp máy tính Apple I trong một nhà để xe.",
+    "explanation": "Steve Wozniak đồng sáng lập Apple cùng Steve Jobs và Ronald Wayne vào năm 1976. Wozniak thiết kế máy tính Apple I và Apple II."
+  },
+  "q_tec_023": {
+    "question": "Wikipedia ra mắt vào năm nào?",
+    "correct": "2001",
+    "wrong": ["1998", "2003", "2005"],
+    "hint": "Jimmy Wales và Larry Sanger đã tạo ra bách khoa toàn thư trực tuyến miễn phí này.",
+    "explanation": "Wikipedia ra mắt vào ngày 15 tháng 1 năm 2001 bởi Jimmy Wales và Larry Sanger. Kể từ đó, nó đã trở thành bách khoa toàn thư lớn nhất từng được biên soạn."
   }
 }

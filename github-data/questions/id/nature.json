@@ -174,5 +174,54 @@
     ],
     "hint": "Mereka berkembang biak selama musim dingin Antartika.",
     "explanation": "Penguin kaisar dapat mencapai tinggi 1,2 meter dan berat hingga 45 kg, menjadikannya yang terbesar dari semua spesies penguin."
+  },
+  "q_nat_017": {
+    "question": "Apa hewan darat terbesar?",
+    "correct": "Gajah Afrika",
+    "wrong": ["Badak Putih", "Kuda Nil", "Jerapah"],
+    "hint": "Beratnya 6.000 kg",
+    "explanation": "Tingginya 4 meter"
+  },
+  "q_nat_018": {
+    "question": "Komodo dragon termasuk jenis hewan apa?",
+    "correct": "Kadal",
+    "wrong": ["Buaya", "Ular", "Dinosaurus"],
+    "hint": "Yang terbesar dari jenisnya, ditemukan di Indonesia",
+    "explanation": "Panjangnya 3 meter"
+  },
+  "q_nat_019": {
+    "question": "Ikan tercepat di lautan adalah apa?",
+    "correct": "Ikan layaran",
+    "wrong": ["Ikan todak", "Ikan marlin", "Ikan tuna"],
+    "hint": "Sirip punggung seperti layar",
+    "explanation": "Kecepatannya 110 km/jam"
+  },
+  "q_nat_020": {
+    "question": "Hewan apa yang memiliki kekuatan gigitan terkuat?",
+    "correct": "Buaya air asin",
+    "wrong": ["Hiu", "Kuda nil", "Beruang"],
+    "hint": "Tersebar dari Asia Tenggara hingga Australia",
+    "explanation": "Kekuatan gigitan 3.700 psi"
+  },
+  "q_nat_021": {
+    "question": "Apa organisme hidup terbesar di Bumi berdasarkan luas?",
+    "correct": "Jamur madu",
+    "wrong": ["Paus biru", "Pohon sequoia raksasa", "Great Barrier Reef"],
+    "hint": "Organisme ini menyebar di bawah tanah melalui jaringan filamen dan dapat menutupi ribuan hektar.",
+    "explanation": "Jamur madu (Armillaria ostoyae) di Hutan Nasional Malheur, Oregon, menutupi area sekitar 2.385 acre (965 hektar) dan diperkirakan berusia lebih dari 2.400 tahun."
+  },
+  "q_nat_022": {
+    "question": "Berapa persen air di Bumi yang merupakan air tawar?",
+    "correct": "Sekitar 3%",
+    "wrong": ["Sekitar 10%", "Sekitar 25%", "Sekitar 50%"],
+    "hint": "Sebagian besar dari persentase kecil ini terkunci dalam gletser dan lapisan es.",
+    "explanation": "Hanya sekitar 3% air di Bumi yang merupakan air tawar, dan dari jumlah itu, sekitar 69% terkunci dalam gletser dan lapisan es, sehingga kurang dari 1% yang mudah diakses."
+  },
+  "q_nat_023": {
+    "question": "Hewan apa yang menghasilkan suara paling keras di dunia hewan?",
+    "correct": "Paus sperma",
+    "wrong": ["Paus biru", "Monyet howler", "Udang pistol"],
+    "hint": "Mamalia laut penyelam dalam ini menggunakan suara klik untuk ekolokasi.",
+    "explanation": "Paus sperma menghasilkan suara klik yang dapat mencapai 230 desibel, menjadikannya hewan dengan suara paling keras di Bumi."
   }
 }

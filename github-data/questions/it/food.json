@@ -185,5 +185,66 @@
     ],
     "hint": "Questo piatto è un contorno fondamentale della cucina coreana.",
     "explanation": "Il kimchi è un piatto tradizionale coreano di verdure salate e fermentate, solitamente cavolo cinese e ravanello, con una storia millenaria."
+  },
+  "q_foo_018": {
+    "question": "Da quale paese ha origine la pizza?",
+    "correct": "Italia",
+    "wrong": [
+      "Grecia",
+      "Turchia",
+      "USA"
+    ],
+    "hint": "Napoli.",
+    "explanation": "Margherita, 1889."
+  },
+  "q_foo_019": {
+    "question": "Da quale legume si ricava il tofu?",
+    "correct": "Soia",
+    "wrong": [
+      "Fagiolo di Lima",
+      "Cece",
+      "Fagiolo mungo"
+    ],
+    "hint": "Salsa di soia, tempeh, miso.",
+    "explanation": "Cina, 2.000 anni fa."
+  },
+  "q_foo_020": {
+    "question": "Quale paese è il maggior produttore di olio d'oliva?",
+    "correct": "Spagna",
+    "wrong": [
+      "Italia",
+      "Grecia",
+      "Turchia"
+    ],
+    "hint": "Metà della produzione mondiale.",
+    "explanation": "Andalusia."
+  },
+  "q_foo_021": {
+    "question": "Da quale paese ha origine il cioccolato?",
+    "correct": "Messico",
+    "wrong": ["Belgio", "Svizzera", "Ghana"],
+    "hint": "Aztechi e Maya lo consumavano come bevanda amara.",
+    "explanation": "Ha origine in Mesoamerica."
+  },
+  "q_foo_022": {
+    "question": "Quale frutto è botanicamente classificato come una bacca?",
+    "correct": "Banana",
+    "wrong": ["Fragola", "Lampone", "Mora"],
+    "hint": "Nonostante la sua forma e la sua buccia, questo frutto tropicale soddisfa tutti i criteri botanici di una bacca.",
+    "explanation": "Si sviluppa da un singolo ovario."
+  },
+  "q_foo_023": {
+    "question": "Quale paese è il maggior consumatore di tè pro capite?",
+    "correct": "Turchia",
+    "wrong": ["Cina", "India", "Regno Unito"],
+    "hint": "Questo paese tra Europa e Asia serve il tè in bicchieri a forma di tulipano.",
+    "explanation": "Circa 3 kg a persona all'anno."
+  },
+  "q_foo_024": {
+    "question": "Che tipo di alimento è il 'naan'?",
+    "correct": "Pane",
+    "wrong": ["Riso", "Curry", "Dolce"],
+    "hint": "È un pane piatto cotto nel forno tandoor.",
+    "explanation": "Pane piatto lievitato tipico della cucina dell'Asia meridionale e centrale."
   }
 }

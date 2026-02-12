@@ -174,5 +174,54 @@
     ],
     "hint": "Dinamai berdasarkan komoditas paling berharga yang diperdagangkan di sepanjang jalur tersebut.",
     "explanation": "Jalur Sutra adalah jaringan rute perdagangan sepanjang lebih dari 6.400 km yang menghubungkan Asia Timur dengan Mediterania sejak abad ke-2 SM."
+  },
+  "q_his_017": {
+    "question": "Siapa wanita pertama yang terbang solo melintasi Atlantik?",
+    "correct": "Amelia Earhart",
+    "wrong": ["Harriet Quimby", "Bessie Coleman", "Jacqueline Cochran"],
+    "hint": "Menghilang tahun 1937",
+    "explanation": "Mei 1932"
+  },
+  "q_his_018": {
+    "question": "Pada tahun berapa Revolusi Rusia dimulai?",
+    "correct": "1917",
+    "wrong": ["1905", "1914", "1920"],
+    "hint": "Penggulingan Tsar",
+    "explanation": "Revolusi Februari dan Oktober"
+  },
+  "q_his_019": {
+    "question": "Peradaban mana yang membangun Machu Picchu?",
+    "correct": "Kekaisaran Inka",
+    "wrong": ["Kekaisaran Aztec", "Peradaban Maya", "Peradaban Olmec"],
+    "hint": "Pegunungan Andes, Peru",
+    "explanation": "Dibangun pada abad ke-15"
+  },
+  "q_his_020": {
+    "question": "Siapa yang menemukan mesin cetak huruf bergerak di Eropa?",
+    "correct": "Johannes Gutenberg",
+    "wrong": ["William Caxton", "Aldus Manutius", "Bi Sheng"],
+    "hint": "Tahun 1440, Jerman",
+    "explanation": "Produksi buku secara massal"
+  },
+  "q_his_021": {
+    "question": "Kekaisaran mana yang terbesar dalam sejarah berdasarkan luas daratan?",
+    "correct": "Kerajaan Britania",
+    "wrong": ["Kekaisaran Mongol", "Kekaisaran Romawi", "Kekaisaran Rusia"],
+    "hint": "Dikatakan bahwa 'matahari tidak pernah terbenam' di kekaisaran ini.",
+    "explanation": "Kerajaan Britania pada puncaknya tahun 1920 mencakup sekitar 35,5 juta km², kira-kira seperempat dari total luas daratan dunia."
+  },
+  "q_his_022": {
+    "question": "Pada tahun berapa Amerika Serikat mendeklarasikan kemerdekaan?",
+    "correct": "1776",
+    "wrong": ["1783", "1774", "1781"],
+    "hint": "Deklarasi tersebut diadopsi pada tanggal 4 Juli, yang kini dirayakan sebagai hari nasional.",
+    "explanation": "Deklarasi Kemerdekaan Amerika Serikat diadopsi pada 4 Juli 1776, menyatakan kebebasan dari kekuasaan Britania."
+  },
+  "q_his_023": {
+    "question": "Siapa kaisar pertama Roma?",
+    "correct": "Augustus",
+    "wrong": ["Julius Caesar", "Nero", "Tiberius"],
+    "hint": "Lahir dengan nama Oktavianus, ia adalah pewaris angkat Julius Caesar.",
+    "explanation": "Augustus (lahir Gaius Octavius) menjadi Kaisar Romawi pertama pada 27 SM dan memerintah hingga 14 M, memulai era Pax Romana."
   }
 }

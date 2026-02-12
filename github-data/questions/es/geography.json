@@ -174,5 +174,54 @@
     ],
     "hint": "Técnicamente se clasifica como un lago a pesar de su nombre.",
     "explanation": "El mar Caspio, con una superficie de unos 371.000 km², es la masa de agua interior cerrada más grande del mundo."
+  },
+  "q_geo_016": {
+    "question": "¿Cuál es la isla más grande del mundo?",
+    "correct": "Groenlandia",
+    "wrong": ["Borneo", "Madagascar", "Nueva Guinea"],
+    "hint": "Territorio autónomo de Dinamarca.",
+    "explanation": "Tiene una superficie de unos 2,166 millones de km²."
+  },
+  "q_geo_017": {
+    "question": "¿Cuál es el lago más profundo del mundo?",
+    "correct": "Lago Baikal",
+    "wrong": ["Lago Tanganica", "Lago Malaui", "Lago del Cráter"],
+    "hint": "Ubicado en Siberia, Rusia.",
+    "explanation": "Tiene una profundidad de 1.642 metros."
+  },
+  "q_geo_018": {
+    "question": "¿Cuál es el océano más pequeño del mundo?",
+    "correct": "Océano Ártico",
+    "wrong": ["Océano Índico", "Océano Austral", "Océano Atlántico"],
+    "hint": "Rodea el Polo Norte.",
+    "explanation": "Cubre aproximadamente 14,06 millones de km²."
+  },
+  "q_geo_019": {
+    "question": "¿Qué país africano tiene la mayor superficie terrestre?",
+    "correct": "Argelia",
+    "wrong": ["RD Congo", "Libia", "Nigeria"],
+    "hint": "Limita con el Mediterráneo y el Sahara cubre la mayor parte.",
+    "explanation": "Tiene una superficie de unos 2,38 millones de km²."
+  },
+  "q_geo_020": {
+    "question": "¿Cuál es el río más largo de Europa?",
+    "correct": "Volga",
+    "wrong": ["Danubio", "Rin", "Elba"],
+    "hint": "Este río fluye completamente dentro de Rusia y desemboca en el mar Caspio.",
+    "explanation": "El río Volga tiene aproximadamente 3.530 km de longitud, lo que lo convierte en el río más largo de Europa."
+  },
+  "q_geo_021": {
+    "question": "¿Qué país tiene más islas en el mundo?",
+    "correct": "Suecia",
+    "wrong": ["Indonesia", "Filipinas", "Noruega"],
+    "hint": "Este país escandinavo cuenta con más de 267.000 islas, en su mayoría pequeñas y deshabitadas.",
+    "explanation": "Suecia tiene aproximadamente 267.570 islas."
+  },
+  "q_geo_022": {
+    "question": "¿Cuál es la capital de Brasil?",
+    "correct": "Brasilia",
+    "wrong": ["Río de Janeiro", "São Paulo", "Salvador"],
+    "hint": "Esta ciudad fue diseñada por el arquitecto Oscar Niemeyer y construida específicamente como capital.",
+    "explanation": "Brasilia se convirtió en la capital de Brasil en 1960."
   }
 }

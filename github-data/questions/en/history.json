@@ -174,5 +174,54 @@
     ],
     "hint": "It was named after the most valuable commodity traded along it.",
     "explanation": "The Silk Road was a network of trade routes spanning over 6,400 km, connecting East Asia to the Mediterranean from the 2nd century BC."
+  },
+  "q_his_017": {
+    "question": "Who was the first woman to fly solo across the Atlantic Ocean?",
+    "correct": "Amelia Earhart",
+    "wrong": ["Harriet Quimby", "Bessie Coleman", "Jacqueline Cochran"],
+    "hint": "She mysteriously disappeared during an attempt to circumnavigate the globe in 1937.",
+    "explanation": "Amelia Earhart completed her solo transatlantic flight on May 20-21, 1932, flying from Newfoundland to Northern Ireland."
+  },
+  "q_his_018": {
+    "question": "In which year did the Russian Revolution begin?",
+    "correct": "1917",
+    "wrong": ["1905", "1914", "1920"],
+    "hint": "This revolution led to the overthrow of the Tsar and the rise of the Bolsheviks.",
+    "explanation": "The Russian Revolution of 1917 consisted of two revolutions: the February Revolution that ended the monarchy and the October Revolution that brought the Bolsheviks to power."
+  },
+  "q_his_019": {
+    "question": "Which civilization built Machu Picchu?",
+    "correct": "Inca Empire",
+    "wrong": ["Aztec Empire", "Maya civilization", "Olmec civilization"],
+    "hint": "This citadel sits high in the Andes mountains of Peru.",
+    "explanation": "Machu Picchu was built by the Inca Empire in the 15th century, perched at about 2,430 meters above sea level in the Peruvian Andes."
+  },
+  "q_his_020": {
+    "question": "Who invented the movable type printing press in Europe?",
+    "correct": "Johannes Gutenberg",
+    "wrong": ["William Caxton", "Aldus Manutius", "Bi Sheng"],
+    "hint": "His invention around 1440 in Germany revolutionized the spread of knowledge.",
+    "explanation": "Johannes Gutenberg invented the movable type printing press around 1440, enabling mass production of books and fueling the Renaissance and Reformation."
+  },
+  "q_his_021": {
+    "question": "Which empire was the largest in history by land area?",
+    "correct": "British Empire",
+    "wrong": ["Mongol Empire", "Roman Empire", "Russian Empire"],
+    "hint": "It was said that 'the sun never sets' on this empire.",
+    "explanation": "The British Empire at its peak in 1920 covered about 35.5 million km², roughly a quarter of the world's total land area."
+  },
+  "q_his_022": {
+    "question": "In which year did the United States declare independence?",
+    "correct": "1776",
+    "wrong": ["1783", "1774", "1781"],
+    "hint": "The declaration was adopted on July 4th, now celebrated as a national holiday.",
+    "explanation": "The United States Declaration of Independence was adopted on July 4, 1776, declaring freedom from British rule."
+  },
+  "q_his_023": {
+    "question": "Who was the first emperor of Rome?",
+    "correct": "Augustus",
+    "wrong": ["Julius Caesar", "Nero", "Tiberius"],
+    "hint": "Born as Octavian, he was the adopted heir of Julius Caesar.",
+    "explanation": "Augustus (born Gaius Octavius) became the first Roman Emperor in 27 BCE and ruled until 14 CE, initiating the Pax Romana."
   }
 }

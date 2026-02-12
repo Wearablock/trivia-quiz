@@ -174,5 +174,54 @@
     ],
     "hint": "Jedes Drittel dauert 20 Minuten.",
     "explanation": "Ein Standard-Eishockeyspiel besteht aus drei Dritteln à 20 Minuten, insgesamt 60 Minuten Spielzeit."
+  },
+  "q_spo_017": {
+    "question": "In welcher Sportart spielen Mannschaften um den Stanley Cup?",
+    "correct": "Eishockey",
+    "wrong": ["Basketball", "Baseball", "American Football"],
+    "hint": "Gestiftet vom Generalgouverneur Kanadas 1892.",
+    "explanation": "Meisterschaftstrophäe der NHL."
+  },
+  "q_spo_018": {
+    "question": "Welches Land hat die meisten olympischen Goldmedaillen gewonnen?",
+    "correct": "Vereinigte Staaten",
+    "wrong": ["Sowjetunion", "China", "Großbritannien"],
+    "hint": "War viermal Gastgeber der Olympischen Sommerspiele.",
+    "explanation": "Über 1.000 Goldmedaillen."
+  },
+  "q_spo_019": {
+    "question": "Wie viele Punkte ist ein Touchdown wert?",
+    "correct": "6",
+    "wrong": ["3", "5", "7"],
+    "hint": "Danach kann ein Extrapunkt versucht werden.",
+    "explanation": "6 Punkte plus Zusatzversuch."
+  },
+  "q_spo_020": {
+    "question": "Welches Land war Gastgeber der ersten FIFA-Weltmeisterschaft 1930?",
+    "correct": "Uruguay",
+    "wrong": ["Brasilien", "Italien", "Frankreich"],
+    "hint": "Es gewann auch das Turnier.",
+    "explanation": "Besiegte Argentinien 4:2."
+  },
+  "q_spo_021": {
+    "question": "Wie groß ist der Durchmesser eines Basketballkorbs in Zoll?",
+    "correct": "18 Zoll",
+    "wrong": ["16 Zoll", "20 Zoll", "22 Zoll"],
+    "hint": "Etwas mehr als der doppelte Durchmesser des Balls.",
+    "explanation": "18 Zoll (46 cm)."
+  },
+  "q_spo_022": {
+    "question": "Welches Land gewann die erste Rugby-Weltmeisterschaft 1987?",
+    "correct": "Neuseeland",
+    "wrong": ["Australien", "Südafrika", "England"],
+    "hint": "Bekannt als die All Blacks.",
+    "explanation": "Besiegte Frankreich 29:9."
+  },
+  "q_spo_023": {
+    "question": "Was ist das höchstmögliche Break beim Snooker?",
+    "correct": "147",
+    "wrong": ["155", "170", "180"],
+    "hint": "15 Rote mit Schwarzen, dann alle sechs Farben.",
+    "explanation": "147 Punkte."
   }
 }

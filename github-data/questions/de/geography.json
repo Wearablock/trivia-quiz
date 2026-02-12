@@ -174,5 +174,54 @@
     ],
     "hint": "Er wird trotz seines Namens technisch als See eingestuft.",
     "explanation": "Das Kaspische Meer ist mit einer Fläche von etwa 371.000 km² das größte geschlossene Binnengewässer der Welt."
+  },
+  "q_geo_016": {
+    "question": "Welche ist die größte Insel der Welt?",
+    "correct": "Grönland",
+    "wrong": ["Borneo", "Madagaskar", "Neuguinea"],
+    "hint": "Autonomes Gebiet Dänemarks.",
+    "explanation": "Die Fläche beträgt etwa 2,166 Millionen km²."
+  },
+  "q_geo_017": {
+    "question": "Was ist der tiefste See der Welt?",
+    "correct": "Baikalsee",
+    "wrong": ["Tanganjikasee", "Malawisee", "Crater Lake"],
+    "hint": "Er liegt in Sibirien, Russland.",
+    "explanation": "Er erreicht eine Tiefe von 1.642 Metern."
+  },
+  "q_geo_018": {
+    "question": "Welcher ist der kleinste Ozean der Welt?",
+    "correct": "Arktischer Ozean",
+    "wrong": ["Indischer Ozean", "Südlicher Ozean", "Atlantischer Ozean"],
+    "hint": "Er umgibt den Nordpol.",
+    "explanation": "Er bedeckt etwa 14,06 Millionen km²."
+  },
+  "q_geo_019": {
+    "question": "Welches afrikanische Land hat die größte Landfläche?",
+    "correct": "Algerien",
+    "wrong": ["DR Kongo", "Libyen", "Nigeria"],
+    "hint": "Grenzt ans Mittelmeer, die Sahara bedeckt den Großteil des Landes.",
+    "explanation": "Die Fläche beträgt etwa 2,38 Millionen km²."
+  },
+  "q_geo_020": {
+    "question": "Welcher Fluss ist der längste in Europa?",
+    "correct": "Wolga",
+    "wrong": ["Donau", "Rhein", "Elbe"],
+    "hint": "Dieser Fluss fließt vollständig durch Russland und mündet ins Kaspische Meer.",
+    "explanation": "Die Wolga ist mit etwa 3.530 km der längste Fluss Europas."
+  },
+  "q_geo_021": {
+    "question": "Welches Land hat die meisten Inseln der Welt?",
+    "correct": "Schweden",
+    "wrong": ["Indonesien", "Philippinen", "Norwegen"],
+    "hint": "Dieses skandinavische Land besitzt über 267.000 Inseln.",
+    "explanation": "Schweden hat ungefähr 267.570 Inseln."
+  },
+  "q_geo_022": {
+    "question": "Was ist die Hauptstadt von Brasilien?",
+    "correct": "Brasília",
+    "wrong": ["Rio de Janeiro", "São Paulo", "Salvador"],
+    "hint": "Eine Planstadt, die von Oscar Niemeyer entworfen wurde.",
+    "explanation": "Brasília wurde 1960 zur Hauptstadt."
   }
 }

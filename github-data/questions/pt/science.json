@@ -185,5 +185,54 @@
     ],
     "hint": "É um composto de sódio e cloro.",
     "explanation": "O sal de cozinha é cloreto de sódio (NaCl), formado pela ligação iônica de átomos de sódio e cloro."
+  },
+  "q_sci_017": {
+    "question": "Qual é o planeta mais próximo do Sol?",
+    "correct": "Mercúrio",
+    "wrong": ["Vênus", "Terra", "Marte"],
+    "hint": "Sem atmosfera, temperaturas extremas.",
+    "explanation": "Está a 58 milhões de km do Sol."
+  },
+  "q_sci_018": {
+    "question": "Qual é a unidade de resistência elétrica?",
+    "correct": "Ohm",
+    "wrong": ["Volt", "Ampère", "Watt"],
+    "hint": "Físico alemão, símbolo ômega.",
+    "explanation": "Unidade do SI, Georg Simon Ohm."
+  },
+  "q_sci_019": {
+    "question": "Quantos ossos tem o corpo humano adulto?",
+    "correct": "206",
+    "wrong": ["186", "256", "300"],
+    "hint": "Os bebês nascem com 270.",
+    "explanation": "Muitos se fundem ao longo do tempo."
+  },
+  "q_sci_020": {
+    "question": "Qual é o símbolo químico do potássio?",
+    "correct": "K",
+    "wrong": ["P", "Po", "Pt"],
+    "hint": "Do latim 'kalium'.",
+    "explanation": "Derivado do árabe 'al-qalyah'."
+  },
+  "q_sci_021": {
+    "question": "Qual é o maior órgão do corpo humano?",
+    "correct": "A pele",
+    "wrong": ["Fígado", "Cérebro", "Pulmões"],
+    "hint": "Este órgão cobre todo o corpo e serve como barreira protetora.",
+    "explanation": "A pele cobre entre 1,5 e 2 metros quadrados e pesa cerca de 3,6 kg."
+  },
+  "q_sci_022": {
+    "question": "Qual planeta do nosso sistema solar tem a gravidade mais forte?",
+    "correct": "Júpiter",
+    "wrong": ["Saturno", "Netuno", "Terra"],
+    "hint": "Este gigante gasoso é o maior planeta do sistema solar.",
+    "explanation": "Júpiter tem a gravidade mais forte, cerca de 24,79 m/s²."
+  },
+  "q_sci_023": {
+    "question": "Qual é o elemento natural mais raro da crosta terrestre?",
+    "correct": "Ástato",
+    "wrong": ["Frâncio", "Plutônio", "Rádio"],
+    "hint": "Este halogênio radioativo tem meia-vida de apenas cerca de 8 horas.",
+    "explanation": "Estima-se que existam menos de 30 gramas de ástato em toda a crosta terrestre."
   }
 }

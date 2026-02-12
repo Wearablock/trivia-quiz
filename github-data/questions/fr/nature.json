@@ -174,5 +174,54 @@
     ],
     "hint": "Ils se reproduisent pendant l'hiver antarctique.",
     "explanation": "Le manchot empereur peut atteindre 1,2 mètre de haut et peser jusqu'à 45 kg, ce qui en fait le plus grand de tous les manchots."
+  },
+  "q_nat_017": {
+    "question": "Quel est le plus grand animal terrestre ?",
+    "correct": "Éléphant d'Afrique",
+    "wrong": ["Rhinocéros blanc", "Hippopotame", "Girafe"],
+    "hint": "Jusqu'à 6 000 kg, oreilles en forme d'Afrique.",
+    "explanation": "Il peut atteindre 4 mètres de haut."
+  },
+  "q_nat_018": {
+    "question": "Quel type d'animal est un dragon de Komodo ?",
+    "correct": "Lézard",
+    "wrong": ["Crocodile", "Serpent", "Dinosaure"],
+    "hint": "La plus grande espèce vivante de son genre, Indonésie.",
+    "explanation": "Il peut mesurer jusqu'à 3 mètres de long."
+  },
+  "q_nat_019": {
+    "question": "Quel est le poisson le plus rapide de l'océan ?",
+    "correct": "Voilier",
+    "wrong": ["Espadon", "Marlin", "Thon"],
+    "hint": "Grande nageoire dorsale en forme de voile.",
+    "explanation": "Jusqu'à 110 km/h."
+  },
+  "q_nat_020": {
+    "question": "Quel animal a la morsure la plus puissante ?",
+    "correct": "Crocodile marin",
+    "wrong": ["Grand requin blanc", "Hippopotame", "Ours grizzly"],
+    "hint": "Zones côtières de l'Asie du Sud-Est à l'Australie.",
+    "explanation": "Force de morsure de 3 700 psi."
+  },
+  "q_nat_021": {
+    "question": "Quel est le plus grand organisme vivant sur Terre par superficie ?",
+    "correct": "Armillaire",
+    "wrong": ["Baleine bleue", "Séquoia géant", "Grande Barrière de corail"],
+    "hint": "Il se propage sous terre par des filaments et peut couvrir des milliers d'hectares.",
+    "explanation": "Dans l'Oregon, il couvre 965 hectares et a plus de 2 400 ans."
+  },
+  "q_nat_022": {
+    "question": "Quel pourcentage de l'eau terrestre est de l'eau douce ?",
+    "correct": "Environ 3 %",
+    "wrong": ["Environ 10 %", "Environ 25 %", "Environ 50 %"],
+    "hint": "La majeure partie est piégée dans les glaciers et les calottes glaciaires.",
+    "explanation": "Seulement 3 % de l'eau de la Terre est douce, dont 69 % est emprisonnée dans les glaciers."
+  },
+  "q_nat_023": {
+    "question": "Quel animal produit le son le plus puissant du règne animal ?",
+    "correct": "Cachalot",
+    "wrong": ["Baleine bleue", "Singe hurleur", "Crevette pistolet"],
+    "hint": "Mammifère plongeur en eaux profondes utilisant des clics pour l'écholocation.",
+    "explanation": "Les clics du cachalot atteignent 230 décibels."
   }
 }

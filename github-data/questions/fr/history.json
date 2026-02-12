@@ -174,5 +174,54 @@
     ],
     "hint": "Elle a été nommée d'après la marchandise la plus précieuse qui y était échangée.",
     "explanation": "La Route de la soie était un réseau de routes commerciales de plus de 6 400 km reliant l'Asie de l'Est à la Méditerranée depuis le IIe siècle av. J.-C."
+  },
+  "q_his_017": {
+    "question": "Qui fut la première femme à traverser l'Atlantique en avion en solitaire ?",
+    "correct": "Amelia Earhart",
+    "wrong": ["Harriet Quimby", "Bessie Coleman", "Jacqueline Cochran"],
+    "hint": "Elle a disparu en 1937.",
+    "explanation": "Vol en solitaire en mai 1932."
+  },
+  "q_his_018": {
+    "question": "En quelle année la Révolution russe a-t-elle commencé ?",
+    "correct": "1917",
+    "wrong": ["1905", "1914", "1920"],
+    "hint": "Renversement du tsar et montée des bolcheviks.",
+    "explanation": "Les révolutions de Février et d'Octobre."
+  },
+  "q_his_019": {
+    "question": "Quelle civilisation a construit le Machu Picchu ?",
+    "correct": "Empire inca",
+    "wrong": ["Empire aztèque", "Civilisation maya", "Civilisation olmèque"],
+    "hint": "En altitude dans les Andes du Pérou.",
+    "explanation": "Construit au XVe siècle."
+  },
+  "q_his_020": {
+    "question": "Qui a inventé l'imprimerie à caractères mobiles en Europe ?",
+    "correct": "Johannes Gutenberg",
+    "wrong": ["William Caxton", "Aldus Manutius", "Bi Sheng"],
+    "hint": "Vers 1440 en Allemagne.",
+    "explanation": "A permis la production de livres en série."
+  },
+  "q_his_021": {
+    "question": "Quel empire fut le plus vaste de l'histoire par sa superficie ?",
+    "correct": "Empire britannique",
+    "wrong": ["Empire mongol", "Empire romain", "Empire russe"],
+    "hint": "On disait que « le soleil ne se couchait jamais » sur cet empire.",
+    "explanation": "L'Empire britannique à son apogée en 1920 couvrait environ 35,5 millions de km²."
+  },
+  "q_his_022": {
+    "question": "En quelle année les États-Unis ont-ils déclaré leur indépendance ?",
+    "correct": "1776",
+    "wrong": ["1783", "1774", "1781"],
+    "hint": "La déclaration fut adoptée le 4 juillet, aujourd'hui fête nationale.",
+    "explanation": "La Déclaration d'indépendance des États-Unis fut adoptée le 4 juillet 1776."
+  },
+  "q_his_023": {
+    "question": "Qui fut le premier empereur de Rome ?",
+    "correct": "Auguste",
+    "wrong": ["Jules César", "Néron", "Tibère"],
+    "hint": "Né sous le nom d'Octave, il était l'héritier adoptif de Jules César.",
+    "explanation": "Auguste devint le premier empereur romain en 27 av. J.-C."
   }
 }

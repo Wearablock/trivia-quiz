@@ -174,5 +174,54 @@
     ],
     "hint": "Ini adalah jenis memori komputer yang bersifat sementara.",
     "explanation": "RAM (Random Access Memory) adalah penyimpanan sementara yang memungkinkan data dibaca dan ditulis dalam urutan apa pun, dan terhapus saat komputer dimatikan."
+  },
+  "q_tec_017": {
+    "question": "Apa kepanjangan dari 'LED'?",
+    "correct": "Light Emitting Diode",
+    "wrong": ["Light Energy Display", "Laser Emission Device", "Low Energy Driver"],
+    "hint": "Digunakan di TV, lampu, ponsel",
+    "explanation": "Komponen semikonduktor"
+  },
+  "q_tec_018": {
+    "question": "Pada tahun berapa email pertama dikirim?",
+    "correct": "1971",
+    "wrong": ["1965", "1978", "1983"],
+    "hint": "Jaringan ARPANET",
+    "explanation": "Ray Tomlinson, simbol '@'"
+  },
+  "q_tec_019": {
+    "question": "Apa kepanjangan dari 'PDF'?",
+    "correct": "Portable Document Format",
+    "wrong": ["Printed Data File", "Page Design Format", "Personal Document File"],
+    "hint": "Adobe, tahun 1990-an",
+    "explanation": "Diluncurkan tahun 1992"
+  },
+  "q_tec_020": {
+    "question": "Teknologi mana yang dinamai dari seorang raja Skandinavia?",
+    "correct": "Bluetooth",
+    "wrong": ["Wi-Fi", "NFC", "Ethernet"],
+    "hint": "Nirkabel jarak pendek",
+    "explanation": "Dinamai dari Raja Harald Bluetooth"
+  },
+  "q_tec_021": {
+    "question": "Apa kepanjangan dari 'HTML'?",
+    "correct": "HyperText Markup Language",
+    "wrong": ["High Tech Modern Language", "HyperText Machine Language", "Home Tool Markup Language"],
+    "hint": "Ini adalah bahasa standar yang digunakan untuk membuat dan menyusun konten di halaman web.",
+    "explanation": "HTML (HyperText Markup Language) dibuat oleh Tim Berners-Lee pada tahun 1991 dan merupakan bahasa dasar untuk semua halaman web."
+  },
+  "q_tec_022": {
+    "question": "Siapa yang ikut mendirikan Apple bersama Steve Jobs?",
+    "correct": "Steve Wozniak",
+    "wrong": ["Bill Gates", "Tim Cook", "Jony Ive"],
+    "hint": "Insinyur ini merakit komputer Apple I dengan tangan di sebuah garasi.",
+    "explanation": "Steve Wozniak ikut mendirikan Apple bersama Steve Jobs dan Ronald Wayne pada tahun 1976. Wozniak merancang komputer Apple I dan Apple II."
+  },
+  "q_tec_023": {
+    "question": "Pada tahun berapa Wikipedia diluncurkan?",
+    "correct": "2001",
+    "wrong": ["1998", "2003", "2005"],
+    "hint": "Jimmy Wales dan Larry Sanger menciptakan ensiklopedia daring gratis ini.",
+    "explanation": "Wikipedia diluncurkan pada 15 Januari 2001 oleh Jimmy Wales dan Larry Sanger. Sejak itu menjadi ensiklopedia terbesar yang pernah disusun."
   }
 }

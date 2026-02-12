@@ -185,5 +185,54 @@
     ],
     "hint": "Es un compuesto de sodio y cloro.",
     "explanation": "La sal de mesa es cloruro de sodio (NaCl), formado por el enlace iónico de átomos de sodio y cloro."
+  },
+  "q_sci_017": {
+    "question": "¿Cuál es el planeta más cercano al Sol?",
+    "correct": "Mercurio",
+    "wrong": ["Venus", "Tierra", "Marte"],
+    "hint": "Sin atmósfera, temperaturas extremas.",
+    "explanation": "Se encuentra a 58 millones de km del Sol."
+  },
+  "q_sci_018": {
+    "question": "¿Cuál es la unidad de resistencia eléctrica?",
+    "correct": "Ohmio",
+    "wrong": ["Voltio", "Amperio", "Vatio"],
+    "hint": "Físico alemán, símbolo omega.",
+    "explanation": "Unidad del SI, Georg Simon Ohm."
+  },
+  "q_sci_019": {
+    "question": "¿Cuántos huesos tiene el cuerpo humano adulto?",
+    "correct": "206",
+    "wrong": ["186", "256", "300"],
+    "hint": "Los bebés nacen con 270.",
+    "explanation": "Muchos se fusionan con el tiempo."
+  },
+  "q_sci_020": {
+    "question": "¿Cuál es el símbolo químico del potasio?",
+    "correct": "K",
+    "wrong": ["P", "Po", "Pt"],
+    "hint": "Del latín 'kalium'.",
+    "explanation": "Derivado del árabe 'al-qalyah'."
+  },
+  "q_sci_021": {
+    "question": "¿Cuál es el órgano más grande del cuerpo humano?",
+    "correct": "La piel",
+    "wrong": ["Hígado", "Cerebro", "Pulmones"],
+    "hint": "Este órgano cubre todo el cuerpo y sirve como barrera protectora.",
+    "explanation": "La piel cubre entre 1,5 y 2 metros cuadrados y pesa unos 3,6 kg."
+  },
+  "q_sci_022": {
+    "question": "¿Qué planeta de nuestro sistema solar tiene la gravedad más fuerte?",
+    "correct": "Júpiter",
+    "wrong": ["Saturno", "Neptuno", "Tierra"],
+    "hint": "Este gigante gaseoso es el planeta más grande del sistema solar.",
+    "explanation": "Júpiter tiene la gravedad más fuerte, con unos 24,79 m/s²."
+  },
+  "q_sci_023": {
+    "question": "¿Cuál es el elemento natural más raro de la corteza terrestre?",
+    "correct": "Astato",
+    "wrong": ["Francio", "Plutonio", "Radio"],
+    "hint": "Este halógeno radiactivo tiene una vida media de solo unas 8 horas.",
+    "explanation": "Se estima que existen menos de 30 gramos de astato en toda la corteza terrestre."
   }
 }

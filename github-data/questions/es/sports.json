@@ -174,5 +174,54 @@
     ],
     "hint": "Cada período dura 20 minutos.",
     "explanation": "Un partido estándar de hockey sobre hielo consta de tres períodos de 20 minutos, totalizando 60 minutos de juego."
+  },
+  "q_spo_017": {
+    "question": "¿En qué deporte los equipos compiten por la Copa Stanley?",
+    "correct": "Hockey sobre hielo",
+    "wrong": ["Baloncesto", "Béisbol", "Fútbol americano"],
+    "hint": "Donada por el Gobernador General de Canadá en 1892.",
+    "explanation": "Trofeo del campeonato de la NHL."
+  },
+  "q_spo_018": {
+    "question": "¿Qué país ha ganado más medallas de oro olímpicas?",
+    "correct": "Estados Unidos",
+    "wrong": ["Unión Soviética", "China", "Gran Bretaña"],
+    "hint": "Ha sido sede de los Juegos Olímpicos de verano cuatro veces.",
+    "explanation": "Más de 1.000 medallas de oro."
+  },
+  "q_spo_019": {
+    "question": "¿Cuántos puntos vale un touchdown?",
+    "correct": "6",
+    "wrong": ["3", "5", "7"],
+    "hint": "Se puede intentar un punto extra después.",
+    "explanation": "6 puntos más la conversión."
+  },
+  "q_spo_020": {
+    "question": "¿Qué país fue sede de la primera Copa Mundial de la FIFA en 1930?",
+    "correct": "Uruguay",
+    "wrong": ["Brasil", "Italia", "Francia"],
+    "hint": "También ganó el torneo.",
+    "explanation": "Derrotó a Argentina 4-2."
+  },
+  "q_spo_021": {
+    "question": "¿Cuál es el diámetro de un aro de baloncesto estándar en pulgadas?",
+    "correct": "18 pulgadas",
+    "wrong": ["16 pulgadas", "20 pulgadas", "22 pulgadas"],
+    "hint": "El aro es poco más del doble del diámetro del balón.",
+    "explanation": "18 pulgadas (46 cm)."
+  },
+  "q_spo_022": {
+    "question": "¿Qué país ganó la primera Copa del Mundo de Rugby en 1987?",
+    "correct": "Nueva Zelanda",
+    "wrong": ["Australia", "Sudáfrica", "Inglaterra"],
+    "hint": "Conocidos como los All Blacks.",
+    "explanation": "Derrotaron a Francia 29-9."
+  },
+  "q_spo_023": {
+    "question": "¿Cuál es la máxima puntuación posible en una tacada de snooker?",
+    "correct": "147",
+    "wrong": ["155", "170", "180"],
+    "hint": "Requiere embocar las 15 bolas rojas con las negras y luego los seis colores.",
+    "explanation": "Se logra embocando 15 rojas con negras y luego los seis colores en secuencia."
   }
 }

@@ -185,5 +185,54 @@
     ],
     "hint": "Hidangan ini merupakan lauk utama dalam masakan Korea.",
     "explanation": "Kimchi adalah hidangan tradisional Korea berupa sayuran yang diasinkan dan difermentasi, biasanya sawi putih dan lobak, dengan sejarah ribuan tahun."
+  },
+  "q_foo_018": {
+    "question": "Dari negara mana pizza berasal?",
+    "correct": "Italia",
+    "wrong": ["Yunani", "Turki", "Amerika Serikat"],
+    "hint": "Kota Napoli",
+    "explanation": "Pizza Margherita, tahun 1889"
+  },
+  "q_foo_019": {
+    "question": "Tahu dibuat dari kacang apa?",
+    "correct": "Kedelai",
+    "wrong": ["Kacang lima", "Kacang arab", "Kacang hijau"],
+    "hint": "Juga digunakan untuk membuat kecap, tempe, miso",
+    "explanation": "Berasal dari Tiongkok, lebih dari 2.000 tahun"
+  },
+  "q_foo_020": {
+    "question": "Negara mana yang merupakan produsen minyak zaitun terbesar?",
+    "correct": "Spanyol",
+    "wrong": ["Italia", "Yunani", "Turki"],
+    "hint": "Menghasilkan setengah dari pasokan dunia",
+    "explanation": "Wilayah Andalusia"
+  },
+  "q_foo_021": {
+    "question": "Dari negara mana cokelat berasal?",
+    "correct": "Meksiko",
+    "wrong": ["Belgia", "Swiss", "Ghana"],
+    "hint": "Bangsa Aztec dan Maya kuno di wilayah ini mengonsumsinya sebagai minuman pahit.",
+    "explanation": "Cokelat berasal dari Mesoamerika (Meksiko modern), di mana bangsa Aztec dan Maya membudidayakan kakao dan menyiapkannya sebagai minuman pahit yang disebut 'xocolātl'."
+  },
+  "q_foo_022": {
+    "question": "Buah apa yang secara botani diklasifikasikan sebagai beri?",
+    "correct": "Pisang",
+    "wrong": ["Stroberi", "Raspberry", "Blackberry"],
+    "hint": "Meskipun bentuk dan kulitnya unik, buah tropis ini memenuhi semua kriteria botani sebagai beri.",
+    "explanation": "Secara botani, pisang adalah beri karena berkembang dari satu ovarium dan mengandung biji yang tertanam dalam daging buah."
+  },
+  "q_foo_023": {
+    "question": "Negara mana yang merupakan konsumen teh per kapita terbesar?",
+    "correct": "Turki",
+    "wrong": ["Tiongkok", "India", "Inggris"],
+    "hint": "Negara yang menjembatani Eropa dan Asia ini menyajikan teh dalam gelas berbentuk tulip yang khas.",
+    "explanation": "Turki memiliki konsumsi teh per kapita tertinggi di dunia, dengan setiap orang minum rata-rata sekitar 3 kg teh per tahun."
+  },
+  "q_foo_024": {
+    "question": "Jenis makanan apa itu 'naan'?",
+    "correct": "Roti",
+    "wrong": ["Nasi", "Kari", "Makanan penutup"],
+    "hint": "Roti pipih ini adalah makanan pokok dalam masakan Asia Selatan dan secara tradisional dipanggang dalam oven tandoor.",
+    "explanation": "Naan adalah roti pipih beragi yang populer dalam masakan Asia Selatan dan Tengah. Secara tradisional dipanggang dalam tandoor (oven tanah liat) dan disajikan dengan kari."
   }
 }

@@ -185,5 +185,54 @@
     ],
     "hint": "This dish is a staple side dish in Korean cuisine.",
     "explanation": "Kimchi is a traditional Korean dish of salted and fermented vegetables, most commonly napa cabbage and radish, with a history dating back thousands of years."
+  },
+  "q_foo_018": {
+    "question": "Which country is the origin of pizza?",
+    "correct": "Italy",
+    "wrong": ["Greece", "Turkey", "United States"],
+    "hint": "The modern version of this dish was born in Naples in the 18th century.",
+    "explanation": "Pizza originated in Naples, Italy. The classic Margherita pizza was supposedly created in 1889 to honor Queen Margherita of Italy."
+  },
+  "q_foo_019": {
+    "question": "From which bean is tofu made?",
+    "correct": "Soybean",
+    "wrong": ["Lima bean", "Chickpea", "Mung bean"],
+    "hint": "This legume is also used to make soy sauce, tempeh, and miso.",
+    "explanation": "Tofu is made from soybeans by coagulating soy milk. It originated in China over 2,000 years ago."
+  },
+  "q_foo_020": {
+    "question": "Which country is the largest producer of olive oil?",
+    "correct": "Spain",
+    "wrong": ["Italy", "Greece", "Turkey"],
+    "hint": "This European country produces nearly half of the world's supply.",
+    "explanation": "Spain produces about 45% of the world's olive oil, with the Andalusia region being the largest producing area."
+  },
+  "q_foo_021": {
+    "question": "Which country is the origin of chocolate?",
+    "correct": "Mexico",
+    "wrong": ["Belgium", "Switzerland", "Ghana"],
+    "hint": "The ancient Aztecs and Maya of this region consumed it as a bitter drink.",
+    "explanation": "Chocolate originated in Mesoamerica (modern-day Mexico), where the Aztecs and Maya cultivated cacao and prepared it as a bitter beverage called 'xocolātl'."
+  },
+  "q_foo_022": {
+    "question": "Which fruit is botanically classified as a berry?",
+    "correct": "Banana",
+    "wrong": ["Strawberry", "Raspberry", "Blackberry"],
+    "hint": "Despite its shape and peel, this tropical fruit meets all the botanical criteria of a berry.",
+    "explanation": "Botanically, a banana is a berry because it develops from a single ovary and contains seeds embedded in the flesh. Strawberries and raspberries are not true berries."
+  },
+  "q_foo_023": {
+    "question": "Which country is the largest consumer of tea per capita?",
+    "correct": "Turkey",
+    "wrong": ["China", "India", "United Kingdom"],
+    "hint": "This country bridges Europe and Asia and serves tea in distinctive tulip-shaped glasses.",
+    "explanation": "Turkey has the highest per capita tea consumption in the world, with each person drinking an average of about 3 kg of tea per year."
+  },
+  "q_foo_024": {
+    "question": "What type of food is 'naan'?",
+    "correct": "Bread",
+    "wrong": ["Rice", "Curry", "Dessert"],
+    "hint": "This flatbread is a staple in South Asian cuisine and is traditionally baked in a tandoor oven.",
+    "explanation": "Naan is a leavened flatbread popular in South and Central Asian cuisines. It is traditionally baked in a tandoor (clay oven) and served with curries."
   }
 }

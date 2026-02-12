@@ -174,5 +174,70 @@
     ],
     "hint": "Ogni periodo dura 20 minuti.",
     "explanation": "Una partita standard di hockey su ghiaccio consiste in tre periodi di 20 minuti, per un totale di 60 minuti di gioco."
+  },
+  "q_spo_017": {
+    "question": "In quale sport le squadre competono per la Stanley Cup?",
+    "correct": "Hockey su ghiaccio",
+    "wrong": [
+      "Pallacanestro",
+      "Baseball",
+      "Football americano"
+    ],
+    "hint": "Canada, 1892.",
+    "explanation": "Trofeo della NHL."
+  },
+  "q_spo_018": {
+    "question": "Quale paese ha vinto più medaglie d'oro olimpiche?",
+    "correct": "Stati Uniti",
+    "wrong": [
+      "Unione Sovietica",
+      "Cina",
+      "Gran Bretagna"
+    ],
+    "hint": "Ha ospitato le Olimpiadi 4 volte.",
+    "explanation": "Oltre 1.000 ori."
+  },
+  "q_spo_019": {
+    "question": "Quanti punti vale un touchdown?",
+    "correct": "6",
+    "wrong": [
+      "3",
+      "5",
+      "7"
+    ],
+    "hint": "Dopo c'è il punto extra.",
+    "explanation": "Più la conversione."
+  },
+  "q_spo_020": {
+    "question": "Quale paese ospitò la prima Coppa del Mondo FIFA nel 1930?",
+    "correct": "Uruguay",
+    "wrong": [
+      "Brasile",
+      "Italia",
+      "Francia"
+    ],
+    "hint": "La vinse anche.",
+    "explanation": "Batté l'Argentina 4-2."
+  },
+  "q_spo_021": {
+    "question": "Qual è il diametro di un canestro da basket standard in pollici?",
+    "correct": "18 pollici",
+    "wrong": ["16 pollici", "20 pollici", "22 pollici"],
+    "hint": "Il cerchio è poco più del doppio del diametro del pallone.",
+    "explanation": "18 pollici (46 cm)."
+  },
+  "q_spo_022": {
+    "question": "Quale paese vinse la prima Coppa del Mondo di rugby nel 1987?",
+    "correct": "Nuova Zelanda",
+    "wrong": ["Australia", "Sudafrica", "Inghilterra"],
+    "hint": "Conosciuti come gli All Blacks.",
+    "explanation": "Sconfissero la Francia 29-9."
+  },
+  "q_spo_023": {
+    "question": "Qual è il punteggio massimo in una serie nello snooker?",
+    "correct": "147",
+    "wrong": ["155", "170", "180"],
+    "hint": "Richiede di imbuccare tutte le 15 rosse con le nere, poi i sei colori.",
+    "explanation": "Si ottiene imbucando 15 rosse con nere e poi i sei colori in sequenza."
   }
 }

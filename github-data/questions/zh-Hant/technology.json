@@ -174,5 +174,82 @@
     ],
     "hint": "它是一種揮發性電腦記憶體。",
     "explanation": "RAM（隨機存取記憶體）是一種臨時儲存裝置，允許以任意順序讀寫資料，電腦關機後資料會被清除。"
+  },
+  "q_tec_017": {
+    "question": "「LED」代表什麼？",
+    "correct": "發光二極體（Light Emitting Diode）",
+    "wrong": [
+      "Light Energy Display",
+      "Laser Emission Device",
+      "Low Energy Driver"
+    ],
+    "hint": "用於現代電視螢幕、燈泡和智慧型手機顯示器。",
+    "explanation": "LED是一種當電流通過時會發光的半導體元件。"
+  },
+  "q_tec_018": {
+    "question": "第一封電子郵件是在哪一年發送的？",
+    "correct": "1971年",
+    "wrong": [
+      "1965年",
+      "1978年",
+      "1983年"
+    ],
+    "hint": "雷·湯姆林森透過ARPANET發送了它。",
+    "explanation": "雷·湯姆林森於1971年使用ARPANET發送了第一封電子郵件。"
+  },
+  "q_tec_019": {
+    "question": "「PDF」代表什麼？",
+    "correct": "可攜式文件格式（Portable Document Format）",
+    "wrong": [
+      "Printed Data File",
+      "Page Design Format",
+      "Personal Document File"
+    ],
+    "hint": "Adobe在1990年代初開發了這種檔案格式。",
+    "explanation": "PDF由Adobe於1992年創建。"
+  },
+  "q_tec_020": {
+    "question": "哪項技術以一位10世紀的斯堪地那維亞國王命名？",
+    "correct": "藍牙",
+    "wrong": [
+      "Wi-Fi",
+      "NFC",
+      "乙太網路"
+    ],
+    "hint": "用於裝置間的短距離資料傳輸。",
+    "explanation": "藍牙以10世紀的丹麥國王哈拉爾·藍牙命名。"
+  },
+  "q_tec_021": {
+    "question": "「HTML」代表什麼？",
+    "correct": "超文本標記語言（HyperText Markup Language）",
+    "wrong": [
+      "High Tech Modern Language",
+      "HyperText Machine Language",
+      "Home Tool Markup Language"
+    ],
+    "hint": "這是用於建立和結構化網頁內容的標準語言。",
+    "explanation": "HTML由提姆·柏內茲-李於1991年建立。"
+  },
+  "q_tec_022": {
+    "question": "誰與史蒂夫·乔布斯共同創立了蘋果公司？",
+    "correct": "史蒂夫·沃茲乕亞克",
+    "wrong": [
+      "比爾·蓋茲",
+      "提姆·庫克",
+      "乔尼·乕夫"
+    ],
+    "hint": "這位工程師在車庫裡親手組裝了Apple I電腦。",
+    "explanation": "史蒂夫·沃茲乕亞克於1976年共同創立了蘋果公司。"
+  },
+  "q_tec_023": {
+    "question": "維基百科是在哪一年上線的？",
+    "correct": "2001年",
+    "wrong": [
+      "1998年",
+      "2003年",
+      "2005年"
+    ],
+    "hint": "吉米·威爾斯和賴利·桑格建立了這個免費的線上百科全書。",
+    "explanation": "維基百科於2001年1月15日正式上線。"
   }
 }

@@ -174,5 +174,54 @@
     ],
     "hint": "Each period is 20 minutes long.",
     "explanation": "A standard ice hockey game consists of three 20-minute periods, totaling 60 minutes of play."
+  },
+  "q_spo_017": {
+    "question": "In which sport do teams compete for the Stanley Cup?",
+    "correct": "Ice Hockey",
+    "wrong": ["Basketball", "Baseball", "American Football"],
+    "hint": "This trophy was donated by the Governor General of Canada in 1892.",
+    "explanation": "The Stanley Cup is the championship trophy of the NHL (National Hockey League), the oldest professional sports trophy in North America."
+  },
+  "q_spo_018": {
+    "question": "Which country has won the most Olympic gold medals in history?",
+    "correct": "United States",
+    "wrong": ["Soviet Union", "China", "Great Britain"],
+    "hint": "This country has hosted the Summer Olympics four times.",
+    "explanation": "The United States has won over 1,000 Olympic gold medals across both Summer and Winter Games, more than any other country."
+  },
+  "q_spo_019": {
+    "question": "How many points is a touchdown worth in American football?",
+    "correct": "6",
+    "wrong": ["3", "5", "7"],
+    "hint": "After scoring this, a team can attempt an extra point kick for one more point.",
+    "explanation": "A touchdown is worth 6 points in American football. The team can then attempt an extra point (1 point) or a two-point conversion."
+  },
+  "q_spo_020": {
+    "question": "Which country hosted the first FIFA World Cup in 1930?",
+    "correct": "Uruguay",
+    "wrong": ["Brazil", "Italy", "France"],
+    "hint": "This South American country also won the tournament that year.",
+    "explanation": "Uruguay hosted and won the first FIFA World Cup in 1930, defeating Argentina 4-2 in the final in Montevideo."
+  },
+  "q_spo_021": {
+    "question": "What is the diameter of a standard basketball hoop in inches?",
+    "correct": "18 inches",
+    "wrong": ["16 inches", "20 inches", "22 inches"],
+    "hint": "The rim is just slightly larger than twice the diameter of the basketball.",
+    "explanation": "A standard basketball hoop has an inner diameter of 18 inches (46 cm), while an NBA basketball has a diameter of about 9.4 inches."
+  },
+  "q_spo_022": {
+    "question": "Which country won the first Rugby World Cup in 1987?",
+    "correct": "New Zealand",
+    "wrong": ["Australia", "South Africa", "England"],
+    "hint": "This country's rugby team is known as the All Blacks.",
+    "explanation": "New Zealand won the first Rugby World Cup in 1987, defeating France 29-9 in the final held in Auckland."
+  },
+  "q_spo_023": {
+    "question": "What is the maximum break score in snooker?",
+    "correct": "147",
+    "wrong": ["155", "170", "180"],
+    "hint": "This score requires potting all 15 reds with blacks, followed by all six colors.",
+    "explanation": "A maximum break of 147 in snooker is achieved by potting 15 reds (each followed by the black ball) and then all six colors in sequence."
   }
 }

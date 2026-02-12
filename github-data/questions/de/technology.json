@@ -174,5 +174,54 @@
     ],
     "hint": "Es ist eine Art flüchtiger Computerspeicher.",
     "explanation": "RAM (Random Access Memory) ist ein temporärer Speicher, der das Lesen und Schreiben von Daten in beliebiger Reihenfolge ermöglicht und beim Ausschalten gelöscht wird."
+  },
+  "q_tec_017": {
+    "question": "Wofür steht 'LED'?",
+    "correct": "Leuchtdiode (Light Emitting Diode)",
+    "wrong": ["Lichtenergiedisplay", "Laseremissionsgerät", "Niedrigenergie-Treiber"],
+    "hint": "Fernsehbildschirme, Glühbirnen, Smartphones.",
+    "explanation": "Halbleiterbauelement."
+  },
+  "q_tec_018": {
+    "question": "In welchem Jahr wurde die erste E-Mail verschickt?",
+    "correct": "1971",
+    "wrong": ["1965", "1978", "1983"],
+    "hint": "Ray Tomlinson, ARPANET.",
+    "explanation": "Führte das '@'-Zeichen ein."
+  },
+  "q_tec_019": {
+    "question": "Wofür steht 'PDF'?",
+    "correct": "Portable Document Format",
+    "wrong": ["Printed Data File", "Page Design Format", "Personal Document File"],
+    "hint": "Adobe, Anfang der 1990er Jahre.",
+    "explanation": "1992 entwickelt."
+  },
+  "q_tec_020": {
+    "question": "Welche Technologie ist nach einem skandinavischen König des 10. Jahrhunderts benannt?",
+    "correct": "Bluetooth",
+    "wrong": ["Wi-Fi", "NFC", "Ethernet"],
+    "hint": "Datenübertragung über kurze Distanz.",
+    "explanation": "Harald Blauzahn, dänischer König."
+  },
+  "q_tec_021": {
+    "question": "Wofür steht 'HTML'?",
+    "correct": "HyperText Markup Language",
+    "wrong": ["High Tech Modern Language", "HyperText Machine Language", "Home Tool Markup Language"],
+    "hint": "Die Standardsprache für Webseiten.",
+    "explanation": "1991 entwickelt."
+  },
+  "q_tec_022": {
+    "question": "Wer gründete zusammen mit Steve Jobs Apple?",
+    "correct": "Steve Wozniak",
+    "wrong": ["Bill Gates", "Tim Cook", "Jony Ive"],
+    "hint": "Er baute den Apple I von Hand.",
+    "explanation": "Mitgegründet 1976."
+  },
+  "q_tec_023": {
+    "question": "Wann wurde Wikipedia gestartet?",
+    "correct": "2001",
+    "wrong": ["1998", "2003", "2005"],
+    "hint": "Jimmy Wales und Larry Sanger.",
+    "explanation": "15. Januar 2001."
   }
 }

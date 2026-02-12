@@ -174,5 +174,70 @@
     ],
     "hint": "È tecnicamente classificato come un lago nonostante il suo nome.",
     "explanation": "Il mar Caspio, con una superficie di circa 371.000 km², è il più grande specchio d'acqua interno chiuso del mondo."
+  },
+  "q_geo_016": {
+    "question": "Qual è l'isola più grande del mondo?",
+    "correct": "Groenlandia",
+    "wrong": [
+      "Borneo",
+      "Madagascar",
+      "Nuova Guinea"
+    ],
+    "hint": "Territorio autonomo della Danimarca.",
+    "explanation": "2,166 milioni di km²."
+  },
+  "q_geo_017": {
+    "question": "Qual è il lago più profondo del mondo?",
+    "correct": "Lago Bajkal",
+    "wrong": [
+      "Lago Tanganica",
+      "Lago Malawi",
+      "Crater Lake"
+    ],
+    "hint": "Si trova in Siberia, Russia.",
+    "explanation": "Profondo 1.642 metri."
+  },
+  "q_geo_018": {
+    "question": "Qual è l'oceano più piccolo del mondo?",
+    "correct": "Oceano Artico",
+    "wrong": [
+      "Oceano Indiano",
+      "Oceano Meridionale",
+      "Oceano Atlantico"
+    ],
+    "hint": "Circonda il Polo Nord ed è coperto dal ghiaccio marino.",
+    "explanation": "14,06 milioni di km²."
+  },
+  "q_geo_019": {
+    "question": "Quale paese africano ha la superficie più grande?",
+    "correct": "Algeria",
+    "wrong": [
+      "RD Congo",
+      "Libia",
+      "Nigeria"
+    ],
+    "hint": "Confina con il Mediterraneo e il Sahara.",
+    "explanation": "2,38 milioni di km²."
+  },
+  "q_geo_020": {
+    "question": "Qual è il fiume più lungo d'Europa?",
+    "correct": "Volga",
+    "wrong": ["Danubio", "Reno", "Elba"],
+    "hint": "Questo fiume scorre interamente in Russia e sfocia nel mar Caspio.",
+    "explanation": "Il fiume Volga è lungo circa 3.530 km, il che lo rende il più lungo d'Europa."
+  },
+  "q_geo_021": {
+    "question": "Quale paese ha il maggior numero di isole al mondo?",
+    "correct": "Svezia",
+    "wrong": ["Indonesia", "Filippine", "Norvegia"],
+    "hint": "Questo paese scandinavo conta oltre 267.000 isole, per lo più piccole e disabitate.",
+    "explanation": "La Svezia ha circa 267.570 isole."
+  },
+  "q_geo_022": {
+    "question": "Qual è la capitale del Brasile?",
+    "correct": "Brasilia",
+    "wrong": ["Rio de Janeiro", "San Paolo", "Salvador"],
+    "hint": "Questa città è stata progettata dall'architetto Oscar Niemeyer e costruita appositamente come capitale.",
+    "explanation": "Brasilia è diventata la capitale del Brasile nel 1960."
   }
 }

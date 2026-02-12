@@ -174,5 +174,54 @@
     ],
     "hint": "É tecnicamente classificado como um lago apesar do seu nome.",
     "explanation": "O mar Cáspio, com uma área de cerca de 371.000 km², é o maior corpo de água interior fechado do mundo."
+  },
+  "q_geo_016": {
+    "question": "Qual é a maior ilha do mundo?",
+    "correct": "Groenlândia",
+    "wrong": ["Bornéu", "Madagáscar", "Nova Guiné"],
+    "hint": "Território autónomo da Dinamarca.",
+    "explanation": "Tem uma área de cerca de 2,166 milhões de km²."
+  },
+  "q_geo_017": {
+    "question": "Qual é o lago mais profundo do mundo?",
+    "correct": "Lago Baikal",
+    "wrong": ["Lago Tanganyika", "Lago Malawi", "Crater Lake"],
+    "hint": "Localizado na Sibéria, Rússia.",
+    "explanation": "Tem uma profundidade de 1.642 metros."
+  },
+  "q_geo_018": {
+    "question": "Qual é o menor oceano do mundo?",
+    "correct": "Oceano Ártico",
+    "wrong": ["Oceano Índico", "Oceano Antártico", "Oceano Atlântico"],
+    "hint": "Rodeia o Polo Norte.",
+    "explanation": "Cobre aproximadamente 14,06 milhões de km²."
+  },
+  "q_geo_019": {
+    "question": "Qual país africano tem a maior área terrestre?",
+    "correct": "Argélia",
+    "wrong": ["RD Congo", "Líbia", "Nigéria"],
+    "hint": "Faz fronteira com o Mediterrâneo e o Saara cobre a maior parte do país.",
+    "explanation": "Tem uma área de cerca de 2,38 milhões de km²."
+  },
+  "q_geo_020": {
+    "question": "Qual é o rio mais longo da Europa?",
+    "correct": "Volga",
+    "wrong": ["Danúbio", "Reno", "Elba"],
+    "hint": "Este rio corre inteiramente dentro da Rússia e deságua no mar Cáspio.",
+    "explanation": "O rio Volga tem aproximadamente 3.530 km de extensão, sendo o mais longo da Europa."
+  },
+  "q_geo_021": {
+    "question": "Qual país tem mais ilhas no mundo?",
+    "correct": "Suécia",
+    "wrong": ["Indonésia", "Filipinas", "Noruega"],
+    "hint": "Este país escandinavo tem mais de 267.000 ilhas, a maioria pequenas e desabitadas.",
+    "explanation": "A Suécia possui aproximadamente 267.570 ilhas."
+  },
+  "q_geo_022": {
+    "question": "Qual é a capital do Brasil?",
+    "correct": "Brasília",
+    "wrong": ["Rio de Janeiro", "São Paulo", "Salvador"],
+    "hint": "Esta cidade foi projetada pelo arquiteto Oscar Niemeyer e construída especificamente para ser a capital.",
+    "explanation": "Brasília tornou-se a capital do Brasil em 1960."
   }
 }

@@ -185,5 +185,54 @@
     ],
     "hint": "Este plato es un acompañamiento básico de la cocina coreana.",
     "explanation": "El kimchi es un plato tradicional coreano de verduras saladas y fermentadas, generalmente col china y rábano, con una historia de miles de años."
+  },
+  "q_foo_018": {
+    "question": "¿De qué país es originaria la pizza?",
+    "correct": "Italia",
+    "wrong": ["Grecia", "Turquía", "Estados Unidos"],
+    "hint": "Nápoles, siglo XVIII.",
+    "explanation": "Pizza Margherita, 1889."
+  },
+  "q_foo_019": {
+    "question": "¿De qué legumbre se hace el tofu?",
+    "correct": "Soja",
+    "wrong": ["Haba de Lima", "Garbanzo", "Judía mungo"],
+    "hint": "Salsa de soja, tempeh, miso.",
+    "explanation": "Se originó en China hace 2.000 años."
+  },
+  "q_foo_020": {
+    "question": "¿Qué país es el mayor productor de aceite de oliva?",
+    "correct": "España",
+    "wrong": ["Italia", "Grecia", "Turquía"],
+    "hint": "Casi la mitad del suministro mundial.",
+    "explanation": "Región de Andalucía."
+  },
+  "q_foo_021": {
+    "question": "¿De qué país es originario el chocolate?",
+    "correct": "México",
+    "wrong": ["Bélgica", "Suiza", "Ghana"],
+    "hint": "Los aztecas y los mayas lo consumían como una bebida amarga.",
+    "explanation": "Se originó en Mesoamérica."
+  },
+  "q_foo_022": {
+    "question": "¿Qué fruta está clasificada botánicamente como una baya?",
+    "correct": "Plátano",
+    "wrong": ["Fresa", "Frambuesa", "Mora"],
+    "hint": "A pesar de su forma y cáscara, cumple todos los criterios botánicos de una baya.",
+    "explanation": "Se desarrolla a partir de un solo ovario."
+  },
+  "q_foo_023": {
+    "question": "¿Qué país es el mayor consumidor de té per cápita?",
+    "correct": "Turquía",
+    "wrong": ["China", "India", "Reino Unido"],
+    "hint": "Este país entre Europa y Asia sirve el té en vasos con forma de tulipán.",
+    "explanation": "Aproximadamente 3 kg por persona al año."
+  },
+  "q_foo_024": {
+    "question": "¿Qué tipo de alimento es el 'naan'?",
+    "correct": "Pan",
+    "wrong": ["Arroz", "Curry", "Postre"],
+    "hint": "Es un pan plano que se hornea en un horno tandoor.",
+    "explanation": "Pan plano con levadura popular en las cocinas del sur y centro de Asia."
   }
 }

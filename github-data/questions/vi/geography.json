@@ -174,5 +174,54 @@
     ],
     "hint": "Về mặt kỹ thuật, nó được phân loại là hồ mặc dù có tên là biển.",
     "explanation": "Biển Caspi với diện tích khoảng 371.000 km² là vùng nước nội địa khép kín lớn nhất thế giới."
+  },
+  "q_geo_016": {
+    "question": "Đảo lớn nhất thế giới là đảo nào?",
+    "correct": "Greenland",
+    "wrong": ["Borneo", "Madagascar", "New Guinea"],
+    "hint": "Lãnh thổ tự trị của Đan Mạch",
+    "explanation": "Diện tích 2,166 triệu km²"
+  },
+  "q_geo_017": {
+    "question": "Hồ sâu nhất thế giới là hồ nào?",
+    "correct": "Hồ Baikal",
+    "wrong": ["Hồ Tanganyika", "Hồ Malawi", "Hồ Crater"],
+    "hint": "Nằm ở Siberia, Nga",
+    "explanation": "Sâu 1.642 mét"
+  },
+  "q_geo_018": {
+    "question": "Đại dương nhỏ nhất thế giới là gì?",
+    "correct": "Bắc Băng Dương",
+    "wrong": ["Ấn Độ Dương", "Nam Đại Dương", "Đại Tây Dương"],
+    "hint": "Bao quanh Bắc Cực, phủ băng biển",
+    "explanation": "Diện tích 14,06 triệu km²"
+  },
+  "q_geo_019": {
+    "question": "Quốc gia châu Phi nào có diện tích đất lớn nhất?",
+    "correct": "Algeria",
+    "wrong": ["Cộng hòa Dân chủ Congo", "Libya", "Nigeria"],
+    "hint": "Giáp Địa Trung Hải và sa mạc Sahara",
+    "explanation": "Diện tích 2,38 triệu km²"
+  },
+  "q_geo_020": {
+    "question": "Sông nào dài nhất châu Âu?",
+    "correct": "Sông Volga",
+    "wrong": ["Sông Danube", "Sông Rhine", "Sông Elbe"],
+    "hint": "Con sông này chảy hoàn toàn trong lãnh thổ Nga và đổ ra biển Caspi.",
+    "explanation": "Sông Volga dài khoảng 3.530 km, là con sông dài nhất châu Âu. Nó chảy qua miền trung nước Nga ra biển Caspi."
+  },
+  "q_geo_021": {
+    "question": "Quốc gia nào có nhiều đảo nhất thế giới?",
+    "correct": "Thụy Điển",
+    "wrong": ["Indonesia", "Philippines", "Na Uy"],
+    "hint": "Quốc gia Bắc Âu này có hơn 267.000 hòn đảo, phần lớn nhỏ và không có người ở.",
+    "explanation": "Thụy Điển có khoảng 267.570 hòn đảo, nhiều hơn bất kỳ quốc gia nào, dù phần lớn rất nhỏ và không có người sinh sống."
+  },
+  "q_geo_022": {
+    "question": "Thủ đô của Brazil là gì?",
+    "correct": "Brasília",
+    "wrong": ["Rio de Janeiro", "São Paulo", "Salvador"],
+    "hint": "Thành phố này được xây dựng có chủ đích, do kiến trúc sư Oscar Niemeyer và nhà quy hoạch đô thị Lúcio Costa thiết kế.",
+    "explanation": "Brasília trở thành thủ đô Brazil vào năm 1960, thay thế Rio de Janeiro. Thành phố được quy hoạch và xây dựng từ đầu chỉ trong 41 tháng."
   }
 }

@@ -185,5 +185,59 @@
     ],
     "hint": "Questo compositore austriaco morì all'età di 35 anni.",
     "explanation": "Il flauto magico (Die Zauberflöte) fu composto da Mozart nel 1791, l'ultimo anno della sua vita."
+  },
+  "q_art_018": {
+    "question": "Chi scrisse 'Don Chisciotte'?",
+    "correct": "Miguel de Cervantes",
+    "wrong": [
+      "García Márquez",
+      "García Lorca",
+      "Borges"
+    ],
+    "hint": "1605 e 1615.",
+    "explanation": "È considerato il primo romanzo moderno."
+  },
+  "q_art_019": {
+    "question": "Quale architetto progettò la Sagrada Família?",
+    "correct": "Antoni Gaudí",
+    "wrong": [
+      "Calatrava",
+      "Le Corbusier",
+      "Wright"
+    ],
+    "hint": "Forme organiche.",
+    "explanation": "La costruzione iniziò nel 1882."
+  },
+  "q_art_020": {
+    "question": "Chi dipinse il soffitto della Cappella Sistina?",
+    "correct": "Michelangelo",
+    "wrong": [
+      "Raffaello",
+      "Botticelli",
+      "Caravaggio"
+    ],
+    "hint": "Scolpì anche il David.",
+    "explanation": "1508-1512."
+  },
+  "q_art_021": {
+    "question": "Chi scrisse 'Orgoglio e pregiudizio'?",
+    "correct": "Jane Austen",
+    "wrong": ["Charlotte Brontë", "Emily Brontë", "Virginia Woolf"],
+    "hint": "Scrittrice inglese nota per la sua acuta critica sociale dell'Inghilterra della Reggenza.",
+    "explanation": "Pubblicato nel 1813."
+  },
+  "q_art_022": {
+    "question": "Quale tecnica pittorica utilizza piccoli punti di colore per formare un'immagine?",
+    "correct": "Puntinismo",
+    "wrong": ["Impressionismo", "Cubismo", "Fauvismo"],
+    "hint": "'Una domenica pomeriggio sull'isola della Grande-Jatte' di Georges Seurat ne è un famoso esempio.",
+    "explanation": "Sviluppato da Seurat e Signac negli anni 1880."
+  },
+  "q_art_023": {
+    "question": "Come si chiama la scultura greca antica che raffigura un lanciatore di disco?",
+    "correct": "Discobolo",
+    "wrong": ["Venere di Milo", "Laocoonte", "Nike di Samotracia"],
+    "hint": "Creata dallo scultore Mirone, cattura un atleta nel pieno del movimento.",
+    "explanation": "Creata intorno al 450 a.C."
   }
 }

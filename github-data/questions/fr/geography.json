@@ -174,5 +174,54 @@
     ],
     "hint": "Il est techniquement classé comme un lac malgré son nom.",
     "explanation": "La mer Caspienne, avec une superficie d'environ 371 000 km², est la plus grande étendue d'eau intérieure fermée au monde."
+  },
+  "q_geo_016": {
+    "question": "Quelle est la plus grande île du monde ?",
+    "correct": "Groenland",
+    "wrong": ["Bornéo", "Madagascar", "Nouvelle-Guinée"],
+    "hint": "Territoire autonome du Danemark.",
+    "explanation": "Sa superficie est d'environ 2,166 millions de km²."
+  },
+  "q_geo_017": {
+    "question": "Quel est le lac le plus profond du monde ?",
+    "correct": "Lac Baïkal",
+    "wrong": ["Lac Tanganyika", "Lac Malawi", "Crater Lake"],
+    "hint": "Situé en Sibérie, en Russie.",
+    "explanation": "Il atteint une profondeur de 1 642 mètres."
+  },
+  "q_geo_018": {
+    "question": "Quel est le plus petit océan du monde ?",
+    "correct": "Océan Arctique",
+    "wrong": ["Océan Indien", "Océan Austral", "Océan Atlantique"],
+    "hint": "Il entoure le pôle Nord.",
+    "explanation": "Il couvre environ 14,06 millions de km²."
+  },
+  "q_geo_019": {
+    "question": "Quel pays africain a la plus grande superficie terrestre ?",
+    "correct": "Algérie",
+    "wrong": ["RD Congo", "Libye", "Nigeria"],
+    "hint": "Bordé par la Méditerranée, le Sahara couvre la majeure partie du pays.",
+    "explanation": "Sa superficie est d'environ 2,38 millions de km²."
+  },
+  "q_geo_020": {
+    "question": "Quel est le plus long fleuve d'Europe ?",
+    "correct": "Volga",
+    "wrong": ["Danube", "Rhin", "Elbe"],
+    "hint": "Ce fleuve coule entièrement en Russie et se jette dans la mer Caspienne.",
+    "explanation": "Le fleuve Volga mesure environ 3 530 km, ce qui en fait le plus long fleuve d'Europe."
+  },
+  "q_geo_021": {
+    "question": "Quel pays possède le plus d'îles au monde ?",
+    "correct": "Suède",
+    "wrong": ["Indonésie", "Philippines", "Norvège"],
+    "hint": "Ce pays scandinave compte plus de 267 000 îles, pour la plupart petites et inhabitées.",
+    "explanation": "La Suède possède environ 267 570 îles."
+  },
+  "q_geo_022": {
+    "question": "Quelle est la capitale du Brésil ?",
+    "correct": "Brasília",
+    "wrong": ["Rio de Janeiro", "São Paulo", "Salvador"],
+    "hint": "Cette ville a été conçue par l'architecte Oscar Niemeyer et construite spécifiquement pour être la capitale.",
+    "explanation": "Brasília est devenue la capitale du Brésil en 1960."
   }
 }

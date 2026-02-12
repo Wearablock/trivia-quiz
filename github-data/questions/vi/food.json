@@ -185,5 +185,54 @@
     ],
     "hint": "Món ăn này là món phụ chính trong ẩm thực Hàn Quốc.",
     "explanation": "Kimchi là món ăn truyền thống của Hàn Quốc gồm rau muối lên men, thường là cải thảo và củ cải, có lịch sử hàng nghìn năm."
+  },
+  "q_foo_018": {
+    "question": "Pizza có nguồn gốc từ quốc gia nào?",
+    "correct": "Ý",
+    "wrong": ["Hy Lạp", "Thổ Nhĩ Kỳ", "Hoa Kỳ"],
+    "hint": "Thành phố Naples",
+    "explanation": "Pizza Margherita, năm 1889"
+  },
+  "q_foo_019": {
+    "question": "Đậu phụ được làm từ loại đậu nào?",
+    "correct": "Đậu nành",
+    "wrong": ["Đậu lima", "Đậu gà", "Đậu xanh"],
+    "hint": "Cũng dùng làm nước tương, tempeh, miso",
+    "explanation": "Có nguồn gốc từ Trung Quốc, hơn 2.000 năm"
+  },
+  "q_foo_020": {
+    "question": "Quốc gia nào sản xuất dầu ô liu nhiều nhất?",
+    "correct": "Tây Ban Nha",
+    "wrong": ["Ý", "Hy Lạp", "Thổ Nhĩ Kỳ"],
+    "hint": "Chiếm một nửa sản lượng thế giới",
+    "explanation": "Vùng Andalusia"
+  },
+  "q_foo_021": {
+    "question": "Sô cô la có nguồn gốc từ quốc gia nào?",
+    "correct": "Mexico",
+    "wrong": ["Bỉ", "Thụy Sĩ", "Ghana"],
+    "hint": "Người Aztec và Maya cổ đại ở vùng này uống nó như một thức uống đắng.",
+    "explanation": "Sô cô la có nguồn gốc từ Trung Mỹ (Mexico ngày nay), nơi người Aztec và Maya trồng ca cao và chế biến thành thức uống đắng gọi là 'xocolātl'."
+  },
+  "q_foo_022": {
+    "question": "Loại trái cây nào được phân loại thực vật học là quả mọng?",
+    "correct": "Chuối",
+    "wrong": ["Dâu tây", "Phúc bồn tử", "Mâm xôi đen"],
+    "hint": "Dù có hình dạng và vỏ đặc biệt, loại trái cây nhiệt đới này đáp ứng mọi tiêu chí thực vật học của quả mọng.",
+    "explanation": "Về mặt thực vật học, chuối là quả mọng vì nó phát triển từ một bầu nhụy duy nhất và chứa hạt nhúng trong phần thịt."
+  },
+  "q_foo_023": {
+    "question": "Quốc gia nào tiêu thụ trà bình quân đầu người nhiều nhất?",
+    "correct": "Thổ Nhĩ Kỳ",
+    "wrong": ["Trung Quốc", "Ấn Độ", "Vương quốc Anh"],
+    "hint": "Quốc gia này nằm giữa châu Âu và châu Á, phục vụ trà trong những chiếc cốc thủy tinh hình hoa tulip đặc trưng.",
+    "explanation": "Thổ Nhĩ Kỳ có mức tiêu thụ trà bình quân đầu người cao nhất thế giới, mỗi người uống trung bình khoảng 3 kg trà mỗi năm."
+  },
+  "q_foo_024": {
+    "question": "'Naan' là loại thực phẩm gì?",
+    "correct": "Bánh mì",
+    "wrong": ["Cơm", "Cà ri", "Tráng miệng"],
+    "hint": "Loại bánh mì dẹt này là món ăn chính trong ẩm thực Nam Á, truyền thống được nướng trong lò tandoor.",
+    "explanation": "Naan là loại bánh mì dẹt có men phổ biến trong ẩm thực Nam Á và Trung Á. Truyền thống được nướng trong lò tandoor (lò đất sét) và ăn kèm cà ri."
   }
 }

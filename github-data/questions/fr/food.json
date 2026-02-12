@@ -185,5 +185,54 @@
     ],
     "hint": "Ce plat est un accompagnement incontournable de la cuisine coréenne.",
     "explanation": "Le kimchi est un plat traditionnel coréen de légumes salés et fermentés, généralement du chou chinois et du radis, avec une histoire millénaire."
+  },
+  "q_foo_018": {
+    "question": "De quel pays la pizza est-elle originaire ?",
+    "correct": "Italie",
+    "wrong": ["Grèce", "Turquie", "États-Unis"],
+    "hint": "Naples, XVIIIe siècle.",
+    "explanation": "Pizza Margherita, 1889."
+  },
+  "q_foo_019": {
+    "question": "À partir de quelle légumineuse le tofu est-il fabriqué ?",
+    "correct": "Soja",
+    "wrong": ["Haricot de Lima", "Pois chiche", "Haricot mungo"],
+    "hint": "Sauce soja, tempeh, miso.",
+    "explanation": "Originaire de Chine il y a 2 000 ans."
+  },
+  "q_foo_020": {
+    "question": "Quel pays est le plus grand producteur d'huile d'olive ?",
+    "correct": "Espagne",
+    "wrong": ["Italie", "Grèce", "Turquie"],
+    "hint": "Près de la moitié de la production mondiale.",
+    "explanation": "Région d'Andalousie."
+  },
+  "q_foo_021": {
+    "question": "De quel pays le chocolat est-il originaire ?",
+    "correct": "Mexique",
+    "wrong": ["Belgique", "Suisse", "Ghana"],
+    "hint": "Les Aztèques et les Mayas le consommaient sous forme de boisson amère.",
+    "explanation": "Le chocolat est originaire de Mésoamérique."
+  },
+  "q_foo_022": {
+    "question": "Quel fruit est botaniquement classé comme une baie ?",
+    "correct": "Banane",
+    "wrong": ["Fraise", "Framboise", "Mûre"],
+    "hint": "Malgré sa forme et sa peau, ce fruit tropical répond à tous les critères botaniques d'une baie.",
+    "explanation": "Il se développe à partir d'un seul ovaire."
+  },
+  "q_foo_023": {
+    "question": "Quel pays est le plus grand consommateur de thé par habitant ?",
+    "correct": "Turquie",
+    "wrong": ["Chine", "Inde", "Royaume-Uni"],
+    "hint": "Ce pays entre l'Europe et l'Asie sert le thé dans des verres en forme de tulipe.",
+    "explanation": "Environ 3 kg par personne et par an."
+  },
+  "q_foo_024": {
+    "question": "Quel type d'aliment est le « naan » ?",
+    "correct": "Pain",
+    "wrong": ["Riz", "Curry", "Dessert"],
+    "hint": "C'est un pain plat cuit dans un four tandoor.",
+    "explanation": "Pain plat levé populaire dans les cuisines d'Asie du Sud et d'Asie centrale."
   }
 }

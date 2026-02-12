@@ -174,5 +174,70 @@
     ],
     "hint": "Это тип энергозависимой памяти.",
     "explanation": "RAM (Random Access Memory) — оперативная память, позволяющая считывать и записывать данные в произвольном порядке; данные стираются при выключении компьютера."
+  },
+  "q_tec_017": {
+    "question": "Что означает аббревиатура LED?",
+    "correct": "Светоизлучающий диод",
+    "wrong": [
+      "Дисплей световой энергии",
+      "Устройство лазерного излучения",
+      "Драйвер низкого потребления"
+    ],
+    "hint": "Телевизоры, освещение, телефоны.",
+    "explanation": "Полупроводник."
+  },
+  "q_tec_018": {
+    "question": "В каком году было отправлено первое электронное письмо?",
+    "correct": "1971",
+    "wrong": [
+      "1965",
+      "1978",
+      "1983"
+    ],
+    "hint": "ARPANET.",
+    "explanation": "Рэй Томлинсон, символ «@»."
+  },
+  "q_tec_019": {
+    "question": "Что означает аббревиатура PDF?",
+    "correct": "Portable Document Format",
+    "wrong": [
+      "Printed Data File",
+      "Page Design Format",
+      "Personal Document File"
+    ],
+    "hint": "Adobe, 1990-е годы.",
+    "explanation": "1992 год."
+  },
+  "q_tec_020": {
+    "question": "Какая технология названа в честь скандинавского короля?",
+    "correct": "Bluetooth",
+    "wrong": [
+      "Wi-Fi",
+      "NFC",
+      "Ethernet"
+    ],
+    "hint": "Беспроводная связь малого радиуса действия.",
+    "explanation": "Харальд Синезубый (Harald Bluetooth)."
+  },
+  "q_tec_021": {
+    "question": "Что означает аббревиатура HTML?",
+    "correct": "HyperText Markup Language",
+    "wrong": ["High Tech Modern Language", "HyperText Machine Language", "Home Tool Markup Language"],
+    "hint": "Стандартный язык разметки веб-страниц.",
+    "explanation": "Создан в 1991 году."
+  },
+  "q_tec_022": {
+    "question": "Кто стал сооснователем Apple вместе со Стивом Джобсом?",
+    "correct": "Стив Возняк",
+    "wrong": ["Билл Гейтс", "Тим Кук", "Джони Айв"],
+    "hint": "Собрал Apple I вручную.",
+    "explanation": "Компания основана в 1976 году."
+  },
+  "q_tec_023": {
+    "question": "Когда была запущена Википедия?",
+    "correct": "2001",
+    "wrong": ["1998", "2003", "2005"],
+    "hint": "Джимми Уэйлс и Ларри Сэнгер.",
+    "explanation": "15 января 2001 года."
   }
 }

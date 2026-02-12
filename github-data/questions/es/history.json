@@ -174,5 +174,54 @@
     ],
     "hint": "Fue nombrada por la mercancía más valiosa que se comerciaba en ella.",
     "explanation": "La Ruta de la Seda fue una red de rutas comerciales de más de 6.400 km que conectaba Asia Oriental con el Mediterráneo desde el siglo II a.C."
+  },
+  "q_his_017": {
+    "question": "¿Quién fue la primera mujer en cruzar sola el Atlántico en avión?",
+    "correct": "Amelia Earhart",
+    "wrong": ["Harriet Quimby", "Bessie Coleman", "Jacqueline Cochran"],
+    "hint": "Desapareció en 1937.",
+    "explanation": "Realizó el vuelo en solitario en mayo de 1932."
+  },
+  "q_his_018": {
+    "question": "¿En qué año comenzó la Revolución Rusa?",
+    "correct": "1917",
+    "wrong": ["1905", "1914", "1920"],
+    "hint": "Derrocamiento del zar y ascenso de los bolcheviques.",
+    "explanation": "Las Revoluciones de Febrero y Octubre."
+  },
+  "q_his_019": {
+    "question": "¿Qué civilización construyó Machu Picchu?",
+    "correct": "Imperio inca",
+    "wrong": ["Imperio azteca", "Civilización maya", "Civilización olmeca"],
+    "hint": "En lo alto de los Andes de Perú.",
+    "explanation": "Fue construido en el siglo XV."
+  },
+  "q_his_020": {
+    "question": "¿Quién inventó la imprenta de tipos móviles en Europa?",
+    "correct": "Johannes Gutenberg",
+    "wrong": ["William Caxton", "Aldus Manutius", "Bi Sheng"],
+    "hint": "Alrededor de 1440 en Alemania.",
+    "explanation": "Permitió la producción masiva de libros."
+  },
+  "q_his_021": {
+    "question": "¿Cuál fue el imperio más grande de la historia por superficie?",
+    "correct": "Imperio británico",
+    "wrong": ["Imperio mongol", "Imperio romano", "Imperio ruso"],
+    "hint": "Se decía que «el sol nunca se ponía» en este imperio.",
+    "explanation": "El Imperio británico en su apogeo en 1920 cubría unos 35,5 millones de km²."
+  },
+  "q_his_022": {
+    "question": "¿En qué año declaró su independencia Estados Unidos?",
+    "correct": "1776",
+    "wrong": ["1783", "1774", "1781"],
+    "hint": "La declaración fue adoptada el 4 de julio, hoy fiesta nacional.",
+    "explanation": "La Declaración de Independencia de Estados Unidos fue adoptada el 4 de julio de 1776."
+  },
+  "q_his_023": {
+    "question": "¿Quién fue el primer emperador de Roma?",
+    "correct": "Augusto",
+    "wrong": ["Julio César", "Nerón", "Tiberio"],
+    "hint": "Nacido como Octavio, fue el heredero adoptivo de Julio César.",
+    "explanation": "Augusto se convirtió en el primer emperador romano en el 27 a.C."
   }
 }

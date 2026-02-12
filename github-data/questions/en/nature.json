@@ -174,5 +174,54 @@
     ],
     "hint": "They breed during the Antarctic winter.",
     "explanation": "The Emperor penguin can reach up to 1.2 meters tall and weigh up to 45 kg, making it the largest of all penguin species."
+  },
+  "q_nat_017": {
+    "question": "What is the largest land animal?",
+    "correct": "African Elephant",
+    "wrong": ["White Rhinoceros", "Hippopotamus", "Giraffe"],
+    "hint": "Males of this species can weigh up to 6,000 kg and have large ears shaped like the African continent.",
+    "explanation": "The African elephant is the largest living land animal, with males standing up to 4 meters tall and weighing up to 6,000 kg."
+  },
+  "q_nat_018": {
+    "question": "What type of animal is a Komodo dragon?",
+    "correct": "Lizard",
+    "wrong": ["Crocodile", "Snake", "Dinosaur"],
+    "hint": "It is the largest living species of its kind, found on Indonesian islands.",
+    "explanation": "The Komodo dragon is the largest living lizard, growing up to 3 meters long. It is native to several Indonesian islands."
+  },
+  "q_nat_019": {
+    "question": "What is the fastest fish in the ocean?",
+    "correct": "Sailfish",
+    "wrong": ["Swordfish", "Marlin", "Tuna"],
+    "hint": "This fish has a large dorsal fin that resembles a sail and can be raised or lowered.",
+    "explanation": "The sailfish can reach speeds of up to 110 km/h (68 mph), making it the fastest fish in the ocean."
+  },
+  "q_nat_020": {
+    "question": "Which animal has the strongest bite force?",
+    "correct": "Saltwater Crocodile",
+    "wrong": ["Great White Shark", "Hippopotamus", "Grizzly Bear"],
+    "hint": "This large reptile lives in coastal areas from Southeast Asia to Australia.",
+    "explanation": "The saltwater crocodile has a bite force of about 3,700 psi, the strongest of any living animal. They can grow up to 6 meters long."
+  },
+  "q_nat_021": {
+    "question": "What is the largest living organism on Earth by area?",
+    "correct": "Honey fungus",
+    "wrong": ["Blue whale", "Giant sequoia", "Great Barrier Reef"],
+    "hint": "This organism spreads underground through a network of filaments and can cover thousands of acres.",
+    "explanation": "A honey fungus (Armillaria ostoyae) in Oregon's Malheur National Forest covers about 2,385 acres (965 hectares) and is estimated to be over 2,400 years old."
+  },
+  "q_nat_022": {
+    "question": "What percentage of Earth's water is freshwater?",
+    "correct": "About 3%",
+    "wrong": ["About 10%", "About 25%", "About 50%"],
+    "hint": "Most of this small percentage is locked in glaciers and ice caps.",
+    "explanation": "Only about 3% of Earth's water is freshwater, and of that, roughly 69% is locked in glaciers and ice caps, making less than 1% easily accessible."
+  },
+  "q_nat_023": {
+    "question": "Which animal produces the loudest sound in the animal kingdom?",
+    "correct": "Sperm whale",
+    "wrong": ["Blue whale", "Howler monkey", "Pistol shrimp"],
+    "hint": "This deep-diving marine mammal uses clicking sounds for echolocation.",
+    "explanation": "Sperm whales produce clicking sounds that can reach up to 230 decibels, making them the loudest animals on Earth. They use these clicks for echolocation while hunting in deep waters."
   }
 }

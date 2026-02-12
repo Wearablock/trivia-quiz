@@ -185,5 +185,54 @@
     ],
     "hint": "Đó là hợp chất của natri và clo.",
     "explanation": "Muối ăn là natri clorua (NaCl), được hình thành bởi liên kết ion giữa nguyên tử natri và clo."
+  },
+  "q_sci_017": {
+    "question": "Hành tinh nào gần Mặt Trời nhất?",
+    "correct": "Sao Thủy",
+    "wrong": ["Sao Kim", "Trái Đất", "Sao Hỏa"],
+    "hint": "Không có bầu khí quyển",
+    "explanation": "Cách Mặt Trời 58 triệu km"
+  },
+  "q_sci_018": {
+    "question": "Đơn vị đo điện trở là gì?",
+    "correct": "Ohm",
+    "wrong": ["Volt", "Ampere", "Watt"],
+    "hint": "Ký hiệu omega Ω",
+    "explanation": "Đặt theo tên Georg Simon Ohm"
+  },
+  "q_sci_019": {
+    "question": "Cơ thể người trưởng thành có bao nhiêu xương?",
+    "correct": "206",
+    "wrong": ["186", "256", "300"],
+    "hint": "Trẻ sơ sinh có 270 xương",
+    "explanation": "Xương hợp nhất khi trưởng thành"
+  },
+  "q_sci_020": {
+    "question": "Ký hiệu hóa học của kali là gì?",
+    "correct": "K",
+    "wrong": ["P", "Po", "Pt"],
+    "hint": "Từ tiếng Latin 'kalium'",
+    "explanation": "Từ tiếng Ả Rập 'al-qalyah'"
+  },
+  "q_sci_021": {
+    "question": "Cơ quan lớn nhất trong cơ thể người là gì?",
+    "correct": "Da",
+    "wrong": ["Gan", "Não", "Phổi"],
+    "hint": "Cơ quan này bao phủ toàn bộ cơ thể và đóng vai trò như hàng rào bảo vệ.",
+    "explanation": "Da là cơ quan lớn nhất của cơ thể người, bao phủ diện tích khoảng 1,5 đến 2 mét vuông ở người trưởng thành và nặng khoảng 3,6 kg."
+  },
+  "q_sci_022": {
+    "question": "Hành tinh nào trong hệ mặt trời có lực hấp dẫn mạnh nhất?",
+    "correct": "Sao Mộc",
+    "wrong": ["Sao Thổ", "Sao Hải Vương", "Trái Đất"],
+    "hint": "Hành tinh khí khổng lồ này là hành tinh lớn nhất trong hệ mặt trời.",
+    "explanation": "Sao Mộc có lực hấp dẫn bề mặt mạnh nhất trong các hành tinh của hệ mặt trời, khoảng 24,79 m/s², gấp khoảng 2,5 lần lực hấp dẫn của Trái Đất."
+  },
+  "q_sci_023": {
+    "question": "Nguyên tố hiếm nhất tồn tại tự nhiên trong vỏ Trái Đất là gì?",
+    "correct": "Astatin",
+    "wrong": ["Franxi", "Plutoni", "Radi"],
+    "hint": "Nguyên tố halogen phóng xạ này có chu kỳ bán rã chỉ khoảng 8 giờ.",
+    "explanation": "Astatin là nguyên tố hiếm nhất tồn tại tự nhiên, ước tính chưa đến 30 gam tồn tại trong toàn bộ vỏ Trái Đất tại bất kỳ thời điểm nào."
   }
 }

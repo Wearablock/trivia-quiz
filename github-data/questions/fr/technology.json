@@ -174,5 +174,54 @@
     ],
     "hint": "C'est un type de mémoire volatile.",
     "explanation": "La RAM (Random Access Memory) est une mémoire temporaire qui permet de lire et écrire des données dans n'importe quel ordre, et qui s'efface à l'extinction de l'ordinateur."
+  },
+  "q_tec_017": {
+    "question": "Que signifie 'LED' ?",
+    "correct": "Diode électroluminescente",
+    "wrong": ["Affichage à énergie lumineuse", "Dispositif à émission laser", "Pilote basse énergie"],
+    "hint": "Écrans de TV, ampoules, smartphones.",
+    "explanation": "Composant semi-conducteur."
+  },
+  "q_tec_018": {
+    "question": "En quelle année le premier e-mail a-t-il été envoyé ?",
+    "correct": "1971",
+    "wrong": ["1965", "1978", "1983"],
+    "hint": "Ray Tomlinson, ARPANET.",
+    "explanation": "A introduit le symbole '@'."
+  },
+  "q_tec_019": {
+    "question": "Que signifie 'PDF' ?",
+    "correct": "Portable Document Format",
+    "wrong": ["Printed Data File", "Page Design Format", "Personal Document File"],
+    "hint": "Adobe, début des années 1990.",
+    "explanation": "Créé en 1992."
+  },
+  "q_tec_020": {
+    "question": "Quelle technologie porte le nom d'un roi scandinave du Xe siècle ?",
+    "correct": "Bluetooth",
+    "wrong": ["Wi-Fi", "NFC", "Ethernet"],
+    "hint": "Transfert de données à courte portée.",
+    "explanation": "Harald Bluetooth, roi danois."
+  },
+  "q_tec_021": {
+    "question": "Que signifie « HTML » ?",
+    "correct": "HyperText Markup Language",
+    "wrong": ["High Tech Modern Language", "HyperText Machine Language", "Home Tool Markup Language"],
+    "hint": "C'est le langage standard pour créer des pages web.",
+    "explanation": "Créé par Tim Berners-Lee en 1991."
+  },
+  "q_tec_022": {
+    "question": "Qui a cofondé Apple aux côtés de Steve Jobs ?",
+    "correct": "Steve Wozniak",
+    "wrong": ["Bill Gates", "Tim Cook", "Jony Ive"],
+    "hint": "Cet ingénieur a construit l'Apple I à la main dans un garage.",
+    "explanation": "Steve Wozniak a cofondé Apple en 1976."
+  },
+  "q_tec_023": {
+    "question": "En quelle année Wikipédia a-t-elle été lancée ?",
+    "correct": "2001",
+    "wrong": ["1998", "2003", "2005"],
+    "hint": "Jimmy Wales et Larry Sanger ont créé cette encyclopédie libre en ligne.",
+    "explanation": "Wikipédia a été lancée le 15 janvier 2001."
   }
 }

@@ -185,5 +185,54 @@
     ],
     "hint": "Dieses Gericht ist eine wichtige Beilage in der koreanischen Küche.",
     "explanation": "Kimchi ist ein traditionelles koreanisches Gericht aus gesalzenem und fermentiertem Gemüse, meist Chinakohl und Rettich, mit einer jahrtausendealten Geschichte."
+  },
+  "q_foo_018": {
+    "question": "Aus welchem Land stammt die Pizza?",
+    "correct": "Italien",
+    "wrong": ["Griechenland", "Türkei", "Vereinigte Staaten"],
+    "hint": "Neapel, 18. Jahrhundert.",
+    "explanation": "Pizza Margherita, 1889."
+  },
+  "q_foo_019": {
+    "question": "Aus welcher Bohne wird Tofu hergestellt?",
+    "correct": "Sojabohne",
+    "wrong": ["Limabohne", "Kichererbse", "Mungbohne"],
+    "hint": "Sojasauce, Tempeh, Miso.",
+    "explanation": "Vor 2.000 Jahren in China entstanden."
+  },
+  "q_foo_020": {
+    "question": "Welches Land ist der größte Olivenölproduzent?",
+    "correct": "Spanien",
+    "wrong": ["Italien", "Griechenland", "Türkei"],
+    "hint": "Fast die Hälfte der weltweiten Produktion.",
+    "explanation": "Region Andalusien."
+  },
+  "q_foo_021": {
+    "question": "Aus welchem Land stammt die Schokolade ursprünglich?",
+    "correct": "Mexiko",
+    "wrong": ["Belgien", "Schweiz", "Ghana"],
+    "hint": "Azteken und Maya tranken sie als bitteres Getränk.",
+    "explanation": "Ursprung in Mesoamerika."
+  },
+  "q_foo_022": {
+    "question": "Welche Frucht ist botanisch gesehen eine Beere?",
+    "correct": "Banane",
+    "wrong": ["Erdbeere", "Himbeere", "Brombeere"],
+    "hint": "Trotz ihrer Form und Schale erfüllt sie die botanischen Kriterien einer Beere.",
+    "explanation": "Entwickelt sich aus einem einzelnen Fruchtknoten."
+  },
+  "q_foo_023": {
+    "question": "Welches Land hat den höchsten Teekonsum pro Kopf?",
+    "correct": "Türkei",
+    "wrong": ["China", "Indien", "Vereinigtes Königreich"],
+    "hint": "Liegt zwischen Europa und Asien, der Tee wird aus tulpenförmigen Gläsern getrunken.",
+    "explanation": "Etwa 3 kg pro Person pro Jahr."
+  },
+  "q_foo_024": {
+    "question": "Was für ein Lebensmittel ist 'Naan'?",
+    "correct": "Brot",
+    "wrong": ["Reis", "Curry", "Dessert"],
+    "hint": "Fladenbrot aus dem Tandur-Ofen.",
+    "explanation": "Süd- und zentralasiatisches Hefenfladenbrot."
   }
 }

@@ -174,5 +174,70 @@
     ],
     "hint": "Si riproducono durante l'inverno antartico.",
     "explanation": "Il pinguino imperatore può raggiungere 1,2 metri di altezza e pesare fino a 45 kg, rendendolo il più grande tra tutte le specie di pinguini."
+  },
+  "q_nat_017": {
+    "question": "Qual è il più grande animale terrestre?",
+    "correct": "Elefante africano",
+    "wrong": [
+      "Rinoceronte bianco",
+      "Ippopotamo",
+      "Giraffa"
+    ],
+    "hint": "6.000 kg.",
+    "explanation": "Alto 4 metri."
+  },
+  "q_nat_018": {
+    "question": "Che tipo di animale è un drago di Komodo?",
+    "correct": "Lucertola",
+    "wrong": [
+      "Coccodrillo",
+      "Serpente",
+      "Dinosauro"
+    ],
+    "hint": "Il più grande del suo genere, vive in Indonesia.",
+    "explanation": "Lungo 3 metri."
+  },
+  "q_nat_019": {
+    "question": "Qual è il pesce più veloce dell'oceano?",
+    "correct": "Pesce vela",
+    "wrong": [
+      "Pesce spada",
+      "Marlin",
+      "Tonno"
+    ],
+    "hint": "La pinna dorsale ricorda una vela.",
+    "explanation": "110 km/h."
+  },
+  "q_nat_020": {
+    "question": "Quale animale ha la forza di morso più potente?",
+    "correct": "Coccodrillo marino",
+    "wrong": [
+      "Squalo",
+      "Ippopotamo",
+      "Orso"
+    ],
+    "hint": "Dal Sud-Est asiatico all'Australia.",
+    "explanation": "3.700 psi."
+  },
+  "q_nat_021": {
+    "question": "Qual è il più grande organismo vivente sulla Terra per superficie?",
+    "correct": "Armillaria",
+    "wrong": ["Balenottera azzurra", "Sequoia gigante", "Grande Barriera Corallina"],
+    "hint": "Si espande nel sottosuolo tramite filamenti e può coprire migliaia di acri.",
+    "explanation": "In Oregon copre 965 ettari e ha più di 2.400 anni."
+  },
+  "q_nat_022": {
+    "question": "Quale percentuale dell'acqua terrestre è acqua dolce?",
+    "correct": "Circa il 3%",
+    "wrong": ["Circa il 10%", "Circa il 25%", "Circa il 50%"],
+    "hint": "La maggior parte è intrappolata nei ghiacciai e nelle calotte polari.",
+    "explanation": "Solo il 3% dell'acqua terrestre è dolce, di cui il 69% è nei ghiacciai."
+  },
+  "q_nat_023": {
+    "question": "Quale animale produce il suono più forte del regno animale?",
+    "correct": "Capodoglio",
+    "wrong": ["Balenottera azzurra", "Scimmia urlatrice", "Gambero pistola"],
+    "hint": "Mammifero che si immerge in profondità e usa clic per l'ecolocalizzazione.",
+    "explanation": "I clic del capodoglio raggiungono i 230 decibel."
   }
 }

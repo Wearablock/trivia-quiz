@@ -174,5 +174,70 @@
     ],
     "hint": "Prende il nome dalla merce più preziosa che vi veniva commerciata.",
     "explanation": "La Via della seta era una rete di rotte commerciali di oltre 6.400 km che collegava l'Asia orientale al Mediterraneo dal II secolo a.C."
+  },
+  "q_his_017": {
+    "question": "Chi fu la prima donna a volare in solitaria attraverso l'Atlantico?",
+    "correct": "Amelia Earhart",
+    "wrong": [
+      "Harriet Quimby",
+      "Bessie Coleman",
+      "Jacqueline Cochran"
+    ],
+    "hint": "Scomparsa nel 1937.",
+    "explanation": "Maggio 1932."
+  },
+  "q_his_018": {
+    "question": "In che anno iniziò la Rivoluzione russa?",
+    "correct": "1917",
+    "wrong": [
+      "1905",
+      "1914",
+      "1920"
+    ],
+    "hint": "Rovesciamento dello zar.",
+    "explanation": "Rivoluzioni di febbraio e di ottobre."
+  },
+  "q_his_019": {
+    "question": "Quale civiltà costruì Machu Picchu?",
+    "correct": "Impero Inca",
+    "wrong": [
+      "Impero Azteco",
+      "Civiltà Maya",
+      "Civiltà Olmeca"
+    ],
+    "hint": "Ande, Perù.",
+    "explanation": "XV secolo, 2.430 m di altitudine."
+  },
+  "q_his_020": {
+    "question": "Chi inventò la stampa a caratteri mobili in Europa?",
+    "correct": "Johannes Gutenberg",
+    "wrong": [
+      "William Caxton",
+      "Aldo Manuzio",
+      "Bi Sheng"
+    ],
+    "hint": "1440, Germania.",
+    "explanation": "Rese possibile la produzione di massa dei libri."
+  },
+  "q_his_021": {
+    "question": "Quale fu il più grande impero della storia per estensione territoriale?",
+    "correct": "Impero britannico",
+    "wrong": ["Impero mongolo", "Impero romano", "Impero russo"],
+    "hint": "Si diceva che «il sole non tramontava mai» su questo impero.",
+    "explanation": "L'Impero britannico al suo apice nel 1920 copriva circa 35,5 milioni di km²."
+  },
+  "q_his_022": {
+    "question": "In che anno gli Stati Uniti dichiararono l'indipendenza?",
+    "correct": "1776",
+    "wrong": ["1783", "1774", "1781"],
+    "hint": "La dichiarazione fu adottata il 4 luglio, oggi festa nazionale.",
+    "explanation": "La Dichiarazione d'indipendenza degli Stati Uniti fu adottata il 4 luglio 1776."
+  },
+  "q_his_023": {
+    "question": "Chi fu il primo imperatore di Roma?",
+    "correct": "Augusto",
+    "wrong": ["Giulio Cesare", "Nerone", "Tiberio"],
+    "hint": "Nato come Ottaviano, fu l'erede adottivo di Giulio Cesare.",
+    "explanation": "Augusto divenne il primo imperatore romano nel 27 a.C."
   }
 }

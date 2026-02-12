@@ -174,5 +174,54 @@
     ],
     "hint": "Mỗi hiệp kéo dài 20 phút.",
     "explanation": "Một trận khúc côn cầu trên băng tiêu chuẩn gồm ba hiệp, mỗi hiệp 20 phút, tổng cộng 60 phút thi đấu."
+  },
+  "q_spo_017": {
+    "question": "Trong môn thể thao nào các đội tranh cúp Stanley?",
+    "correct": "Khúc côn cầu trên băng",
+    "wrong": ["Bóng rổ", "Bóng chày", "Bóng bầu dục Mỹ"],
+    "hint": "Canada, năm 1892",
+    "explanation": "Cúp của giải NHL"
+  },
+  "q_spo_018": {
+    "question": "Quốc gia nào giành nhiều huy chương vàng Olympic nhất?",
+    "correct": "Hoa Kỳ",
+    "wrong": ["Liên Xô", "Trung Quốc", "Vương quốc Anh"],
+    "hint": "Đã đăng cai Olympic 4 lần",
+    "explanation": "Hơn 1.000 huy chương vàng"
+  },
+  "q_spo_019": {
+    "question": "Một cú touchdown có giá trị bao nhiêu điểm?",
+    "correct": "6",
+    "wrong": ["3", "5", "7"],
+    "hint": "Có thể đá thêm điểm sau đó",
+    "explanation": "Cộng thêm lượt chuyển đổi"
+  },
+  "q_spo_020": {
+    "question": "Quốc gia nào đăng cai FIFA World Cup đầu tiên vào năm 1930?",
+    "correct": "Uruguay",
+    "wrong": ["Brazil", "Ý", "Pháp"],
+    "hint": "Cũng vô địch giải đó",
+    "explanation": "Thắng Argentina 4-2"
+  },
+  "q_spo_021": {
+    "question": "Đường kính của vành rổ bóng rổ tiêu chuẩn là bao nhiêu inch?",
+    "correct": "18 inch",
+    "wrong": ["16 inch", "20 inch", "22 inch"],
+    "hint": "Vành rổ chỉ lớn hơn hai lần đường kính quả bóng rổ một chút.",
+    "explanation": "Vành rổ bóng rổ tiêu chuẩn có đường kính trong 18 inch (46 cm), trong khi quả bóng rổ NBA có đường kính khoảng 9,4 inch."
+  },
+  "q_spo_022": {
+    "question": "Quốc gia nào vô địch Rugby World Cup đầu tiên vào năm 1987?",
+    "correct": "New Zealand",
+    "wrong": ["Úc", "Nam Phi", "Anh"],
+    "hint": "Đội rugby của quốc gia này được gọi là All Blacks.",
+    "explanation": "New Zealand vô địch Rugby World Cup đầu tiên năm 1987, đánh bại Pháp 29-9 trong trận chung kết tại Auckland."
+  },
+  "q_spo_023": {
+    "question": "Điểm break tối đa trong snooker là bao nhiêu?",
+    "correct": "147",
+    "wrong": ["155", "170", "180"],
+    "hint": "Điểm số này đòi hỏi ghi hết 15 bi đỏ kèm bi đen, rồi cả sáu bi màu.",
+    "explanation": "Break tối đa 147 trong snooker đạt được bằng cách ghi 15 bi đỏ (mỗi bi đi kèm bi đen) rồi ghi tất cả sáu bi màu theo thứ tự."
   }
 }

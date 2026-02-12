@@ -185,5 +185,47 @@
     ],
     "hint": "Dieser österreichische Komponist starb im Alter von 35 Jahren.",
     "explanation": "Die Zauberflöte wurde von Mozart 1791 komponiert, dem letzten Jahr seines Lebens."
+  },
+  "q_art_018": {
+    "question": "Wer schrieb 'Don Quijote'?",
+    "correct": "Miguel de Cervantes",
+    "wrong": ["García Márquez", "García Lorca", "Borges"],
+    "hint": "Spanischer Schriftsteller, 1605 und 1615.",
+    "explanation": "Gilt als der erste moderne Roman."
+  },
+  "q_art_019": {
+    "question": "Welcher Architekt entwarf die Sagrada Família?",
+    "correct": "Antoni Gaudí",
+    "wrong": ["Santiago Calatrava", "Le Corbusier", "Frank Lloyd Wright"],
+    "hint": "Katalane, organische Formen.",
+    "explanation": "Baubeginn 1882, noch immer im Bau."
+  },
+  "q_art_020": {
+    "question": "Wer malte die Decke der Sixtinischen Kapelle?",
+    "correct": "Michelangelo",
+    "wrong": ["Raffael", "Botticelli", "Caravaggio"],
+    "hint": "Er schuf auch die David-Skulptur.",
+    "explanation": "Gemalt zwischen 1508 und 1512, zeigt Die Erschaffung Adams."
+  },
+  "q_art_021": {
+    "question": "Wer schrieb 'Stolz und Vorurteil'?",
+    "correct": "Jane Austen",
+    "wrong": ["Charlotte Brontë", "Emily Brontë", "Virginia Woolf"],
+    "hint": "Englische Romanautorin, bekannt für Gesellschaftskommentare der Regency-Ära.",
+    "explanation": "Veröffentlicht 1813."
+  },
+  "q_art_022": {
+    "question": "Welche Maltechnik verwendet kleine Farbpunkte?",
+    "correct": "Pointillismus",
+    "wrong": ["Impressionismus", "Kubismus", "Fauvismus"],
+    "hint": "Seurats 'Ein Sonntagnachmittag auf der Insel La Grande Jatte'.",
+    "explanation": "In den 1880er Jahren von Seurat und Signac entwickelt."
+  },
+  "q_art_023": {
+    "question": "Wie heißt die antike griechische Skulptur eines Diskuswerfers?",
+    "correct": "Diskobol",
+    "wrong": ["Venus von Milo", "Laokoon", "Nike von Samothrake"],
+    "hint": "Geschaffen von Myron.",
+    "explanation": "Entstanden um 450 v. Chr."
   }
 }

@@ -185,5 +185,47 @@
     ],
     "hint": "Nhà soạn nhạc người Áo này qua đời ở tuổi 35.",
     "explanation": "Cây sáo thần (Die Zauberflöte) được Mozart sáng tác vào năm 1791, năm cuối cùng của cuộc đời ông."
+  },
+  "q_art_018": {
+    "question": "Ai đã viết 'Don Quixote'?",
+    "correct": "Miguel de Cervantes",
+    "wrong": ["García Márquez", "García Lorca", "Borges"],
+    "hint": "Xuất bản năm 1605 và 1615",
+    "explanation": "Được coi là tiểu thuyết hiện đại đầu tiên"
+  },
+  "q_art_019": {
+    "question": "Kiến trúc sư nào đã thiết kế nhà thờ Sagrada Família?",
+    "correct": "Antoni Gaudí",
+    "wrong": ["Calatrava", "Le Corbusier", "Wright"],
+    "hint": "Hình dáng hữu cơ",
+    "explanation": "Khởi công năm 1882"
+  },
+  "q_art_020": {
+    "question": "Ai đã vẽ trần Nhà nguyện Sistine?",
+    "correct": "Michelangelo",
+    "wrong": ["Raphael", "Botticelli", "Caravaggio"],
+    "hint": "Cũng tạc tượng David",
+    "explanation": "Vẽ từ năm 1508 đến 1512"
+  },
+  "q_art_021": {
+    "question": "Ai đã viết tiểu thuyết 'Kiêu hãnh và Định kiến'?",
+    "correct": "Jane Austen",
+    "wrong": ["Charlotte Brontë", "Emily Brontë", "Virginia Woolf"],
+    "hint": "Nữ tiểu thuyết gia người Anh này nổi tiếng với những bình luận xã hội sắc sảo về nước Anh thời kỳ Regency.",
+    "explanation": "Jane Austen xuất bản Pride and Prejudice vào năm 1813. Đây là một trong những tiểu thuyết được yêu thích nhất trong văn học Anh."
+  },
+  "q_art_022": {
+    "question": "Kỹ thuật hội họa nào sử dụng các chấm màu nhỏ để tạo thành hình ảnh?",
+    "correct": "Chủ nghĩa Điểm họa",
+    "wrong": ["Chủ nghĩa Ấn tượng", "Chủ nghĩa Lập thể", "Chủ nghĩa Dã thú"],
+    "hint": "Tác phẩm 'Chiều Chủ nhật trên đảo La Grande Jatte' của Georges Seurat là một ví dụ nổi tiếng.",
+    "explanation": "Chủ nghĩa Điểm họa được phát triển bởi Georges Seurat và Paul Signac vào thập niên 1880, sử dụng các chấm màu nhỏ riêng biệt xếp theo mẫu để tạo thành hình ảnh."
+  },
+  "q_art_023": {
+    "question": "Bức tượng Hy Lạp cổ đại mô tả người ném đĩa có tên là gì?",
+    "correct": "Discobolus",
+    "wrong": ["Venus de Milo", "Laocoön", "Nike of Samothrace"],
+    "hint": "Bức tượng này khắc họa một vận động viên đang trong tư thế ném, được tạc bởi nhà điêu khắc Myron.",
+    "explanation": "Discobolus (Người ném đĩa) được nhà điêu khắc Myron tạc vào khoảng năm 450 TCN. Bản gốc bằng đồng đã thất lạc, nhưng các bản sao bằng đá cẩm thạch La Mã vẫn còn."
   }
 }

@@ -185,5 +185,47 @@
     ],
     "hint": "Este compositor austriaco murió a los 35 años.",
     "explanation": "La flauta mágica (Die Zauberflöte) fue compuesta por Mozart en 1791, el último año de su vida."
+  },
+  "q_art_018": {
+    "question": "¿Quién escribió 'Don Quijote'?",
+    "correct": "Miguel de Cervantes",
+    "wrong": ["García Márquez", "García Lorca", "Borges"],
+    "hint": "Novelista español, 1605 y 1615.",
+    "explanation": "Considerada la primera novela moderna."
+  },
+  "q_art_019": {
+    "question": "¿Qué arquitecto diseñó la Sagrada Familia?",
+    "correct": "Antoni Gaudí",
+    "wrong": ["Santiago Calatrava", "Le Corbusier", "Frank Lloyd Wright"],
+    "hint": "Catalán, formas orgánicas.",
+    "explanation": "Se inició en 1882 y aún está en construcción."
+  },
+  "q_art_020": {
+    "question": "¿Quién pintó el techo de la Capilla Sixtina?",
+    "correct": "Miguel Ángel",
+    "wrong": ["Rafael", "Botticelli", "Caravaggio"],
+    "hint": "También esculpió el David.",
+    "explanation": "Pintado entre 1508 y 1512, incluye La Creación de Adán."
+  },
+  "q_art_021": {
+    "question": "¿Quién escribió 'Orgullo y prejuicio'?",
+    "correct": "Jane Austen",
+    "wrong": ["Charlotte Brontë", "Emily Brontë", "Virginia Woolf"],
+    "hint": "Novelista inglesa conocida por su aguda crítica social de la Inglaterra de la Regencia.",
+    "explanation": "Publicada en 1813."
+  },
+  "q_art_022": {
+    "question": "¿Qué técnica pictórica utiliza pequeños puntos de color para formar una imagen?",
+    "correct": "Puntillismo",
+    "wrong": ["Impresionismo", "Cubismo", "Fauvismo"],
+    "hint": "'Una tarde de domingo en la isla de la Grande Jatte' de Georges Seurat es un ejemplo famoso.",
+    "explanation": "Desarrollado por Seurat y Signac en la década de 1880."
+  },
+  "q_art_023": {
+    "question": "¿Cómo se llama la escultura griega antigua que representa a un lanzador de disco?",
+    "correct": "Discóbolo",
+    "wrong": ["Venus de Milo", "Laocoonte", "Victoria de Samotracia"],
+    "hint": "Creada por el escultor Mirón, capta a un atleta en pleno movimiento.",
+    "explanation": "Creada hacia el 450 a.C."
   }
 }

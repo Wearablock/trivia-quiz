@@ -185,5 +185,70 @@
     ],
     "hint": "È un composto di sodio e cloro.",
     "explanation": "Il sale da cucina è cloruro di sodio (NaCl), formato dal legame ionico di atomi di sodio e cloro."
+  },
+  "q_sci_017": {
+    "question": "Qual è il pianeta più vicino al Sole?",
+    "correct": "Mercurio",
+    "wrong": [
+      "Venere",
+      "Terra",
+      "Marte"
+    ],
+    "hint": "Privo di atmosfera.",
+    "explanation": "58 milioni di km dal Sole."
+  },
+  "q_sci_018": {
+    "question": "Qual è l'unità di misura della resistenza elettrica?",
+    "correct": "Ohm",
+    "wrong": [
+      "Volt",
+      "Ampere",
+      "Watt"
+    ],
+    "hint": "Il suo simbolo è la lettera greca omega (Ω).",
+    "explanation": "Prende il nome da Georg Simon Ohm."
+  },
+  "q_sci_019": {
+    "question": "Quante ossa ha il corpo umano adulto?",
+    "correct": "206",
+    "wrong": [
+      "186",
+      "256",
+      "300"
+    ],
+    "hint": "I neonati ne hanno circa 270.",
+    "explanation": "Le ossa si fondono durante la crescita."
+  },
+  "q_sci_020": {
+    "question": "Qual è il simbolo chimico del potassio?",
+    "correct": "K",
+    "wrong": [
+      "P",
+      "Po",
+      "Pt"
+    ],
+    "hint": "Dal latino 'kalium'.",
+    "explanation": "Dall'arabo 'al-qalyah'."
+  },
+  "q_sci_021": {
+    "question": "Qual è l'organo più grande del corpo umano?",
+    "correct": "La pelle",
+    "wrong": ["Fegato", "Cervello", "Polmoni"],
+    "hint": "Questo organo ricopre tutto il corpo e funge da barriera protettiva.",
+    "explanation": "La pelle copre tra 1,5 e 2 metri quadrati e pesa circa 3,6 kg."
+  },
+  "q_sci_022": {
+    "question": "Quale pianeta del nostro sistema solare ha la gravità più forte?",
+    "correct": "Giove",
+    "wrong": ["Saturno", "Nettuno", "Terra"],
+    "hint": "Questo gigante gassoso è il pianeta più grande del sistema solare.",
+    "explanation": "Giove ha la gravità più forte, circa 24,79 m/s²."
+  },
+  "q_sci_023": {
+    "question": "Qual è l'elemento naturale più raro della crosta terrestre?",
+    "correct": "Astato",
+    "wrong": ["Francio", "Plutonio", "Radio"],
+    "hint": "Questo alogeno radioattivo ha un'emivita di sole 8 ore circa.",
+    "explanation": "Si stima che esistano meno di 30 grammi di astato nell'intera crosta terrestre."
   }
 }

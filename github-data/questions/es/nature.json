@@ -174,5 +174,54 @@
     ],
     "hint": "Se reproducen durante el invierno antártico.",
     "explanation": "El pingüino emperador puede alcanzar 1,2 metros de altura y pesar hasta 45 kg, siendo el más grande de todas las especies de pingüinos."
+  },
+  "q_nat_017": {
+    "question": "¿Cuál es el animal terrestre más grande?",
+    "correct": "Elefante africano",
+    "wrong": ["Rinoceronte blanco", "Hipopótamo", "Jirafa"],
+    "hint": "Hasta 6.000 kg, orejas con forma de África.",
+    "explanation": "Puede alcanzar hasta 4 metros de altura."
+  },
+  "q_nat_018": {
+    "question": "¿Qué tipo de animal es un dragón de Komodo?",
+    "correct": "Lagarto",
+    "wrong": ["Cocodrilo", "Serpiente", "Dinosaurio"],
+    "hint": "La especie viva más grande de su tipo, Indonesia.",
+    "explanation": "Puede medir hasta 3 metros de largo."
+  },
+  "q_nat_019": {
+    "question": "¿Cuál es el pez más rápido del océano?",
+    "correct": "Pez vela",
+    "wrong": ["Pez espada", "Marlín", "Atún"],
+    "hint": "Gran aleta dorsal como una vela.",
+    "explanation": "Alcanza hasta 110 km/h."
+  },
+  "q_nat_020": {
+    "question": "¿Qué animal tiene la mordida más fuerte?",
+    "correct": "Cocodrilo de agua salada",
+    "wrong": ["Gran tiburón blanco", "Hipopótamo", "Oso grizzly"],
+    "hint": "Zonas costeras del sudeste asiático hasta Australia.",
+    "explanation": "Fuerza de mordida de 3.700 psi."
+  },
+  "q_nat_021": {
+    "question": "¿Cuál es el organismo vivo más grande de la Tierra por superficie?",
+    "correct": "Armilaria",
+    "wrong": ["Ballena azul", "Secuoya gigante", "Gran Barrera de Coral"],
+    "hint": "Se extiende bajo tierra mediante filamentos y cubre miles de acres.",
+    "explanation": "En Oregón, cubre 965 hectáreas y tiene más de 2.400 años de antigüedad."
+  },
+  "q_nat_022": {
+    "question": "¿Qué porcentaje del agua de la Tierra es agua dulce?",
+    "correct": "Aproximadamente el 3%",
+    "wrong": ["Aproximadamente el 10%", "Aproximadamente el 25%", "Aproximadamente el 50%"],
+    "hint": "La mayor parte está atrapada en glaciares y casquetes polares.",
+    "explanation": "Solo el 3% del agua de la Tierra es dulce, y de esa cantidad el 69% está en glaciares."
+  },
+  "q_nat_023": {
+    "question": "¿Qué animal produce el sonido más fuerte del reino animal?",
+    "correct": "Cachalote",
+    "wrong": ["Ballena azul", "Mono aullador", "Camarón pistola"],
+    "hint": "Mamífero de buceo profundo que usa chasquidos para la ecolocalización.",
+    "explanation": "Los chasquidos del cachalote alcanzan los 230 decibelios."
   }
 }

@@ -1,6 +1,6 @@
 {
-  "version": "1.4.0",
+  "version": "1.5.0",
   "minAppVersion": "1.0.0",
-  "releaseDate": "2026-02-11",
-  "changelog": "Added 8 new questions across all 8 categories in 15 languages"
+  "releaseDate": "2026-02-12",
+  "changelog": "Added 55 new questions across all 8 categories in 15 languages (total: 186)"
 }

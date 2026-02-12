@@ -174,5 +174,54 @@
     ],
     "hint": "Chaque période dure 20 minutes.",
     "explanation": "Un match standard de hockey sur glace se compose de trois périodes de 20 minutes, soit 60 minutes de jeu au total."
+  },
+  "q_spo_017": {
+    "question": "Dans quel sport les équipes se disputent-elles la Coupe Stanley ?",
+    "correct": "Hockey sur glace",
+    "wrong": ["Basketball", "Baseball", "Football américain"],
+    "hint": "Offerte par le gouverneur général du Canada en 1892.",
+    "explanation": "Trophée du championnat de la LNH."
+  },
+  "q_spo_018": {
+    "question": "Quel pays a remporté le plus de médailles d'or olympiques ?",
+    "correct": "États-Unis",
+    "wrong": ["Union soviétique", "Chine", "Grande-Bretagne"],
+    "hint": "A accueilli les Jeux olympiques d'été quatre fois.",
+    "explanation": "Plus de 1 000 médailles d'or."
+  },
+  "q_spo_019": {
+    "question": "Combien de points vaut un touchdown ?",
+    "correct": "6",
+    "wrong": ["3", "5", "7"],
+    "hint": "On peut tenter un point supplémentaire après.",
+    "explanation": "6 points plus la transformation."
+  },
+  "q_spo_020": {
+    "question": "Quel pays a accueilli la première Coupe du Monde FIFA en 1930 ?",
+    "correct": "Uruguay",
+    "wrong": ["Brésil", "Italie", "France"],
+    "hint": "Il a aussi remporté le tournoi.",
+    "explanation": "A battu l'Argentine 4-2."
+  },
+  "q_spo_021": {
+    "question": "Quel est le diamètre d'un panier de basketball standard en pouces ?",
+    "correct": "18 pouces",
+    "wrong": ["16 pouces", "20 pouces", "22 pouces"],
+    "hint": "L'arceau est à peine plus de deux fois le diamètre du ballon.",
+    "explanation": "18 pouces (46 cm)."
+  },
+  "q_spo_022": {
+    "question": "Quel pays a remporté la première Coupe du monde de rugby en 1987 ?",
+    "correct": "Nouvelle-Zélande",
+    "wrong": ["Australie", "Afrique du Sud", "Angleterre"],
+    "hint": "Connus sous le nom des All Blacks.",
+    "explanation": "Ils ont battu la France 29-9."
+  },
+  "q_spo_023": {
+    "question": "Quel est le break maximum au snooker ?",
+    "correct": "147",
+    "wrong": ["155", "170", "180"],
+    "hint": "Il faut empocher les 15 rouges avec les noires, puis les six couleurs.",
+    "explanation": "Obtenu en empochant 15 rouges avec des noires puis les six couleurs dans l'ordre."
   }
 }

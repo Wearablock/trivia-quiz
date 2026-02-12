@@ -174,5 +174,54 @@
     ],
     "hint": "Sie brüten während des antarktischen Winters.",
     "explanation": "Der Kaiserpinguin kann bis zu 1,2 Meter groß und bis zu 45 kg schwer werden und ist damit die größte aller Pinguinarten."
+  },
+  "q_nat_017": {
+    "question": "Was ist das größte Landtier?",
+    "correct": "Afrikanischer Elefant",
+    "wrong": ["Breitmaulnashorn", "Flusspferd", "Giraffe"],
+    "hint": "Bis zu 6.000 kg, Ohren in Form Afrikas.",
+    "explanation": "Kann bis zu 4 Meter hoch werden."
+  },
+  "q_nat_018": {
+    "question": "Was für ein Tier ist ein Komodowaran?",
+    "correct": "Eidechse",
+    "wrong": ["Krokodil", "Schlange", "Dinosaurier"],
+    "hint": "Größte lebende Art seiner Gattung, Indonesien.",
+    "explanation": "Kann bis zu 3 Meter lang werden."
+  },
+  "q_nat_019": {
+    "question": "Welcher ist der schnellste Fisch im Ozean?",
+    "correct": "Fächerfisch",
+    "wrong": ["Schwertfisch", "Marlin", "Thunfisch"],
+    "hint": "Große Rückenflosse wie ein Segel.",
+    "explanation": "Bis zu 110 km/h schnell."
+  },
+  "q_nat_020": {
+    "question": "Welches Tier hat die stärkste Bisskraft?",
+    "correct": "Leistenkrokodil",
+    "wrong": ["Weißer Hai", "Flusspferd", "Grizzlybär"],
+    "hint": "Küstengebiete von Südostasien bis Australien.",
+    "explanation": "Bisskraft von 3.700 psi."
+  },
+  "q_nat_021": {
+    "question": "Was ist der größte lebende Organismus der Erde nach Fläche?",
+    "correct": "Honigpilz",
+    "wrong": ["Blauwal", "Riesenmammutbaum", "Great Barrier Reef"],
+    "hint": "Breitet sich unterirdisch durch Fäden aus.",
+    "explanation": "965 Hektar in Oregon, USA."
+  },
+  "q_nat_022": {
+    "question": "Wie viel Prozent des Wassers auf der Erde ist Süßwasser?",
+    "correct": "Etwa 3 %",
+    "wrong": ["Etwa 10 %", "Etwa 25 %", "Etwa 50 %"],
+    "hint": "Der Großteil davon ist in Gletschern gebunden.",
+    "explanation": "Etwa 3 %."
+  },
+  "q_nat_023": {
+    "question": "Welches Tier erzeugt das lauteste Geräusch?",
+    "correct": "Pottwal",
+    "wrong": ["Blauwal", "Brüllaffe", "Knallkrebs"],
+    "hint": "Tiefseetaucher, nutzt Klicklaute zur Echoortung.",
+    "explanation": "Bis zu 230 Dezibel."
   }
 }

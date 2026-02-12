@@ -174,5 +174,82 @@
     ],
     "hint": "揮発性コンピュータメモリの一種です。",
     "explanation": "RAM（Random Access Memory）は、データを任意の順序で読み書きできる一時的な記憶装置で、コンピュータの電源を切ると消去されます。"
+  },
+  "q_tec_017": {
+    "question": "「LED」は何の略ですか？",
+    "correct": "発光ダイオード（Light Emitting Diode）",
+    "wrong": [
+      "Light Energy Display",
+      "Laser Emission Device",
+      "Low Energy Driver"
+    ],
+    "hint": "最新のテレビ画面、電球、スマートフォンのディスプレイに使用されています。",
+    "explanation": "LEDは電流が流れると発光する半導体デバイスです。"
+  },
+  "q_tec_018": {
+    "question": "最初の電子メールが送信されたのは何年ですか？",
+    "correct": "1971年",
+    "wrong": [
+      "1965年",
+      "1978年",
+      "1983年"
+    ],
+    "hint": "レイ・トムリンソンがARPANETを通じて送信しました。",
+    "explanation": "レイ・トムリンソンは1971年にARPANETを使って最初の電子メールを送信しました。"
+  },
+  "q_tec_019": {
+    "question": "「PDF」は何の略ですか？",
+    "correct": "Portable Document Format",
+    "wrong": [
+      "Printed Data File",
+      "Page Design Format",
+      "Personal Document File"
+    ],
+    "hint": "Adobeが1990年代初頭にこのファイル形式を開発しました。",
+    "explanation": "PDFは1992年にAdobeによって作成されました。"
+  },
+  "q_tec_020": {
+    "question": "10世紀のスカンジナビアの王にちなんで名付けられた技術は何ですか？",
+    "correct": "Bluetooth",
+    "wrong": [
+      "Wi-Fi",
+      "NFC",
+      "Ethernet"
+    ],
+    "hint": "デバイス間の近距離データ転送に使用されます。",
+    "explanation": "Bluetoothは10世紀のデンマーク王ハーラル・ブルートゥースにちなんで名付けられました。"
+  },
+  "q_tec_021": {
+    "question": "「HTML」は何の略ですか？",
+    "correct": "HyperText Markup Language",
+    "wrong": [
+      "High Tech Modern Language",
+      "HyperText Machine Language",
+      "Home Tool Markup Language"
+    ],
+    "hint": "ウェブページのコンテンツを作成・構造化するための標準言語です。",
+    "explanation": "HTML（HyperText Markup Language）は1991年にティム・バーナーズ＝リーによって作られ、すべてのウェブページの基盤となる言語です。"
+  },
+  "q_tec_022": {
+    "question": "スティーブ・ジョブズとともにAppleを共同設立した人は誰ですか？",
+    "correct": "スティーブ・ウォズニアック",
+    "wrong": [
+      "ビル・ゲイツ",
+      "ティム・クック",
+      "ジョニー・アイブ"
+    ],
+    "hint": "このエンジニアはガレージでApple Iコンピュータを手作りしました。",
+    "explanation": "スティーブ・ウォズニアックは1976年にスティーブ・ジョブズ、ロナルド・ウェインとともにAppleを共同設立しました。ウォズニアックはApple IとApple IIコンピュータを設計しました。"
+  },
+  "q_tec_023": {
+    "question": "Wikipediaが開設されたのは何年ですか？",
+    "correct": "2001年",
+    "wrong": [
+      "1998年",
+      "2003年",
+      "2005年"
+    ],
+    "hint": "ジミー・ウェールズとラリー・サンガーがこの無料オンライン百科事典を作りました。",
+    "explanation": "Wikipediaは2001年1月15日にジミー・ウェールズとラリー・サンガーによって開設されました。以来、史上最大の百科事典となっています。"
   }
 }

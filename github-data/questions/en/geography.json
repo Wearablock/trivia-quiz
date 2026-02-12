@@ -174,5 +174,54 @@
     ],
     "hint": "It is technically classified as a lake despite its name.",
     "explanation": "The Caspian Sea, with a surface area of about 371,000 km², is the world's largest enclosed inland body of water."
+  },
+  "q_geo_016": {
+    "question": "Which is the largest island in the world?",
+    "correct": "Greenland",
+    "wrong": ["Borneo", "Madagascar", "New Guinea"],
+    "hint": "This island is an autonomous territory of Denmark.",
+    "explanation": "Greenland, with an area of about 2.166 million km², is the world's largest island. Australia is larger but is classified as a continent."
+  },
+  "q_geo_017": {
+    "question": "What is the deepest lake in the world?",
+    "correct": "Lake Baikal",
+    "wrong": ["Lake Tanganyika", "Lake Malawi", "Crater Lake"],
+    "hint": "This lake is located in Siberia, Russia.",
+    "explanation": "Lake Baikal in Russia reaches a depth of 1,642 meters, making it the deepest and oldest freshwater lake in the world."
+  },
+  "q_geo_018": {
+    "question": "What is the smallest ocean in the world?",
+    "correct": "Arctic Ocean",
+    "wrong": ["Indian Ocean", "Southern Ocean", "Atlantic Ocean"],
+    "hint": "This ocean surrounds the North Pole and is mostly covered by sea ice.",
+    "explanation": "The Arctic Ocean covers about 14.06 million km², making it the smallest and shallowest of the five oceans."
+  },
+  "q_geo_019": {
+    "question": "Which African country has the largest land area?",
+    "correct": "Algeria",
+    "wrong": ["Democratic Republic of the Congo", "Libya", "Nigeria"],
+    "hint": "This North African country borders the Mediterranean Sea and the Sahara Desert covers most of its territory.",
+    "explanation": "Algeria is the largest country in Africa with an area of about 2.38 million km², surpassing the DR Congo after South Sudan's independence in 2011."
+  },
+  "q_geo_020": {
+    "question": "Which river is the longest in Europe?",
+    "correct": "Volga",
+    "wrong": ["Danube", "Rhine", "Elbe"],
+    "hint": "This river flows entirely within Russia and empties into the Caspian Sea.",
+    "explanation": "The Volga River is approximately 3,530 km long, making it the longest river in Europe. It flows through central Russia to the Caspian Sea."
+  },
+  "q_geo_021": {
+    "question": "Which country has the most islands in the world?",
+    "correct": "Sweden",
+    "wrong": ["Indonesia", "Philippines", "Norway"],
+    "hint": "This Scandinavian country has over 267,000 islands, mostly small and uninhabited.",
+    "explanation": "Sweden has approximately 267,570 islands, more than any other country, though most are tiny and uninhabited."
+  },
+  "q_geo_022": {
+    "question": "What is the capital of Brazil?",
+    "correct": "Brasília",
+    "wrong": ["Rio de Janeiro", "São Paulo", "Salvador"],
+    "hint": "This purpose-built city was designed by architect Oscar Niemeyer and urban planner Lúcio Costa.",
+    "explanation": "Brasília became Brazil's capital in 1960, replacing Rio de Janeiro. It was planned and built from scratch in just 41 months."
   }
 }

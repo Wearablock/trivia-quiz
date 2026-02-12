@@ -185,5 +185,54 @@
     ],
     "hint": "Ini adalah senyawa natrium dan klorin.",
     "explanation": "Garam dapur adalah natrium klorida (NaCl), terbentuk dari ikatan ionik atom natrium dan klorin."
+  },
+  "q_sci_017": {
+    "question": "Planet apa yang paling dekat dengan Matahari?",
+    "correct": "Merkurius",
+    "wrong": ["Venus", "Bumi", "Mars"],
+    "hint": "Tidak memiliki atmosfer",
+    "explanation": "Jaraknya 58 juta km dari Matahari"
+  },
+  "q_sci_018": {
+    "question": "Apa satuan hambatan listrik?",
+    "correct": "Ohm",
+    "wrong": ["Volt", "Ampere", "Watt"],
+    "hint": "Simbol omega Ω",
+    "explanation": "Dinamai dari Georg Simon Ohm"
+  },
+  "q_sci_019": {
+    "question": "Berapa jumlah tulang dalam tubuh manusia dewasa?",
+    "correct": "206",
+    "wrong": ["186", "256", "300"],
+    "hint": "Bayi memiliki 270 tulang",
+    "explanation": "Tulang menyatu seiring pertumbuhan"
+  },
+  "q_sci_020": {
+    "question": "Apa simbol kimia untuk kalium?",
+    "correct": "K",
+    "wrong": ["P", "Po", "Pt"],
+    "hint": "Dari bahasa Latin 'kalium'",
+    "explanation": "Dari bahasa Arab 'al-qalyah'"
+  },
+  "q_sci_021": {
+    "question": "Apa organ terbesar dalam tubuh manusia?",
+    "correct": "Kulit",
+    "wrong": ["Hati", "Otak", "Paru-paru"],
+    "hint": "Organ ini menutupi seluruh tubuh dan berfungsi sebagai pelindung.",
+    "explanation": "Kulit adalah organ terbesar tubuh manusia, menutupi area sekitar 1,5 hingga 2 meter persegi pada orang dewasa dan beratnya sekitar 3,6 kg."
+  },
+  "q_sci_022": {
+    "question": "Planet mana di tata surya kita yang memiliki gravitasi terkuat?",
+    "correct": "Jupiter",
+    "wrong": ["Saturnus", "Neptunus", "Bumi"],
+    "hint": "Raksasa gas ini adalah planet terbesar di tata surya kita.",
+    "explanation": "Jupiter memiliki gravitasi permukaan terkuat di antara planet-planet di tata surya, sekitar 24,79 m/s², kira-kira 2,5 kali gravitasi Bumi."
+  },
+  "q_sci_023": {
+    "question": "Apa unsur alami paling langka di kerak Bumi?",
+    "correct": "Astatin",
+    "wrong": ["Fransium", "Plutonium", "Radium"],
+    "hint": "Halogen radioaktif ini memiliki waktu paruh hanya sekitar 8 jam.",
+    "explanation": "Astatin adalah unsur alami paling langka, diperkirakan kurang dari 30 gram ada di seluruh kerak Bumi pada waktu tertentu."
   }
 }

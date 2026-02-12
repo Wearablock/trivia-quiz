@@ -185,5 +185,54 @@
     ],
     "hint": "Este prato é um acompanhamento básico da culinária coreana.",
     "explanation": "Kimchi é um prato tradicional coreano de vegetais salgados e fermentados, geralmente repolho chinês e rabanete, com uma história de milhares de anos."
+  },
+  "q_foo_018": {
+    "question": "De qual país a pizza é originária?",
+    "correct": "Itália",
+    "wrong": ["Grécia", "Turquia", "Estados Unidos"],
+    "hint": "Nápoles, século XVIII.",
+    "explanation": "Pizza Margherita, 1889."
+  },
+  "q_foo_019": {
+    "question": "De qual grão o tofu é feito?",
+    "correct": "Soja",
+    "wrong": ["Feijão-de-lima", "Grão-de-bico", "Feijão-mungo"],
+    "hint": "Molho de soja, tempeh, missô.",
+    "explanation": "Originário da China há 2.000 anos."
+  },
+  "q_foo_020": {
+    "question": "Qual país é o maior produtor de azeite de oliva?",
+    "correct": "Espanha",
+    "wrong": ["Itália", "Grécia", "Turquia"],
+    "hint": "Quase metade da produção mundial.",
+    "explanation": "Região da Andaluzia."
+  },
+  "q_foo_021": {
+    "question": "De qual país o chocolate é originário?",
+    "correct": "México",
+    "wrong": ["Bélgica", "Suíça", "Gana"],
+    "hint": "Os astecas e os maias o consumiam como uma bebida amarga.",
+    "explanation": "Originário da Mesoamérica."
+  },
+  "q_foo_022": {
+    "question": "Qual fruta é botanicamente classificada como uma baga?",
+    "correct": "Banana",
+    "wrong": ["Morango", "Framboesa", "Amora"],
+    "hint": "Apesar de sua forma e casca, esta fruta tropical atende a todos os critérios botânicos de uma baga.",
+    "explanation": "Desenvolve-se a partir de um único ovário."
+  },
+  "q_foo_023": {
+    "question": "Qual país é o maior consumidor de chá per capita?",
+    "correct": "Turquia",
+    "wrong": ["China", "Índia", "Reino Unido"],
+    "hint": "Este país entre a Europa e a Ásia serve chá em copos em forma de tulipa.",
+    "explanation": "Cerca de 3 kg por pessoa por ano."
+  },
+  "q_foo_024": {
+    "question": "Que tipo de alimento é o 'naan'?",
+    "correct": "Pão",
+    "wrong": ["Arroz", "Curry", "Sobremesa"],
+    "hint": "É um pão achatado assado em forno tandoor.",
+    "explanation": "Pão achatado fermentado popular nas cozinhas do sul e do centro da Ásia."
   }
 }

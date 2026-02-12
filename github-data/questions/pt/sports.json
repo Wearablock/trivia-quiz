@@ -174,5 +174,54 @@
     ],
     "hint": "Cada período tem 20 minutos.",
     "explanation": "Um jogo padrão de hóquei no gelo consiste em três períodos de 20 minutos, totalizando 60 minutos de jogo."
+  },
+  "q_spo_017": {
+    "question": "Em qual esporte as equipes competem pela Copa Stanley?",
+    "correct": "Hóquei no gelo",
+    "wrong": ["Basquete", "Beisebol", "Futebol americano"],
+    "hint": "Doada pelo Governador-Geral do Canadá em 1892.",
+    "explanation": "Troféu do campeonato da NHL."
+  },
+  "q_spo_018": {
+    "question": "Qual país conquistou mais medalhas de ouro olímpicas?",
+    "correct": "Estados Unidos",
+    "wrong": ["União Soviética", "China", "Grã-Bretanha"],
+    "hint": "Sediou os Jogos Olímpicos de verão quatro vezes.",
+    "explanation": "Mais de 1.000 medalhas de ouro."
+  },
+  "q_spo_019": {
+    "question": "Quantos pontos vale um touchdown?",
+    "correct": "6",
+    "wrong": ["3", "5", "7"],
+    "hint": "Pode-se tentar um ponto extra depois.",
+    "explanation": "6 pontos mais a conversão."
+  },
+  "q_spo_020": {
+    "question": "Qual país sediou a primeira Copa do Mundo FIFA em 1930?",
+    "correct": "Uruguai",
+    "wrong": ["Brasil", "Itália", "França"],
+    "hint": "Também venceu o torneio.",
+    "explanation": "Derrotou a Argentina por 4-2."
+  },
+  "q_spo_021": {
+    "question": "Qual é o diâmetro de um aro de basquete padrão em polegadas?",
+    "correct": "18 polegadas",
+    "wrong": ["16 polegadas", "20 polegadas", "22 polegadas"],
+    "hint": "O aro é pouco mais que o dobro do diâmetro da bola.",
+    "explanation": "18 polegadas (46 cm)."
+  },
+  "q_spo_022": {
+    "question": "Qual país venceu a primeira Copa do Mundo de Rugby em 1987?",
+    "correct": "Nova Zelândia",
+    "wrong": ["Austrália", "África do Sul", "Inglaterra"],
+    "hint": "Conhecidos como os All Blacks.",
+    "explanation": "Derrotaram a França por 29-9."
+  },
+  "q_spo_023": {
+    "question": "Qual é a pontuação máxima de uma tacada no snooker?",
+    "correct": "147",
+    "wrong": ["155", "170", "180"],
+    "hint": "Requer encaçapar as 15 vermelhas com as pretas e depois as seis cores.",
+    "explanation": "Obtida ao encaçapar 15 vermelhas com pretas e depois as seis cores em sequência."
   }
 }

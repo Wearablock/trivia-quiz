@@ -174,5 +174,54 @@
     ],
     "hint": "Được đặt tên theo mặt hàng có giá trị nhất được giao dịch trên đó.",
     "explanation": "Con đường Tơ lụa là mạng lưới các tuyến thương mại dài hơn 6.400 km, kết nối Đông Á với Địa Trung Hải từ thế kỷ 2 TCN."
+  },
+  "q_his_017": {
+    "question": "Ai là người phụ nữ đầu tiên bay một mình qua Đại Tây Dương?",
+    "correct": "Amelia Earhart",
+    "wrong": ["Harriet Quimby", "Bessie Coleman", "Jacqueline Cochran"],
+    "hint": "Mất tích năm 1937",
+    "explanation": "Tháng 5 năm 1932"
+  },
+  "q_his_018": {
+    "question": "Cách mạng Nga bắt đầu vào năm nào?",
+    "correct": "1917",
+    "wrong": ["1905", "1914", "1920"],
+    "hint": "Lật đổ Sa hoàng",
+    "explanation": "Cách mạng tháng Hai và tháng Mười"
+  },
+  "q_his_019": {
+    "question": "Nền văn minh nào đã xây dựng Machu Picchu?",
+    "correct": "Đế chế Inca",
+    "wrong": ["Đế chế Aztec", "Văn minh Maya", "Văn minh Olmec"],
+    "hint": "Dãy Andes, Peru",
+    "explanation": "Xây dựng vào thế kỷ 15"
+  },
+  "q_his_020": {
+    "question": "Ai đã phát minh ra máy in chữ rời ở châu Âu?",
+    "correct": "Johannes Gutenberg",
+    "wrong": ["William Caxton", "Aldus Manutius", "Bi Sheng"],
+    "hint": "Năm 1440, Đức",
+    "explanation": "Sản xuất sách hàng loạt"
+  },
+  "q_his_021": {
+    "question": "Đế chế nào lớn nhất trong lịch sử xét về diện tích?",
+    "correct": "Đế quốc Anh",
+    "wrong": ["Đế quốc Mông Cổ", "Đế quốc La Mã", "Đế quốc Nga"],
+    "hint": "Người ta nói rằng 'mặt trời không bao giờ lặn' trên đế chế này.",
+    "explanation": "Đế quốc Anh ở đỉnh cao vào năm 1920 bao phủ khoảng 35,5 triệu km², chiếm khoảng một phần tư tổng diện tích đất trên thế giới."
+  },
+  "q_his_022": {
+    "question": "Hoa Kỳ tuyên bố độc lập vào năm nào?",
+    "correct": "1776",
+    "wrong": ["1783", "1774", "1781"],
+    "hint": "Bản tuyên ngôn được thông qua vào ngày 4 tháng 7, nay là ngày quốc khánh.",
+    "explanation": "Tuyên ngôn Độc lập Hoa Kỳ được thông qua ngày 4 tháng 7 năm 1776, tuyên bố tự do khỏi sự cai trị của Anh."
+  },
+  "q_his_023": {
+    "question": "Ai là hoàng đế đầu tiên của La Mã?",
+    "correct": "Augustus",
+    "wrong": ["Julius Caesar", "Nero", "Tiberius"],
+    "hint": "Sinh ra với tên Octavian, ông là con nuôi thừa kế của Julius Caesar.",
+    "explanation": "Augustus (tên khai sinh Gaius Octavius) trở thành Hoàng đế La Mã đầu tiên vào năm 27 TCN và cai trị đến năm 14 SCN, mở đầu thời kỳ Pax Romana."
   }
 }
