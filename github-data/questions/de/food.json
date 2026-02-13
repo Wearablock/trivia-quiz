@@ -189,50 +189,111 @@
   "q_foo_018": {
     "question": "Aus welchem Land stammt die Pizza?",
     "correct": "Italien",
-    "wrong": ["Griechenland", "Türkei", "Vereinigte Staaten"],
+    "wrong": [
+      "Griechenland",
+      "Türkei",
+      "Vereinigte Staaten"
+    ],
     "hint": "Neapel, 18. Jahrhundert.",
     "explanation": "Pizza Margherita, 1889."
   },
   "q_foo_019": {
     "question": "Aus welcher Bohne wird Tofu hergestellt?",
     "correct": "Sojabohne",
-    "wrong": ["Limabohne", "Kichererbse", "Mungbohne"],
+    "wrong": [
+      "Limabohne",
+      "Kichererbse",
+      "Mungbohne"
+    ],
     "hint": "Sojasauce, Tempeh, Miso.",
     "explanation": "Vor 2.000 Jahren in China entstanden."
   },
   "q_foo_020": {
     "question": "Welches Land ist der größte Olivenölproduzent?",
     "correct": "Spanien",
-    "wrong": ["Italien", "Griechenland", "Türkei"],
+    "wrong": [
+      "Italien",
+      "Griechenland",
+      "Türkei"
+    ],
     "hint": "Fast die Hälfte der weltweiten Produktion.",
     "explanation": "Region Andalusien."
   },
   "q_foo_021": {
     "question": "Aus welchem Land stammt die Schokolade ursprünglich?",
     "correct": "Mexiko",
-    "wrong": ["Belgien", "Schweiz", "Ghana"],
+    "wrong": [
+      "Belgien",
+      "Schweiz",
+      "Ghana"
+    ],
     "hint": "Azteken und Maya tranken sie als bitteres Getränk.",
     "explanation": "Ursprung in Mesoamerika."
   },
   "q_foo_022": {
     "question": "Welche Frucht ist botanisch gesehen eine Beere?",
     "correct": "Banane",
-    "wrong": ["Erdbeere", "Himbeere", "Brombeere"],
+    "wrong": [
+      "Erdbeere",
+      "Himbeere",
+      "Brombeere"
+    ],
     "hint": "Trotz ihrer Form und Schale erfüllt sie die botanischen Kriterien einer Beere.",
     "explanation": "Entwickelt sich aus einem einzelnen Fruchtknoten."
   },
   "q_foo_023": {
     "question": "Welches Land hat den höchsten Teekonsum pro Kopf?",
     "correct": "Türkei",
-    "wrong": ["China", "Indien", "Vereinigtes Königreich"],
+    "wrong": [
+      "China",
+      "Indien",
+      "Vereinigtes Königreich"
+    ],
     "hint": "Liegt zwischen Europa und Asien, der Tee wird aus tulpenförmigen Gläsern getrunken.",
     "explanation": "Etwa 3 kg pro Person pro Jahr."
   },
   "q_foo_024": {
     "question": "Was für ein Lebensmittel ist 'Naan'?",
     "correct": "Brot",
-    "wrong": ["Reis", "Curry", "Dessert"],
+    "wrong": [
+      "Reis",
+      "Curry",
+      "Dessert"
+    ],
     "hint": "Fladenbrot aus dem Tandur-Ofen.",
     "explanation": "Süd- und zentralasiatisches Hefenfladenbrot."
+  },
+  "q_foo_025": {
+    "question": "Was ist das Hauptkraut im traditionellen italienischen Pesto?",
+    "correct": "Basilikum",
+    "wrong": [
+      "Oregano",
+      "Petersilie",
+      "Rosmarin"
+    ],
+    "hint": "Dieses aromatische grüne Kraut aus Genua wird mit Pinienkernen, Knoblauch, Parmesan und Olivenöl zur klassischen Sauce vermischt.",
+    "explanation": "Traditionelles Genoveser Pesto wird aus frischen Basilikumblättern, Pinienkernen, Knoblauch, Parmesan und Olivenöl hergestellt."
+  },
+  "q_foo_026": {
+    "question": "Welches Getreide wird im traditionellen schottischen Haferbrei verwendet?",
+    "correct": "Hafer",
+    "wrong": [
+      "Weizen",
+      "Gerste",
+      "Roggen"
+    ],
+    "hint": "Dieses Vollkorngetreide wird auch in Müsliriegeln und Overnight-Oats verwendet und ist bekannt für seine herzgesunde und cholesterinsenkende Wirkung.",
+    "explanation": "Hafer ist seit Jahrhunderten ein Grundnahrungsmittel der schottischen Küche."
+  },
+  "q_foo_027": {
+    "question": "Welche Frucht wird traditionell zur Weinherstellung verwendet?",
+    "correct": "Traube",
+    "wrong": [
+      "Apfel",
+      "Pflaume",
+      "Kirsche"
+    ],
+    "hint": "Die Regionen Bordeaux in Frankreich und Toskana in Italien sind weltweit berühmt für ihren Anbau, mit roten und weißen Sorten.",
+    "explanation": "Trauben sind die Hauptfrucht, die für die Weinherstellung verwendet wird."
   }
 }

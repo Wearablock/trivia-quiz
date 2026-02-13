@@ -178,50 +178,122 @@
   "q_nat_017": {
     "question": "Apa hewan darat terbesar?",
     "correct": "Gajah Afrika",
-    "wrong": ["Badak Putih", "Kuda Nil", "Jerapah"],
+    "wrong": [
+      "Badak Putih",
+      "Kuda Nil",
+      "Jerapah"
+    ],
     "hint": "Beratnya 6.000 kg",
     "explanation": "Tingginya 4 meter"
   },
   "q_nat_018": {
     "question": "Komodo dragon termasuk jenis hewan apa?",
     "correct": "Kadal",
-    "wrong": ["Buaya", "Ular", "Dinosaurus"],
+    "wrong": [
+      "Buaya",
+      "Ular",
+      "Dinosaurus"
+    ],
     "hint": "Yang terbesar dari jenisnya, ditemukan di Indonesia",
     "explanation": "Panjangnya 3 meter"
   },
   "q_nat_019": {
     "question": "Ikan tercepat di lautan adalah apa?",
     "correct": "Ikan layaran",
-    "wrong": ["Ikan todak", "Ikan marlin", "Ikan tuna"],
+    "wrong": [
+      "Ikan todak",
+      "Ikan marlin",
+      "Ikan tuna"
+    ],
     "hint": "Sirip punggung seperti layar",
     "explanation": "Kecepatannya 110 km/jam"
   },
   "q_nat_020": {
     "question": "Hewan apa yang memiliki kekuatan gigitan terkuat?",
     "correct": "Buaya air asin",
-    "wrong": ["Hiu", "Kuda nil", "Beruang"],
+    "wrong": [
+      "Hiu",
+      "Kuda nil",
+      "Beruang"
+    ],
     "hint": "Tersebar dari Asia Tenggara hingga Australia",
     "explanation": "Kekuatan gigitan 3.700 psi"
   },
   "q_nat_021": {
     "question": "Apa organisme hidup terbesar di Bumi berdasarkan luas?",
     "correct": "Jamur madu",
-    "wrong": ["Paus biru", "Pohon sequoia raksasa", "Great Barrier Reef"],
+    "wrong": [
+      "Paus biru",
+      "Pohon sequoia raksasa",
+      "Great Barrier Reef"
+    ],
     "hint": "Organisme ini menyebar di bawah tanah melalui jaringan filamen dan dapat menutupi ribuan hektar.",
     "explanation": "Jamur madu (Armillaria ostoyae) di Hutan Nasional Malheur, Oregon, menutupi area sekitar 2.385 acre (965 hektar) dan diperkirakan berusia lebih dari 2.400 tahun."
   },
   "q_nat_022": {
     "question": "Berapa persen air di Bumi yang merupakan air tawar?",
     "correct": "Sekitar 3%",
-    "wrong": ["Sekitar 10%", "Sekitar 25%", "Sekitar 50%"],
+    "wrong": [
+      "Sekitar 10%",
+      "Sekitar 25%",
+      "Sekitar 50%"
+    ],
     "hint": "Sebagian besar dari persentase kecil ini terkunci dalam gletser dan lapisan es.",
     "explanation": "Hanya sekitar 3% air di Bumi yang merupakan air tawar, dan dari jumlah itu, sekitar 69% terkunci dalam gletser dan lapisan es, sehingga kurang dari 1% yang mudah diakses."
   },
   "q_nat_023": {
     "question": "Hewan apa yang menghasilkan suara paling keras di dunia hewan?",
     "correct": "Paus sperma",
-    "wrong": ["Paus biru", "Monyet howler", "Udang pistol"],
+    "wrong": [
+      "Paus biru",
+      "Monyet howler",
+      "Udang pistol"
+    ],
     "hint": "Mamalia laut penyelam dalam ini menggunakan suara klik untuk ekolokasi.",
     "explanation": "Paus sperma menghasilkan suara klik yang dapat mencapai 230 desibel, menjadikannya hewan dengan suara paling keras di Bumi."
+  },
+  "q_nat_024": {
+    "question": "Hewan apa yang paling tinggi di dunia?",
+    "correct": "Jerapah",
+    "wrong": [
+      "Gajah",
+      "Moose",
+      "Burung unta"
+    ],
+    "hint": "Hewan Afrika ini memiliki lidah sepanjang 50 cm, 7 ruas tulang leher sama seperti manusia, dan pola bintik yang unik seperti sidik jari.",
+    "explanation": "Jerapah bisa mencapai tinggi 5,7 meter, menjadikannya hewan darat tertinggi."
+  },
+  "q_nat_025": {
+    "question": "Serangga penyerbuk apa yang paling penting bagi tanaman pangan dunia?",
+    "correct": "Lebah madu",
+    "wrong": [
+      "Kupu-kupu",
+      "Kepik",
+      "Semut"
+    ],
+    "hint": "Serangga sosial ini hidup di sarang dengan ratu, melakukan 'tarian goyang' untuk menunjukkan lokasi bunga, dan menghasilkan cairan emas yang manis.",
+    "explanation": "Lebah madu menyerbuki sekitar 80% tanaman berbunga."
+  },
+  "q_nat_026": {
+    "question": "Kucing besar terbesar di dunia adalah apa?",
+    "correct": "Harimau",
+    "wrong": [
+      "Singa",
+      "Jaguar",
+      "Macan tutul"
+    ],
+    "hint": "Subspesies Siberia adalah yang terbesar, dengan bulu oranye ikonik dan garis-garis hitam yang polanya unik untuk setiap individu.",
+    "explanation": "Harimau adalah kucing besar terbesar; harimau Siberia bisa berbobot hingga 300 kg."
+  },
+  "q_nat_027": {
+    "question": "Reptil apa yang terkenal dengan kemampuan berubah warna?",
+    "correct": "Bunglon",
+    "wrong": [
+      "Iguana",
+      "Tokek",
+      "Anole"
+    ],
+    "hint": "Makhluk lambat ini memiliki mata yang berputar secara independen, lidah proyektil lebih panjang dari tubuhnya, dan ekor pegang untuk berpegangan pada cabang.",
+    "explanation": "Bunglon berubah warna dengan menyesuaikan sel pigmen di kulitnya."
   }
 }

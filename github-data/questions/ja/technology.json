@@ -251,5 +251,38 @@
     ],
     "hint": "ジミー・ウェールズとラリー・サンガーがこの無料オンライン百科事典を作りました。",
     "explanation": "Wikipediaは2001年1月15日にジミー・ウェールズとラリー・サンガーによって開設されました。以来、史上最大の百科事典となっています。"
+  },
+  "q_tec_024": {
+    "question": "「VPN」は何の略ですか？",
+    "correct": "Virtual Private Network（仮想プライベートネットワーク）",
+    "wrong": [
+      "Virtual Processing Node",
+      "Verified Protocol Network",
+      "Visual Private Node"
+    ],
+    "hint": "この技術はインターネット通信を暗号化するトンネルを作り、IPアドレスを隠し、他国のコンテンツにアクセスするためによく使われます。",
+    "explanation": "VPN（Virtual Private Network、仮想プライベートネットワーク）はインターネット上で安全な暗号化された接続を作成します。"
+  },
+  "q_tec_025": {
+    "question": "Amazonを創業したのは誰ですか？",
+    "correct": "ジェフ・ベゾス",
+    "wrong": [
+      "イーロン・マスク",
+      "マーク・ザッカーバーグ",
+      "ラリー・ペイジ"
+    ],
+    "hint": "彼は1994年にガレージでオンライン書店としてこのeコマース大手を創業し、後に宇宙企業ブルーオリジンも設立しました。",
+    "explanation": "ジェフ・ベゾスは1994年にワシントン州ベルビューでAmazonを創業しました。"
+  },
+  "q_tec_026": {
+    "question": "「CPU」は何の略ですか？",
+    "correct": "Central Processing Unit（中央演算処理装置）",
+    "wrong": [
+      "Computer Processing Unit",
+      "Central Program Utility",
+      "Core Processing Unit"
+    ],
+    "hint": "コンピュータの「頭脳」と呼ばれるこのチップは、デバイスが行うすべてのタスクの命令を実行し、計算を処理します。",
+    "explanation": "CPU（Central Processing Unit、中央演算処理装置）はコンピュータの命令を実行する主要部品です。"
   }
 }

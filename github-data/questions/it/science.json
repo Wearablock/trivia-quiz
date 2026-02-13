@@ -233,22 +233,78 @@
   "q_sci_021": {
     "question": "Qual è l'organo più grande del corpo umano?",
     "correct": "La pelle",
-    "wrong": ["Fegato", "Cervello", "Polmoni"],
+    "wrong": [
+      "Fegato",
+      "Cervello",
+      "Polmoni"
+    ],
     "hint": "Questo organo ricopre tutto il corpo e funge da barriera protettiva.",
     "explanation": "La pelle copre tra 1,5 e 2 metri quadrati e pesa circa 3,6 kg."
   },
   "q_sci_022": {
     "question": "Quale pianeta del nostro sistema solare ha la gravità più forte?",
     "correct": "Giove",
-    "wrong": ["Saturno", "Nettuno", "Terra"],
+    "wrong": [
+      "Saturno",
+      "Nettuno",
+      "Terra"
+    ],
     "hint": "Questo gigante gassoso è il pianeta più grande del sistema solare.",
     "explanation": "Giove ha la gravità più forte, circa 24,79 m/s²."
   },
   "q_sci_023": {
     "question": "Qual è l'elemento naturale più raro della crosta terrestre?",
     "correct": "Astato",
-    "wrong": ["Francio", "Plutonio", "Radio"],
+    "wrong": [
+      "Francio",
+      "Plutonio",
+      "Radio"
+    ],
     "hint": "Questo alogeno radioattivo ha un'emivita di sole 8 ore circa.",
     "explanation": "Si stima che esistano meno di 30 grammi di astato nell'intera crosta terrestre."
+  },
+  "q_sci_024": {
+    "question": "Qual è il simbolo chimico dell'argento?",
+    "correct": "Ag",
+    "wrong": [
+      "Si",
+      "Pt",
+      "Au"
+    ],
+    "hint": "Viene dal latino 'argentum', come il nome del paese Argentina, ed è un metallo prezioso usato in gioielleria ed elettronica.",
+    "explanation": "Il simbolo chimico dell'argento è Ag, dal latino 'argentum'."
+  },
+  "q_sci_025": {
+    "question": "Quanti cromosomi ha una cellula umana normale?",
+    "correct": "46",
+    "wrong": [
+      "23",
+      "44",
+      "48"
+    ],
+    "hint": "Sono organizzati in 23 coppie: 22 coppie autosomiche più una coppia di cromosomi sessuali (XX o XY).",
+    "explanation": "Le cellule umane contengono 46 cromosomi organizzati in 23 coppie."
+  },
+  "q_sci_026": {
+    "question": "Quale forza fondamentale mantiene i pianeti in orbita attorno al Sole?",
+    "correct": "La gravità",
+    "wrong": [
+      "Il magnetismo",
+      "La forza nucleare forte",
+      "La forza centrifuga"
+    ],
+    "hint": "Isaac Newton descrisse questa forza dopo aver osservato la caduta di una mela; attira due corpi con massa l'uno verso l'altro.",
+    "explanation": "La gravità è la forza che mantiene i pianeti in orbita attorno al Sole."
+  },
+  "q_sci_027": {
+    "question": "Quale pianeta del nostro sistema solare ha la temperatura superficiale più alta?",
+    "correct": "Venere",
+    "wrong": [
+      "Mercurio",
+      "Marte",
+      "Giove"
+    ],
+    "hint": "Pur non essendo il più vicino al Sole, la sua densa atmosfera di CO₂ crea un effetto serra estremo di 465°C, e prende il nome dalla dea romana dell'amore.",
+    "explanation": "Venere ha una temperatura superficiale di circa 465°C a causa del suo intenso effetto serra."
   }
 }

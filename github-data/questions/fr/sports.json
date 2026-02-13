@@ -178,50 +178,122 @@
   "q_spo_017": {
     "question": "Dans quel sport les équipes se disputent-elles la Coupe Stanley ?",
     "correct": "Hockey sur glace",
-    "wrong": ["Basketball", "Baseball", "Football américain"],
+    "wrong": [
+      "Basketball",
+      "Baseball",
+      "Football américain"
+    ],
     "hint": "Offerte par le gouverneur général du Canada en 1892.",
     "explanation": "Trophée du championnat de la LNH."
   },
   "q_spo_018": {
     "question": "Quel pays a remporté le plus de médailles d'or olympiques ?",
     "correct": "États-Unis",
-    "wrong": ["Union soviétique", "Chine", "Grande-Bretagne"],
+    "wrong": [
+      "Union soviétique",
+      "Chine",
+      "Grande-Bretagne"
+    ],
     "hint": "A accueilli les Jeux olympiques d'été quatre fois.",
     "explanation": "Plus de 1 000 médailles d'or."
   },
   "q_spo_019": {
     "question": "Combien de points vaut un touchdown ?",
     "correct": "6",
-    "wrong": ["3", "5", "7"],
+    "wrong": [
+      "3",
+      "5",
+      "7"
+    ],
     "hint": "On peut tenter un point supplémentaire après.",
     "explanation": "6 points plus la transformation."
   },
   "q_spo_020": {
     "question": "Quel pays a accueilli la première Coupe du Monde FIFA en 1930 ?",
     "correct": "Uruguay",
-    "wrong": ["Brésil", "Italie", "France"],
+    "wrong": [
+      "Brésil",
+      "Italie",
+      "France"
+    ],
     "hint": "Il a aussi remporté le tournoi.",
     "explanation": "A battu l'Argentine 4-2."
   },
   "q_spo_021": {
     "question": "Quel est le diamètre d'un panier de basketball standard en pouces ?",
     "correct": "18 pouces",
-    "wrong": ["16 pouces", "20 pouces", "22 pouces"],
+    "wrong": [
+      "16 pouces",
+      "20 pouces",
+      "22 pouces"
+    ],
     "hint": "L'arceau est à peine plus de deux fois le diamètre du ballon.",
     "explanation": "18 pouces (46 cm)."
   },
   "q_spo_022": {
     "question": "Quel pays a remporté la première Coupe du monde de rugby en 1987 ?",
     "correct": "Nouvelle-Zélande",
-    "wrong": ["Australie", "Afrique du Sud", "Angleterre"],
+    "wrong": [
+      "Australie",
+      "Afrique du Sud",
+      "Angleterre"
+    ],
     "hint": "Connus sous le nom des All Blacks.",
     "explanation": "Ils ont battu la France 29-9."
   },
   "q_spo_023": {
     "question": "Quel est le break maximum au snooker ?",
     "correct": "147",
-    "wrong": ["155", "170", "180"],
+    "wrong": [
+      "155",
+      "170",
+      "180"
+    ],
     "hint": "Il faut empocher les 15 rouges avec les noires, puis les six couleurs.",
     "explanation": "Obtenu en empochant 15 rouges avec des noires puis les six couleurs dans l'ordre."
+  },
+  "q_spo_024": {
+    "question": "Dans quel pays le judo a-t-il été créé ?",
+    "correct": "Japon",
+    "wrong": [
+      "Chine",
+      "Corée du Sud",
+      "Brésil"
+    ],
+    "hint": "Créé par Jigoro Kano en 1882, son nom signifie « la voie de la souplesse » et c'est un sport olympique depuis 1964.",
+    "explanation": "Le judo a été créé par Jigoro Kano au Japon en 1882."
+  },
+  "q_spo_025": {
+    "question": "Quel art martial célèbre pour ses coups de pied hauts est originaire de Corée et est devenu sport olympique en 2000 ?",
+    "correct": "Taekwondo",
+    "wrong": [
+      "Karaté",
+      "Kung-fu",
+      "Judo"
+    ],
+    "hint": "Son nom signifie « la voie du pied et du poing » ; la Corée du Sud détient le plus grand nombre de médailles d'or olympiques dans cette discipline.",
+    "explanation": "Le taekwondo est né en Corée dans les années 1940-50."
+  },
+  "q_spo_026": {
+    "question": "Quel sport de raquette utilise un volant plutôt qu'une balle ?",
+    "correct": "Badminton",
+    "wrong": [
+      "Squash",
+      "Tennis de table",
+      "Racquetball"
+    ],
+    "hint": "Il tire son nom d'un manoir anglais et c'est le sport de raquette le plus rapide du monde.",
+    "explanation": "Le badminton tire son nom de Badminton House dans le Gloucestershire, en Angleterre."
+  },
+  "q_spo_027": {
+    "question": "Lequel des quatre tournois du Grand Chelem de tennis est le seul à se jouer sur gazon ?",
+    "correct": "Wimbledon",
+    "wrong": [
+      "Open d'Australie",
+      "US Open",
+      "Roland-Garros"
+    ],
+    "hint": "Il se tient chaque année à Londres et est célèbre pour son strict code vestimentaire blanc et sa tradition de fraises à la crème.",
+    "explanation": "Wimbledon se tient depuis 1877 au All England Club de Londres."
   }
 }

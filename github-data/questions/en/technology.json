@@ -223,5 +223,26 @@
     "wrong": ["1998", "2003", "2005"],
     "hint": "Jimmy Wales and Larry Sanger created this free online encyclopedia.",
     "explanation": "Wikipedia was launched on January 15, 2001, by Jimmy Wales and Larry Sanger. It has since become the largest encyclopedia ever compiled."
+  },
+  "q_tec_024": {
+    "question": "What does 'VPN' stand for?",
+    "correct": "Virtual Private Network",
+    "wrong": ["Virtual Processing Node", "Verified Protocol Network", "Visual Private Node"],
+    "hint": "This technology creates an encrypted tunnel for your internet traffic, hiding your IP address and often used to access content from other countries.",
+    "explanation": "A VPN (Virtual Private Network) creates a secure, encrypted connection over the internet, protecting user privacy and allowing access to region-restricted content."
+  },
+  "q_tec_025": {
+    "question": "Who founded Amazon?",
+    "correct": "Jeff Bezos",
+    "wrong": ["Elon Musk", "Mark Zuckerberg", "Larry Page"],
+    "hint": "He started this e-commerce giant in his garage in 1994 as an online bookstore, and later founded the space company Blue Origin.",
+    "explanation": "Jeff Bezos founded Amazon in 1994 in Bellevue, Washington. Originally an online bookstore, Amazon has grown into the world's largest e-commerce and cloud computing company."
+  },
+  "q_tec_026": {
+    "question": "What does 'CPU' stand for?",
+    "correct": "Central Processing Unit",
+    "wrong": ["Computer Processing Unit", "Central Program Utility", "Core Processing Unit"],
+    "hint": "Often called the 'brain' of a computer, this chip executes instructions and performs calculations for every task your device handles.",
+    "explanation": "The CPU (Central Processing Unit) is the primary component of a computer that executes instructions. Intel and AMD are the two largest CPU manufacturers for personal computers."
   }
 }

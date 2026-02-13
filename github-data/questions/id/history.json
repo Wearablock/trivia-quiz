@@ -178,50 +178,122 @@
   "q_his_017": {
     "question": "Siapa wanita pertama yang terbang solo melintasi Atlantik?",
     "correct": "Amelia Earhart",
-    "wrong": ["Harriet Quimby", "Bessie Coleman", "Jacqueline Cochran"],
+    "wrong": [
+      "Harriet Quimby",
+      "Bessie Coleman",
+      "Jacqueline Cochran"
+    ],
     "hint": "Menghilang tahun 1937",
     "explanation": "Mei 1932"
   },
   "q_his_018": {
     "question": "Pada tahun berapa Revolusi Rusia dimulai?",
     "correct": "1917",
-    "wrong": ["1905", "1914", "1920"],
+    "wrong": [
+      "1905",
+      "1914",
+      "1920"
+    ],
     "hint": "Penggulingan Tsar",
     "explanation": "Revolusi Februari dan Oktober"
   },
   "q_his_019": {
     "question": "Peradaban mana yang membangun Machu Picchu?",
     "correct": "Kekaisaran Inka",
-    "wrong": ["Kekaisaran Aztec", "Peradaban Maya", "Peradaban Olmec"],
+    "wrong": [
+      "Kekaisaran Aztec",
+      "Peradaban Maya",
+      "Peradaban Olmec"
+    ],
     "hint": "Pegunungan Andes, Peru",
     "explanation": "Dibangun pada abad ke-15"
   },
   "q_his_020": {
     "question": "Siapa yang menemukan mesin cetak huruf bergerak di Eropa?",
     "correct": "Johannes Gutenberg",
-    "wrong": ["William Caxton", "Aldus Manutius", "Bi Sheng"],
+    "wrong": [
+      "William Caxton",
+      "Aldus Manutius",
+      "Bi Sheng"
+    ],
     "hint": "Tahun 1440, Jerman",
     "explanation": "Produksi buku secara massal"
   },
   "q_his_021": {
     "question": "Kekaisaran mana yang terbesar dalam sejarah berdasarkan luas daratan?",
     "correct": "Kerajaan Britania",
-    "wrong": ["Kekaisaran Mongol", "Kekaisaran Romawi", "Kekaisaran Rusia"],
+    "wrong": [
+      "Kekaisaran Mongol",
+      "Kekaisaran Romawi",
+      "Kekaisaran Rusia"
+    ],
     "hint": "Dikatakan bahwa 'matahari tidak pernah terbenam' di kekaisaran ini.",
     "explanation": "Kerajaan Britania pada puncaknya tahun 1920 mencakup sekitar 35,5 juta km², kira-kira seperempat dari total luas daratan dunia."
   },
   "q_his_022": {
     "question": "Pada tahun berapa Amerika Serikat mendeklarasikan kemerdekaan?",
     "correct": "1776",
-    "wrong": ["1783", "1774", "1781"],
+    "wrong": [
+      "1783",
+      "1774",
+      "1781"
+    ],
     "hint": "Deklarasi tersebut diadopsi pada tanggal 4 Juli, yang kini dirayakan sebagai hari nasional.",
     "explanation": "Deklarasi Kemerdekaan Amerika Serikat diadopsi pada 4 Juli 1776, menyatakan kebebasan dari kekuasaan Britania."
   },
   "q_his_023": {
     "question": "Siapa kaisar pertama Roma?",
     "correct": "Augustus",
-    "wrong": ["Julius Caesar", "Nero", "Tiberius"],
+    "wrong": [
+      "Julius Caesar",
+      "Nero",
+      "Tiberius"
+    ],
     "hint": "Lahir dengan nama Oktavianus, ia adalah pewaris angkat Julius Caesar.",
     "explanation": "Augustus (lahir Gaius Octavius) menjadi Kaisar Romawi pertama pada 27 SM dan memerintah hingga 14 M, memulai era Pax Romana."
+  },
+  "q_his_024": {
+    "question": "Siapa yang memimpin pelayaran keliling dunia pertama pada tahun 1519?",
+    "correct": "Ferdinand Magellan",
+    "wrong": [
+      "Christopher Columbus",
+      "Vasco da Gama",
+      "Francis Drake"
+    ],
+    "hint": "Penjelajah Portugis yang mengabdi untuk Spanyol ini berangkat dengan lima kapal; meski ia tewas di Filipina, kru-nya menyelesaikan perjalanan.",
+    "explanation": "Ferdinand Magellan memulai pelayaran keliling dunia pertama pada 1519; Juan Sebastián Elcano menyelesaikannya pada 1522."
+  },
+  "q_his_025": {
+    "question": "Siapa yang memimpin gerakan kemerdekaan India melalui perlawanan tanpa kekerasan?",
+    "correct": "Mahatma Gandhi",
+    "wrong": [
+      "Jawaharlal Nehru",
+      "Subhas Chandra Bose",
+      "Bhagat Singh"
+    ],
+    "hint": "Dikenal sebagai 'Bapak Bangsa' di India, Pawai Garamnya tahun 1930 menantang kekuasaan kolonial Inggris secara damai.",
+    "explanation": "Mahatma Gandhi memimpin kemerdekaan India melalui pembangkangan sipil tanpa kekerasan."
+  },
+  "q_his_026": {
+    "question": "Peradaban kuno mana yang menemukan tulisan sekitar 3400 SM?",
+    "correct": "Bangsa Sumeria",
+    "wrong": [
+      "Bangsa Mesir",
+      "Bangsa Yunani",
+      "Bangsa Tiongkok"
+    ],
+    "hint": "Peradaban Mesopotamia (Irak modern) ini menciptakan tulisan paku dengan menekan alang-alang pada lempengan tanah liat.",
+    "explanation": "Bangsa Sumeria di Mesopotamia mengembangkan tulisan paku sekitar 3400 SM."
+  },
+  "q_his_027": {
+    "question": "Kaisar Romawi mana yang memerintahkan pembangunan tembok pertahanan di utara Britannia?",
+    "correct": "Hadrian",
+    "wrong": [
+      "Augustus",
+      "Nero",
+      "Trajan"
+    ],
+    "hint": "Tembok sepanjang 118 km ini melintasi utara Inggris dari pantai ke pantai, dinamai kaisar yang memerintahkan pembangunannya pada 122 M.",
+    "explanation": "Tembok Hadrian dibangun mulai 122 M untuk melindungi Britannia Romawi."
   }
 }

@@ -222,22 +222,78 @@
   "q_spo_021": {
     "question": "Qual è il diametro di un canestro da basket standard in pollici?",
     "correct": "18 pollici",
-    "wrong": ["16 pollici", "20 pollici", "22 pollici"],
+    "wrong": [
+      "16 pollici",
+      "20 pollici",
+      "22 pollici"
+    ],
     "hint": "Il cerchio è poco più del doppio del diametro del pallone.",
     "explanation": "18 pollici (46 cm)."
   },
   "q_spo_022": {
     "question": "Quale paese vinse la prima Coppa del Mondo di rugby nel 1987?",
     "correct": "Nuova Zelanda",
-    "wrong": ["Australia", "Sudafrica", "Inghilterra"],
+    "wrong": [
+      "Australia",
+      "Sudafrica",
+      "Inghilterra"
+    ],
     "hint": "Conosciuti come gli All Blacks.",
     "explanation": "Sconfissero la Francia 29-9."
   },
   "q_spo_023": {
     "question": "Qual è il punteggio massimo in una serie nello snooker?",
     "correct": "147",
-    "wrong": ["155", "170", "180"],
+    "wrong": [
+      "155",
+      "170",
+      "180"
+    ],
     "hint": "Richiede di imbuccare tutte le 15 rosse con le nere, poi i sei colori.",
     "explanation": "Si ottiene imbucando 15 rosse con nere e poi i sei colori in sequenza."
+  },
+  "q_spo_024": {
+    "question": "In quale paese è nato il judo?",
+    "correct": "Giappone",
+    "wrong": [
+      "Cina",
+      "Corea del Sud",
+      "Brasile"
+    ],
+    "hint": "Creato da Jigoro Kano nel 1882, il suo nome significa 'via della cedevolezza' ed è sport olimpico dal 1964.",
+    "explanation": "Il judo fu creato da Jigoro Kano in Giappone nel 1882."
+  },
+  "q_spo_025": {
+    "question": "Quale arte marziale famosa per i calci alti ha avuto origine in Corea ed è diventata sport olimpico nel 2000?",
+    "correct": "Taekwondo",
+    "wrong": [
+      "Karate",
+      "Kung fu",
+      "Judo"
+    ],
+    "hint": "Il suo nome significa 'via del piede e del pugno'; la Corea del Sud ha il maggior numero di medaglie d'oro olimpiche in questa disciplina.",
+    "explanation": "Il taekwondo ha avuto origine in Corea negli anni 1940-50."
+  },
+  "q_spo_026": {
+    "question": "Quale sport con racchetta usa un volano anziché una palla?",
+    "correct": "Badminton",
+    "wrong": [
+      "Squash",
+      "Tennis da tavolo",
+      "Racquetball"
+    ],
+    "hint": "Prende il nome da una tenuta inglese ed è lo sport con racchetta più veloce del mondo.",
+    "explanation": "Il badminton prende il nome da Badminton House nel Gloucestershire, in Inghilterra."
+  },
+  "q_spo_027": {
+    "question": "Quale dei quattro tornei del Grande Slam di tennis è l'unico che si gioca sull'erba?",
+    "correct": "Wimbledon",
+    "wrong": [
+      "Australian Open",
+      "US Open",
+      "Roland Garros"
+    ],
+    "hint": "Si tiene ogni anno a Londra ed è famoso per il rigido codice di abbigliamento bianco e la tradizione delle fragole con panna.",
+    "explanation": "Wimbledon si tiene dal 1877 all'All England Club di Londra."
   }
 }

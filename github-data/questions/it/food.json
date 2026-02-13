@@ -222,29 +222,78 @@
   "q_foo_021": {
     "question": "Da quale paese ha origine il cioccolato?",
     "correct": "Messico",
-    "wrong": ["Belgio", "Svizzera", "Ghana"],
+    "wrong": [
+      "Belgio",
+      "Svizzera",
+      "Ghana"
+    ],
     "hint": "Aztechi e Maya lo consumavano come bevanda amara.",
     "explanation": "Ha origine in Mesoamerica."
   },
   "q_foo_022": {
     "question": "Quale frutto è botanicamente classificato come una bacca?",
     "correct": "Banana",
-    "wrong": ["Fragola", "Lampone", "Mora"],
+    "wrong": [
+      "Fragola",
+      "Lampone",
+      "Mora"
+    ],
     "hint": "Nonostante la sua forma e la sua buccia, questo frutto tropicale soddisfa tutti i criteri botanici di una bacca.",
     "explanation": "Si sviluppa da un singolo ovario."
   },
   "q_foo_023": {
     "question": "Quale paese è il maggior consumatore di tè pro capite?",
     "correct": "Turchia",
-    "wrong": ["Cina", "India", "Regno Unito"],
+    "wrong": [
+      "Cina",
+      "India",
+      "Regno Unito"
+    ],
     "hint": "Questo paese tra Europa e Asia serve il tè in bicchieri a forma di tulipano.",
     "explanation": "Circa 3 kg a persona all'anno."
   },
   "q_foo_024": {
     "question": "Che tipo di alimento è il 'naan'?",
     "correct": "Pane",
-    "wrong": ["Riso", "Curry", "Dolce"],
+    "wrong": [
+      "Riso",
+      "Curry",
+      "Dolce"
+    ],
     "hint": "È un pane piatto cotto nel forno tandoor.",
     "explanation": "Pane piatto lievitato tipico della cucina dell'Asia meridionale e centrale."
+  },
+  "q_foo_025": {
+    "question": "Qual è l'erba principale del pesto tradizionale italiano?",
+    "correct": "Basilico",
+    "wrong": [
+      "Origano",
+      "Prezzemolo",
+      "Rosmarino"
+    ],
+    "hint": "Questa aromatica erba verde di Genova viene mescolata con pinoli, aglio, parmigiano e olio d'oliva per preparare la salsa classica.",
+    "explanation": "Il pesto genovese tradizionale è fatto con foglie fresche di basilico, pinoli, aglio, parmigiano e olio d'oliva."
+  },
+  "q_foo_026": {
+    "question": "Quale cereale viene usato nel porridge tradizionale scozzese?",
+    "correct": "Avena",
+    "wrong": [
+      "Grano",
+      "Orzo",
+      "Segale"
+    ],
+    "hint": "Questo cereale integrale viene usato anche nelle barrette di granola e nelle colazioni overnight, noto per i benefici al cuore e la riduzione del colesterolo.",
+    "explanation": "L'avena è un alimento base della cucina scozzese da secoli."
+  },
+  "q_foo_027": {
+    "question": "Quale frutto viene tradizionalmente usato per fare il vino?",
+    "correct": "Uva",
+    "wrong": [
+      "Mela",
+      "Prugna",
+      "Ciliegia"
+    ],
+    "hint": "Le regioni di Bordeaux in Francia e della Toscana in Italia sono famose in tutto il mondo per la sua coltivazione, con varietà rosse e bianche.",
+    "explanation": "L'uva è il frutto principale utilizzato per la produzione del vino."
   }
 }

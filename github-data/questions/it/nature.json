@@ -222,22 +222,78 @@
   "q_nat_021": {
     "question": "Qual è il più grande organismo vivente sulla Terra per superficie?",
     "correct": "Armillaria",
-    "wrong": ["Balenottera azzurra", "Sequoia gigante", "Grande Barriera Corallina"],
+    "wrong": [
+      "Balenottera azzurra",
+      "Sequoia gigante",
+      "Grande Barriera Corallina"
+    ],
     "hint": "Si espande nel sottosuolo tramite filamenti e può coprire migliaia di acri.",
     "explanation": "In Oregon copre 965 ettari e ha più di 2.400 anni."
   },
   "q_nat_022": {
     "question": "Quale percentuale dell'acqua terrestre è acqua dolce?",
     "correct": "Circa il 3%",
-    "wrong": ["Circa il 10%", "Circa il 25%", "Circa il 50%"],
+    "wrong": [
+      "Circa il 10%",
+      "Circa il 25%",
+      "Circa il 50%"
+    ],
     "hint": "La maggior parte è intrappolata nei ghiacciai e nelle calotte polari.",
     "explanation": "Solo il 3% dell'acqua terrestre è dolce, di cui il 69% è nei ghiacciai."
   },
   "q_nat_023": {
     "question": "Quale animale produce il suono più forte del regno animale?",
     "correct": "Capodoglio",
-    "wrong": ["Balenottera azzurra", "Scimmia urlatrice", "Gambero pistola"],
+    "wrong": [
+      "Balenottera azzurra",
+      "Scimmia urlatrice",
+      "Gambero pistola"
+    ],
     "hint": "Mammifero che si immerge in profondità e usa clic per l'ecolocalizzazione.",
     "explanation": "I clic del capodoglio raggiungono i 230 decibel."
+  },
+  "q_nat_024": {
+    "question": "Qual è l'animale più alto del mondo?",
+    "correct": "La giraffa",
+    "wrong": [
+      "L'elefante",
+      "L'alce",
+      "Lo struzzo"
+    ],
+    "hint": "Questo animale africano ha una lingua di 50 cm, le stesse 7 vertebre cervicali degli umani e un disegno di macchie unico come un'impronta digitale.",
+    "explanation": "Le giraffe possono raggiungere i 5,7 metri di altezza, rendendole l'animale terrestre più alto."
+  },
+  "q_nat_025": {
+    "question": "Qual è l'insetto impollinatore più importante per le colture alimentari del mondo?",
+    "correct": "L'ape mellifera",
+    "wrong": [
+      "La farfalla",
+      "La coccinella",
+      "La formica"
+    ],
+    "hint": "Questo insetto sociale vive in alveari con una regina, esegue la 'danza dell'addome' per indicare la posizione dei fiori e produce un liquido dorato e dolce.",
+    "explanation": "Le api mellifere impollinano circa l'80% delle piante da fiore."
+  },
+  "q_nat_026": {
+    "question": "Qual è il più grande felino del mondo?",
+    "correct": "La tigre",
+    "wrong": [
+      "Il leone",
+      "Il giaguaro",
+      "Il leopardo"
+    ],
+    "hint": "La sottospecie siberiana è la più grande, con il suo iconico manto arancione e strisce nere il cui disegno è unico per ogni individuo.",
+    "explanation": "La tigre è il più grande felino; la tigre siberiana può pesare fino a 300 kg."
+  },
+  "q_nat_027": {
+    "question": "Quale rettile è famoso per la sua capacità di cambiare colore?",
+    "correct": "Il camaleonte",
+    "wrong": [
+      "L'iguana",
+      "Il geco",
+      "L'anolide"
+    ],
+    "hint": "Questa creatura dal movimento lento ha occhi che ruotano indipendentemente, una lingua proiettile più lunga del suo corpo e una coda prensile per aggrapparsi ai rami.",
+    "explanation": "I camaleonti cambiano colore regolando le cellule pigmentarie della loro pelle."
   }
 }

@@ -178,50 +178,122 @@
   "q_geo_016": {
     "question": "Đảo lớn nhất thế giới là đảo nào?",
     "correct": "Greenland",
-    "wrong": ["Borneo", "Madagascar", "New Guinea"],
+    "wrong": [
+      "Borneo",
+      "Madagascar",
+      "New Guinea"
+    ],
     "hint": "Lãnh thổ tự trị của Đan Mạch",
     "explanation": "Diện tích 2,166 triệu km²"
   },
   "q_geo_017": {
     "question": "Hồ sâu nhất thế giới là hồ nào?",
     "correct": "Hồ Baikal",
-    "wrong": ["Hồ Tanganyika", "Hồ Malawi", "Hồ Crater"],
+    "wrong": [
+      "Hồ Tanganyika",
+      "Hồ Malawi",
+      "Hồ Crater"
+    ],
     "hint": "Nằm ở Siberia, Nga",
     "explanation": "Sâu 1.642 mét"
   },
   "q_geo_018": {
     "question": "Đại dương nhỏ nhất thế giới là gì?",
     "correct": "Bắc Băng Dương",
-    "wrong": ["Ấn Độ Dương", "Nam Đại Dương", "Đại Tây Dương"],
+    "wrong": [
+      "Ấn Độ Dương",
+      "Nam Đại Dương",
+      "Đại Tây Dương"
+    ],
     "hint": "Bao quanh Bắc Cực, phủ băng biển",
     "explanation": "Diện tích 14,06 triệu km²"
   },
   "q_geo_019": {
     "question": "Quốc gia châu Phi nào có diện tích đất lớn nhất?",
     "correct": "Algeria",
-    "wrong": ["Cộng hòa Dân chủ Congo", "Libya", "Nigeria"],
+    "wrong": [
+      "Cộng hòa Dân chủ Congo",
+      "Libya",
+      "Nigeria"
+    ],
     "hint": "Giáp Địa Trung Hải và sa mạc Sahara",
     "explanation": "Diện tích 2,38 triệu km²"
   },
   "q_geo_020": {
     "question": "Sông nào dài nhất châu Âu?",
     "correct": "Sông Volga",
-    "wrong": ["Sông Danube", "Sông Rhine", "Sông Elbe"],
+    "wrong": [
+      "Sông Danube",
+      "Sông Rhine",
+      "Sông Elbe"
+    ],
     "hint": "Con sông này chảy hoàn toàn trong lãnh thổ Nga và đổ ra biển Caspi.",
     "explanation": "Sông Volga dài khoảng 3.530 km, là con sông dài nhất châu Âu. Nó chảy qua miền trung nước Nga ra biển Caspi."
   },
   "q_geo_021": {
     "question": "Quốc gia nào có nhiều đảo nhất thế giới?",
     "correct": "Thụy Điển",
-    "wrong": ["Indonesia", "Philippines", "Na Uy"],
+    "wrong": [
+      "Indonesia",
+      "Philippines",
+      "Na Uy"
+    ],
     "hint": "Quốc gia Bắc Âu này có hơn 267.000 hòn đảo, phần lớn nhỏ và không có người ở.",
     "explanation": "Thụy Điển có khoảng 267.570 hòn đảo, nhiều hơn bất kỳ quốc gia nào, dù phần lớn rất nhỏ và không có người sinh sống."
   },
   "q_geo_022": {
     "question": "Thủ đô của Brazil là gì?",
     "correct": "Brasília",
-    "wrong": ["Rio de Janeiro", "São Paulo", "Salvador"],
+    "wrong": [
+      "Rio de Janeiro",
+      "São Paulo",
+      "Salvador"
+    ],
     "hint": "Thành phố này được xây dựng có chủ đích, do kiến trúc sư Oscar Niemeyer và nhà quy hoạch đô thị Lúcio Costa thiết kế.",
     "explanation": "Brasília trở thành thủ đô Brazil vào năm 1960, thay thế Rio de Janeiro. Thành phố được quy hoạch và xây dựng từ đầu chỉ trong 41 tháng."
+  },
+  "q_geo_023": {
+    "question": "Thác Angel, thác nước cao nhất thế giới, nằm ở quốc gia nào?",
+    "correct": "Venezuela",
+    "wrong": [
+      "Brazil",
+      "Colombia",
+      "Ecuador"
+    ],
+    "hint": "Thác nước trong rừng rậm Nam Mỹ này rơi từ độ cao 979 mét từ cao nguyên tepuy trong Vườn Quốc gia Canaima.",
+    "explanation": "Thác Angel ở Venezuela cao 979 mét và là thác nước liên tục cao nhất thế giới."
+  },
+  "q_geo_024": {
+    "question": "Quốc đảo nào được biết đến với tên gọi 'Xứ sở Mặt trời mọc'?",
+    "correct": "Nhật Bản",
+    "wrong": [
+      "Philippines",
+      "Indonesia",
+      "Đài Loan"
+    ],
+    "hint": "Tên nước này trong tiếng bản địa (日本) có nghĩa đen là 'nguồn gốc mặt trời', nổi tiếng với núi Phú Sĩ và hoa anh đào.",
+    "explanation": "Nhật Bản được gọi là 'Xứ sở Mặt trời mọc' vì nằm ở phía đông châu Á lục địa."
+  },
+  "q_geo_025": {
+    "question": "Quốc gia nào có diện tích đất lớn nhất thế giới?",
+    "correct": "Nga",
+    "wrong": [
+      "Canada",
+      "Trung Quốc",
+      "Hoa Kỳ"
+    ],
+    "hint": "Quốc gia này trải dài 11 múi giờ, từ Đông Âu đến Thái Bình Dương, và có hồ sâu nhất thế giới.",
+    "explanation": "Nga trải rộng hơn 17 triệu km², là quốc gia lớn nhất thế giới."
+  },
+  "q_geo_026": {
+    "question": "Con sông nào đã tạo ra Grand Canyon?",
+    "correct": "Sông Colorado",
+    "wrong": [
+      "Sông Missouri",
+      "Sông Columbia",
+      "Sông Yukon"
+    ],
+    "hint": "Con sông này chảy qua 7 bang miền tây Hoa Kỳ và đổ ra Vịnh California ở Mexico.",
+    "explanation": "Sông Colorado đã bào mòn tạo ra Grand Canyon qua hàng triệu năm."
   }
 }

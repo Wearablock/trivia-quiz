@@ -178,50 +178,122 @@
   "q_his_017": {
     "question": "Ai là người phụ nữ đầu tiên bay một mình qua Đại Tây Dương?",
     "correct": "Amelia Earhart",
-    "wrong": ["Harriet Quimby", "Bessie Coleman", "Jacqueline Cochran"],
+    "wrong": [
+      "Harriet Quimby",
+      "Bessie Coleman",
+      "Jacqueline Cochran"
+    ],
     "hint": "Mất tích năm 1937",
     "explanation": "Tháng 5 năm 1932"
   },
   "q_his_018": {
     "question": "Cách mạng Nga bắt đầu vào năm nào?",
     "correct": "1917",
-    "wrong": ["1905", "1914", "1920"],
+    "wrong": [
+      "1905",
+      "1914",
+      "1920"
+    ],
     "hint": "Lật đổ Sa hoàng",
     "explanation": "Cách mạng tháng Hai và tháng Mười"
   },
   "q_his_019": {
     "question": "Nền văn minh nào đã xây dựng Machu Picchu?",
     "correct": "Đế chế Inca",
-    "wrong": ["Đế chế Aztec", "Văn minh Maya", "Văn minh Olmec"],
+    "wrong": [
+      "Đế chế Aztec",
+      "Văn minh Maya",
+      "Văn minh Olmec"
+    ],
     "hint": "Dãy Andes, Peru",
     "explanation": "Xây dựng vào thế kỷ 15"
   },
   "q_his_020": {
     "question": "Ai đã phát minh ra máy in chữ rời ở châu Âu?",
     "correct": "Johannes Gutenberg",
-    "wrong": ["William Caxton", "Aldus Manutius", "Bi Sheng"],
+    "wrong": [
+      "William Caxton",
+      "Aldus Manutius",
+      "Bi Sheng"
+    ],
     "hint": "Năm 1440, Đức",
     "explanation": "Sản xuất sách hàng loạt"
   },
   "q_his_021": {
     "question": "Đế chế nào lớn nhất trong lịch sử xét về diện tích?",
     "correct": "Đế quốc Anh",
-    "wrong": ["Đế quốc Mông Cổ", "Đế quốc La Mã", "Đế quốc Nga"],
+    "wrong": [
+      "Đế quốc Mông Cổ",
+      "Đế quốc La Mã",
+      "Đế quốc Nga"
+    ],
     "hint": "Người ta nói rằng 'mặt trời không bao giờ lặn' trên đế chế này.",
     "explanation": "Đế quốc Anh ở đỉnh cao vào năm 1920 bao phủ khoảng 35,5 triệu km², chiếm khoảng một phần tư tổng diện tích đất trên thế giới."
   },
   "q_his_022": {
     "question": "Hoa Kỳ tuyên bố độc lập vào năm nào?",
     "correct": "1776",
-    "wrong": ["1783", "1774", "1781"],
+    "wrong": [
+      "1783",
+      "1774",
+      "1781"
+    ],
     "hint": "Bản tuyên ngôn được thông qua vào ngày 4 tháng 7, nay là ngày quốc khánh.",
     "explanation": "Tuyên ngôn Độc lập Hoa Kỳ được thông qua ngày 4 tháng 7 năm 1776, tuyên bố tự do khỏi sự cai trị của Anh."
   },
   "q_his_023": {
     "question": "Ai là hoàng đế đầu tiên của La Mã?",
     "correct": "Augustus",
-    "wrong": ["Julius Caesar", "Nero", "Tiberius"],
+    "wrong": [
+      "Julius Caesar",
+      "Nero",
+      "Tiberius"
+    ],
     "hint": "Sinh ra với tên Octavian, ông là con nuôi thừa kế của Julius Caesar.",
     "explanation": "Augustus (tên khai sinh Gaius Octavius) trở thành Hoàng đế La Mã đầu tiên vào năm 27 TCN và cai trị đến năm 14 SCN, mở đầu thời kỳ Pax Romana."
+  },
+  "q_his_024": {
+    "question": "Ai đã dẫn đầu chuyến đi vòng quanh thế giới đầu tiên vào năm 1519?",
+    "correct": "Ferdinand Magellan",
+    "wrong": [
+      "Christopher Columbus",
+      "Vasco da Gama",
+      "Francis Drake"
+    ],
+    "hint": "Nhà thám hiểm người Bồ Đào Nha phục vụ Tây Ban Nha này khởi hành với 5 con tàu; dù ông tử trận tại Philippines, thủy thủ đoàn đã hoàn thành chuyến đi.",
+    "explanation": "Ferdinand Magellan khởi đầu chuyến đi vòng quanh thế giới đầu tiên năm 1519; Juan Sebastián Elcano hoàn thành vào năm 1522."
+  },
+  "q_his_025": {
+    "question": "Ai đã lãnh đạo phong trào giành độc lập của Ấn Độ bằng kháng cự bất bạo động?",
+    "correct": "Mahatma Gandhi",
+    "wrong": [
+      "Jawaharlal Nehru",
+      "Subhas Chandra Bose",
+      "Bhagat Singh"
+    ],
+    "hint": "Được tôn xưng là 'Cha đẻ của dân tộc' ở Ấn Độ, cuộc Diễu hành Muối năm 1930 của ông đã thách thức ách cai trị thực dân Anh một cách hòa bình.",
+    "explanation": "Mahatma Gandhi đã lãnh đạo Ấn Độ giành độc lập thông qua bất tuân dân sự bất bạo động."
+  },
+  "q_his_026": {
+    "question": "Nền văn minh cổ đại nào đã phát minh ra chữ viết vào khoảng năm 3400 TCN?",
+    "correct": "Người Sumer",
+    "wrong": [
+      "Người Ai Cập",
+      "Người Hy Lạp",
+      "Người Trung Quốc"
+    ],
+    "hint": "Nền văn minh Lưỡng Hà (Iraq ngày nay) này đã tạo ra chữ hình nêm bằng cách ấn cây sậy lên các phiến đất sét.",
+    "explanation": "Người Sumer ở Lưỡng Hà đã phát triển chữ hình nêm vào khoảng năm 3400 TCN."
+  },
+  "q_his_027": {
+    "question": "Hoàng đế La Mã nào đã ra lệnh xây tường phòng thủ ở phía bắc xứ Britannia?",
+    "correct": "Hadrian",
+    "wrong": [
+      "Augustus",
+      "Nero",
+      "Trajan"
+    ],
+    "hint": "Bức tường dài 118 km này chạy ngang qua miền bắc nước Anh từ bờ biển này sang bờ biển kia, được đặt theo tên hoàng đế ra lệnh xây dựng năm 122 SCN.",
+    "explanation": "Tường thành Hadrian được xây dựng từ năm 122 SCN để bảo vệ xứ Britannia thuộc La Mã."
   }
 }

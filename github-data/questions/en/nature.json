@@ -223,5 +223,33 @@
     "wrong": ["Blue whale", "Howler monkey", "Pistol shrimp"],
     "hint": "This deep-diving marine mammal uses clicking sounds for echolocation.",
     "explanation": "Sperm whales produce clicking sounds that can reach up to 230 decibels, making them the loudest animals on Earth. They use these clicks for echolocation while hunting in deep waters."
+  },
+  "q_nat_024": {
+    "question": "What is the tallest animal in the world?",
+    "correct": "Giraffe",
+    "wrong": ["Elephant", "Moose", "Ostrich"],
+    "hint": "This African animal has a tongue up to 50 cm long, a neck with only 7 vertebrae (same as humans), and a unique spotted pattern like a fingerprint.",
+    "explanation": "Giraffes can reach heights of up to 5.7 meters, making them the tallest living terrestrial animals. Despite their long necks, they have the same number of neck vertebrae as humans."
+  },
+  "q_nat_025": {
+    "question": "Which insect is the most important pollinator of food crops worldwide?",
+    "correct": "Honeybee",
+    "wrong": ["Butterfly", "Ladybug", "Ant"],
+    "hint": "Living in hives with a queen, these social insects perform 'waggle dances' to tell each other where flowers are and produce a sweet golden liquid.",
+    "explanation": "Honeybees pollinate about 80% of flowering plants and one-third of the food we eat. A single colony can pollinate 300 million flowers per day."
+  },
+  "q_nat_026": {
+    "question": "What is the largest species of big cat in the world?",
+    "correct": "Tiger",
+    "wrong": ["Lion", "Jaguar", "Leopard"],
+    "hint": "The Siberian subspecies is the biggest, with distinctive orange fur and black stripes — no two individuals share the same pattern.",
+    "explanation": "The tiger is the largest big cat, with Siberian tigers weighing up to 300 kg. They are solitary hunters found across Asia, though all subspecies are endangered."
+  },
+  "q_nat_027": {
+    "question": "Which reptile is famous for its ability to change skin color?",
+    "correct": "Chameleon",
+    "wrong": ["Iguana", "Gecko", "Anole"],
+    "hint": "This slow-moving creature has eyes that rotate independently, a projectile tongue longer than its body, and a curling prehensile tail for gripping branches.",
+    "explanation": "Chameleons change color by adjusting special cells called chromatophores in their skin. They do this primarily for communication and temperature regulation, not just camouflage."
   }
 }

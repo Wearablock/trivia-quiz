@@ -178,50 +178,122 @@
   "q_geo_016": {
     "question": "Welche ist die größte Insel der Welt?",
     "correct": "Grönland",
-    "wrong": ["Borneo", "Madagaskar", "Neuguinea"],
+    "wrong": [
+      "Borneo",
+      "Madagaskar",
+      "Neuguinea"
+    ],
     "hint": "Autonomes Gebiet Dänemarks.",
     "explanation": "Die Fläche beträgt etwa 2,166 Millionen km²."
   },
   "q_geo_017": {
     "question": "Was ist der tiefste See der Welt?",
     "correct": "Baikalsee",
-    "wrong": ["Tanganjikasee", "Malawisee", "Crater Lake"],
+    "wrong": [
+      "Tanganjikasee",
+      "Malawisee",
+      "Crater Lake"
+    ],
     "hint": "Er liegt in Sibirien, Russland.",
     "explanation": "Er erreicht eine Tiefe von 1.642 Metern."
   },
   "q_geo_018": {
     "question": "Welcher ist der kleinste Ozean der Welt?",
     "correct": "Arktischer Ozean",
-    "wrong": ["Indischer Ozean", "Südlicher Ozean", "Atlantischer Ozean"],
+    "wrong": [
+      "Indischer Ozean",
+      "Südlicher Ozean",
+      "Atlantischer Ozean"
+    ],
     "hint": "Er umgibt den Nordpol.",
     "explanation": "Er bedeckt etwa 14,06 Millionen km²."
   },
   "q_geo_019": {
     "question": "Welches afrikanische Land hat die größte Landfläche?",
     "correct": "Algerien",
-    "wrong": ["DR Kongo", "Libyen", "Nigeria"],
+    "wrong": [
+      "DR Kongo",
+      "Libyen",
+      "Nigeria"
+    ],
     "hint": "Grenzt ans Mittelmeer, die Sahara bedeckt den Großteil des Landes.",
     "explanation": "Die Fläche beträgt etwa 2,38 Millionen km²."
   },
   "q_geo_020": {
     "question": "Welcher Fluss ist der längste in Europa?",
     "correct": "Wolga",
-    "wrong": ["Donau", "Rhein", "Elbe"],
+    "wrong": [
+      "Donau",
+      "Rhein",
+      "Elbe"
+    ],
     "hint": "Dieser Fluss fließt vollständig durch Russland und mündet ins Kaspische Meer.",
     "explanation": "Die Wolga ist mit etwa 3.530 km der längste Fluss Europas."
   },
   "q_geo_021": {
     "question": "Welches Land hat die meisten Inseln der Welt?",
     "correct": "Schweden",
-    "wrong": ["Indonesien", "Philippinen", "Norwegen"],
+    "wrong": [
+      "Indonesien",
+      "Philippinen",
+      "Norwegen"
+    ],
     "hint": "Dieses skandinavische Land besitzt über 267.000 Inseln.",
     "explanation": "Schweden hat ungefähr 267.570 Inseln."
   },
   "q_geo_022": {
     "question": "Was ist die Hauptstadt von Brasilien?",
     "correct": "Brasília",
-    "wrong": ["Rio de Janeiro", "São Paulo", "Salvador"],
+    "wrong": [
+      "Rio de Janeiro",
+      "São Paulo",
+      "Salvador"
+    ],
     "hint": "Eine Planstadt, die von Oscar Niemeyer entworfen wurde.",
     "explanation": "Brasília wurde 1960 zur Hauptstadt."
+  },
+  "q_geo_023": {
+    "question": "In welchem Land befindet sich der Salto Ángel, der höchste Wasserfall der Welt?",
+    "correct": "Venezuela",
+    "wrong": [
+      "Brasilien",
+      "Kolumbien",
+      "Ecuador"
+    ],
+    "hint": "Dieser Wasserfall im südamerikanischen Dschungel stürzt 979 Meter von einem Tafelberg namens Tepui im Nationalpark Canaima herab.",
+    "explanation": "Der Salto Ángel in Venezuela ist mit 979 Metern der höchste ununterbrochene Wasserfall der Welt."
+  },
+  "q_geo_024": {
+    "question": "Welcher Inselstaat ist als das ‚Land der aufgehenden Sonne' bekannt?",
+    "correct": "Japan",
+    "wrong": [
+      "Philippinen",
+      "Indonesien",
+      "Taiwan"
+    ],
+    "hint": "Der Name dieses Landes in seiner Landessprache (日本) bedeutet wörtlich ‚Ursprung der Sonne', und es ist berühmt für den Fuji und die Kirschblüte.",
+    "explanation": "Japan ist als das ‚Land der aufgehenden Sonne' bekannt, da es östlich des asiatischen Festlands liegt."
+  },
+  "q_geo_025": {
+    "question": "Welches Land hat die größte Landfläche der Welt?",
+    "correct": "Russland",
+    "wrong": [
+      "Kanada",
+      "China",
+      "Vereinigte Staaten"
+    ],
+    "hint": "Dieses Land erstreckt sich über 11 Zeitzonen, von Osteuropa bis zum Pazifischen Ozean, und beherbergt den tiefsten See der Welt.",
+    "explanation": "Russland erstreckt sich über mehr als 17 Millionen km² und ist das größte Land der Welt."
+  },
+  "q_geo_026": {
+    "question": "Welcher Fluss hat den Grand Canyon geschaffen?",
+    "correct": "Colorado River",
+    "wrong": [
+      "Missouri River",
+      "Columbia River",
+      "Yukon River"
+    ],
+    "hint": "Dieser Fluss durchfließt sieben Bundesstaaten im Westen der USA und mündet in den Golf von Kalifornien in Mexiko.",
+    "explanation": "Der Colorado River hat den Grand Canyon über Millionen Jahre durch Erosion geformt."
   }
 }

@@ -189,50 +189,111 @@
   "q_foo_018": {
     "question": "¿De qué país es originaria la pizza?",
     "correct": "Italia",
-    "wrong": ["Grecia", "Turquía", "Estados Unidos"],
+    "wrong": [
+      "Grecia",
+      "Turquía",
+      "Estados Unidos"
+    ],
     "hint": "Nápoles, siglo XVIII.",
     "explanation": "Pizza Margherita, 1889."
   },
   "q_foo_019": {
     "question": "¿De qué legumbre se hace el tofu?",
     "correct": "Soja",
-    "wrong": ["Haba de Lima", "Garbanzo", "Judía mungo"],
+    "wrong": [
+      "Haba de Lima",
+      "Garbanzo",
+      "Judía mungo"
+    ],
     "hint": "Salsa de soja, tempeh, miso.",
     "explanation": "Se originó en China hace 2.000 años."
   },
   "q_foo_020": {
     "question": "¿Qué país es el mayor productor de aceite de oliva?",
     "correct": "España",
-    "wrong": ["Italia", "Grecia", "Turquía"],
+    "wrong": [
+      "Italia",
+      "Grecia",
+      "Turquía"
+    ],
     "hint": "Casi la mitad del suministro mundial.",
     "explanation": "Región de Andalucía."
   },
   "q_foo_021": {
     "question": "¿De qué país es originario el chocolate?",
     "correct": "México",
-    "wrong": ["Bélgica", "Suiza", "Ghana"],
+    "wrong": [
+      "Bélgica",
+      "Suiza",
+      "Ghana"
+    ],
     "hint": "Los aztecas y los mayas lo consumían como una bebida amarga.",
     "explanation": "Se originó en Mesoamérica."
   },
   "q_foo_022": {
     "question": "¿Qué fruta está clasificada botánicamente como una baya?",
     "correct": "Plátano",
-    "wrong": ["Fresa", "Frambuesa", "Mora"],
+    "wrong": [
+      "Fresa",
+      "Frambuesa",
+      "Mora"
+    ],
     "hint": "A pesar de su forma y cáscara, cumple todos los criterios botánicos de una baya.",
     "explanation": "Se desarrolla a partir de un solo ovario."
   },
   "q_foo_023": {
     "question": "¿Qué país es el mayor consumidor de té per cápita?",
     "correct": "Turquía",
-    "wrong": ["China", "India", "Reino Unido"],
+    "wrong": [
+      "China",
+      "India",
+      "Reino Unido"
+    ],
     "hint": "Este país entre Europa y Asia sirve el té en vasos con forma de tulipán.",
     "explanation": "Aproximadamente 3 kg por persona al año."
   },
   "q_foo_024": {
     "question": "¿Qué tipo de alimento es el 'naan'?",
     "correct": "Pan",
-    "wrong": ["Arroz", "Curry", "Postre"],
+    "wrong": [
+      "Arroz",
+      "Curry",
+      "Postre"
+    ],
     "hint": "Es un pan plano que se hornea en un horno tandoor.",
     "explanation": "Pan plano con levadura popular en las cocinas del sur y centro de Asia."
+  },
+  "q_foo_025": {
+    "question": "¿Cuál es la hierba principal del pesto tradicional italiano?",
+    "correct": "Albahaca",
+    "wrong": [
+      "Orégano",
+      "Perejil",
+      "Romero"
+    ],
+    "hint": "Esta aromática hierba verde de Génova se mezcla con piñones, ajo, parmesano y aceite de oliva para hacer la clásica salsa.",
+    "explanation": "El pesto genovés tradicional se hace con hojas frescas de albahaca, piñones, ajo, parmesano y aceite de oliva."
+  },
+  "q_foo_026": {
+    "question": "¿Qué cereal se usa en las gachas de avena tradicionales escocesas?",
+    "correct": "Avena",
+    "wrong": [
+      "Trigo",
+      "Cebada",
+      "Centeno"
+    ],
+    "hint": "Este grano integral también se usa en barritas de granola y boles de desayuno overnight, conocido por ser bueno para el corazón y reducir el colesterol.",
+    "explanation": "La avena ha sido un alimento básico de la cocina escocesa durante siglos."
+  },
+  "q_foo_027": {
+    "question": "¿Qué fruta se usa tradicionalmente para hacer vino?",
+    "correct": "Uva",
+    "wrong": [
+      "Manzana",
+      "Ciruela",
+      "Cereza"
+    ],
+    "hint": "Las regiones de Burdeos en Francia y Toscana en Italia son mundialmente famosas por cultivarla, con variedades tintas y blancas.",
+    "explanation": "Las uvas son la fruta principal utilizada para la elaboración del vino."
   }
 }

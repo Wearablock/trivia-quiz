@@ -178,50 +178,122 @@
   "q_his_017": {
     "question": "Wer war die erste Frau, die den Atlantik allein im Flugzeug überquerte?",
     "correct": "Amelia Earhart",
-    "wrong": ["Harriet Quimby", "Bessie Coleman", "Jacqueline Cochran"],
+    "wrong": [
+      "Harriet Quimby",
+      "Bessie Coleman",
+      "Jacqueline Cochran"
+    ],
     "hint": "Sie verschwand 1937.",
     "explanation": "Alleinflug im Mai 1932."
   },
   "q_his_018": {
     "question": "In welchem Jahr begann die Russische Revolution?",
     "correct": "1917",
-    "wrong": ["1905", "1914", "1920"],
+    "wrong": [
+      "1905",
+      "1914",
+      "1920"
+    ],
     "hint": "Sturz des Zaren und Aufstieg der Bolschewiki.",
     "explanation": "Die Februar- und Oktoberrevolutionen."
   },
   "q_his_019": {
     "question": "Welche Zivilisation erbaute Machu Picchu?",
     "correct": "Inkareich",
-    "wrong": ["Aztekenreich", "Maya-Zivilisation", "Olmeken-Zivilisation"],
+    "wrong": [
+      "Aztekenreich",
+      "Maya-Zivilisation",
+      "Olmeken-Zivilisation"
+    ],
     "hint": "Hoch in den Anden Perus.",
     "explanation": "Im 15. Jahrhundert erbaut."
   },
   "q_his_020": {
     "question": "Wer erfand den Buchdruck mit beweglichen Lettern in Europa?",
     "correct": "Johannes Gutenberg",
-    "wrong": ["William Caxton", "Aldus Manutius", "Bi Sheng"],
+    "wrong": [
+      "William Caxton",
+      "Aldus Manutius",
+      "Bi Sheng"
+    ],
     "hint": "Um 1440 in Deutschland.",
     "explanation": "Ermöglichte die Massenproduktion von Büchern."
   },
   "q_his_021": {
     "question": "Welches Reich war das größte der Geschichte nach Landfläche?",
     "correct": "Britisches Empire",
-    "wrong": ["Mongolisches Reich", "Römisches Reich", "Russisches Kaiserreich"],
+    "wrong": [
+      "Mongolisches Reich",
+      "Römisches Reich",
+      "Russisches Kaiserreich"
+    ],
     "hint": "In diesem Reich ging die Sonne niemals unter.",
     "explanation": "Auf dem Höhepunkt 1920 umfasste es etwa 35,5 Millionen km²."
   },
   "q_his_022": {
     "question": "In welchem Jahr erklärten die Vereinigten Staaten ihre Unabhängigkeit?",
     "correct": "1776",
-    "wrong": ["1783", "1774", "1781"],
+    "wrong": [
+      "1783",
+      "1774",
+      "1781"
+    ],
     "hint": "Die Erklärung wurde am 4. Juli angenommen.",
     "explanation": "4. Juli 1776."
   },
   "q_his_023": {
     "question": "Wer war der erste Kaiser Roms?",
     "correct": "Augustus",
-    "wrong": ["Julius Cäsar", "Nero", "Tiberius"],
+    "wrong": [
+      "Julius Cäsar",
+      "Nero",
+      "Tiberius"
+    ],
     "hint": "Als Oktavian geboren, war er der Adoptiverbe von Julius Cäsar.",
     "explanation": "Erster römischer Kaiser ab 27 v. Chr."
+  },
+  "q_his_024": {
+    "question": "Wer führte 1519 die erste Weltumseglung an?",
+    "correct": "Ferdinand Magellan",
+    "wrong": [
+      "Christoph Kolumbus",
+      "Vasco da Gama",
+      "Francis Drake"
+    ],
+    "hint": "Dieser portugiesische Entdecker im Dienst Spaniens brach mit fünf Schiffen auf; obwohl er auf den Philippinen starb, vollendete seine Mannschaft die Reise.",
+    "explanation": "Ferdinand Magellan begann die erste Weltumseglung 1519; Juan Sebastián Elcano vollendete sie 1522."
+  },
+  "q_his_025": {
+    "question": "Wer führte die indische Unabhängigkeitsbewegung durch gewaltlosen Widerstand an?",
+    "correct": "Mahatma Gandhi",
+    "wrong": [
+      "Jawaharlal Nehru",
+      "Subhas Chandra Bose",
+      "Bhagat Singh"
+    ],
+    "hint": "In Indien als ‚Vater der Nation' bekannt, forderte sein Salzmarsch von 1930 die britische Kolonialherrschaft friedlich heraus.",
+    "explanation": "Mahatma Gandhi führte die Unabhängigkeit Indiens durch gewaltlosen zivilen Ungehorsam an."
+  },
+  "q_his_026": {
+    "question": "Welche antike Zivilisation erfand die Schrift um 3400 v. Chr.?",
+    "correct": "Die Sumerer",
+    "wrong": [
+      "Die Ägypter",
+      "Die Griechen",
+      "Die Chinesen"
+    ],
+    "hint": "Diese Zivilisation Mesopotamiens (heutiger Irak) schuf die Keilschrift, indem sie Schilfrohr in Tontafeln drückte.",
+    "explanation": "Die Sumerer Mesopotamiens entwickelten die Keilschrift um 3400 v. Chr."
+  },
+  "q_his_027": {
+    "question": "Welcher römische Kaiser ließ eine Verteidigungsmauer im Norden Britanniens errichten?",
+    "correct": "Hadrian",
+    "wrong": [
+      "Augustus",
+      "Nero",
+      "Trajan"
+    ],
+    "hint": "Diese 118 km lange Mauer verlief quer durch den Norden Englands von Küste zu Küste und ist nach dem Kaiser benannt, der sie 122 n. Chr. in Auftrag gab.",
+    "explanation": "Der Hadrianswall wurde ab 122 n. Chr. zum Schutz des römischen Britanniens errichtet."
   }
 }

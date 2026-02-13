@@ -178,50 +178,111 @@
   "q_tec_017": {
     "question": "¿Qué significa 'LED'?",
     "correct": "Diodo Emisor de Luz",
-    "wrong": ["Pantalla de Energía Lumínica", "Dispositivo de Emisión Láser", "Controlador de Baja Energía"],
+    "wrong": [
+      "Pantalla de Energía Lumínica",
+      "Dispositivo de Emisión Láser",
+      "Controlador de Baja Energía"
+    ],
     "hint": "Pantallas de TV, bombillas, smartphones.",
     "explanation": "Dispositivo semiconductor."
   },
   "q_tec_018": {
     "question": "¿En qué año se envió el primer correo electrónico?",
     "correct": "1971",
-    "wrong": ["1965", "1978", "1983"],
+    "wrong": [
+      "1965",
+      "1978",
+      "1983"
+    ],
     "hint": "Ray Tomlinson, ARPANET.",
     "explanation": "Introdujo el símbolo '@'."
   },
   "q_tec_019": {
     "question": "¿Qué significa 'PDF'?",
     "correct": "Formato de Documento Portátil",
-    "wrong": ["Archivo de Datos Impresos", "Formato de Diseño de Página", "Archivo de Documento Personal"],
+    "wrong": [
+      "Archivo de Datos Impresos",
+      "Formato de Diseño de Página",
+      "Archivo de Documento Personal"
+    ],
     "hint": "Adobe, principios de los 90.",
     "explanation": "Creado en 1992."
   },
   "q_tec_020": {
     "question": "¿Qué tecnología lleva el nombre de un rey escandinavo del siglo X?",
     "correct": "Bluetooth",
-    "wrong": ["Wi-Fi", "NFC", "Ethernet"],
+    "wrong": [
+      "Wi-Fi",
+      "NFC",
+      "Ethernet"
+    ],
     "hint": "Transferencia de datos a corta distancia.",
     "explanation": "Harald Bluetooth, rey danés."
   },
   "q_tec_021": {
     "question": "¿Qué significa 'HTML'?",
     "correct": "HyperText Markup Language",
-    "wrong": ["High Tech Modern Language", "HyperText Machine Language", "Home Tool Markup Language"],
+    "wrong": [
+      "High Tech Modern Language",
+      "HyperText Machine Language",
+      "Home Tool Markup Language"
+    ],
     "hint": "Es el lenguaje estándar para crear páginas web.",
     "explanation": "Creado por Tim Berners-Lee en 1991."
   },
   "q_tec_022": {
     "question": "¿Quién cofundó Apple junto con Steve Jobs?",
     "correct": "Steve Wozniak",
-    "wrong": ["Bill Gates", "Tim Cook", "Jony Ive"],
+    "wrong": [
+      "Bill Gates",
+      "Tim Cook",
+      "Jony Ive"
+    ],
     "hint": "Este ingeniero construyó el Apple I a mano en un garaje.",
     "explanation": "Steve Wozniak cofundó Apple en 1976."
   },
   "q_tec_023": {
     "question": "¿En qué año se lanzó Wikipedia?",
     "correct": "2001",
-    "wrong": ["1998", "2003", "2005"],
+    "wrong": [
+      "1998",
+      "2003",
+      "2005"
+    ],
     "hint": "Jimmy Wales y Larry Sanger crearon esta enciclopedia libre en línea.",
     "explanation": "Wikipedia fue lanzada el 15 de enero de 2001."
+  },
+  "q_tec_024": {
+    "question": "¿Qué significan las siglas VPN?",
+    "correct": "Red Privada Virtual",
+    "wrong": [
+      "Nodo de Procesamiento Virtual",
+      "Red de Protocolo Verificado",
+      "Nodo Visual Privado"
+    ],
+    "hint": "Esta tecnología crea un túnel cifrado para tu tráfico de internet y oculta tu dirección IP.",
+    "explanation": "Una VPN crea una conexión segura y cifrada a través de internet."
+  },
+  "q_tec_025": {
+    "question": "¿Quién fundó Amazon?",
+    "correct": "Jeff Bezos",
+    "wrong": [
+      "Elon Musk",
+      "Mark Zuckerberg",
+      "Larry Page"
+    ],
+    "hint": "Fundó este gigante del comercio electrónico como librería en línea en un garaje en 1994.",
+    "explanation": "Jeff Bezos fundó Amazon en 1994 en Bellevue, Washington."
+  },
+  "q_tec_026": {
+    "question": "¿Qué significan las siglas CPU?",
+    "correct": "Unidad Central de Procesamiento",
+    "wrong": [
+      "Unidad de Procesamiento Computacional",
+      "Herramienta Central de Programas",
+      "Unidad de Procesamiento del Núcleo"
+    ],
+    "hint": "Conocido como el 'cerebro' del ordenador, este chip ejecuta las instrucciones y cálculos para todas las tareas del dispositivo.",
+    "explanation": "La CPU es el componente principal que ejecuta instrucciones en un ordenador."
   }
 }

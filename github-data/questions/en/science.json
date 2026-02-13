@@ -234,5 +234,33 @@
     "wrong": ["Francium", "Plutonium", "Radium"],
     "hint": "This radioactive halogen has a half-life of only about 8 hours.",
     "explanation": "Astatine is the rarest naturally occurring element, with less than 30 grams estimated to exist in the entire Earth's crust at any given time."
+  },
+  "q_sci_024": {
+    "question": "What is the chemical symbol for silver?",
+    "correct": "Ag",
+    "wrong": ["Si", "Sr", "Sn"],
+    "hint": "Derived from the Latin word 'argentum,' this symbol also gave the country Argentina its name.",
+    "explanation": "Silver's chemical symbol Ag comes from the Latin 'argentum.' Silver is one of the best conductors of electricity and has been used in coins, jewelry, and photography."
+  },
+  "q_sci_025": {
+    "question": "How many chromosomes do humans have?",
+    "correct": "46",
+    "wrong": ["23", "44", "48"],
+    "hint": "They come in 23 pairs — one set from each parent — and include two that determine your biological sex.",
+    "explanation": "Humans have 46 chromosomes arranged in 23 pairs. Of these, 22 pairs are autosomes and one pair is sex chromosomes (XX or XY)."
+  },
+  "q_sci_026": {
+    "question": "What force keeps planets in orbit around the Sun?",
+    "correct": "Gravity",
+    "wrong": ["Magnetism", "Inertia", "Friction"],
+    "hint": "Isaac Newton is said to have understood this invisible force after watching an apple fall from a tree.",
+    "explanation": "Gravity, as described by Newton's law of universal gravitation, keeps planets in orbit. Einstein later refined the concept with general relativity, describing it as the curvature of spacetime."
+  },
+  "q_sci_027": {
+    "question": "What is the hottest planet in our solar system?",
+    "correct": "Venus",
+    "wrong": ["Mercury", "Mars", "Jupiter"],
+    "hint": "Despite not being the closest to the Sun, this planet's thick CO₂ atmosphere creates a runaway greenhouse effect with surface temperatures over 460°C.",
+    "explanation": "Venus is the hottest planet with an average surface temperature of about 465°C, hotter than Mercury despite being farther from the Sun, due to its dense carbon dioxide atmosphere."
   }
 }

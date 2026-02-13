@@ -189,50 +189,111 @@
   "q_foo_018": {
     "question": "Pizza có nguồn gốc từ quốc gia nào?",
     "correct": "Ý",
-    "wrong": ["Hy Lạp", "Thổ Nhĩ Kỳ", "Hoa Kỳ"],
+    "wrong": [
+      "Hy Lạp",
+      "Thổ Nhĩ Kỳ",
+      "Hoa Kỳ"
+    ],
     "hint": "Thành phố Naples",
     "explanation": "Pizza Margherita, năm 1889"
   },
   "q_foo_019": {
     "question": "Đậu phụ được làm từ loại đậu nào?",
     "correct": "Đậu nành",
-    "wrong": ["Đậu lima", "Đậu gà", "Đậu xanh"],
+    "wrong": [
+      "Đậu lima",
+      "Đậu gà",
+      "Đậu xanh"
+    ],
     "hint": "Cũng dùng làm nước tương, tempeh, miso",
     "explanation": "Có nguồn gốc từ Trung Quốc, hơn 2.000 năm"
   },
   "q_foo_020": {
     "question": "Quốc gia nào sản xuất dầu ô liu nhiều nhất?",
     "correct": "Tây Ban Nha",
-    "wrong": ["Ý", "Hy Lạp", "Thổ Nhĩ Kỳ"],
+    "wrong": [
+      "Ý",
+      "Hy Lạp",
+      "Thổ Nhĩ Kỳ"
+    ],
     "hint": "Chiếm một nửa sản lượng thế giới",
     "explanation": "Vùng Andalusia"
   },
   "q_foo_021": {
     "question": "Sô cô la có nguồn gốc từ quốc gia nào?",
     "correct": "Mexico",
-    "wrong": ["Bỉ", "Thụy Sĩ", "Ghana"],
+    "wrong": [
+      "Bỉ",
+      "Thụy Sĩ",
+      "Ghana"
+    ],
     "hint": "Người Aztec và Maya cổ đại ở vùng này uống nó như một thức uống đắng.",
     "explanation": "Sô cô la có nguồn gốc từ Trung Mỹ (Mexico ngày nay), nơi người Aztec và Maya trồng ca cao và chế biến thành thức uống đắng gọi là 'xocolātl'."
   },
   "q_foo_022": {
     "question": "Loại trái cây nào được phân loại thực vật học là quả mọng?",
     "correct": "Chuối",
-    "wrong": ["Dâu tây", "Phúc bồn tử", "Mâm xôi đen"],
+    "wrong": [
+      "Dâu tây",
+      "Phúc bồn tử",
+      "Mâm xôi đen"
+    ],
     "hint": "Dù có hình dạng và vỏ đặc biệt, loại trái cây nhiệt đới này đáp ứng mọi tiêu chí thực vật học của quả mọng.",
     "explanation": "Về mặt thực vật học, chuối là quả mọng vì nó phát triển từ một bầu nhụy duy nhất và chứa hạt nhúng trong phần thịt."
   },
   "q_foo_023": {
     "question": "Quốc gia nào tiêu thụ trà bình quân đầu người nhiều nhất?",
     "correct": "Thổ Nhĩ Kỳ",
-    "wrong": ["Trung Quốc", "Ấn Độ", "Vương quốc Anh"],
+    "wrong": [
+      "Trung Quốc",
+      "Ấn Độ",
+      "Vương quốc Anh"
+    ],
     "hint": "Quốc gia này nằm giữa châu Âu và châu Á, phục vụ trà trong những chiếc cốc thủy tinh hình hoa tulip đặc trưng.",
     "explanation": "Thổ Nhĩ Kỳ có mức tiêu thụ trà bình quân đầu người cao nhất thế giới, mỗi người uống trung bình khoảng 3 kg trà mỗi năm."
   },
   "q_foo_024": {
     "question": "'Naan' là loại thực phẩm gì?",
     "correct": "Bánh mì",
-    "wrong": ["Cơm", "Cà ri", "Tráng miệng"],
+    "wrong": [
+      "Cơm",
+      "Cà ri",
+      "Tráng miệng"
+    ],
     "hint": "Loại bánh mì dẹt này là món ăn chính trong ẩm thực Nam Á, truyền thống được nướng trong lò tandoor.",
     "explanation": "Naan là loại bánh mì dẹt có men phổ biến trong ẩm thực Nam Á và Trung Á. Truyền thống được nướng trong lò tandoor (lò đất sét) và ăn kèm cà ri."
+  },
+  "q_foo_025": {
+    "question": "Thảo mộc chính trong sốt pesto truyền thống Ý là gì?",
+    "correct": "Húng quế",
+    "wrong": [
+      "Oregano",
+      "Mùi tây",
+      "Hương thảo"
+    ],
+    "hint": "Thảo mộc xanh thơm từ Genoa này được trộn với hạt thông, tỏi, phô mai Parmesan và dầu ô liu để làm sốt kinh điển.",
+    "explanation": "Pesto Genoa truyền thống được làm từ lá húng quế tươi, hạt thông, tỏi, phô mai Parmesan và dầu ô liu."
+  },
+  "q_foo_026": {
+    "question": "Loại ngũ cốc nào được dùng trong cháo yến mạch truyền thống Scotland?",
+    "correct": "Yến mạch",
+    "wrong": [
+      "Lúa mì",
+      "Lúa mạch",
+      "Lúa mạch đen"
+    ],
+    "hint": "Ngũ cốc nguyên hạt này cũng được dùng trong thanh granola và bữa sáng overnight, nổi tiếng tốt cho tim mạch và giảm cholesterol.",
+    "explanation": "Yến mạch là thực phẩm chủ lực trong ẩm thực Scotland suốt nhiều thế kỷ."
+  },
+  "q_foo_027": {
+    "question": "Loại trái cây nào được dùng theo truyền thống để làm rượu vang?",
+    "correct": "Nho",
+    "wrong": [
+      "Táo",
+      "Mận",
+      "Anh đào"
+    ],
+    "hint": "Vùng Bordeaux ở Pháp và Tuscany ở Ý nổi tiếng thế giới về trồng loại quả này, với giống đỏ và trắng.",
+    "explanation": "Nho là loại trái cây chính được dùng để sản xuất rượu vang."
   }
 }

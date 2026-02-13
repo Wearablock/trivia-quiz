@@ -178,50 +178,122 @@
   "q_nat_017": {
     "question": "Động vật trên cạn lớn nhất là gì?",
     "correct": "Voi châu Phi",
-    "wrong": ["Tê giác trắng", "Hà mã", "Hươu cao cổ"],
+    "wrong": [
+      "Tê giác trắng",
+      "Hà mã",
+      "Hươu cao cổ"
+    ],
     "hint": "Nặng 6.000 kg",
     "explanation": "Cao 4 mét"
   },
   "q_nat_018": {
     "question": "Rồng Komodo thuộc loài động vật nào?",
     "correct": "Thằn lằn",
-    "wrong": ["Cá sấu", "Rắn", "Khủng long"],
+    "wrong": [
+      "Cá sấu",
+      "Rắn",
+      "Khủng long"
+    ],
     "hint": "Lớn nhất trong họ của nó, ở Indonesia",
     "explanation": "Dài 3 mét"
   },
   "q_nat_019": {
     "question": "Loài cá nhanh nhất trong đại dương là gì?",
     "correct": "Cá cờ buồm",
-    "wrong": ["Cá kiếm", "Cá marlin", "Cá ngừ"],
+    "wrong": [
+      "Cá kiếm",
+      "Cá marlin",
+      "Cá ngừ"
+    ],
     "hint": "Vây lưng giống cánh buồm",
     "explanation": "Tốc độ 110 km/h"
   },
   "q_nat_020": {
     "question": "Loài động vật nào có lực cắn mạnh nhất?",
     "correct": "Cá sấu nước mặn",
-    "wrong": ["Cá mập", "Hà mã", "Gấu"],
+    "wrong": [
+      "Cá mập",
+      "Hà mã",
+      "Gấu"
+    ],
     "hint": "Phân bố từ Đông Nam Á đến Úc",
     "explanation": "Lực cắn 3.700 psi"
   },
   "q_nat_021": {
     "question": "Sinh vật sống lớn nhất trên Trái Đất xét theo diện tích là gì?",
     "correct": "Nấm mật ong",
-    "wrong": ["Cá voi xanh", "Cây sequoia khổng lồ", "Rạn san hô Great Barrier"],
+    "wrong": [
+      "Cá voi xanh",
+      "Cây sequoia khổng lồ",
+      "Rạn san hô Great Barrier"
+    ],
     "hint": "Sinh vật này lan rộng dưới lòng đất qua mạng lưới sợi nấm và có thể bao phủ hàng nghìn mẫu Anh.",
     "explanation": "Nấm mật ong (Armillaria ostoyae) tại Rừng Quốc gia Malheur, Oregon bao phủ khoảng 2.385 mẫu Anh (965 ha) và ước tính đã hơn 2.400 năm tuổi."
   },
   "q_nat_022": {
     "question": "Nước ngọt chiếm bao nhiêu phần trăm tổng lượng nước trên Trái Đất?",
     "correct": "Khoảng 3%",
-    "wrong": ["Khoảng 10%", "Khoảng 25%", "Khoảng 50%"],
+    "wrong": [
+      "Khoảng 10%",
+      "Khoảng 25%",
+      "Khoảng 50%"
+    ],
     "hint": "Phần lớn lượng nhỏ này bị giữ trong các sông băng và chỏm băng.",
     "explanation": "Chỉ khoảng 3% nước trên Trái Đất là nước ngọt, trong đó khoảng 69% bị giữ trong sông băng và chỏm băng, khiến chưa đến 1% dễ dàng tiếp cận."
   },
   "q_nat_023": {
     "question": "Loài động vật nào phát ra âm thanh lớn nhất trong giới động vật?",
     "correct": "Cá nhà táng",
-    "wrong": ["Cá voi xanh", "Khỉ hú", "Tôm tít bắn"],
+    "wrong": [
+      "Cá voi xanh",
+      "Khỉ hú",
+      "Tôm tít bắn"
+    ],
     "hint": "Loài thú biển lặn sâu này sử dụng tiếng click để định vị bằng tiếng vang.",
     "explanation": "Cá nhà táng phát ra tiếng click có thể đạt tới 230 decibel, khiến chúng trở thành loài động vật phát ra âm thanh lớn nhất trên Trái Đất."
+  },
+  "q_nat_024": {
+    "question": "Động vật cao nhất thế giới là gì?",
+    "correct": "Hươu cao cổ",
+    "wrong": [
+      "Voi",
+      "Nai sừng tấm",
+      "Đà điểu"
+    ],
+    "hint": "Loài động vật châu Phi này có lưỡi dài 50 cm, cùng 7 đốt sống cổ như con người, và hoa văn đốm độc nhất như dấu vân tay.",
+    "explanation": "Hươu cao cổ có thể cao tới 5,7 mét, là động vật trên cạn cao nhất."
+  },
+  "q_nat_025": {
+    "question": "Côn trùng thụ phấn quan trọng nhất cho cây lương thực thế giới là gì?",
+    "correct": "Ong mật",
+    "wrong": [
+      "Bướm",
+      "Bọ rùa",
+      "Kiến"
+    ],
+    "hint": "Loài côn trùng xã hội này sống trong tổ với ong chúa, thực hiện 'vũ điệu lắc' để chỉ vị trí hoa, và tạo ra chất lỏng vàng ngọt.",
+    "explanation": "Ong mật thụ phấn khoảng 80% các loài thực vật có hoa."
+  },
+  "q_nat_026": {
+    "question": "Loài mèo lớn nhất thế giới là gì?",
+    "correct": "Hổ",
+    "wrong": [
+      "Sư tử",
+      "Báo đốm",
+      "Báo hoa mai"
+    ],
+    "hint": "Phân loài Siberia là lớn nhất, với bộ lông cam biểu tượng và sọc đen có hoa văn riêng biệt cho mỗi cá thể.",
+    "explanation": "Hổ là loài mèo lớn nhất; hổ Siberia có thể nặng tới 300 kg."
+  },
+  "q_nat_027": {
+    "question": "Loài bò sát nào nổi tiếng với khả năng đổi màu?",
+    "correct": "Tắc kè hoa",
+    "wrong": [
+      "Kỳ nhông",
+      "Tắc kè",
+      "Thằn lằn anole"
+    ],
+    "hint": "Sinh vật di chuyển chậm này có mắt quay độc lập, lưỡi bắn dài hơn thân và đuôi cuốn để bám cành cây.",
+    "explanation": "Tắc kè hoa đổi màu bằng cách điều chỉnh các tế bào sắc tố trong da."
   }
 }

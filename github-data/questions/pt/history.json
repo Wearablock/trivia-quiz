@@ -178,50 +178,122 @@
   "q_his_017": {
     "question": "Quem foi a primeira mulher a atravessar o Atlântico sozinha de avião?",
     "correct": "Amelia Earhart",
-    "wrong": ["Harriet Quimby", "Bessie Coleman", "Jacqueline Cochran"],
+    "wrong": [
+      "Harriet Quimby",
+      "Bessie Coleman",
+      "Jacqueline Cochran"
+    ],
     "hint": "Desapareceu em 1937.",
     "explanation": "Voo solo em maio de 1932."
   },
   "q_his_018": {
     "question": "Em que ano começou a Revolução Russa?",
     "correct": "1917",
-    "wrong": ["1905", "1914", "1920"],
+    "wrong": [
+      "1905",
+      "1914",
+      "1920"
+    ],
     "hint": "Derrubada do czar e ascensão dos bolcheviques.",
     "explanation": "As Revoluções de Fevereiro e Outubro."
   },
   "q_his_019": {
     "question": "Qual civilização construiu Machu Picchu?",
     "correct": "Império Inca",
-    "wrong": ["Império Asteca", "Civilização Maia", "Civilização Olmeca"],
+    "wrong": [
+      "Império Asteca",
+      "Civilização Maia",
+      "Civilização Olmeca"
+    ],
     "hint": "No alto dos Andes do Peru.",
     "explanation": "Construído no século XV."
   },
   "q_his_020": {
     "question": "Quem inventou a prensa de tipos móveis na Europa?",
     "correct": "Johannes Gutenberg",
-    "wrong": ["William Caxton", "Aldus Manutius", "Bi Sheng"],
+    "wrong": [
+      "William Caxton",
+      "Aldus Manutius",
+      "Bi Sheng"
+    ],
     "hint": "Por volta de 1440 na Alemanha.",
     "explanation": "Possibilitou a produção em massa de livros."
   },
   "q_his_021": {
     "question": "Qual foi o maior império da história em área territorial?",
     "correct": "Império Britânico",
-    "wrong": ["Império Mongol", "Império Romano", "Império Russo"],
+    "wrong": [
+      "Império Mongol",
+      "Império Romano",
+      "Império Russo"
+    ],
     "hint": "Dizia-se que «o sol nunca se punha» neste império.",
     "explanation": "O Império Britânico em seu auge em 1920 cobria cerca de 35,5 milhões de km²."
   },
   "q_his_022": {
     "question": "Em que ano os Estados Unidos declararam independência?",
     "correct": "1776",
-    "wrong": ["1783", "1774", "1781"],
+    "wrong": [
+      "1783",
+      "1774",
+      "1781"
+    ],
     "hint": "A declaração foi adotada em 4 de julho, hoje feriado nacional.",
     "explanation": "A Declaração de Independência dos Estados Unidos foi adotada em 4 de julho de 1776."
   },
   "q_his_023": {
     "question": "Quem foi o primeiro imperador de Roma?",
     "correct": "Augusto",
-    "wrong": ["Júlio César", "Nero", "Tibério"],
+    "wrong": [
+      "Júlio César",
+      "Nero",
+      "Tibério"
+    ],
     "hint": "Nascido como Otaviano, foi o herdeiro adotivo de Júlio César.",
     "explanation": "Augusto tornou-se o primeiro imperador romano em 27 a.C."
+  },
+  "q_his_024": {
+    "question": "Quem liderou a primeira circum-navegação do mundo em 1519?",
+    "correct": "Fernão de Magalhães",
+    "wrong": [
+      "Cristóvão Colombo",
+      "Vasco da Gama",
+      "Francis Drake"
+    ],
+    "hint": "Este explorador português a serviço da Espanha partiu com cinco navios; embora tenha morrido nas Filipinas, sua tripulação completou a viagem.",
+    "explanation": "Fernão de Magalhães iniciou a primeira circum-navegação em 1519; Juan Sebastián Elcano a completou em 1522."
+  },
+  "q_his_025": {
+    "question": "Quem liderou o movimento de independência da Índia através da resistência não violenta?",
+    "correct": "Mahatma Gandhi",
+    "wrong": [
+      "Jawaharlal Nehru",
+      "Subhas Chandra Bose",
+      "Bhagat Singh"
+    ],
+    "hint": "Conhecido como o 'Pai da Nação' na Índia, sua Marcha do Sal de 1930 desafiou pacificamente o domínio colonial britânico.",
+    "explanation": "Mahatma Gandhi liderou a independência da Índia por meio da desobediência civil não violenta."
+  },
+  "q_his_026": {
+    "question": "Qual civilização antiga inventou a escrita por volta de 3400 a.C.?",
+    "correct": "Os sumérios",
+    "wrong": [
+      "Os egípcios",
+      "Os gregos",
+      "Os chineses"
+    ],
+    "hint": "Esta civilização da Mesopotâmia (atual Iraque) criou a escrita cuneiforme pressionando juncos em tabuletas de argila.",
+    "explanation": "Os sumérios da Mesopotâmia desenvolveram a escrita cuneiforme por volta de 3400 a.C."
+  },
+  "q_his_027": {
+    "question": "Qual imperador romano ordenou a construção de uma muralha defensiva no norte da Britânia?",
+    "correct": "Adriano",
+    "wrong": [
+      "Augusto",
+      "Nero",
+      "Trajano"
+    ],
+    "hint": "Esta muralha de 118 km cruzava o norte da Inglaterra de costa a costa e leva o nome do imperador que a encomendou em 122 d.C.",
+    "explanation": "A Muralha de Adriano foi construída a partir de 122 d.C. para proteger a Britânia romana."
   }
 }

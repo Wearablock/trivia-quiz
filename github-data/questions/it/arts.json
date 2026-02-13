@@ -222,22 +222,78 @@
   "q_art_021": {
     "question": "Chi scrisse 'Orgoglio e pregiudizio'?",
     "correct": "Jane Austen",
-    "wrong": ["Charlotte Brontë", "Emily Brontë", "Virginia Woolf"],
+    "wrong": [
+      "Charlotte Brontë",
+      "Emily Brontë",
+      "Virginia Woolf"
+    ],
     "hint": "Scrittrice inglese nota per la sua acuta critica sociale dell'Inghilterra della Reggenza.",
     "explanation": "Pubblicato nel 1813."
   },
   "q_art_022": {
     "question": "Quale tecnica pittorica utilizza piccoli punti di colore per formare un'immagine?",
     "correct": "Puntinismo",
-    "wrong": ["Impressionismo", "Cubismo", "Fauvismo"],
+    "wrong": [
+      "Impressionismo",
+      "Cubismo",
+      "Fauvismo"
+    ],
     "hint": "'Una domenica pomeriggio sull'isola della Grande-Jatte' di Georges Seurat ne è un famoso esempio.",
     "explanation": "Sviluppato da Seurat e Signac negli anni 1880."
   },
   "q_art_023": {
     "question": "Come si chiama la scultura greca antica che raffigura un lanciatore di disco?",
     "correct": "Discobolo",
-    "wrong": ["Venere di Milo", "Laocoonte", "Nike di Samotracia"],
+    "wrong": [
+      "Venere di Milo",
+      "Laocoonte",
+      "Nike di Samotracia"
+    ],
     "hint": "Creata dallo scultore Mirone, cattura un atleta nel pieno del movimento.",
     "explanation": "Creata intorno al 450 a.C."
+  },
+  "q_art_024": {
+    "question": "Chi scrisse 'Il grande Gatsby'?",
+    "correct": "F. Scott Fitzgerald",
+    "wrong": [
+      "Ernest Hemingway",
+      "John Steinbeck",
+      "William Faulkner"
+    ],
+    "hint": "Questo autore americano catturò il glamour e gli eccessi dell'Era del Jazz degli anni '20, ambientando la sua opera più famosa a Long Island, New York.",
+    "explanation": "F. Scott Fitzgerald pubblicò 'Il grande Gatsby' nel 1925."
+  },
+  "q_art_025": {
+    "question": "Chi dipinse 'La nascita di Venere'?",
+    "correct": "Sandro Botticelli",
+    "wrong": [
+      "Raffaello",
+      "Tiziano",
+      "Caravaggio"
+    ],
+    "hint": "Questo maestro del Rinascimento italiano raffigurò la dea romana che emerge dal mare su un'enorme conchiglia di capasanta.",
+    "explanation": "Sandro Botticelli dipinse 'La nascita di Venere' intorno al 1485."
+  },
+  "q_art_026": {
+    "question": "Chi scrisse 'I Miserabili'?",
+    "correct": "Victor Hugo",
+    "wrong": [
+      "Alexandre Dumas",
+      "Émile Zola",
+      "Gustave Flaubert"
+    ],
+    "hint": "Questo gigante letterario francese scrisse anche 'Notre-Dame de Paris' e fu esiliato per 19 anni per essersi opposto a Napoleone III.",
+    "explanation": "Victor Hugo pubblicò 'I Miserabili' nel 1862."
+  },
+  "q_art_027": {
+    "question": "Quale genere musicale è nato a New Orleans all'inizio del XX secolo?",
+    "correct": "Jazz",
+    "wrong": [
+      "Blues",
+      "Rock and roll",
+      "Country"
+    ],
+    "hint": "Louis Armstrong e Duke Ellington furono i più grandi pionieri di questo genere basato sull'improvvisazione.",
+    "explanation": "Il jazz nacque a New Orleans all'inizio del 1900."
   }
 }

@@ -178,50 +178,122 @@
   "q_geo_016": {
     "question": "Qual é a maior ilha do mundo?",
     "correct": "Groenlândia",
-    "wrong": ["Bornéu", "Madagáscar", "Nova Guiné"],
+    "wrong": [
+      "Bornéu",
+      "Madagáscar",
+      "Nova Guiné"
+    ],
     "hint": "Território autónomo da Dinamarca.",
     "explanation": "Tem uma área de cerca de 2,166 milhões de km²."
   },
   "q_geo_017": {
     "question": "Qual é o lago mais profundo do mundo?",
     "correct": "Lago Baikal",
-    "wrong": ["Lago Tanganyika", "Lago Malawi", "Crater Lake"],
+    "wrong": [
+      "Lago Tanganyika",
+      "Lago Malawi",
+      "Crater Lake"
+    ],
     "hint": "Localizado na Sibéria, Rússia.",
     "explanation": "Tem uma profundidade de 1.642 metros."
   },
   "q_geo_018": {
     "question": "Qual é o menor oceano do mundo?",
     "correct": "Oceano Ártico",
-    "wrong": ["Oceano Índico", "Oceano Antártico", "Oceano Atlântico"],
+    "wrong": [
+      "Oceano Índico",
+      "Oceano Antártico",
+      "Oceano Atlântico"
+    ],
     "hint": "Rodeia o Polo Norte.",
     "explanation": "Cobre aproximadamente 14,06 milhões de km²."
   },
   "q_geo_019": {
     "question": "Qual país africano tem a maior área terrestre?",
     "correct": "Argélia",
-    "wrong": ["RD Congo", "Líbia", "Nigéria"],
+    "wrong": [
+      "RD Congo",
+      "Líbia",
+      "Nigéria"
+    ],
     "hint": "Faz fronteira com o Mediterrâneo e o Saara cobre a maior parte do país.",
     "explanation": "Tem uma área de cerca de 2,38 milhões de km²."
   },
   "q_geo_020": {
     "question": "Qual é o rio mais longo da Europa?",
     "correct": "Volga",
-    "wrong": ["Danúbio", "Reno", "Elba"],
+    "wrong": [
+      "Danúbio",
+      "Reno",
+      "Elba"
+    ],
     "hint": "Este rio corre inteiramente dentro da Rússia e deságua no mar Cáspio.",
     "explanation": "O rio Volga tem aproximadamente 3.530 km de extensão, sendo o mais longo da Europa."
   },
   "q_geo_021": {
     "question": "Qual país tem mais ilhas no mundo?",
     "correct": "Suécia",
-    "wrong": ["Indonésia", "Filipinas", "Noruega"],
+    "wrong": [
+      "Indonésia",
+      "Filipinas",
+      "Noruega"
+    ],
     "hint": "Este país escandinavo tem mais de 267.000 ilhas, a maioria pequenas e desabitadas.",
     "explanation": "A Suécia possui aproximadamente 267.570 ilhas."
   },
   "q_geo_022": {
     "question": "Qual é a capital do Brasil?",
     "correct": "Brasília",
-    "wrong": ["Rio de Janeiro", "São Paulo", "Salvador"],
+    "wrong": [
+      "Rio de Janeiro",
+      "São Paulo",
+      "Salvador"
+    ],
     "hint": "Esta cidade foi projetada pelo arquiteto Oscar Niemeyer e construída especificamente para ser a capital.",
     "explanation": "Brasília tornou-se a capital do Brasil em 1960."
+  },
+  "q_geo_023": {
+    "question": "Em que país fica o Salto Ángel, a cachoeira mais alta do mundo?",
+    "correct": "Venezuela",
+    "wrong": [
+      "Brasil",
+      "Colômbia",
+      "Equador"
+    ],
+    "hint": "Esta cachoeira na selva sul-americana cai 979 metros de um planalto chamado tepui, no Parque Nacional de Canaima.",
+    "explanation": "O Salto Ángel na Venezuela tem 979 metros e é a cachoeira ininterrupta mais alta do mundo."
+  },
+  "q_geo_024": {
+    "question": "Que país insular é conhecido como a 'Terra do Sol Nascente'?",
+    "correct": "Japão",
+    "wrong": [
+      "Filipinas",
+      "Indonésia",
+      "Taiwan"
+    ],
+    "hint": "O nome deste país em seu idioma nativo (日本) significa literalmente 'origem do sol', e é famoso pelo Monte Fuji e pelas cerejeiras em flor.",
+    "explanation": "O Japão é conhecido como a 'Terra do Sol Nascente' por estar a leste da Ásia continental."
+  },
+  "q_geo_025": {
+    "question": "Qual país tem a maior área territorial do mundo?",
+    "correct": "Rússia",
+    "wrong": [
+      "Canadá",
+      "China",
+      "Estados Unidos"
+    ],
+    "hint": "Este país se estende por 11 fusos horários, da Europa Oriental ao Oceano Pacífico, e abriga o lago mais profundo do mundo.",
+    "explanation": "A Rússia abrange mais de 17 milhões de km², sendo o maior país do mundo."
+  },
+  "q_geo_026": {
+    "question": "Qual rio esculpiu o Grand Canyon?",
+    "correct": "Rio Colorado",
+    "wrong": [
+      "Rio Missouri",
+      "Rio Columbia",
+      "Rio Yukon"
+    ],
+    "hint": "Este rio atravessa sete estados do oeste dos EUA e deságua no Golfo da Califórnia, no México.",
+    "explanation": "O Rio Colorado esculpiu o Grand Canyon ao longo de milhões de anos de erosão."
   }
 }

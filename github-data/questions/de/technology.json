@@ -178,50 +178,111 @@
   "q_tec_017": {
     "question": "Wofür steht 'LED'?",
     "correct": "Leuchtdiode (Light Emitting Diode)",
-    "wrong": ["Lichtenergiedisplay", "Laseremissionsgerät", "Niedrigenergie-Treiber"],
+    "wrong": [
+      "Lichtenergiedisplay",
+      "Laseremissionsgerät",
+      "Niedrigenergie-Treiber"
+    ],
     "hint": "Fernsehbildschirme, Glühbirnen, Smartphones.",
     "explanation": "Halbleiterbauelement."
   },
   "q_tec_018": {
     "question": "In welchem Jahr wurde die erste E-Mail verschickt?",
     "correct": "1971",
-    "wrong": ["1965", "1978", "1983"],
+    "wrong": [
+      "1965",
+      "1978",
+      "1983"
+    ],
     "hint": "Ray Tomlinson, ARPANET.",
     "explanation": "Führte das '@'-Zeichen ein."
   },
   "q_tec_019": {
     "question": "Wofür steht 'PDF'?",
     "correct": "Portable Document Format",
-    "wrong": ["Printed Data File", "Page Design Format", "Personal Document File"],
+    "wrong": [
+      "Printed Data File",
+      "Page Design Format",
+      "Personal Document File"
+    ],
     "hint": "Adobe, Anfang der 1990er Jahre.",
     "explanation": "1992 entwickelt."
   },
   "q_tec_020": {
     "question": "Welche Technologie ist nach einem skandinavischen König des 10. Jahrhunderts benannt?",
     "correct": "Bluetooth",
-    "wrong": ["Wi-Fi", "NFC", "Ethernet"],
+    "wrong": [
+      "Wi-Fi",
+      "NFC",
+      "Ethernet"
+    ],
     "hint": "Datenübertragung über kurze Distanz.",
     "explanation": "Harald Blauzahn, dänischer König."
   },
   "q_tec_021": {
     "question": "Wofür steht 'HTML'?",
     "correct": "HyperText Markup Language",
-    "wrong": ["High Tech Modern Language", "HyperText Machine Language", "Home Tool Markup Language"],
+    "wrong": [
+      "High Tech Modern Language",
+      "HyperText Machine Language",
+      "Home Tool Markup Language"
+    ],
     "hint": "Die Standardsprache für Webseiten.",
     "explanation": "1991 entwickelt."
   },
   "q_tec_022": {
     "question": "Wer gründete zusammen mit Steve Jobs Apple?",
     "correct": "Steve Wozniak",
-    "wrong": ["Bill Gates", "Tim Cook", "Jony Ive"],
+    "wrong": [
+      "Bill Gates",
+      "Tim Cook",
+      "Jony Ive"
+    ],
     "hint": "Er baute den Apple I von Hand.",
     "explanation": "Mitgegründet 1976."
   },
   "q_tec_023": {
     "question": "Wann wurde Wikipedia gestartet?",
     "correct": "2001",
-    "wrong": ["1998", "2003", "2005"],
+    "wrong": [
+      "1998",
+      "2003",
+      "2005"
+    ],
     "hint": "Jimmy Wales und Larry Sanger.",
     "explanation": "15. Januar 2001."
+  },
+  "q_tec_024": {
+    "question": "Wofür steht VPN?",
+    "correct": "Virtuelles privates Netzwerk",
+    "wrong": [
+      "Virtueller Verarbeitungsknoten",
+      "Verifiziertes Protokollnetzwerk",
+      "Visueller privater Knoten"
+    ],
+    "hint": "Diese Technologie erstellt einen verschlüsselten Tunnel für Ihren Internetverkehr und verbirgt Ihre IP-Adresse.",
+    "explanation": "Ein VPN erstellt eine sichere, verschlüsselte Verbindung über das Internet."
+  },
+  "q_tec_025": {
+    "question": "Wer gründete Amazon?",
+    "correct": "Jeff Bezos",
+    "wrong": [
+      "Elon Musk",
+      "Mark Zuckerberg",
+      "Larry Page"
+    ],
+    "hint": "Er gründete diesen E-Commerce-Giganten 1994 als Online-Buchhandlung in einer Garage.",
+    "explanation": "Jeff Bezos gründete Amazon 1994 in Bellevue, Washington."
+  },
+  "q_tec_026": {
+    "question": "Wofür steht CPU?",
+    "correct": "Zentrale Verarbeitungseinheit",
+    "wrong": [
+      "Computerverarbeitungseinheit",
+      "Zentrales Programmwerkzeug",
+      "Kernverarbeitungseinheit"
+    ],
+    "hint": "Als ‚Gehirn' des Computers bekannt, führt dieser Chip die Befehle und Berechnungen für alle Aufgaben des Geräts aus.",
+    "explanation": "Die CPU ist die Hauptkomponente, die Befehle in einem Computer ausführt."
   }
 }

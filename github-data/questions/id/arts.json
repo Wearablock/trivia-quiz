@@ -189,43 +189,111 @@
   "q_art_018": {
     "question": "Siapa yang menulis 'Don Quixote'?",
     "correct": "Miguel de Cervantes",
-    "wrong": ["García Márquez", "García Lorca", "Borges"],
+    "wrong": [
+      "García Márquez",
+      "García Lorca",
+      "Borges"
+    ],
     "hint": "Diterbitkan tahun 1605 dan 1615",
     "explanation": "Dianggap sebagai novel modern pertama"
   },
   "q_art_019": {
     "question": "Arsitek mana yang merancang Sagrada Família?",
     "correct": "Antoni Gaudí",
-    "wrong": ["Calatrava", "Le Corbusier", "Wright"],
+    "wrong": [
+      "Calatrava",
+      "Le Corbusier",
+      "Wright"
+    ],
     "hint": "Bentuk-bentuk organik",
     "explanation": "Dimulai tahun 1882"
   },
   "q_art_020": {
     "question": "Siapa yang melukis langit-langit Kapel Sistina?",
     "correct": "Michelangelo",
-    "wrong": ["Raphael", "Botticelli", "Caravaggio"],
+    "wrong": [
+      "Raphael",
+      "Botticelli",
+      "Caravaggio"
+    ],
     "hint": "Juga memahat patung Daud",
     "explanation": "Dilukis tahun 1508-1512"
   },
   "q_art_021": {
     "question": "Siapa yang menulis novel 'Pride and Prejudice'?",
     "correct": "Jane Austen",
-    "wrong": ["Charlotte Brontë", "Emily Brontë", "Virginia Woolf"],
+    "wrong": [
+      "Charlotte Brontë",
+      "Emily Brontë",
+      "Virginia Woolf"
+    ],
     "hint": "Novelis Inggris ini terkenal dengan komentar sosialnya yang tajam tentang Inggris era Regency.",
     "explanation": "Jane Austen menerbitkan Pride and Prejudice pada tahun 1813. Novel ini adalah salah satu karya sastra Inggris yang paling dicintai."
   },
   "q_art_022": {
     "question": "Teknik melukis apa yang menggunakan titik-titik warna kecil untuk membentuk gambar?",
     "correct": "Pointilisme",
-    "wrong": ["Impresionisme", "Kubisme", "Fauvisme"],
+    "wrong": [
+      "Impresionisme",
+      "Kubisme",
+      "Fauvisme"
+    ],
     "hint": "Lukisan 'A Sunday Afternoon on the Island of La Grande Jatte' karya Georges Seurat adalah contoh terkenal.",
     "explanation": "Pointilisme dikembangkan oleh Georges Seurat dan Paul Signac pada tahun 1880-an, menggunakan titik-titik warna kecil yang disusun dalam pola untuk membentuk gambar."
   },
   "q_art_023": {
     "question": "Apa nama patung Yunani kuno yang menggambarkan seorang pelempar cakram?",
     "correct": "Discobolus",
-    "wrong": ["Venus de Milo", "Laocoön", "Nike of Samothrace"],
+    "wrong": [
+      "Venus de Milo",
+      "Laocoön",
+      "Nike of Samothrace"
+    ],
     "hint": "Patung ini menangkap seorang atlet dalam gerakan melempar, dibuat oleh pematung Myron.",
     "explanation": "Discobolus (Pelempar Cakram) dibuat oleh pematung Myron sekitar tahun 450 SM. Aslinya dari perunggu telah hilang, tetapi salinan marmer Romawi masih ada."
+  },
+  "q_art_024": {
+    "question": "Siapa yang menulis 'The Great Gatsby'?",
+    "correct": "F. Scott Fitzgerald",
+    "wrong": [
+      "Ernest Hemingway",
+      "John Steinbeck",
+      "William Faulkner"
+    ],
+    "hint": "Penulis Amerika ini menangkap kemewahan dan kemewahan Era Jazz tahun 1920-an, berlatar di Long Island, New York.",
+    "explanation": "F. Scott Fitzgerald menerbitkan 'The Great Gatsby' pada 1925."
+  },
+  "q_art_025": {
+    "question": "Siapa yang melukis 'Kelahiran Venus'?",
+    "correct": "Sandro Botticelli",
+    "wrong": [
+      "Raphael",
+      "Titian",
+      "Caravaggio"
+    ],
+    "hint": "Maestro Renaisans Italia ini melukiskan dewi Romawi muncul dari laut di atas cangkang kerang raksasa.",
+    "explanation": "Sandro Botticelli melukis 'Kelahiran Venus' sekitar tahun 1485."
+  },
+  "q_art_026": {
+    "question": "Siapa yang menulis 'Les Misérables'?",
+    "correct": "Victor Hugo",
+    "wrong": [
+      "Alexandre Dumas",
+      "Émile Zola",
+      "Gustave Flaubert"
+    ],
+    "hint": "Raksasa sastra Prancis ini juga menulis 'The Hunchback of Notre-Dame' dan diasingkan selama 19 tahun karena menentang Napoleon III.",
+    "explanation": "Victor Hugo menerbitkan 'Les Misérables' pada 1862."
+  },
+  "q_art_027": {
+    "question": "Genre musik apa yang lahir di New Orleans pada awal abad ke-20?",
+    "correct": "Jazz",
+    "wrong": [
+      "Blues",
+      "Rock and roll",
+      "Country"
+    ],
+    "hint": "Louis Armstrong dan Duke Ellington adalah pelopor terbesar genre berbasis improvisasi ini.",
+    "explanation": "Jazz lahir di New Orleans pada awal 1900-an."
   }
 }

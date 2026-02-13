@@ -178,50 +178,122 @@
   "q_geo_016": {
     "question": "Pulau terbesar di dunia adalah pulau apa?",
     "correct": "Greenland",
-    "wrong": ["Kalimantan", "Madagaskar", "Papua"],
+    "wrong": [
+      "Kalimantan",
+      "Madagaskar",
+      "Papua"
+    ],
     "hint": "Wilayah otonom milik Denmark",
     "explanation": "Luasnya 2,166 juta km²"
   },
   "q_geo_017": {
     "question": "Danau terdalam di dunia adalah danau apa?",
     "correct": "Danau Baikal",
-    "wrong": ["Danau Tanganyika", "Danau Malawi", "Danau Crater"],
+    "wrong": [
+      "Danau Tanganyika",
+      "Danau Malawi",
+      "Danau Crater"
+    ],
     "hint": "Terletak di Siberia, Rusia",
     "explanation": "Kedalamannya 1.642 meter"
   },
   "q_geo_018": {
     "question": "Samudra terkecil di dunia adalah apa?",
     "correct": "Samudra Arktik",
-    "wrong": ["Samudra Hindia", "Samudra Selatan", "Samudra Atlantik"],
+    "wrong": [
+      "Samudra Hindia",
+      "Samudra Selatan",
+      "Samudra Atlantik"
+    ],
     "hint": "Mengelilingi Kutub Utara, ditutupi es laut",
     "explanation": "Luasnya 14,06 juta km²"
   },
   "q_geo_019": {
     "question": "Negara Afrika mana yang memiliki luas daratan terbesar?",
     "correct": "Aljazair",
-    "wrong": ["Republik Demokratik Kongo", "Libya", "Nigeria"],
+    "wrong": [
+      "Republik Demokratik Kongo",
+      "Libya",
+      "Nigeria"
+    ],
     "hint": "Berbatasan dengan Laut Mediterania dan Gurun Sahara",
     "explanation": "Luasnya 2,38 juta km²"
   },
   "q_geo_020": {
     "question": "Sungai apa yang terpanjang di Eropa?",
     "correct": "Sungai Volga",
-    "wrong": ["Sungai Danube", "Sungai Rhine", "Sungai Elbe"],
+    "wrong": [
+      "Sungai Danube",
+      "Sungai Rhine",
+      "Sungai Elbe"
+    ],
     "hint": "Sungai ini mengalir seluruhnya di Rusia dan bermuara ke Laut Kaspia.",
     "explanation": "Sungai Volga memiliki panjang sekitar 3.530 km, menjadikannya sungai terpanjang di Eropa. Sungai ini mengalir melalui Rusia tengah menuju Laut Kaspia."
   },
   "q_geo_021": {
     "question": "Negara mana yang memiliki pulau terbanyak di dunia?",
     "correct": "Swedia",
-    "wrong": ["Indonesia", "Filipina", "Norwegia"],
+    "wrong": [
+      "Indonesia",
+      "Filipina",
+      "Norwegia"
+    ],
     "hint": "Negara Skandinavia ini memiliki lebih dari 267.000 pulau, sebagian besar kecil dan tidak berpenghuni.",
     "explanation": "Swedia memiliki sekitar 267.570 pulau, lebih banyak dari negara mana pun, meskipun sebagian besar sangat kecil dan tidak berpenghuni."
   },
   "q_geo_022": {
     "question": "Apa ibu kota Brasil?",
     "correct": "Brasília",
-    "wrong": ["Rio de Janeiro", "São Paulo", "Salvador"],
+    "wrong": [
+      "Rio de Janeiro",
+      "São Paulo",
+      "Salvador"
+    ],
     "hint": "Kota ini sengaja dibangun dan dirancang oleh arsitek Oscar Niemeyer dan perencana kota Lúcio Costa.",
     "explanation": "Brasília menjadi ibu kota Brasil pada tahun 1960, menggantikan Rio de Janeiro. Kota ini direncanakan dan dibangun dari nol hanya dalam 41 bulan."
+  },
+  "q_geo_023": {
+    "question": "Di negara manakah Air Terjun Angel, air terjun tertinggi di dunia, berada?",
+    "correct": "Venezuela",
+    "wrong": [
+      "Brasil",
+      "Kolombia",
+      "Ekuador"
+    ],
+    "hint": "Air terjun di hutan belantara Amerika Selatan ini jatuh setinggi 979 meter dari dataran tinggi tepui di Taman Nasional Canaima.",
+    "explanation": "Air Terjun Angel di Venezuela setinggi 979 meter dan merupakan air terjun tak terputus tertinggi di dunia."
+  },
+  "q_geo_024": {
+    "question": "Negara kepulauan mana yang dikenal sebagai 'Negeri Matahari Terbit'?",
+    "correct": "Jepang",
+    "wrong": [
+      "Filipina",
+      "Indonesia",
+      "Taiwan"
+    ],
+    "hint": "Nama negara ini dalam bahasa aslinya (日本) secara harfiah berarti 'asal matahari', dan terkenal dengan Gunung Fuji serta bunga sakura.",
+    "explanation": "Jepang dikenal sebagai 'Negeri Matahari Terbit' karena terletak di sebelah timur daratan Asia."
+  },
+  "q_geo_025": {
+    "question": "Negara mana yang memiliki luas daratan terbesar di dunia?",
+    "correct": "Rusia",
+    "wrong": [
+      "Kanada",
+      "Tiongkok",
+      "Amerika Serikat"
+    ],
+    "hint": "Negara ini membentang melintasi 11 zona waktu, dari Eropa Timur hingga Samudra Pasifik, dan memiliki danau terdalam di dunia.",
+    "explanation": "Rusia membentang lebih dari 17 juta km², menjadikannya negara terbesar di dunia."
+  },
+  "q_geo_026": {
+    "question": "Sungai apa yang membentuk Grand Canyon?",
+    "correct": "Sungai Colorado",
+    "wrong": [
+      "Sungai Missouri",
+      "Sungai Columbia",
+      "Sungai Yukon"
+    ],
+    "hint": "Sungai ini mengalir melalui tujuh negara bagian di barat AS dan bermuara di Teluk California di Meksiko.",
+    "explanation": "Sungai Colorado membentuk Grand Canyon selama jutaan tahun erosi."
   }
 }

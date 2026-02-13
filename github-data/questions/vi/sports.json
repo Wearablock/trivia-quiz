@@ -178,50 +178,122 @@
   "q_spo_017": {
     "question": "Trong môn thể thao nào các đội tranh cúp Stanley?",
     "correct": "Khúc côn cầu trên băng",
-    "wrong": ["Bóng rổ", "Bóng chày", "Bóng bầu dục Mỹ"],
+    "wrong": [
+      "Bóng rổ",
+      "Bóng chày",
+      "Bóng bầu dục Mỹ"
+    ],
     "hint": "Canada, năm 1892",
     "explanation": "Cúp của giải NHL"
   },
   "q_spo_018": {
     "question": "Quốc gia nào giành nhiều huy chương vàng Olympic nhất?",
     "correct": "Hoa Kỳ",
-    "wrong": ["Liên Xô", "Trung Quốc", "Vương quốc Anh"],
+    "wrong": [
+      "Liên Xô",
+      "Trung Quốc",
+      "Vương quốc Anh"
+    ],
     "hint": "Đã đăng cai Olympic 4 lần",
     "explanation": "Hơn 1.000 huy chương vàng"
   },
   "q_spo_019": {
     "question": "Một cú touchdown có giá trị bao nhiêu điểm?",
     "correct": "6",
-    "wrong": ["3", "5", "7"],
+    "wrong": [
+      "3",
+      "5",
+      "7"
+    ],
     "hint": "Có thể đá thêm điểm sau đó",
     "explanation": "Cộng thêm lượt chuyển đổi"
   },
   "q_spo_020": {
     "question": "Quốc gia nào đăng cai FIFA World Cup đầu tiên vào năm 1930?",
     "correct": "Uruguay",
-    "wrong": ["Brazil", "Ý", "Pháp"],
+    "wrong": [
+      "Brazil",
+      "Ý",
+      "Pháp"
+    ],
     "hint": "Cũng vô địch giải đó",
     "explanation": "Thắng Argentina 4-2"
   },
   "q_spo_021": {
     "question": "Đường kính của vành rổ bóng rổ tiêu chuẩn là bao nhiêu inch?",
     "correct": "18 inch",
-    "wrong": ["16 inch", "20 inch", "22 inch"],
+    "wrong": [
+      "16 inch",
+      "20 inch",
+      "22 inch"
+    ],
     "hint": "Vành rổ chỉ lớn hơn hai lần đường kính quả bóng rổ một chút.",
     "explanation": "Vành rổ bóng rổ tiêu chuẩn có đường kính trong 18 inch (46 cm), trong khi quả bóng rổ NBA có đường kính khoảng 9,4 inch."
   },
   "q_spo_022": {
     "question": "Quốc gia nào vô địch Rugby World Cup đầu tiên vào năm 1987?",
     "correct": "New Zealand",
-    "wrong": ["Úc", "Nam Phi", "Anh"],
+    "wrong": [
+      "Úc",
+      "Nam Phi",
+      "Anh"
+    ],
     "hint": "Đội rugby của quốc gia này được gọi là All Blacks.",
     "explanation": "New Zealand vô địch Rugby World Cup đầu tiên năm 1987, đánh bại Pháp 29-9 trong trận chung kết tại Auckland."
   },
   "q_spo_023": {
     "question": "Điểm break tối đa trong snooker là bao nhiêu?",
     "correct": "147",
-    "wrong": ["155", "170", "180"],
+    "wrong": [
+      "155",
+      "170",
+      "180"
+    ],
     "hint": "Điểm số này đòi hỏi ghi hết 15 bi đỏ kèm bi đen, rồi cả sáu bi màu.",
     "explanation": "Break tối đa 147 trong snooker đạt được bằng cách ghi 15 bi đỏ (mỗi bi đi kèm bi đen) rồi ghi tất cả sáu bi màu theo thứ tự."
+  },
+  "q_spo_024": {
+    "question": "Judo có nguồn gốc từ quốc gia nào?",
+    "correct": "Nhật Bản",
+    "wrong": [
+      "Trung Quốc",
+      "Hàn Quốc",
+      "Brazil"
+    ],
+    "hint": "Được sáng lập bởi Jigoro Kano năm 1882, tên gọi có nghĩa là 'nhu đạo', là môn thể thao Olympic từ năm 1964.",
+    "explanation": "Judo được sáng lập bởi Jigoro Kano tại Nhật Bản năm 1882."
+  },
+  "q_spo_025": {
+    "question": "Môn võ thuật nào nổi tiếng với đòn đá cao, có nguồn gốc từ Hàn Quốc và trở thành môn Olympic năm 2000?",
+    "correct": "Taekwondo",
+    "wrong": [
+      "Karate",
+      "Kung fu",
+      "Judo"
+    ],
+    "hint": "Tên gọi có nghĩa là 'đạo của chân và tay'; Hàn Quốc giành nhiều huy chương vàng Olympic nhất ở môn này.",
+    "explanation": "Taekwondo có nguồn gốc từ Hàn Quốc trong thập niên 1940-50."
+  },
+  "q_spo_026": {
+    "question": "Môn thể thao vợt nào sử dụng quả cầu lông thay vì bóng?",
+    "correct": "Cầu lông",
+    "wrong": [
+      "Bóng quần",
+      "Bóng bàn",
+      "Racquetball"
+    ],
+    "hint": "Được đặt tên theo một trang viên ở Anh và là môn thể thao vợt nhanh nhất thế giới.",
+    "explanation": "Cầu lông được đặt tên theo Badminton House ở Gloucestershire, Anh."
+  },
+  "q_spo_027": {
+    "question": "Giải Grand Slam quần vợt nào là giải duy nhất thi đấu trên mặt sân cỏ?",
+    "correct": "Wimbledon",
+    "wrong": [
+      "Giải Úc mở rộng",
+      "Giải Mỹ mở rộng",
+      "Roland Garros"
+    ],
+    "hint": "Được tổ chức hàng năm tại London, nổi tiếng với quy định trang phục trắng nghiêm ngặt và truyền thống dâu tây với kem.",
+    "explanation": "Wimbledon được tổ chức từ năm 1877 tại All England Club ở London."
   }
 }

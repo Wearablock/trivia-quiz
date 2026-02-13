@@ -178,50 +178,122 @@
   "q_nat_017": {
     "question": "¿Cuál es el animal terrestre más grande?",
     "correct": "Elefante africano",
-    "wrong": ["Rinoceronte blanco", "Hipopótamo", "Jirafa"],
+    "wrong": [
+      "Rinoceronte blanco",
+      "Hipopótamo",
+      "Jirafa"
+    ],
     "hint": "Hasta 6.000 kg, orejas con forma de África.",
     "explanation": "Puede alcanzar hasta 4 metros de altura."
   },
   "q_nat_018": {
     "question": "¿Qué tipo de animal es un dragón de Komodo?",
     "correct": "Lagarto",
-    "wrong": ["Cocodrilo", "Serpiente", "Dinosaurio"],
+    "wrong": [
+      "Cocodrilo",
+      "Serpiente",
+      "Dinosaurio"
+    ],
     "hint": "La especie viva más grande de su tipo, Indonesia.",
     "explanation": "Puede medir hasta 3 metros de largo."
   },
   "q_nat_019": {
     "question": "¿Cuál es el pez más rápido del océano?",
     "correct": "Pez vela",
-    "wrong": ["Pez espada", "Marlín", "Atún"],
+    "wrong": [
+      "Pez espada",
+      "Marlín",
+      "Atún"
+    ],
     "hint": "Gran aleta dorsal como una vela.",
     "explanation": "Alcanza hasta 110 km/h."
   },
   "q_nat_020": {
     "question": "¿Qué animal tiene la mordida más fuerte?",
     "correct": "Cocodrilo de agua salada",
-    "wrong": ["Gran tiburón blanco", "Hipopótamo", "Oso grizzly"],
+    "wrong": [
+      "Gran tiburón blanco",
+      "Hipopótamo",
+      "Oso grizzly"
+    ],
     "hint": "Zonas costeras del sudeste asiático hasta Australia.",
     "explanation": "Fuerza de mordida de 3.700 psi."
   },
   "q_nat_021": {
     "question": "¿Cuál es el organismo vivo más grande de la Tierra por superficie?",
     "correct": "Armilaria",
-    "wrong": ["Ballena azul", "Secuoya gigante", "Gran Barrera de Coral"],
+    "wrong": [
+      "Ballena azul",
+      "Secuoya gigante",
+      "Gran Barrera de Coral"
+    ],
     "hint": "Se extiende bajo tierra mediante filamentos y cubre miles de acres.",
     "explanation": "En Oregón, cubre 965 hectáreas y tiene más de 2.400 años de antigüedad."
   },
   "q_nat_022": {
     "question": "¿Qué porcentaje del agua de la Tierra es agua dulce?",
     "correct": "Aproximadamente el 3%",
-    "wrong": ["Aproximadamente el 10%", "Aproximadamente el 25%", "Aproximadamente el 50%"],
+    "wrong": [
+      "Aproximadamente el 10%",
+      "Aproximadamente el 25%",
+      "Aproximadamente el 50%"
+    ],
     "hint": "La mayor parte está atrapada en glaciares y casquetes polares.",
     "explanation": "Solo el 3% del agua de la Tierra es dulce, y de esa cantidad el 69% está en glaciares."
   },
   "q_nat_023": {
     "question": "¿Qué animal produce el sonido más fuerte del reino animal?",
     "correct": "Cachalote",
-    "wrong": ["Ballena azul", "Mono aullador", "Camarón pistola"],
+    "wrong": [
+      "Ballena azul",
+      "Mono aullador",
+      "Camarón pistola"
+    ],
     "hint": "Mamífero de buceo profundo que usa chasquidos para la ecolocalización.",
     "explanation": "Los chasquidos del cachalote alcanzan los 230 decibelios."
+  },
+  "q_nat_024": {
+    "question": "¿Cuál es el animal más alto del mundo?",
+    "correct": "La jirafa",
+    "wrong": [
+      "El elefante",
+      "El alce",
+      "El avestruz"
+    ],
+    "hint": "Este animal africano tiene una lengua de 50 cm, las mismas 7 vértebras cervicales que los humanos y un patrón de manchas único como una huella dactilar.",
+    "explanation": "Las jirafas pueden alcanzar 5,7 metros de altura, siendo el animal terrestre más alto."
+  },
+  "q_nat_025": {
+    "question": "¿Cuál es el insecto polinizador más importante para los cultivos alimentarios del mundo?",
+    "correct": "La abeja melífera",
+    "wrong": [
+      "La mariposa",
+      "La mariquita",
+      "La hormiga"
+    ],
+    "hint": "Este insecto social vive en colmenas con una reina, realiza la 'danza del vaivén' para indicar la ubicación de las flores y produce un líquido dorado y dulce.",
+    "explanation": "Las abejas melíferas polinizan aproximadamente el 80% de las plantas con flores."
+  },
+  "q_nat_026": {
+    "question": "¿Cuál es el felino más grande del mundo?",
+    "correct": "El tigre",
+    "wrong": [
+      "El león",
+      "El jaguar",
+      "El leopardo"
+    ],
+    "hint": "La subespecie siberiana es la más grande, con su icónico pelaje naranja y rayas negras, cuyo patrón es único en cada individuo.",
+    "explanation": "El tigre es el felino más grande; el tigre siberiano puede pesar hasta 300 kg."
+  },
+  "q_nat_027": {
+    "question": "¿Qué reptil es famoso por su capacidad de cambiar de color?",
+    "correct": "El camaleón",
+    "wrong": [
+      "La iguana",
+      "El gecko",
+      "El anolis"
+    ],
+    "hint": "Esta criatura de movimiento lento tiene ojos que rotan independientemente, una lengua proyectil más larga que su cuerpo y una cola prensil para agarrarse a las ramas.",
+    "explanation": "Los camaleones cambian de color ajustando las células pigmentarias de su piel."
   }
 }

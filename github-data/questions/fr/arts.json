@@ -189,43 +189,111 @@
   "q_art_018": {
     "question": "Qui a écrit 'Don Quichotte' ?",
     "correct": "Miguel de Cervantes",
-    "wrong": ["García Márquez", "García Lorca", "Borges"],
+    "wrong": [
+      "García Márquez",
+      "García Lorca",
+      "Borges"
+    ],
     "hint": "Romancier espagnol, 1605 et 1615.",
     "explanation": "Considéré comme le premier roman moderne."
   },
   "q_art_019": {
     "question": "Quel architecte a conçu la Sagrada Família ?",
     "correct": "Antoni Gaudí",
-    "wrong": ["Santiago Calatrava", "Le Corbusier", "Frank Lloyd Wright"],
+    "wrong": [
+      "Santiago Calatrava",
+      "Le Corbusier",
+      "Frank Lloyd Wright"
+    ],
     "hint": "Catalan, formes organiques.",
     "explanation": "Commencée en 1882, toujours en construction."
   },
   "q_art_020": {
     "question": "Qui a peint le plafond de la chapelle Sixtine ?",
     "correct": "Michel-Ange",
-    "wrong": ["Raphaël", "Botticelli", "Le Caravage"],
+    "wrong": [
+      "Raphaël",
+      "Botticelli",
+      "Le Caravage"
+    ],
     "hint": "Il a aussi sculpté le David.",
     "explanation": "Peint entre 1508 et 1512, comprend La Création d'Adam."
   },
   "q_art_021": {
     "question": "Qui a écrit « Orgueil et Préjugés » ?",
     "correct": "Jane Austen",
-    "wrong": ["Charlotte Brontë", "Emily Brontë", "Virginia Woolf"],
+    "wrong": [
+      "Charlotte Brontë",
+      "Emily Brontë",
+      "Virginia Woolf"
+    ],
     "hint": "Romancière anglaise connue pour sa critique sociale acerbe de l'Angleterre de la Régence.",
     "explanation": "Publié en 1813."
   },
   "q_art_022": {
     "question": "Quelle technique picturale utilise de petits points de couleur pour former une image ?",
     "correct": "Pointillisme",
-    "wrong": ["Impressionnisme", "Cubisme", "Fauvisme"],
+    "wrong": [
+      "Impressionnisme",
+      "Cubisme",
+      "Fauvisme"
+    ],
     "hint": "« Un dimanche après-midi à l'Île de la Grande Jatte » de Georges Seurat en est un exemple célèbre.",
     "explanation": "Développé par Seurat et Signac dans les années 1880."
   },
   "q_art_023": {
     "question": "Comment s'appelle la sculpture grecque antique représentant un lanceur de disque ?",
     "correct": "Discobole",
-    "wrong": ["Vénus de Milo", "Laocoon", "Victoire de Samothrace"],
+    "wrong": [
+      "Vénus de Milo",
+      "Laocoon",
+      "Victoire de Samothrace"
+    ],
     "hint": "Créée par le sculpteur Myron, elle capture un athlète en plein mouvement.",
     "explanation": "Créée vers 450 av. J.-C."
+  },
+  "q_art_024": {
+    "question": "Qui a écrit « Gatsby le Magnifique » ?",
+    "correct": "F. Scott Fitzgerald",
+    "wrong": [
+      "Ernest Hemingway",
+      "John Steinbeck",
+      "William Faulkner"
+    ],
+    "hint": "Cet auteur américain a capturé le glamour et les excès de l'Ère du Jazz des années 20, situant son œuvre la plus célèbre à Long Island, New York.",
+    "explanation": "F. Scott Fitzgerald a publié « Gatsby le Magnifique » en 1925."
+  },
+  "q_art_025": {
+    "question": "Qui a peint « La Naissance de Vénus » ?",
+    "correct": "Sandro Botticelli",
+    "wrong": [
+      "Raphaël",
+      "Titien",
+      "Le Caravage"
+    ],
+    "hint": "Ce maître de la Renaissance italienne a représenté la déesse romaine émergeant de la mer sur une immense coquille Saint-Jacques.",
+    "explanation": "Sandro Botticelli a peint « La Naissance de Vénus » vers 1485."
+  },
+  "q_art_026": {
+    "question": "Qui a écrit « Les Misérables » ?",
+    "correct": "Victor Hugo",
+    "wrong": [
+      "Alexandre Dumas",
+      "Émile Zola",
+      "Gustave Flaubert"
+    ],
+    "hint": "Ce géant littéraire français a aussi écrit « Notre-Dame de Paris » et a été exilé 19 ans pour s'être opposé à Napoléon III.",
+    "explanation": "Victor Hugo a publié « Les Misérables » en 1862."
+  },
+  "q_art_027": {
+    "question": "Quel genre musical est né à La Nouvelle-Orléans au début du XXe siècle ?",
+    "correct": "Le jazz",
+    "wrong": [
+      "Le blues",
+      "Le rock and roll",
+      "La country"
+    ],
+    "hint": "Louis Armstrong et Duke Ellington furent les plus grands pionniers de ce genre fondé sur l'improvisation.",
+    "explanation": "Le jazz est né à La Nouvelle-Orléans au début des années 1900."
   }
 }

@@ -189,50 +189,111 @@
   "q_foo_018": {
     "question": "De quel pays la pizza est-elle originaire ?",
     "correct": "Italie",
-    "wrong": ["Grèce", "Turquie", "États-Unis"],
+    "wrong": [
+      "Grèce",
+      "Turquie",
+      "États-Unis"
+    ],
     "hint": "Naples, XVIIIe siècle.",
     "explanation": "Pizza Margherita, 1889."
   },
   "q_foo_019": {
     "question": "À partir de quelle légumineuse le tofu est-il fabriqué ?",
     "correct": "Soja",
-    "wrong": ["Haricot de Lima", "Pois chiche", "Haricot mungo"],
+    "wrong": [
+      "Haricot de Lima",
+      "Pois chiche",
+      "Haricot mungo"
+    ],
     "hint": "Sauce soja, tempeh, miso.",
     "explanation": "Originaire de Chine il y a 2 000 ans."
   },
   "q_foo_020": {
     "question": "Quel pays est le plus grand producteur d'huile d'olive ?",
     "correct": "Espagne",
-    "wrong": ["Italie", "Grèce", "Turquie"],
+    "wrong": [
+      "Italie",
+      "Grèce",
+      "Turquie"
+    ],
     "hint": "Près de la moitié de la production mondiale.",
     "explanation": "Région d'Andalousie."
   },
   "q_foo_021": {
     "question": "De quel pays le chocolat est-il originaire ?",
     "correct": "Mexique",
-    "wrong": ["Belgique", "Suisse", "Ghana"],
+    "wrong": [
+      "Belgique",
+      "Suisse",
+      "Ghana"
+    ],
     "hint": "Les Aztèques et les Mayas le consommaient sous forme de boisson amère.",
     "explanation": "Le chocolat est originaire de Mésoamérique."
   },
   "q_foo_022": {
     "question": "Quel fruit est botaniquement classé comme une baie ?",
     "correct": "Banane",
-    "wrong": ["Fraise", "Framboise", "Mûre"],
+    "wrong": [
+      "Fraise",
+      "Framboise",
+      "Mûre"
+    ],
     "hint": "Malgré sa forme et sa peau, ce fruit tropical répond à tous les critères botaniques d'une baie.",
     "explanation": "Il se développe à partir d'un seul ovaire."
   },
   "q_foo_023": {
     "question": "Quel pays est le plus grand consommateur de thé par habitant ?",
     "correct": "Turquie",
-    "wrong": ["Chine", "Inde", "Royaume-Uni"],
+    "wrong": [
+      "Chine",
+      "Inde",
+      "Royaume-Uni"
+    ],
     "hint": "Ce pays entre l'Europe et l'Asie sert le thé dans des verres en forme de tulipe.",
     "explanation": "Environ 3 kg par personne et par an."
   },
   "q_foo_024": {
     "question": "Quel type d'aliment est le « naan » ?",
     "correct": "Pain",
-    "wrong": ["Riz", "Curry", "Dessert"],
+    "wrong": [
+      "Riz",
+      "Curry",
+      "Dessert"
+    ],
     "hint": "C'est un pain plat cuit dans un four tandoor.",
     "explanation": "Pain plat levé populaire dans les cuisines d'Asie du Sud et d'Asie centrale."
+  },
+  "q_foo_025": {
+    "question": "Quelle est l'herbe principale du pesto traditionnel italien ?",
+    "correct": "Le basilic",
+    "wrong": [
+      "L'origan",
+      "Le persil",
+      "Le romarin"
+    ],
+    "hint": "Cette herbe verte aromatique de Gênes est mélangée avec des pignons, de l'ail, du parmesan et de l'huile d'olive pour faire la sauce classique.",
+    "explanation": "Le pesto génois traditionnel est fait de feuilles de basilic frais, de pignons, d'ail, de parmesan et d'huile d'olive."
+  },
+  "q_foo_026": {
+    "question": "Quelle céréale est utilisée dans le porridge traditionnel écossais ?",
+    "correct": "L'avoine",
+    "wrong": [
+      "Le blé",
+      "L'orge",
+      "Le seigle"
+    ],
+    "hint": "Cette céréale complète est aussi utilisée dans les barres de granola et les bols de petit-déjeuner overnight, connue pour être bonne pour le cœur et réduire le cholestérol.",
+    "explanation": "L'avoine est un aliment de base de la cuisine écossaise depuis des siècles."
+  },
+  "q_foo_027": {
+    "question": "Quel fruit est traditionnellement utilisé pour faire du vin ?",
+    "correct": "Le raisin",
+    "wrong": [
+      "La pomme",
+      "La prune",
+      "La cerise"
+    ],
+    "hint": "Les régions de Bordeaux en France et de Toscane en Italie sont mondialement célèbres pour sa culture, avec des variétés rouges et blanches.",
+    "explanation": "Le raisin est le fruit principal utilisé pour la fabrication du vin."
   }
 }

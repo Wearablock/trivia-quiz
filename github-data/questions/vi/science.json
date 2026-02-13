@@ -189,50 +189,122 @@
   "q_sci_017": {
     "question": "Hành tinh nào gần Mặt Trời nhất?",
     "correct": "Sao Thủy",
-    "wrong": ["Sao Kim", "Trái Đất", "Sao Hỏa"],
+    "wrong": [
+      "Sao Kim",
+      "Trái Đất",
+      "Sao Hỏa"
+    ],
     "hint": "Không có bầu khí quyển",
     "explanation": "Cách Mặt Trời 58 triệu km"
   },
   "q_sci_018": {
     "question": "Đơn vị đo điện trở là gì?",
     "correct": "Ohm",
-    "wrong": ["Volt", "Ampere", "Watt"],
+    "wrong": [
+      "Volt",
+      "Ampere",
+      "Watt"
+    ],
     "hint": "Ký hiệu omega Ω",
     "explanation": "Đặt theo tên Georg Simon Ohm"
   },
   "q_sci_019": {
     "question": "Cơ thể người trưởng thành có bao nhiêu xương?",
     "correct": "206",
-    "wrong": ["186", "256", "300"],
+    "wrong": [
+      "186",
+      "256",
+      "300"
+    ],
     "hint": "Trẻ sơ sinh có 270 xương",
     "explanation": "Xương hợp nhất khi trưởng thành"
   },
   "q_sci_020": {
     "question": "Ký hiệu hóa học của kali là gì?",
     "correct": "K",
-    "wrong": ["P", "Po", "Pt"],
+    "wrong": [
+      "P",
+      "Po",
+      "Pt"
+    ],
     "hint": "Từ tiếng Latin 'kalium'",
     "explanation": "Từ tiếng Ả Rập 'al-qalyah'"
   },
   "q_sci_021": {
     "question": "Cơ quan lớn nhất trong cơ thể người là gì?",
     "correct": "Da",
-    "wrong": ["Gan", "Não", "Phổi"],
+    "wrong": [
+      "Gan",
+      "Não",
+      "Phổi"
+    ],
     "hint": "Cơ quan này bao phủ toàn bộ cơ thể và đóng vai trò như hàng rào bảo vệ.",
     "explanation": "Da là cơ quan lớn nhất của cơ thể người, bao phủ diện tích khoảng 1,5 đến 2 mét vuông ở người trưởng thành và nặng khoảng 3,6 kg."
   },
   "q_sci_022": {
     "question": "Hành tinh nào trong hệ mặt trời có lực hấp dẫn mạnh nhất?",
     "correct": "Sao Mộc",
-    "wrong": ["Sao Thổ", "Sao Hải Vương", "Trái Đất"],
+    "wrong": [
+      "Sao Thổ",
+      "Sao Hải Vương",
+      "Trái Đất"
+    ],
     "hint": "Hành tinh khí khổng lồ này là hành tinh lớn nhất trong hệ mặt trời.",
     "explanation": "Sao Mộc có lực hấp dẫn bề mặt mạnh nhất trong các hành tinh của hệ mặt trời, khoảng 24,79 m/s², gấp khoảng 2,5 lần lực hấp dẫn của Trái Đất."
   },
   "q_sci_023": {
     "question": "Nguyên tố hiếm nhất tồn tại tự nhiên trong vỏ Trái Đất là gì?",
     "correct": "Astatin",
-    "wrong": ["Franxi", "Plutoni", "Radi"],
+    "wrong": [
+      "Franxi",
+      "Plutoni",
+      "Radi"
+    ],
     "hint": "Nguyên tố halogen phóng xạ này có chu kỳ bán rã chỉ khoảng 8 giờ.",
     "explanation": "Astatin là nguyên tố hiếm nhất tồn tại tự nhiên, ước tính chưa đến 30 gam tồn tại trong toàn bộ vỏ Trái Đất tại bất kỳ thời điểm nào."
+  },
+  "q_sci_024": {
+    "question": "Ký hiệu hóa học của bạc là gì?",
+    "correct": "Ag",
+    "wrong": [
+      "Si",
+      "Pt",
+      "Au"
+    ],
+    "hint": "Bắt nguồn từ tiếng Latin 'argentum', giống tên nước Argentina, là kim loại quý dùng trong trang sức và điện tử.",
+    "explanation": "Ký hiệu hóa học của bạc là Ag, từ tiếng Latin 'argentum'."
+  },
+  "q_sci_025": {
+    "question": "Một tế bào người bình thường có bao nhiêu nhiễm sắc thể?",
+    "correct": "46",
+    "wrong": [
+      "23",
+      "44",
+      "48"
+    ],
+    "hint": "Chúng được sắp xếp thành 23 cặp: 22 cặp nhiễm sắc thể thường cộng 1 cặp nhiễm sắc thể giới tính (XX hoặc XY).",
+    "explanation": "Tế bào người chứa 46 nhiễm sắc thể được sắp xếp thành 23 cặp."
+  },
+  "q_sci_026": {
+    "question": "Lực cơ bản nào giữ các hành tinh quay quanh Mặt Trời?",
+    "correct": "Lực hấp dẫn",
+    "wrong": [
+      "Từ tính",
+      "Lực hạt nhân mạnh",
+      "Lực ly tâm"
+    ],
+    "hint": "Isaac Newton mô tả lực này sau khi quan sát quả táo rơi; nó hút hai vật có khối lượng về phía nhau.",
+    "explanation": "Lực hấp dẫn là lực giữ các hành tinh quay quanh Mặt Trời."
+  },
+  "q_sci_027": {
+    "question": "Hành tinh nào trong hệ Mặt Trời có nhiệt độ bề mặt cao nhất?",
+    "correct": "Sao Kim",
+    "wrong": [
+      "Sao Thủy",
+      "Sao Hỏa",
+      "Sao Mộc"
+    ],
+    "hint": "Dù không phải hành tinh gần Mặt Trời nhất, bầu khí quyển CO₂ dày đặc tạo hiệu ứng nhà kính cực đoan lên tới 465°C, được đặt theo tên nữ thần tình yêu La Mã.",
+    "explanation": "Sao Kim có nhiệt độ bề mặt khoảng 465°C do hiệu ứng nhà kính mãnh liệt."
   }
 }

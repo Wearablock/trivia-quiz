@@ -227,5 +227,33 @@
     "wrong": ["Venus de Milo", "Laocoön", "Nike of Samothrace"],
     "hint": "This sculpture captures an athlete in mid-motion and was created by the sculptor Myron.",
     "explanation": "Discobolus (The Discus Thrower) was created by the sculptor Myron around 450 BCE. The original bronze is lost, but Roman marble copies survive."
+  },
+  "q_art_024": {
+    "question": "Who wrote 'The Great Gatsby'?",
+    "correct": "F. Scott Fitzgerald",
+    "wrong": ["Ernest Hemingway", "John Steinbeck", "William Faulkner"],
+    "hint": "This American author captured the glamour and excess of the Jazz Age 1920s, setting his most famous story on Long Island, New York.",
+    "explanation": "F. Scott Fitzgerald published The Great Gatsby in 1925. The novel explores themes of wealth, class, and the American Dream during the Roaring Twenties."
+  },
+  "q_art_025": {
+    "question": "Who painted 'The Birth of Venus'?",
+    "correct": "Sandro Botticelli",
+    "wrong": ["Raphael", "Titian", "Caravaggio"],
+    "hint": "This Italian Renaissance master depicted the Roman goddess emerging from the sea, standing on a giant scallop shell.",
+    "explanation": "Sandro Botticelli painted The Birth of Venus around 1485. The painting depicts the goddess Venus arriving at the shore after her birth from sea foam."
+  },
+  "q_art_026": {
+    "question": "Who wrote 'Les Misérables'?",
+    "correct": "Victor Hugo",
+    "wrong": ["Alexandre Dumas", "Émile Zola", "Gustave Flaubert"],
+    "hint": "This French literary giant also wrote 'The Hunchback of Notre-Dame' and was exiled for 19 years for opposing Napoleon III.",
+    "explanation": "Victor Hugo published Les Misérables in 1862. The epic novel follows former convict Jean Valjean through post-revolutionary France."
+  },
+  "q_art_027": {
+    "question": "Which musical genre originated in New Orleans in the early 20th century?",
+    "correct": "Jazz",
+    "wrong": ["Blues", "Rock and Roll", "Country"],
+    "hint": "Louis Armstrong and Duke Ellington were among its greatest pioneers, blending African rhythms, blues, and improvisation into a revolutionary new sound.",
+    "explanation": "Jazz originated in New Orleans around the early 1900s, blending African American musical traditions with blues and ragtime. It became a defining American art form."
   }
 }

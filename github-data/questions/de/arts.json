@@ -189,43 +189,111 @@
   "q_art_018": {
     "question": "Wer schrieb 'Don Quijote'?",
     "correct": "Miguel de Cervantes",
-    "wrong": ["García Márquez", "García Lorca", "Borges"],
+    "wrong": [
+      "García Márquez",
+      "García Lorca",
+      "Borges"
+    ],
     "hint": "Spanischer Schriftsteller, 1605 und 1615.",
     "explanation": "Gilt als der erste moderne Roman."
   },
   "q_art_019": {
     "question": "Welcher Architekt entwarf die Sagrada Família?",
     "correct": "Antoni Gaudí",
-    "wrong": ["Santiago Calatrava", "Le Corbusier", "Frank Lloyd Wright"],
+    "wrong": [
+      "Santiago Calatrava",
+      "Le Corbusier",
+      "Frank Lloyd Wright"
+    ],
     "hint": "Katalane, organische Formen.",
     "explanation": "Baubeginn 1882, noch immer im Bau."
   },
   "q_art_020": {
     "question": "Wer malte die Decke der Sixtinischen Kapelle?",
     "correct": "Michelangelo",
-    "wrong": ["Raffael", "Botticelli", "Caravaggio"],
+    "wrong": [
+      "Raffael",
+      "Botticelli",
+      "Caravaggio"
+    ],
     "hint": "Er schuf auch die David-Skulptur.",
     "explanation": "Gemalt zwischen 1508 und 1512, zeigt Die Erschaffung Adams."
   },
   "q_art_021": {
     "question": "Wer schrieb 'Stolz und Vorurteil'?",
     "correct": "Jane Austen",
-    "wrong": ["Charlotte Brontë", "Emily Brontë", "Virginia Woolf"],
+    "wrong": [
+      "Charlotte Brontë",
+      "Emily Brontë",
+      "Virginia Woolf"
+    ],
     "hint": "Englische Romanautorin, bekannt für Gesellschaftskommentare der Regency-Ära.",
     "explanation": "Veröffentlicht 1813."
   },
   "q_art_022": {
     "question": "Welche Maltechnik verwendet kleine Farbpunkte?",
     "correct": "Pointillismus",
-    "wrong": ["Impressionismus", "Kubismus", "Fauvismus"],
+    "wrong": [
+      "Impressionismus",
+      "Kubismus",
+      "Fauvismus"
+    ],
     "hint": "Seurats 'Ein Sonntagnachmittag auf der Insel La Grande Jatte'.",
     "explanation": "In den 1880er Jahren von Seurat und Signac entwickelt."
   },
   "q_art_023": {
     "question": "Wie heißt die antike griechische Skulptur eines Diskuswerfers?",
     "correct": "Diskobol",
-    "wrong": ["Venus von Milo", "Laokoon", "Nike von Samothrake"],
+    "wrong": [
+      "Venus von Milo",
+      "Laokoon",
+      "Nike von Samothrake"
+    ],
     "hint": "Geschaffen von Myron.",
     "explanation": "Entstanden um 450 v. Chr."
+  },
+  "q_art_024": {
+    "question": "Wer schrieb ‚Der große Gatsby'?",
+    "correct": "F. Scott Fitzgerald",
+    "wrong": [
+      "Ernest Hemingway",
+      "John Steinbeck",
+      "William Faulkner"
+    ],
+    "hint": "Dieser amerikanische Autor fing den Glamour und die Exzesse der Jazz-Ära der 1920er ein und verlegte seine berühmteste Geschichte nach Long Island, New York.",
+    "explanation": "F. Scott Fitzgerald veröffentlichte ‚Der große Gatsby' im Jahr 1925."
+  },
+  "q_art_025": {
+    "question": "Wer malte ‚Die Geburt der Venus'?",
+    "correct": "Sandro Botticelli",
+    "wrong": [
+      "Raffael",
+      "Tizian",
+      "Caravaggio"
+    ],
+    "hint": "Dieser Meister der italienischen Renaissance stellte die römische Göttin dar, wie sie aus dem Meer auf einer riesigen Jakobsmuschel emporsteigt.",
+    "explanation": "Sandro Botticelli malte ‚Die Geburt der Venus' um 1485."
+  },
+  "q_art_026": {
+    "question": "Wer schrieb ‚Die Elenden' (Les Misérables)?",
+    "correct": "Victor Hugo",
+    "wrong": [
+      "Alexandre Dumas",
+      "Émile Zola",
+      "Gustave Flaubert"
+    ],
+    "hint": "Dieser französische Literaturgigant schrieb auch ‚Der Glöckner von Notre-Dame' und wurde 19 Jahre lang ins Exil verbannt, weil er sich Napoleon III. widersetzte.",
+    "explanation": "Victor Hugo veröffentlichte ‚Les Misérables' im Jahr 1862."
+  },
+  "q_art_027": {
+    "question": "Welches Musikgenre entstand Anfang des 20. Jahrhunderts in New Orleans?",
+    "correct": "Jazz",
+    "wrong": [
+      "Blues",
+      "Rock 'n' Roll",
+      "Country"
+    ],
+    "hint": "Louis Armstrong und Duke Ellington waren die größten Wegbereiter dieses auf Improvisation basierenden Genres.",
+    "explanation": "Jazz entstand Anfang der 1900er Jahre in New Orleans."
   }
 }

@@ -234,5 +234,26 @@
     "wrong": ["Rice", "Curry", "Dessert"],
     "hint": "This flatbread is a staple in South Asian cuisine and is traditionally baked in a tandoor oven.",
     "explanation": "Naan is a leavened flatbread popular in South and Central Asian cuisines. It is traditionally baked in a tandoor (clay oven) and served with curries."
+  },
+  "q_foo_025": {
+    "question": "What is the main herb in traditional Italian pesto sauce?",
+    "correct": "Basil",
+    "wrong": ["Oregano", "Parsley", "Rosemary"],
+    "hint": "This fragrant green herb from Genoa is blended with pine nuts, garlic, Parmesan cheese, and olive oil to create the classic sauce.",
+    "explanation": "Traditional pesto alla Genovese is made with fresh basil leaves, pine nuts, garlic, Parmesan cheese, and olive oil. It originated in Genoa, Italy."
+  },
+  "q_foo_026": {
+    "question": "Which grain is used to make traditional Scottish porridge?",
+    "correct": "Oats",
+    "wrong": ["Wheat", "Barley", "Rye"],
+    "hint": "Also used in granola bars and overnight breakfast bowls, this whole grain is heart-healthy and known for lowering cholesterol.",
+    "explanation": "Oats have been a staple in Scottish cuisine for centuries. Traditional Scottish porridge is made by simmering oats with water and a pinch of salt."
+  },
+  "q_foo_027": {
+    "question": "What fruit is traditionally used to make wine?",
+    "correct": "Grapes",
+    "wrong": ["Apples", "Plums", "Cherries"],
+    "hint": "France's Bordeaux and Italy's Tuscany are world-famous regions for growing this fruit, which comes in red and white varieties.",
+    "explanation": "Grapes are the primary fruit used in winemaking. The practice of viticulture dates back over 8,000 years to the region around modern-day Georgia and Iran."
   }
 }

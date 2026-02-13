@@ -178,50 +178,122 @@
   "q_nat_017": {
     "question": "Was ist das größte Landtier?",
     "correct": "Afrikanischer Elefant",
-    "wrong": ["Breitmaulnashorn", "Flusspferd", "Giraffe"],
+    "wrong": [
+      "Breitmaulnashorn",
+      "Flusspferd",
+      "Giraffe"
+    ],
     "hint": "Bis zu 6.000 kg, Ohren in Form Afrikas.",
     "explanation": "Kann bis zu 4 Meter hoch werden."
   },
   "q_nat_018": {
     "question": "Was für ein Tier ist ein Komodowaran?",
     "correct": "Eidechse",
-    "wrong": ["Krokodil", "Schlange", "Dinosaurier"],
+    "wrong": [
+      "Krokodil",
+      "Schlange",
+      "Dinosaurier"
+    ],
     "hint": "Größte lebende Art seiner Gattung, Indonesien.",
     "explanation": "Kann bis zu 3 Meter lang werden."
   },
   "q_nat_019": {
     "question": "Welcher ist der schnellste Fisch im Ozean?",
     "correct": "Fächerfisch",
-    "wrong": ["Schwertfisch", "Marlin", "Thunfisch"],
+    "wrong": [
+      "Schwertfisch",
+      "Marlin",
+      "Thunfisch"
+    ],
     "hint": "Große Rückenflosse wie ein Segel.",
     "explanation": "Bis zu 110 km/h schnell."
   },
   "q_nat_020": {
     "question": "Welches Tier hat die stärkste Bisskraft?",
     "correct": "Leistenkrokodil",
-    "wrong": ["Weißer Hai", "Flusspferd", "Grizzlybär"],
+    "wrong": [
+      "Weißer Hai",
+      "Flusspferd",
+      "Grizzlybär"
+    ],
     "hint": "Küstengebiete von Südostasien bis Australien.",
     "explanation": "Bisskraft von 3.700 psi."
   },
   "q_nat_021": {
     "question": "Was ist der größte lebende Organismus der Erde nach Fläche?",
     "correct": "Honigpilz",
-    "wrong": ["Blauwal", "Riesenmammutbaum", "Great Barrier Reef"],
+    "wrong": [
+      "Blauwal",
+      "Riesenmammutbaum",
+      "Great Barrier Reef"
+    ],
     "hint": "Breitet sich unterirdisch durch Fäden aus.",
     "explanation": "965 Hektar in Oregon, USA."
   },
   "q_nat_022": {
     "question": "Wie viel Prozent des Wassers auf der Erde ist Süßwasser?",
     "correct": "Etwa 3 %",
-    "wrong": ["Etwa 10 %", "Etwa 25 %", "Etwa 50 %"],
+    "wrong": [
+      "Etwa 10 %",
+      "Etwa 25 %",
+      "Etwa 50 %"
+    ],
     "hint": "Der Großteil davon ist in Gletschern gebunden.",
     "explanation": "Etwa 3 %."
   },
   "q_nat_023": {
     "question": "Welches Tier erzeugt das lauteste Geräusch?",
     "correct": "Pottwal",
-    "wrong": ["Blauwal", "Brüllaffe", "Knallkrebs"],
+    "wrong": [
+      "Blauwal",
+      "Brüllaffe",
+      "Knallkrebs"
+    ],
     "hint": "Tiefseetaucher, nutzt Klicklaute zur Echoortung.",
     "explanation": "Bis zu 230 Dezibel."
+  },
+  "q_nat_024": {
+    "question": "Was ist das größte Tier der Welt?",
+    "correct": "Die Giraffe",
+    "wrong": [
+      "Der Elefant",
+      "Der Elch",
+      "Der Strauß"
+    ],
+    "hint": "Dieses afrikanische Tier hat eine 50 cm lange Zunge, dieselben 7 Halswirbel wie Menschen und ein einzigartiges Fleckenmuster wie ein Fingerabdruck.",
+    "explanation": "Giraffen können 5,7 Meter groß werden und sind damit die größten Landtiere."
+  },
+  "q_nat_025": {
+    "question": "Was ist das wichtigste bestäubende Insekt für die Nahrungsmittelproduktion der Welt?",
+    "correct": "Die Honigbiene",
+    "wrong": [
+      "Der Schmetterling",
+      "Der Marienkäfer",
+      "Die Ameise"
+    ],
+    "hint": "Dieses soziale Insekt lebt in Bienenstöcken mit einer Königin, führt den ‚Schwänzeltanz' auf, um den Standort von Blumen anzuzeigen, und produziert eine süße goldene Flüssigkeit.",
+    "explanation": "Honigbienen bestäuben etwa 80 % aller Blütenpflanzen."
+  },
+  "q_nat_026": {
+    "question": "Was ist die größte Großkatze der Welt?",
+    "correct": "Der Tiger",
+    "wrong": [
+      "Der Löwe",
+      "Der Jaguar",
+      "Der Leopard"
+    ],
+    "hint": "Die sibirische Unterart ist die größte, mit dem ikonischen orangefarbenen Fell und schwarzen Streifen, deren Muster bei jedem Tier einzigartig ist.",
+    "explanation": "Der Tiger ist die größte Großkatze; der Sibirische Tiger kann bis zu 300 kg wiegen."
+  },
+  "q_nat_027": {
+    "question": "Welches Reptil ist für seine Fähigkeit bekannt, die Farbe zu wechseln?",
+    "correct": "Das Chamäleon",
+    "wrong": [
+      "Der Leguan",
+      "Der Gecko",
+      "Die Anolis-Eidechse"
+    ],
+    "hint": "Dieses langsame Tier hat Augen, die sich unabhängig voneinander drehen, eine Schleuderzunge, die länger als sein Körper ist, und einen Greifschwanz zum Festhalten an Ästen.",
+    "explanation": "Chamäleons wechseln ihre Farbe, indem sie die Pigmentzellen in ihrer Haut anpassen."
   }
 }

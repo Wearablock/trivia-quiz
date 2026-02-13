@@ -178,50 +178,122 @@
   "q_spo_017": {
     "question": "Dalam olahraga apa tim-tim bersaing memperebutkan Piala Stanley?",
     "correct": "Hoki Es",
-    "wrong": ["Bola Basket", "Bisbol", "American Football"],
+    "wrong": [
+      "Bola Basket",
+      "Bisbol",
+      "American Football"
+    ],
     "hint": "Kanada, 1892",
     "explanation": "Trofi liga NHL"
   },
   "q_spo_018": {
     "question": "Negara mana yang meraih medali emas Olimpiade paling banyak?",
     "correct": "Amerika Serikat",
-    "wrong": ["Uni Soviet", "Tiongkok", "Britania Raya"],
+    "wrong": [
+      "Uni Soviet",
+      "Tiongkok",
+      "Britania Raya"
+    ],
     "hint": "Pernah menjadi tuan rumah Olimpiade 4 kali",
     "explanation": "Lebih dari 1.000 medali emas"
   },
   "q_spo_019": {
     "question": "Berapa poin nilai sebuah touchdown?",
     "correct": "6",
-    "wrong": ["3", "5", "7"],
+    "wrong": [
+      "3",
+      "5",
+      "7"
+    ],
     "hint": "Ada tendangan tambahan setelahnya",
     "explanation": "Ditambah konversi"
   },
   "q_spo_020": {
     "question": "Negara mana yang menjadi tuan rumah Piala Dunia FIFA pertama pada tahun 1930?",
     "correct": "Uruguay",
-    "wrong": ["Brasil", "Italia", "Prancis"],
+    "wrong": [
+      "Brasil",
+      "Italia",
+      "Prancis"
+    ],
     "hint": "Juga memenangkan turnamen tersebut",
     "explanation": "Mengalahkan Argentina 4-2"
   },
   "q_spo_021": {
     "question": "Berapa diameter ring basket standar dalam inci?",
     "correct": "18 inci",
-    "wrong": ["16 inci", "20 inci", "22 inci"],
+    "wrong": [
+      "16 inci",
+      "20 inci",
+      "22 inci"
+    ],
     "hint": "Ring sedikit lebih besar dari dua kali diameter bola basket.",
     "explanation": "Ring basket standar memiliki diameter dalam 18 inci (46 cm), sedangkan bola basket NBA memiliki diameter sekitar 9,4 inci."
   },
   "q_spo_022": {
     "question": "Negara mana yang memenangkan Piala Dunia Rugby pertama pada tahun 1987?",
     "correct": "Selandia Baru",
-    "wrong": ["Australia", "Afrika Selatan", "Inggris"],
+    "wrong": [
+      "Australia",
+      "Afrika Selatan",
+      "Inggris"
+    ],
     "hint": "Tim rugby negara ini dikenal sebagai All Blacks.",
     "explanation": "Selandia Baru memenangkan Piala Dunia Rugby pertama pada tahun 1987, mengalahkan Prancis 29-9 di final yang digelar di Auckland."
   },
   "q_spo_023": {
     "question": "Berapa skor break maksimum dalam snooker?",
     "correct": "147",
-    "wrong": ["155", "170", "180"],
+    "wrong": [
+      "155",
+      "170",
+      "180"
+    ],
     "hint": "Skor ini membutuhkan memasukkan semua 15 bola merah dengan bola hitam, diikuti enam bola warna.",
     "explanation": "Break maksimum 147 dalam snooker dicapai dengan memasukkan 15 bola merah (masing-masing diikuti bola hitam) kemudian semua enam bola warna secara berurutan."
+  },
+  "q_spo_024": {
+    "question": "Di negara mana judo berasal?",
+    "correct": "Jepang",
+    "wrong": [
+      "Tiongkok",
+      "Korea Selatan",
+      "Brasil"
+    ],
+    "hint": "Diciptakan oleh Jigoro Kano pada 1882, namanya berarti 'jalan yang lembut', menjadi cabang olimpiade sejak 1964.",
+    "explanation": "Judo diciptakan oleh Jigoro Kano di Jepang pada 1882."
+  },
+  "q_spo_025": {
+    "question": "Seni bela diri apa yang terkenal dengan tendangan tingginya, berasal dari Korea, dan menjadi cabang olimpiade pada 2000?",
+    "correct": "Taekwondo",
+    "wrong": [
+      "Karate",
+      "Kung fu",
+      "Judo"
+    ],
+    "hint": "Namanya berarti 'jalan kaki dan tangan'; Korea Selatan memiliki medali emas olimpiade terbanyak di cabang ini.",
+    "explanation": "Taekwondo berasal dari Korea pada dekade 1940-50."
+  },
+  "q_spo_026": {
+    "question": "Olahraga raket apa yang menggunakan kok alih-alih bola?",
+    "correct": "Bulu tangkis",
+    "wrong": [
+      "Squash",
+      "Tenis meja",
+      "Racquetball"
+    ],
+    "hint": "Dinamai dari sebuah rumah bangsawan Inggris dan merupakan olahraga raket tercepat di dunia.",
+    "explanation": "Bulu tangkis dinamai dari Badminton House di Gloucestershire, Inggris."
+  },
+  "q_spo_027": {
+    "question": "Turnamen Grand Slam tenis mana yang merupakan satu-satunya yang dimainkan di lapangan rumput?",
+    "correct": "Wimbledon",
+    "wrong": [
+      "Australia Terbuka",
+      "AS Terbuka",
+      "Roland Garros"
+    ],
+    "hint": "Diadakan setiap tahun di London, terkenal dengan aturan berpakaian serba putih dan tradisi stroberi dengan krim.",
+    "explanation": "Wimbledon diselenggarakan sejak 1877 di All England Club di London."
   }
 }

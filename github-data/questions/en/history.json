@@ -223,5 +223,33 @@
     "wrong": ["Julius Caesar", "Nero", "Tiberius"],
     "hint": "Born as Octavian, he was the adopted heir of Julius Caesar.",
     "explanation": "Augustus (born Gaius Octavius) became the first Roman Emperor in 27 BCE and ruled until 14 CE, initiating the Pax Romana."
+  },
+  "q_his_024": {
+    "question": "Whose expedition was the first to circumnavigate the globe?",
+    "correct": "Ferdinand Magellan",
+    "wrong": ["Christopher Columbus", "James Cook", "Vasco da Gama"],
+    "hint": "This Portuguese explorer set sail from Spain in 1519 with five ships, but was killed in the Philippines — his crew completed the voyage without him.",
+    "explanation": "Ferdinand Magellan's expedition (1519–1522) was the first to circumnavigate the Earth. Magellan himself died in the Philippines in 1521; Juan Sebastián Elcano completed the journey."
+  },
+  "q_his_025": {
+    "question": "Who led the Indian independence movement through non-violent resistance?",
+    "correct": "Mahatma Gandhi",
+    "wrong": ["Jawaharlal Nehru", "Subhas Chandra Bose", "Bhagat Singh"],
+    "hint": "Known as the 'Father of the Nation' in India, he led the famous Salt March in 1930 and always wore simple hand-spun cloth.",
+    "explanation": "Mahatma Gandhi led India to independence from British rule in 1947 through non-violent civil disobedience. His philosophy inspired civil rights movements worldwide."
+  },
+  "q_his_026": {
+    "question": "Which ancient civilization developed cuneiform, one of the earliest writing systems?",
+    "correct": "Sumerians",
+    "wrong": ["Ancient Egyptians", "Phoenicians", "Indus Valley civilization"],
+    "hint": "Living in Mesopotamia (modern-day Iraq), they pressed wedge-shaped marks into wet clay tablets around 3400 BCE.",
+    "explanation": "The Sumerians of Mesopotamia developed cuneiform writing around 3400 BCE. Originally used for record-keeping, it evolved to express literature, law, and science."
+  },
+  "q_his_027": {
+    "question": "What is the name of the defensive wall built across northern Britain by the Romans?",
+    "correct": "Hadrian's Wall",
+    "wrong": ["Antonine Wall", "Great Wall of China", "Offa's Dyke"],
+    "hint": "Built in 122 AD on orders of a Roman emperor, this 73-mile stone wall stretched coast to coast and marked the empire's northern frontier in Britain.",
+    "explanation": "Hadrian's Wall was built beginning in 122 AD under Emperor Hadrian. It stretches 73 miles (117 km) across northern England and is now a UNESCO World Heritage Site."
   }
 }

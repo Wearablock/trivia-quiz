@@ -223,5 +223,33 @@
     "wrong": ["Rio de Janeiro", "São Paulo", "Salvador"],
     "hint": "This purpose-built city was designed by architect Oscar Niemeyer and urban planner Lúcio Costa.",
     "explanation": "Brasília became Brazil's capital in 1960, replacing Rio de Janeiro. It was planned and built from scratch in just 41 months."
+  },
+  "q_geo_023": {
+    "question": "What is the tallest waterfall in the world?",
+    "correct": "Angel Falls",
+    "wrong": ["Niagara Falls", "Victoria Falls", "Iguazu Falls"],
+    "hint": "Located in Venezuela, water drops from a flat-topped mountain called a 'tepui' — so high that much of it turns to mist before reaching the ground.",
+    "explanation": "Angel Falls in Venezuela drops 979 meters, making it the world's tallest uninterrupted waterfall. It was named after Jimmy Angel, a US aviator who flew over it in 1933."
+  },
+  "q_geo_024": {
+    "question": "Which country is known as the 'Land of the Rising Sun'?",
+    "correct": "Japan",
+    "wrong": ["China", "Thailand", "South Korea"],
+    "hint": "This island nation's flag features a red circle on a white background, symbolizing the sun.",
+    "explanation": "Japan is called the 'Land of the Rising Sun' because it lies east of the Asian mainland. The Japanese name 'Nihon' literally means 'origin of the sun.'"
+  },
+  "q_geo_025": {
+    "question": "What is the largest country in the world by area?",
+    "correct": "Russia",
+    "wrong": ["Canada", "China", "United States"],
+    "hint": "Spanning 11 time zones from Eastern Europe to the Pacific, this country covers more than one-eighth of Earth's inhabited land.",
+    "explanation": "Russia covers approximately 17.1 million km², making it the largest country by area — nearly twice the size of Canada, the second largest."
+  },
+  "q_geo_026": {
+    "question": "Which river flows through the Grand Canyon?",
+    "correct": "Colorado River",
+    "wrong": ["Mississippi River", "Missouri River", "Rio Grande"],
+    "hint": "Its name means 'colored red' in Spanish, reflecting its muddy waters — and it carved one of the world's most famous canyons over millions of years.",
+    "explanation": "The Colorado River carved the Grand Canyon over approximately 5–6 million years. The canyon stretches 446 km long and up to 1,800 meters deep."
   }
 }

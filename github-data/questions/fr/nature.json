@@ -178,50 +178,122 @@
   "q_nat_017": {
     "question": "Quel est le plus grand animal terrestre ?",
     "correct": "Éléphant d'Afrique",
-    "wrong": ["Rhinocéros blanc", "Hippopotame", "Girafe"],
+    "wrong": [
+      "Rhinocéros blanc",
+      "Hippopotame",
+      "Girafe"
+    ],
     "hint": "Jusqu'à 6 000 kg, oreilles en forme d'Afrique.",
     "explanation": "Il peut atteindre 4 mètres de haut."
   },
   "q_nat_018": {
     "question": "Quel type d'animal est un dragon de Komodo ?",
     "correct": "Lézard",
-    "wrong": ["Crocodile", "Serpent", "Dinosaure"],
+    "wrong": [
+      "Crocodile",
+      "Serpent",
+      "Dinosaure"
+    ],
     "hint": "La plus grande espèce vivante de son genre, Indonésie.",
     "explanation": "Il peut mesurer jusqu'à 3 mètres de long."
   },
   "q_nat_019": {
     "question": "Quel est le poisson le plus rapide de l'océan ?",
     "correct": "Voilier",
-    "wrong": ["Espadon", "Marlin", "Thon"],
+    "wrong": [
+      "Espadon",
+      "Marlin",
+      "Thon"
+    ],
     "hint": "Grande nageoire dorsale en forme de voile.",
     "explanation": "Jusqu'à 110 km/h."
   },
   "q_nat_020": {
     "question": "Quel animal a la morsure la plus puissante ?",
     "correct": "Crocodile marin",
-    "wrong": ["Grand requin blanc", "Hippopotame", "Ours grizzly"],
+    "wrong": [
+      "Grand requin blanc",
+      "Hippopotame",
+      "Ours grizzly"
+    ],
     "hint": "Zones côtières de l'Asie du Sud-Est à l'Australie.",
     "explanation": "Force de morsure de 3 700 psi."
   },
   "q_nat_021": {
     "question": "Quel est le plus grand organisme vivant sur Terre par superficie ?",
     "correct": "Armillaire",
-    "wrong": ["Baleine bleue", "Séquoia géant", "Grande Barrière de corail"],
+    "wrong": [
+      "Baleine bleue",
+      "Séquoia géant",
+      "Grande Barrière de corail"
+    ],
     "hint": "Il se propage sous terre par des filaments et peut couvrir des milliers d'hectares.",
     "explanation": "Dans l'Oregon, il couvre 965 hectares et a plus de 2 400 ans."
   },
   "q_nat_022": {
     "question": "Quel pourcentage de l'eau terrestre est de l'eau douce ?",
     "correct": "Environ 3 %",
-    "wrong": ["Environ 10 %", "Environ 25 %", "Environ 50 %"],
+    "wrong": [
+      "Environ 10 %",
+      "Environ 25 %",
+      "Environ 50 %"
+    ],
     "hint": "La majeure partie est piégée dans les glaciers et les calottes glaciaires.",
     "explanation": "Seulement 3 % de l'eau de la Terre est douce, dont 69 % est emprisonnée dans les glaciers."
   },
   "q_nat_023": {
     "question": "Quel animal produit le son le plus puissant du règne animal ?",
     "correct": "Cachalot",
-    "wrong": ["Baleine bleue", "Singe hurleur", "Crevette pistolet"],
+    "wrong": [
+      "Baleine bleue",
+      "Singe hurleur",
+      "Crevette pistolet"
+    ],
     "hint": "Mammifère plongeur en eaux profondes utilisant des clics pour l'écholocation.",
     "explanation": "Les clics du cachalot atteignent 230 décibels."
+  },
+  "q_nat_024": {
+    "question": "Quel est l'animal le plus grand du monde ?",
+    "correct": "La girafe",
+    "wrong": [
+      "L'éléphant",
+      "L'élan",
+      "L'autruche"
+    ],
+    "hint": "Cet animal africain a une langue de 50 cm, les mêmes 7 vertèbres cervicales que les humains et un motif de taches unique comme une empreinte digitale.",
+    "explanation": "Les girafes peuvent atteindre 5,7 mètres de haut, ce qui en fait l'animal terrestre le plus grand."
+  },
+  "q_nat_025": {
+    "question": "Quel est l'insecte pollinisateur le plus important pour les cultures alimentaires mondiales ?",
+    "correct": "L'abeille domestique",
+    "wrong": [
+      "Le papillon",
+      "La coccinelle",
+      "La fourmi"
+    ],
+    "hint": "Cet insecte social vit dans des ruches avec une reine, exécute la « danse frétillante » pour indiquer l'emplacement des fleurs et produit un liquide doré et sucré.",
+    "explanation": "Les abeilles domestiques pollinisent environ 80 % des plantes à fleurs."
+  },
+  "q_nat_026": {
+    "question": "Quel est le plus grand félin du monde ?",
+    "correct": "Le tigre",
+    "wrong": [
+      "Le lion",
+      "Le jaguar",
+      "Le léopard"
+    ],
+    "hint": "La sous-espèce de Sibérie est la plus grande, avec sa fourrure orange iconique et ses rayures noires dont le motif est unique pour chaque individu.",
+    "explanation": "Le tigre est le plus grand félin ; le tigre de Sibérie peut peser jusqu'à 300 kg."
+  },
+  "q_nat_027": {
+    "question": "Quel reptile est célèbre pour sa capacité à changer de couleur ?",
+    "correct": "Le caméléon",
+    "wrong": [
+      "L'iguane",
+      "Le gecko",
+      "L'anolis"
+    ],
+    "hint": "Cette créature à déplacement lent a des yeux qui tournent indépendamment, une langue projectile plus longue que son corps et une queue préhensile pour s'accrocher aux branches.",
+    "explanation": "Les caméléons changent de couleur en ajustant les cellules pigmentaires de leur peau."
   }
 }

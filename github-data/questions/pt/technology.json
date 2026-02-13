@@ -178,50 +178,111 @@
   "q_tec_017": {
     "question": "O que significa 'LED'?",
     "correct": "Diodo Emissor de Luz",
-    "wrong": ["Tela de Energia Luminosa", "Dispositivo de Emissão a Laser", "Driver de Baixa Energia"],
+    "wrong": [
+      "Tela de Energia Luminosa",
+      "Dispositivo de Emissão a Laser",
+      "Driver de Baixa Energia"
+    ],
     "hint": "Telas de TV, lâmpadas, smartphones.",
     "explanation": "Dispositivo semicondutor."
   },
   "q_tec_018": {
     "question": "Em que ano foi enviado o primeiro e-mail?",
     "correct": "1971",
-    "wrong": ["1965", "1978", "1983"],
+    "wrong": [
+      "1965",
+      "1978",
+      "1983"
+    ],
     "hint": "Ray Tomlinson, ARPANET.",
     "explanation": "Introduziu o símbolo '@'."
   },
   "q_tec_019": {
     "question": "O que significa 'PDF'?",
     "correct": "Portable Document Format",
-    "wrong": ["Printed Data File", "Page Design Format", "Personal Document File"],
+    "wrong": [
+      "Printed Data File",
+      "Page Design Format",
+      "Personal Document File"
+    ],
     "hint": "Adobe, início dos anos 1990.",
     "explanation": "Criado em 1992."
   },
   "q_tec_020": {
     "question": "Qual tecnologia tem o nome de um rei escandinavo do século X?",
     "correct": "Bluetooth",
-    "wrong": ["Wi-Fi", "NFC", "Ethernet"],
+    "wrong": [
+      "Wi-Fi",
+      "NFC",
+      "Ethernet"
+    ],
     "hint": "Transferência de dados de curto alcance.",
     "explanation": "Harald Bluetooth, rei dinamarquês."
   },
   "q_tec_021": {
     "question": "O que significa 'HTML'?",
     "correct": "HyperText Markup Language",
-    "wrong": ["High Tech Modern Language", "HyperText Machine Language", "Home Tool Markup Language"],
+    "wrong": [
+      "High Tech Modern Language",
+      "HyperText Machine Language",
+      "Home Tool Markup Language"
+    ],
     "hint": "É a linguagem padrão para criar páginas web.",
     "explanation": "Criado por Tim Berners-Lee em 1991."
   },
   "q_tec_022": {
     "question": "Quem cofundou a Apple junto com Steve Jobs?",
     "correct": "Steve Wozniak",
-    "wrong": ["Bill Gates", "Tim Cook", "Jony Ive"],
+    "wrong": [
+      "Bill Gates",
+      "Tim Cook",
+      "Jony Ive"
+    ],
     "hint": "Este engenheiro construiu o Apple I à mão numa garagem.",
     "explanation": "Steve Wozniak cofundou a Apple em 1976."
   },
   "q_tec_023": {
     "question": "Em que ano a Wikipédia foi lançada?",
     "correct": "2001",
-    "wrong": ["1998", "2003", "2005"],
+    "wrong": [
+      "1998",
+      "2003",
+      "2005"
+    ],
     "hint": "Jimmy Wales e Larry Sanger criaram esta enciclopédia livre online.",
     "explanation": "A Wikipédia foi lançada em 15 de janeiro de 2001."
+  },
+  "q_tec_024": {
+    "question": "O que significa VPN?",
+    "correct": "Rede Privada Virtual",
+    "wrong": [
+      "Nó de Processamento Virtual",
+      "Rede de Protocolo Verificado",
+      "Nó Visual Privado"
+    ],
+    "hint": "Esta tecnologia cria um túnel criptografado para seu tráfego de internet e oculta seu endereço IP.",
+    "explanation": "Uma VPN cria uma conexão segura e criptografada pela internet."
+  },
+  "q_tec_025": {
+    "question": "Quem fundou a Amazon?",
+    "correct": "Jeff Bezos",
+    "wrong": [
+      "Elon Musk",
+      "Mark Zuckerberg",
+      "Larry Page"
+    ],
+    "hint": "Ele fundou esta gigante do comércio eletrônico como livraria online em uma garagem em 1994.",
+    "explanation": "Jeff Bezos fundou a Amazon em 1994 em Bellevue, Washington."
+  },
+  "q_tec_026": {
+    "question": "O que significa CPU?",
+    "correct": "Unidade Central de Processamento",
+    "wrong": [
+      "Unidade de Processamento Computacional",
+      "Ferramenta Central de Programas",
+      "Unidade de Processamento do Núcleo"
+    ],
+    "hint": "Conhecido como o 'cérebro' do computador, este chip executa as instruções e cálculos para todas as tarefas do dispositivo.",
+    "explanation": "A CPU é o componente principal que executa instruções em um computador."
   }
 }

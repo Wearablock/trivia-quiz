@@ -189,50 +189,111 @@
   "q_foo_018": {
     "question": "De qual país a pizza é originária?",
     "correct": "Itália",
-    "wrong": ["Grécia", "Turquia", "Estados Unidos"],
+    "wrong": [
+      "Grécia",
+      "Turquia",
+      "Estados Unidos"
+    ],
     "hint": "Nápoles, século XVIII.",
     "explanation": "Pizza Margherita, 1889."
   },
   "q_foo_019": {
     "question": "De qual grão o tofu é feito?",
     "correct": "Soja",
-    "wrong": ["Feijão-de-lima", "Grão-de-bico", "Feijão-mungo"],
+    "wrong": [
+      "Feijão-de-lima",
+      "Grão-de-bico",
+      "Feijão-mungo"
+    ],
     "hint": "Molho de soja, tempeh, missô.",
     "explanation": "Originário da China há 2.000 anos."
   },
   "q_foo_020": {
     "question": "Qual país é o maior produtor de azeite de oliva?",
     "correct": "Espanha",
-    "wrong": ["Itália", "Grécia", "Turquia"],
+    "wrong": [
+      "Itália",
+      "Grécia",
+      "Turquia"
+    ],
     "hint": "Quase metade da produção mundial.",
     "explanation": "Região da Andaluzia."
   },
   "q_foo_021": {
     "question": "De qual país o chocolate é originário?",
     "correct": "México",
-    "wrong": ["Bélgica", "Suíça", "Gana"],
+    "wrong": [
+      "Bélgica",
+      "Suíça",
+      "Gana"
+    ],
     "hint": "Os astecas e os maias o consumiam como uma bebida amarga.",
     "explanation": "Originário da Mesoamérica."
   },
   "q_foo_022": {
     "question": "Qual fruta é botanicamente classificada como uma baga?",
     "correct": "Banana",
-    "wrong": ["Morango", "Framboesa", "Amora"],
+    "wrong": [
+      "Morango",
+      "Framboesa",
+      "Amora"
+    ],
     "hint": "Apesar de sua forma e casca, esta fruta tropical atende a todos os critérios botânicos de uma baga.",
     "explanation": "Desenvolve-se a partir de um único ovário."
   },
   "q_foo_023": {
     "question": "Qual país é o maior consumidor de chá per capita?",
     "correct": "Turquia",
-    "wrong": ["China", "Índia", "Reino Unido"],
+    "wrong": [
+      "China",
+      "Índia",
+      "Reino Unido"
+    ],
     "hint": "Este país entre a Europa e a Ásia serve chá em copos em forma de tulipa.",
     "explanation": "Cerca de 3 kg por pessoa por ano."
   },
   "q_foo_024": {
     "question": "Que tipo de alimento é o 'naan'?",
     "correct": "Pão",
-    "wrong": ["Arroz", "Curry", "Sobremesa"],
+    "wrong": [
+      "Arroz",
+      "Curry",
+      "Sobremesa"
+    ],
     "hint": "É um pão achatado assado em forno tandoor.",
     "explanation": "Pão achatado fermentado popular nas cozinhas do sul e do centro da Ásia."
+  },
+  "q_foo_025": {
+    "question": "Qual é a erva principal do pesto tradicional italiano?",
+    "correct": "Manjericão",
+    "wrong": [
+      "Orégano",
+      "Salsa",
+      "Alecrim"
+    ],
+    "hint": "Esta erva verde aromática de Gênova é misturada com pinhões, alho, parmesão e azeite para fazer o molho clássico.",
+    "explanation": "O pesto genovês tradicional é feito com folhas frescas de manjericão, pinhões, alho, parmesão e azeite."
+  },
+  "q_foo_026": {
+    "question": "Qual cereal é usado no mingau tradicional escocês?",
+    "correct": "Aveia",
+    "wrong": [
+      "Trigo",
+      "Cevada",
+      "Centeio"
+    ],
+    "hint": "Este grão integral também é usado em barras de granola e overnight oats, conhecido por ser bom para o coração e reduzir o colesterol.",
+    "explanation": "A aveia é um alimento básico da culinária escocesa há séculos."
+  },
+  "q_foo_027": {
+    "question": "Que fruta é tradicionalmente usada para fazer vinho?",
+    "correct": "Uva",
+    "wrong": [
+      "Maçã",
+      "Ameixa",
+      "Cereja"
+    ],
+    "hint": "As regiões de Bordeaux na França e Toscana na Itália são mundialmente famosas pelo seu cultivo, com variedades tintas e brancas.",
+    "explanation": "As uvas são a fruta principal utilizada na produção de vinho."
   }
 }

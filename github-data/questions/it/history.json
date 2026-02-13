@@ -222,22 +222,78 @@
   "q_his_021": {
     "question": "Quale fu il più grande impero della storia per estensione territoriale?",
     "correct": "Impero britannico",
-    "wrong": ["Impero mongolo", "Impero romano", "Impero russo"],
+    "wrong": [
+      "Impero mongolo",
+      "Impero romano",
+      "Impero russo"
+    ],
     "hint": "Si diceva che «il sole non tramontava mai» su questo impero.",
     "explanation": "L'Impero britannico al suo apice nel 1920 copriva circa 35,5 milioni di km²."
   },
   "q_his_022": {
     "question": "In che anno gli Stati Uniti dichiararono l'indipendenza?",
     "correct": "1776",
-    "wrong": ["1783", "1774", "1781"],
+    "wrong": [
+      "1783",
+      "1774",
+      "1781"
+    ],
     "hint": "La dichiarazione fu adottata il 4 luglio, oggi festa nazionale.",
     "explanation": "La Dichiarazione d'indipendenza degli Stati Uniti fu adottata il 4 luglio 1776."
   },
   "q_his_023": {
     "question": "Chi fu il primo imperatore di Roma?",
     "correct": "Augusto",
-    "wrong": ["Giulio Cesare", "Nerone", "Tiberio"],
+    "wrong": [
+      "Giulio Cesare",
+      "Nerone",
+      "Tiberio"
+    ],
     "hint": "Nato come Ottaviano, fu l'erede adottivo di Giulio Cesare.",
     "explanation": "Augusto divenne il primo imperatore romano nel 27 a.C."
+  },
+  "q_his_024": {
+    "question": "Chi guidò la prima circumnavigazione del mondo nel 1519?",
+    "correct": "Ferdinando Magellano",
+    "wrong": [
+      "Cristoforo Colombo",
+      "Vasco da Gama",
+      "Francis Drake"
+    ],
+    "hint": "Questo esploratore portoghese al servizio della Spagna partì con cinque navi; sebbene morì nelle Filippine, il suo equipaggio completò il viaggio.",
+    "explanation": "Ferdinando Magellano iniziò la prima circumnavigazione nel 1519; Juan Sebastián Elcano la completò nel 1522."
+  },
+  "q_his_025": {
+    "question": "Chi guidò il movimento di indipendenza dell'India attraverso la resistenza non violenta?",
+    "correct": "Mahatma Gandhi",
+    "wrong": [
+      "Jawaharlal Nehru",
+      "Subhas Chandra Bose",
+      "Bhagat Singh"
+    ],
+    "hint": "Conosciuto come il 'Padre della Nazione' in India, la sua Marcia del Sale del 1930 sfidò pacificamente il dominio coloniale britannico.",
+    "explanation": "Il Mahatma Gandhi guidò l'indipendenza dell'India attraverso la disobbedienza civile non violenta."
+  },
+  "q_his_026": {
+    "question": "Quale antica civiltà inventò la scrittura intorno al 3400 a.C.?",
+    "correct": "I Sumeri",
+    "wrong": [
+      "Gli Egizi",
+      "I Greci",
+      "I Cinesi"
+    ],
+    "hint": "Questa civiltà della Mesopotamia (attuale Iraq) creò la scrittura cuneiforme premendo canne su tavolette di argilla.",
+    "explanation": "I Sumeri della Mesopotamia svilupparono la scrittura cuneiforme intorno al 3400 a.C."
+  },
+  "q_his_027": {
+    "question": "Quale imperatore romano ordinò la costruzione di un muro difensivo nel nord della Britannia?",
+    "correct": "Adriano",
+    "wrong": [
+      "Augusto",
+      "Nerone",
+      "Traiano"
+    ],
+    "hint": "Questo muro di 118 km attraversava il nord dell'Inghilterra da costa a costa e porta il nome dell'imperatore che lo commissionò nel 122 d.C.",
+    "explanation": "Il Vallo di Adriano fu costruito a partire dal 122 d.C. per proteggere la Britannia romana."
   }
 }

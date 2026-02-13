@@ -189,50 +189,111 @@
   "q_foo_018": {
     "question": "Dari negara mana pizza berasal?",
     "correct": "Italia",
-    "wrong": ["Yunani", "Turki", "Amerika Serikat"],
+    "wrong": [
+      "Yunani",
+      "Turki",
+      "Amerika Serikat"
+    ],
     "hint": "Kota Napoli",
     "explanation": "Pizza Margherita, tahun 1889"
   },
   "q_foo_019": {
     "question": "Tahu dibuat dari kacang apa?",
     "correct": "Kedelai",
-    "wrong": ["Kacang lima", "Kacang arab", "Kacang hijau"],
+    "wrong": [
+      "Kacang lima",
+      "Kacang arab",
+      "Kacang hijau"
+    ],
     "hint": "Juga digunakan untuk membuat kecap, tempe, miso",
     "explanation": "Berasal dari Tiongkok, lebih dari 2.000 tahun"
   },
   "q_foo_020": {
     "question": "Negara mana yang merupakan produsen minyak zaitun terbesar?",
     "correct": "Spanyol",
-    "wrong": ["Italia", "Yunani", "Turki"],
+    "wrong": [
+      "Italia",
+      "Yunani",
+      "Turki"
+    ],
     "hint": "Menghasilkan setengah dari pasokan dunia",
     "explanation": "Wilayah Andalusia"
   },
   "q_foo_021": {
     "question": "Dari negara mana cokelat berasal?",
     "correct": "Meksiko",
-    "wrong": ["Belgia", "Swiss", "Ghana"],
+    "wrong": [
+      "Belgia",
+      "Swiss",
+      "Ghana"
+    ],
     "hint": "Bangsa Aztec dan Maya kuno di wilayah ini mengonsumsinya sebagai minuman pahit.",
     "explanation": "Cokelat berasal dari Mesoamerika (Meksiko modern), di mana bangsa Aztec dan Maya membudidayakan kakao dan menyiapkannya sebagai minuman pahit yang disebut 'xocolātl'."
   },
   "q_foo_022": {
     "question": "Buah apa yang secara botani diklasifikasikan sebagai beri?",
     "correct": "Pisang",
-    "wrong": ["Stroberi", "Raspberry", "Blackberry"],
+    "wrong": [
+      "Stroberi",
+      "Raspberry",
+      "Blackberry"
+    ],
     "hint": "Meskipun bentuk dan kulitnya unik, buah tropis ini memenuhi semua kriteria botani sebagai beri.",
     "explanation": "Secara botani, pisang adalah beri karena berkembang dari satu ovarium dan mengandung biji yang tertanam dalam daging buah."
   },
   "q_foo_023": {
     "question": "Negara mana yang merupakan konsumen teh per kapita terbesar?",
     "correct": "Turki",
-    "wrong": ["Tiongkok", "India", "Inggris"],
+    "wrong": [
+      "Tiongkok",
+      "India",
+      "Inggris"
+    ],
     "hint": "Negara yang menjembatani Eropa dan Asia ini menyajikan teh dalam gelas berbentuk tulip yang khas.",
     "explanation": "Turki memiliki konsumsi teh per kapita tertinggi di dunia, dengan setiap orang minum rata-rata sekitar 3 kg teh per tahun."
   },
   "q_foo_024": {
     "question": "Jenis makanan apa itu 'naan'?",
     "correct": "Roti",
-    "wrong": ["Nasi", "Kari", "Makanan penutup"],
+    "wrong": [
+      "Nasi",
+      "Kari",
+      "Makanan penutup"
+    ],
     "hint": "Roti pipih ini adalah makanan pokok dalam masakan Asia Selatan dan secara tradisional dipanggang dalam oven tandoor.",
     "explanation": "Naan adalah roti pipih beragi yang populer dalam masakan Asia Selatan dan Tengah. Secara tradisional dipanggang dalam tandoor (oven tanah liat) dan disajikan dengan kari."
+  },
+  "q_foo_025": {
+    "question": "Apa herba utama dalam pesto tradisional Italia?",
+    "correct": "Basil (kemangi)",
+    "wrong": [
+      "Oregano",
+      "Peterseli",
+      "Rosemary"
+    ],
+    "hint": "Herba hijau aromatik dari Genoa ini dicampur dengan kacang pinus, bawang putih, parmesan, dan minyak zaitun untuk membuat saus klasik.",
+    "explanation": "Pesto Genoa tradisional dibuat dari daun basil segar, kacang pinus, bawang putih, parmesan, dan minyak zaitun."
+  },
+  "q_foo_026": {
+    "question": "Serealia apa yang digunakan dalam bubur oat tradisional Skotlandia?",
+    "correct": "Oat",
+    "wrong": [
+      "Gandum",
+      "Barley",
+      "Rye"
+    ],
+    "hint": "Biji-bijian utuh ini juga digunakan dalam granola bar dan overnight breakfast, dikenal baik untuk jantung dan menurunkan kolesterol.",
+    "explanation": "Oat telah menjadi makanan pokok masakan Skotlandia selama berabad-abad."
+  },
+  "q_foo_027": {
+    "question": "Buah apa yang secara tradisional digunakan untuk membuat anggur?",
+    "correct": "Anggur",
+    "wrong": [
+      "Apel",
+      "Prem",
+      "Ceri"
+    ],
+    "hint": "Kawasan Bordeaux di Prancis dan Tuscany di Italia terkenal di dunia untuk menanamnya, dengan varietas merah dan putih.",
+    "explanation": "Anggur adalah buah utama yang digunakan untuk pembuatan wine."
   }
 }

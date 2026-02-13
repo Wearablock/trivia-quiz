@@ -178,50 +178,122 @@
   "q_spo_017": {
     "question": "¿En qué deporte los equipos compiten por la Copa Stanley?",
     "correct": "Hockey sobre hielo",
-    "wrong": ["Baloncesto", "Béisbol", "Fútbol americano"],
+    "wrong": [
+      "Baloncesto",
+      "Béisbol",
+      "Fútbol americano"
+    ],
     "hint": "Donada por el Gobernador General de Canadá en 1892.",
     "explanation": "Trofeo del campeonato de la NHL."
   },
   "q_spo_018": {
     "question": "¿Qué país ha ganado más medallas de oro olímpicas?",
     "correct": "Estados Unidos",
-    "wrong": ["Unión Soviética", "China", "Gran Bretaña"],
+    "wrong": [
+      "Unión Soviética",
+      "China",
+      "Gran Bretaña"
+    ],
     "hint": "Ha sido sede de los Juegos Olímpicos de verano cuatro veces.",
     "explanation": "Más de 1.000 medallas de oro."
   },
   "q_spo_019": {
     "question": "¿Cuántos puntos vale un touchdown?",
     "correct": "6",
-    "wrong": ["3", "5", "7"],
+    "wrong": [
+      "3",
+      "5",
+      "7"
+    ],
     "hint": "Se puede intentar un punto extra después.",
     "explanation": "6 puntos más la conversión."
   },
   "q_spo_020": {
     "question": "¿Qué país fue sede de la primera Copa Mundial de la FIFA en 1930?",
     "correct": "Uruguay",
-    "wrong": ["Brasil", "Italia", "Francia"],
+    "wrong": [
+      "Brasil",
+      "Italia",
+      "Francia"
+    ],
     "hint": "También ganó el torneo.",
     "explanation": "Derrotó a Argentina 4-2."
   },
   "q_spo_021": {
     "question": "¿Cuál es el diámetro de un aro de baloncesto estándar en pulgadas?",
     "correct": "18 pulgadas",
-    "wrong": ["16 pulgadas", "20 pulgadas", "22 pulgadas"],
+    "wrong": [
+      "16 pulgadas",
+      "20 pulgadas",
+      "22 pulgadas"
+    ],
     "hint": "El aro es poco más del doble del diámetro del balón.",
     "explanation": "18 pulgadas (46 cm)."
   },
   "q_spo_022": {
     "question": "¿Qué país ganó la primera Copa del Mundo de Rugby en 1987?",
     "correct": "Nueva Zelanda",
-    "wrong": ["Australia", "Sudáfrica", "Inglaterra"],
+    "wrong": [
+      "Australia",
+      "Sudáfrica",
+      "Inglaterra"
+    ],
     "hint": "Conocidos como los All Blacks.",
     "explanation": "Derrotaron a Francia 29-9."
   },
   "q_spo_023": {
     "question": "¿Cuál es la máxima puntuación posible en una tacada de snooker?",
     "correct": "147",
-    "wrong": ["155", "170", "180"],
+    "wrong": [
+      "155",
+      "170",
+      "180"
+    ],
     "hint": "Requiere embocar las 15 bolas rojas con las negras y luego los seis colores.",
     "explanation": "Se logra embocando 15 rojas con negras y luego los seis colores en secuencia."
+  },
+  "q_spo_024": {
+    "question": "¿En qué país se originó el judo?",
+    "correct": "Japón",
+    "wrong": [
+      "China",
+      "Corea del Sur",
+      "Brasil"
+    ],
+    "hint": "Fue creado por Jigoro Kano en 1882, su nombre significa 'el camino suave', y es deporte olímpico desde 1964.",
+    "explanation": "El judo fue creado por Jigoro Kano en Japón en 1882."
+  },
+  "q_spo_025": {
+    "question": "¿Qué arte marcial famoso por sus patadas altas se originó en Corea y se convirtió en deporte olímpico en 2000?",
+    "correct": "Taekwondo",
+    "wrong": [
+      "Karate",
+      "Kung fu",
+      "Judo"
+    ],
+    "hint": "Su nombre significa 'el camino del pie y el puño'; Corea del Sur tiene el mayor número de medallas de oro olímpicas en esta disciplina.",
+    "explanation": "El taekwondo se originó en Corea en las décadas de 1940-50."
+  },
+  "q_spo_026": {
+    "question": "¿Qué deporte de raqueta usa un volante en vez de pelota?",
+    "correct": "Bádminton",
+    "wrong": [
+      "Squash",
+      "Tenis de mesa",
+      "Racquetball"
+    ],
+    "hint": "Lleva el nombre de una mansión inglesa y es el deporte de raqueta más rápido del mundo.",
+    "explanation": "El bádminton toma su nombre de Badminton House en Gloucestershire, Inglaterra."
+  },
+  "q_spo_027": {
+    "question": "¿Cuál de los cuatro Grand Slams de tenis es el único que se juega en hierba?",
+    "correct": "Wimbledon",
+    "wrong": [
+      "Abierto de Australia",
+      "US Open",
+      "Roland Garros"
+    ],
+    "hint": "Se celebra cada año en Londres y es famoso por su estricto código de vestimenta blanca y la tradición de fresas con crema.",
+    "explanation": "Wimbledon se celebra desde 1877 en el All England Club de Londres."
   }
 }

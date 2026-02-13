@@ -222,22 +222,78 @@
   "q_geo_020": {
     "question": "Qual è il fiume più lungo d'Europa?",
     "correct": "Volga",
-    "wrong": ["Danubio", "Reno", "Elba"],
+    "wrong": [
+      "Danubio",
+      "Reno",
+      "Elba"
+    ],
     "hint": "Questo fiume scorre interamente in Russia e sfocia nel mar Caspio.",
     "explanation": "Il fiume Volga è lungo circa 3.530 km, il che lo rende il più lungo d'Europa."
   },
   "q_geo_021": {
     "question": "Quale paese ha il maggior numero di isole al mondo?",
     "correct": "Svezia",
-    "wrong": ["Indonesia", "Filippine", "Norvegia"],
+    "wrong": [
+      "Indonesia",
+      "Filippine",
+      "Norvegia"
+    ],
     "hint": "Questo paese scandinavo conta oltre 267.000 isole, per lo più piccole e disabitate.",
     "explanation": "La Svezia ha circa 267.570 isole."
   },
   "q_geo_022": {
     "question": "Qual è la capitale del Brasile?",
     "correct": "Brasilia",
-    "wrong": ["Rio de Janeiro", "San Paolo", "Salvador"],
+    "wrong": [
+      "Rio de Janeiro",
+      "San Paolo",
+      "Salvador"
+    ],
     "hint": "Questa città è stata progettata dall'architetto Oscar Niemeyer e costruita appositamente come capitale.",
     "explanation": "Brasilia è diventata la capitale del Brasile nel 1960."
+  },
+  "q_geo_023": {
+    "question": "In quale paese si trova il Salto Ángel, la cascata più alta del mondo?",
+    "correct": "Venezuela",
+    "wrong": [
+      "Brasile",
+      "Colombia",
+      "Ecuador"
+    ],
+    "hint": "Questa cascata nella giungla sudamericana precipita per 979 metri da un altopiano chiamato tepui, nel Parco Nazionale di Canaima.",
+    "explanation": "Il Salto Ángel in Venezuela è alto 979 metri ed è la cascata ininterrotta più alta del mondo."
+  },
+  "q_geo_024": {
+    "question": "Quale paese insulare è conosciuto come la 'Terra del Sol Levante'?",
+    "correct": "Giappone",
+    "wrong": [
+      "Filippine",
+      "Indonesia",
+      "Taiwan"
+    ],
+    "hint": "Il nome di questo paese nella sua lingua nativa (日本) significa letteralmente 'origine del sole', ed è famoso per il Monte Fuji e i fiori di ciliegio.",
+    "explanation": "Il Giappone è conosciuto come la 'Terra del Sol Levante' perché si trova a est dell'Asia continentale."
+  },
+  "q_geo_025": {
+    "question": "Quale paese ha la superficie terrestre più grande del mondo?",
+    "correct": "Russia",
+    "wrong": [
+      "Canada",
+      "Cina",
+      "Stati Uniti"
+    ],
+    "hint": "Questo paese si estende su 11 fusi orari, dall'Europa orientale all'Oceano Pacifico, e ospita il lago più profondo del mondo.",
+    "explanation": "La Russia si estende su oltre 17 milioni di km², rendendola il paese più grande del mondo."
+  },
+  "q_geo_026": {
+    "question": "Quale fiume ha scavato il Grand Canyon?",
+    "correct": "Fiume Colorado",
+    "wrong": [
+      "Fiume Missouri",
+      "Fiume Columbia",
+      "Fiume Yukon"
+    ],
+    "hint": "Questo fiume attraversa sette stati dell'ovest degli USA e sfocia nel Golfo di California in Messico.",
+    "explanation": "Il Fiume Colorado ha scavato il Grand Canyon attraverso milioni di anni di erosione."
   }
 }

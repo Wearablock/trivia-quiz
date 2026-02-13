@@ -189,43 +189,111 @@
   "q_art_018": {
     "question": "Quem escreveu 'Dom Quixote'?",
     "correct": "Miguel de Cervantes",
-    "wrong": ["García Márquez", "García Lorca", "Borges"],
+    "wrong": [
+      "García Márquez",
+      "García Lorca",
+      "Borges"
+    ],
     "hint": "Romancista espanhol, 1605 e 1615.",
     "explanation": "Considerado o primeiro romance moderno."
   },
   "q_art_019": {
     "question": "Qual arquiteto projetou a Sagrada Família?",
     "correct": "Antoni Gaudí",
-    "wrong": ["Santiago Calatrava", "Le Corbusier", "Frank Lloyd Wright"],
+    "wrong": [
+      "Santiago Calatrava",
+      "Le Corbusier",
+      "Frank Lloyd Wright"
+    ],
     "hint": "Catalão, formas orgânicas.",
     "explanation": "Iniciada em 1882, ainda em construção."
   },
   "q_art_020": {
     "question": "Quem pintou o teto da Capela Sistina?",
     "correct": "Michelangelo",
-    "wrong": ["Rafael", "Botticelli", "Caravaggio"],
+    "wrong": [
+      "Rafael",
+      "Botticelli",
+      "Caravaggio"
+    ],
     "hint": "Também esculpiu o Davi.",
     "explanation": "Pintado entre 1508 e 1512, inclui A Criação de Adão."
   },
   "q_art_021": {
     "question": "Quem escreveu 'Orgulho e Preconceito'?",
     "correct": "Jane Austen",
-    "wrong": ["Charlotte Brontë", "Emily Brontë", "Virginia Woolf"],
+    "wrong": [
+      "Charlotte Brontë",
+      "Emily Brontë",
+      "Virginia Woolf"
+    ],
     "hint": "Romancista inglesa conhecida por sua crítica social aguda da Inglaterra da Regência.",
     "explanation": "Publicado em 1813."
   },
   "q_art_022": {
     "question": "Qual técnica de pintura utiliza pequenos pontos de cor para formar uma imagem?",
     "correct": "Pontilhismo",
-    "wrong": ["Impressionismo", "Cubismo", "Fauvismo"],
+    "wrong": [
+      "Impressionismo",
+      "Cubismo",
+      "Fauvismo"
+    ],
     "hint": "'Uma Tarde de Domingo na Ilha de La Grande Jatte' de Georges Seurat é um exemplo famoso.",
     "explanation": "Desenvolvido por Seurat e Signac na década de 1880."
   },
   "q_art_023": {
     "question": "Qual é o nome da escultura grega antiga que retrata um lançador de disco?",
     "correct": "Discóbolo",
-    "wrong": ["Vênus de Milo", "Laocoonte", "Vitória de Samotrácia"],
+    "wrong": [
+      "Vênus de Milo",
+      "Laocoonte",
+      "Vitória de Samotrácia"
+    ],
     "hint": "Criada pelo escultor Míron, captura um atleta em pleno movimento.",
     "explanation": "Criada por volta de 450 a.C."
+  },
+  "q_art_024": {
+    "question": "Quem escreveu 'O Grande Gatsby'?",
+    "correct": "F. Scott Fitzgerald",
+    "wrong": [
+      "Ernest Hemingway",
+      "John Steinbeck",
+      "William Faulkner"
+    ],
+    "hint": "Este autor americano capturou o glamour e os excessos da Era do Jazz dos anos 20, ambientando sua obra mais famosa em Long Island, Nova York.",
+    "explanation": "F. Scott Fitzgerald publicou 'O Grande Gatsby' em 1925."
+  },
+  "q_art_025": {
+    "question": "Quem pintou 'O Nascimento de Vênus'?",
+    "correct": "Sandro Botticelli",
+    "wrong": [
+      "Rafael",
+      "Ticiano",
+      "Caravaggio"
+    ],
+    "hint": "Este mestre do Renascimento italiano retratou a deusa romana emergindo do mar sobre uma enorme concha de vieira.",
+    "explanation": "Sandro Botticelli pintou 'O Nascimento de Vênus' por volta de 1485."
+  },
+  "q_art_026": {
+    "question": "Quem escreveu 'Os Miseráveis'?",
+    "correct": "Victor Hugo",
+    "wrong": [
+      "Alexandre Dumas",
+      "Émile Zola",
+      "Gustave Flaubert"
+    ],
+    "hint": "Este gigante literário francês também escreveu 'O Corcunda de Notre-Dame' e foi exilado por 19 anos por se opor a Napoleão III.",
+    "explanation": "Victor Hugo publicou 'Os Miseráveis' em 1862."
+  },
+  "q_art_027": {
+    "question": "Qual gênero musical surgiu em Nova Orleans no início do século XX?",
+    "correct": "Jazz",
+    "wrong": [
+      "Blues",
+      "Rock and roll",
+      "Country"
+    ],
+    "hint": "Louis Armstrong e Duke Ellington foram os maiores pioneiros deste gênero baseado na improvisação.",
+    "explanation": "O jazz surgiu em Nova Orleans no início dos anos 1900."
   }
 }

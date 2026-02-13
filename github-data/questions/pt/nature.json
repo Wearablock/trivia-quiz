@@ -178,50 +178,122 @@
   "q_nat_017": {
     "question": "Qual é o maior animal terrestre?",
     "correct": "Elefante-africano",
-    "wrong": ["Rinoceronte-branco", "Hipopótamo", "Girafa"],
+    "wrong": [
+      "Rinoceronte-branco",
+      "Hipopótamo",
+      "Girafa"
+    ],
     "hint": "Até 6.000 kg, orelhas em formato da África.",
     "explanation": "Pode atingir até 4 metros de altura."
   },
   "q_nat_018": {
     "question": "Que tipo de animal é um dragão-de-komodo?",
     "correct": "Lagarto",
-    "wrong": ["Crocodilo", "Serpente", "Dinossauro"],
+    "wrong": [
+      "Crocodilo",
+      "Serpente",
+      "Dinossauro"
+    ],
     "hint": "Maior espécie viva do seu tipo, Indonésia.",
     "explanation": "Pode medir até 3 metros de comprimento."
   },
   "q_nat_019": {
     "question": "Qual é o peixe mais rápido do oceano?",
     "correct": "Peixe-vela",
-    "wrong": ["Peixe-espada", "Marlim", "Atum"],
+    "wrong": [
+      "Peixe-espada",
+      "Marlim",
+      "Atum"
+    ],
     "hint": "Grande barbatana dorsal como uma vela.",
     "explanation": "Atinge até 110 km/h."
   },
   "q_nat_020": {
     "question": "Qual animal tem a mordida mais forte?",
     "correct": "Crocodilo-de-água-salgada",
-    "wrong": ["Tubarão-branco", "Hipopótamo", "Urso-pardo"],
+    "wrong": [
+      "Tubarão-branco",
+      "Hipopótamo",
+      "Urso-pardo"
+    ],
     "hint": "Zonas costeiras do sudeste asiático à Austrália.",
     "explanation": "Força de mordida de 3.700 psi."
   },
   "q_nat_021": {
     "question": "Qual é o maior organismo vivo da Terra por área?",
     "correct": "Armilária",
-    "wrong": ["Baleia-azul", "Sequoia-gigante", "Grande Barreira de Coral"],
+    "wrong": [
+      "Baleia-azul",
+      "Sequoia-gigante",
+      "Grande Barreira de Coral"
+    ],
     "hint": "Espalha-se no subsolo por filamentos e pode cobrir milhares de acres.",
     "explanation": "No Oregon, cobre 965 hectares e tem mais de 2.400 anos."
   },
   "q_nat_022": {
     "question": "Qual porcentagem da água da Terra é água doce?",
     "correct": "Cerca de 3%",
-    "wrong": ["Cerca de 10%", "Cerca de 25%", "Cerca de 50%"],
+    "wrong": [
+      "Cerca de 10%",
+      "Cerca de 25%",
+      "Cerca de 50%"
+    ],
     "hint": "A maior parte está presa em geleiras e calotas polares.",
     "explanation": "Apenas 3% da água da Terra é doce, e 69% está em geleiras."
   },
   "q_nat_023": {
     "question": "Qual animal produz o som mais alto do reino animal?",
     "correct": "Cachalote",
-    "wrong": ["Baleia-azul", "Bugio", "Camarão-pistola"],
+    "wrong": [
+      "Baleia-azul",
+      "Bugio",
+      "Camarão-pistola"
+    ],
     "hint": "Mamífero de mergulho profundo que usa cliques para ecolocalização.",
     "explanation": "Os cliques do cachalote atingem 230 decibéis."
+  },
+  "q_nat_024": {
+    "question": "Qual é o animal mais alto do mundo?",
+    "correct": "A girafa",
+    "wrong": [
+      "O elefante",
+      "O alce",
+      "A avestruz"
+    ],
+    "hint": "Este animal africano tem uma língua de 50 cm, as mesmas 7 vértebras cervicais dos humanos e um padrão de manchas único como uma impressão digital.",
+    "explanation": "As girafas podem atingir 5,7 metros de altura, sendo o animal terrestre mais alto."
+  },
+  "q_nat_025": {
+    "question": "Qual é o inseto polinizador mais importante para as culturas alimentares do mundo?",
+    "correct": "A abelha melífera",
+    "wrong": [
+      "A borboleta",
+      "A joaninha",
+      "A formiga"
+    ],
+    "hint": "Este inseto social vive em colmeias com uma rainha, faz a 'dança do requebrado' para indicar a localização das flores e produz um líquido dourado e doce.",
+    "explanation": "As abelhas melíferas polinizam aproximadamente 80% das plantas com flores."
+  },
+  "q_nat_026": {
+    "question": "Qual é o maior felino do mundo?",
+    "correct": "O tigre",
+    "wrong": [
+      "O leão",
+      "A onça-pintada",
+      "O leopardo"
+    ],
+    "hint": "A subespécie siberiana é a maior, com sua icônica pelagem laranja e listras pretas, cujo padrão é único para cada indivíduo.",
+    "explanation": "O tigre é o maior felino; o tigre siberiano pode pesar até 300 kg."
+  },
+  "q_nat_027": {
+    "question": "Qual réptil é famoso por sua capacidade de mudar de cor?",
+    "correct": "O camaleão",
+    "wrong": [
+      "A iguana",
+      "A lagartixa",
+      "O anolis"
+    ],
+    "hint": "Esta criatura de movimento lento tem olhos que giram independentemente, uma língua projetável mais longa que seu corpo e uma cauda preênsil para se agarrar a galhos.",
+    "explanation": "Os camaleões mudam de cor ajustando as células pigmentares de sua pele."
   }
 }

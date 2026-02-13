@@ -189,50 +189,122 @@
   "q_sci_017": {
     "question": "Welcher Planet ist der Sonne am nächsten?",
     "correct": "Merkur",
-    "wrong": ["Venus", "Erde", "Mars"],
+    "wrong": [
+      "Venus",
+      "Erde",
+      "Mars"
+    ],
     "hint": "Keine Atmosphäre, extreme Temperaturen.",
     "explanation": "58 Millionen km von der Sonne entfernt."
   },
   "q_sci_018": {
     "question": "Was ist die Einheit des elektrischen Widerstands?",
     "correct": "Ohm",
-    "wrong": ["Volt", "Ampere", "Watt"],
+    "wrong": [
+      "Volt",
+      "Ampere",
+      "Watt"
+    ],
     "hint": "Deutscher Physiker, Omega-Symbol.",
     "explanation": "SI-Einheit, Georg Simon Ohm."
   },
   "q_sci_019": {
     "question": "Wie viele Knochen hat der erwachsene menschliche Körper?",
     "correct": "206",
-    "wrong": ["186", "256", "300"],
+    "wrong": [
+      "186",
+      "256",
+      "300"
+    ],
     "hint": "Babys werden mit 270 Knochen geboren.",
     "explanation": "Viele verschmelzen im Laufe der Zeit."
   },
   "q_sci_020": {
     "question": "Was ist das chemische Symbol für Kalium?",
     "correct": "K",
-    "wrong": ["P", "Po", "Pt"],
+    "wrong": [
+      "P",
+      "Po",
+      "Pt"
+    ],
     "hint": "Vom lateinischen 'kalium'.",
     "explanation": "Abgeleitet vom arabischen 'al-qalyah'."
   },
   "q_sci_021": {
     "question": "Was ist das größte Organ des menschlichen Körpers?",
     "correct": "Haut",
-    "wrong": ["Leber", "Gehirn", "Lunge"],
+    "wrong": [
+      "Leber",
+      "Gehirn",
+      "Lunge"
+    ],
     "hint": "Bedeckt den gesamten Körper als Schutzbarriere.",
     "explanation": "1,5 bis 2 Quadratmeter Fläche, etwa 3,6 kg."
   },
   "q_sci_022": {
     "question": "Welcher Planet hat die stärkste Schwerkraft?",
     "correct": "Jupiter",
-    "wrong": ["Saturn", "Neptun", "Erde"],
+    "wrong": [
+      "Saturn",
+      "Neptun",
+      "Erde"
+    ],
     "hint": "Der größte Planet unseres Sonnensystems.",
     "explanation": "Etwa 24,79 m/s²."
   },
   "q_sci_023": {
     "question": "Was ist das seltenste natürlich vorkommende Element in der Erdkruste?",
     "correct": "Astatin",
-    "wrong": ["Francium", "Plutonium", "Radium"],
+    "wrong": [
+      "Francium",
+      "Plutonium",
+      "Radium"
+    ],
     "hint": "Radioaktives Halogen mit einer Halbwertszeit von etwa 8 Stunden.",
     "explanation": "Weniger als 30 Gramm in der gesamten Erdkruste."
+  },
+  "q_sci_024": {
+    "question": "Was ist das chemische Symbol für Silber?",
+    "correct": "Ag",
+    "wrong": [
+      "Si",
+      "Pt",
+      "Au"
+    ],
+    "hint": "Es stammt vom lateinischen Wort ‚argentum', wie auch der Name des Landes Argentinien, und ist ein Edelmetall für Schmuck und Elektronik.",
+    "explanation": "Das chemische Symbol für Silber ist Ag, vom lateinischen ‚argentum'."
+  },
+  "q_sci_025": {
+    "question": "Wie viele Chromosomen hat eine normale menschliche Zelle?",
+    "correct": "46",
+    "wrong": [
+      "23",
+      "44",
+      "48"
+    ],
+    "hint": "Sie sind in 23 Paaren organisiert: 22 autosomale Paare plus ein Paar Geschlechtschromosomen (XX oder XY).",
+    "explanation": "Menschliche Zellen enthalten 46 Chromosomen, die in 23 Paaren organisiert sind."
+  },
+  "q_sci_026": {
+    "question": "Welche Grundkraft hält die Planeten in ihrer Umlaufbahn um die Sonne?",
+    "correct": "Die Schwerkraft",
+    "wrong": [
+      "Der Magnetismus",
+      "Die starke Kernkraft",
+      "Die Zentrifugalkraft"
+    ],
+    "hint": "Isaac Newton beschrieb diese Kraft, nachdem er einen fallenden Apfel beobachtet hatte; sie zieht zwei Körper mit Masse zueinander an.",
+    "explanation": "Die Schwerkraft ist die Kraft, die die Planeten in ihrer Umlaufbahn um die Sonne hält."
+  },
+  "q_sci_027": {
+    "question": "Welcher Planet unseres Sonnensystems hat die höchste Oberflächentemperatur?",
+    "correct": "Venus",
+    "wrong": [
+      "Merkur",
+      "Mars",
+      "Jupiter"
+    ],
+    "hint": "Obwohl sie nicht der sonnennächste Planet ist, erzeugt ihre dichte CO₂-Atmosphäre einen extremen Treibhauseffekt von 465°C, und sie ist nach der römischen Göttin der Liebe benannt.",
+    "explanation": "Die Venus hat eine Oberflächentemperatur von etwa 465°C aufgrund ihres intensiven Treibhauseffekts."
   }
 }
