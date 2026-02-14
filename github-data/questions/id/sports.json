@@ -295,5 +295,27 @@
     ],
     "hint": "Diadakan setiap tahun di London, terkenal dengan aturan berpakaian serba putih dan tradisi stroberi dengan krim.",
     "explanation": "Wimbledon diselenggarakan sejak 1877 di All England Club di London."
+  },
+  "q_spo_028": {
+    "question": "Negara mana yang memenangkan gelar Piala Dunia Kriket ICC terbanyak?",
+    "correct": "Australia",
+    "wrong": [
+      "India",
+      "Hindia Barat",
+      "Inggris"
+    ],
+    "hint": "Tim kriket negara ini, yang dikenal dengan warna hijau dan emasnya, telah mendominasi turnamen sejak tahun 1990-an.",
+    "explanation": "Australia telah memenangkan Piala Dunia Kriket ICC enam kali (1987, 1999, 2003, 2007, 2015 dan 2023), lebih banyak dari negara mana pun."
+  },
+  "q_spo_029": {
+    "question": "Perenang mana yang memenangkan medali emas Olimpiade terbanyak dalam sejarah?",
+    "correct": "Michael Phelps",
+    "wrong": [
+      "Mark Spitz",
+      "Ian Thorpe",
+      "Ryan Lochte"
+    ],
+    "hint": "Perenang Amerika ini meraih medali rekornya di lima Olimpiade berturut-turut dari 2000 hingga 2016.",
+    "explanation": "Michael Phelps memenangkan 23 medali emas Olimpiade di lima Olimpiade (2000-2016), menjadikannya atlet Olimpiade paling berprestasi sepanjang masa dengan total 28 medali."
   }
 }

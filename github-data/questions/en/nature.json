@@ -251,5 +251,26 @@
     "wrong": ["Iguana", "Gecko", "Anole"],
     "hint": "This slow-moving creature has eyes that rotate independently, a projectile tongue longer than its body, and a curling prehensile tail for gripping branches.",
     "explanation": "Chameleons change color by adjusting special cells called chromatophores in their skin. They do this primarily for communication and temperature regulation, not just camouflage."
+  },
+  "q_nat_028": {
+    "question": "What is the largest species of bear in the world?",
+    "correct": "Polar bear",
+    "wrong": ["Grizzly bear", "Brown bear", "Black bear"],
+    "hint": "This white-furred predator lives in the Arctic and is classified as a marine mammal.",
+    "explanation": "Polar bears are the largest land carnivores, with males weighing up to 700 kg. They are classified as marine mammals because they spend most of their lives on sea ice."
+  },
+  "q_nat_029": {
+    "question": "Which bird has the largest wingspan of any living bird?",
+    "correct": "Wandering Albatross",
+    "wrong": ["Andean Condor", "Bald Eagle", "Pelican"],
+    "hint": "This seabird spends most of its life soaring over the Southern Ocean and can glide for hours without flapping.",
+    "explanation": "The wandering albatross has a wingspan of up to 3.5 meters (11.5 feet), the largest of any living bird. They can fly thousands of kilometers without landing."
+  },
+  "q_nat_030": {
+    "question": "What is the most venomous snake in the world?",
+    "correct": "Inland Taipan",
+    "wrong": ["King Cobra", "Black Mamba", "Eastern Brown Snake"],
+    "hint": "Found in the remote semi-arid regions of central Australia, a single bite from this snake contains enough venom to kill over 100 adult humans.",
+    "explanation": "The inland taipan of Australia has the most toxic venom of any land snake. A single bite contains enough venom to kill approximately 100 adult humans, though human encounters are extremely rare."
   }
 }

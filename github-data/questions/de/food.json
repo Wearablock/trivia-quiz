@@ -295,5 +295,27 @@
     ],
     "hint": "Die Regionen Bordeaux in Frankreich und Toskana in Italien sind weltweit berühmt für ihren Anbau, mit roten und weißen Sorten.",
     "explanation": "Trauben sind die Hauptfrucht, die für die Weinherstellung verwendet wird."
+  },
+  "q_foo_028": {
+    "question": "Welches gängige Gewürz wird aus der getrockneten Rinde eines Baumes hergestellt?",
+    "correct": "Zimt",
+    "wrong": [
+      "Muskatnuss",
+      "Nelke",
+      "Ingwer"
+    ],
+    "hint": "Dieses warme, süße Gewürz wird häufig zum Backen verwendet und ist eine beliebte Zutat für Kaffee und heiße Schokolade.",
+    "explanation": "Zimt stammt von der Innenrinde der Bäume der Gattung Cinnamomum. Sri Lanka produziert den Großteil des weltweit 'echten Zimts' (Ceylon-Zimt)."
+  },
+  "q_foo_029": {
+    "question": "Welche beliebte Frucht hat ihre Samen außen?",
+    "correct": "Erdbeere",
+    "wrong": [
+      "Himbeere",
+      "Kirsche",
+      "Blaubeere"
+    ],
+    "hint": "Diese rote, herzförmige Frucht hat etwa 200 kleine gelbe Samen sichtbar auf ihrer Oberfläche.",
+    "explanation": "Die Erdbeere ist die einzige Frucht, die ihre Samen außen trägt, mit durchschnittlich etwa 200 Samen pro Frucht. Technisch gesehen ist jeder 'Samen' tatsächlich eine kleine Frucht, eine sogenannte Achäne."
   }
 }

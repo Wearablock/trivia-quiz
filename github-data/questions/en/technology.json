@@ -244,5 +244,26 @@
     "wrong": ["Computer Processing Unit", "Central Program Utility", "Core Processing Unit"],
     "hint": "Often called the 'brain' of a computer, this chip executes instructions and performs calculations for every task your device handles.",
     "explanation": "The CPU (Central Processing Unit) is the primary component of a computer that executes instructions. Intel and AMD are the two largest CPU manufacturers for personal computers."
+  },
+  "q_tec_027": {
+    "question": "What does 'IoT' stand for in technology?",
+    "correct": "Internet of Things",
+    "wrong": ["Integration of Technology", "Internal Operating Terminal", "Interface of Transactions"],
+    "hint": "This concept refers to everyday devices like refrigerators and thermostats being connected to the internet.",
+    "explanation": "IoT (Internet of Things) refers to the network of physical devices embedded with sensors and software that connect to the internet, enabling them to collect and exchange data."
+  },
+  "q_tec_028": {
+    "question": "Who invented the first practical incandescent light bulb?",
+    "correct": "Thomas Edison",
+    "wrong": ["Nikola Tesla", "Benjamin Franklin", "Michael Faraday"],
+    "hint": "This American inventor held over 1,000 patents and established a famous laboratory in Menlo Park, New Jersey.",
+    "explanation": "Thomas Edison developed the first commercially practical incandescent light bulb in 1879, using a carbonized bamboo filament that could last over 1,200 hours."
+  },
+  "q_tec_029": {
+    "question": "In what year was the first text message (SMS) sent?",
+    "correct": "1992",
+    "wrong": ["1985", "1997", "2001"],
+    "hint": "The message simply read 'Merry Christmas' and was sent by a British engineer.",
+    "explanation": "The first SMS was sent on December 3, 1992, by Neil Papworth, a British engineer, to Richard Jarvis at Vodafone. The message read 'Merry Christmas.'"
   }
 }

@@ -295,5 +295,38 @@
     ],
     "hint": "Questa creatura dal movimento lento ha occhi che ruotano indipendentemente, una lingua proiettile più lunga del suo corpo e una coda prensile per aggrapparsi ai rami.",
     "explanation": "I camaleonti cambiano colore regolando le cellule pigmentarie della loro pelle."
+  },
+  "q_nat_028": {
+    "question": "Qual è la specie di orso più grande del mondo?",
+    "correct": "Orso polare",
+    "wrong": [
+      "Orso grizzly",
+      "Orso bruno",
+      "Orso nero"
+    ],
+    "hint": "Questo predatore dal manto bianco vive nell'Artico ed è classificato come mammifero marino.",
+    "explanation": "L'orso polare è il più grande carnivoro terrestre, con maschi che pesano fino a 700 kg. Sono classificati come mammiferi marini perché trascorrono la maggior parte della loro vita sul ghiaccio marino."
+  },
+  "q_nat_029": {
+    "question": "Quale uccello ha la maggiore apertura alare tra gli uccelli viventi?",
+    "correct": "Albatro urlatore",
+    "wrong": [
+      "Condor delle Ande",
+      "Aquila di mare testabianca",
+      "Pellicano"
+    ],
+    "hint": "Questo uccello marino trascorre la maggior parte della sua vita volteggiando sull'Oceano Antartico e può planare per ore senza battere le ali.",
+    "explanation": "L'albatro urlatore ha un'apertura alare fino a 3,5 metri (11,5 piedi), la più grande di qualsiasi uccello vivente. Possono volare per migliaia di chilometri senza atterrare."
+  },
+  "q_nat_030": {
+    "question": "Qual è il serpente più velenoso del mondo?",
+    "correct": "Taipan dell'interno",
+    "wrong": [
+      "Cobra reale",
+      "Mamba nero",
+      "Serpente bruno orientale"
+    ],
+    "hint": "Si trova nelle regioni semi-aride dell'Australia centrale; un singolo morso contiene abbastanza veleno da uccidere oltre 100 esseri umani adulti.",
+    "explanation": "Il taipan dell'interno australiano possiede il veleno più tossico di qualsiasi serpente terrestre. Un singolo morso può uccidere circa 100 adulti, sebbene gli incontri con l'uomo siano estremamente rari."
   }
 }

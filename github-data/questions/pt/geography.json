@@ -295,5 +295,38 @@
     ],
     "hint": "Este rio atravessa sete estados do oeste dos EUA e deságua no Golfo da Califórnia, no México.",
     "explanation": "O Rio Colorado esculpiu o Grand Canyon ao longo de milhões de anos de erosão."
+  },
+  "q_geo_027": {
+    "question": "Qual país tem mais vulcões ativos?",
+    "correct": "Indonésia",
+    "wrong": [
+      "Japão",
+      "Estados Unidos",
+      "Filipinas"
+    ],
+    "hint": "Este país arquipélago está situado ao longo do Cinturão de Fogo do Pacífico e é composto por mais de 17.000 ilhas.",
+    "explanation": "A Indonésia tem cerca de 130 vulcões ativos, o maior número de qualquer país, devido à sua localização ao longo do Cinturão de Fogo do Pacífico."
+  },
+  "q_geo_028": {
+    "question": "Qual é o deserto não polar mais seco do mundo?",
+    "correct": "Deserto do Atacama",
+    "wrong": [
+      "Namíbia",
+      "Gobi",
+      "Thar"
+    ],
+    "hint": "Localizado na América do Sul, partes deste deserto não recebem chuva há centenas de anos.",
+    "explanation": "O Deserto do Atacama, no Chile, é o deserto não polar mais seco da Terra. Algumas estações meteorológicas nunca registraram chuva, e a NASA o utiliza para testar rovers de Marte."
+  },
+  "q_geo_029": {
+    "question": "Qual é o maior país sem litoral do mundo?",
+    "correct": "Cazaquistão",
+    "wrong": [
+      "Mongólia",
+      "Chade",
+      "Etiópia"
+    ],
+    "hint": "Este país da Ásia Central faz fronteira com a Rússia e a China e fazia parte da União Soviética.",
+    "explanation": "O Cazaquistão cobre aproximadamente 2,72 milhões de km², sendo o maior país sem litoral do mundo e o nono maior país em geral."
   }
 }

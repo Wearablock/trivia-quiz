@@ -295,5 +295,27 @@
     ],
     "hint": "Questo muro di 118 km attraversava il nord dell'Inghilterra da costa a costa e porta il nome dell'imperatore che lo commissionò nel 122 d.C.",
     "explanation": "Il Vallo di Adriano fu costruito a partire dal 122 d.C. per proteggere la Britannia romana."
+  },
+  "q_his_028": {
+    "question": "Quale trattato pose ufficialmente fine alla Prima Guerra Mondiale?",
+    "correct": "Trattato di Versailles",
+    "wrong": [
+      "Trattato di Parigi",
+      "Trattato di Gand",
+      "Trattato di Tordesillas"
+    ],
+    "hint": "Questo trattato fu firmato in un famoso palazzo francese nel 1919.",
+    "explanation": "Il Trattato di Versailles fu firmato il 28 giugno 1919 nella Galleria degli Specchi della Reggia di Versailles. Impose pesanti riparazioni alla Germania e ridisegnò i confini europei."
+  },
+  "q_his_029": {
+    "question": "Chi fu l'ultimo faraone dell'Antico Egitto?",
+    "correct": "Cleopatra VII",
+    "wrong": [
+      "Nefertiti",
+      "Hatshepsut",
+      "Ramesse II"
+    ],
+    "hint": "Ebbe relazioni sentimentali sia con Giulio Cesare che con Marco Antonio.",
+    "explanation": "Cleopatra VII governò l'Egitto dal 51 al 30 a.C. Dopo la sua morte, l'Egitto divenne una provincia dell'Impero Romano, ponendo fine a oltre 3.000 anni di dominio faraonico."
   }
 }

@@ -295,5 +295,27 @@
     ],
     "hint": "Louis Armstrong et Duke Ellington furent les plus grands pionniers de ce genre fondé sur l'improvisation.",
     "explanation": "Le jazz est né à La Nouvelle-Orléans au début des années 1900."
+  },
+  "q_art_028": {
+    "question": "Qui a composé le ballet « Casse-Noisette » ?",
+    "correct": "Piotr Tchaïkovski",
+    "wrong": [
+      "Igor Stravinsky",
+      "Sergueï Prokofiev",
+      "Frédéric Chopin"
+    ],
+    "hint": "Ce compositeur russe a également composé les ballets « Le Lac des cygnes » et « La Belle au bois dormant ».",
+    "explanation": "Piotr Tchaïkovski a composé Casse-Noisette en 1892. Basé sur le conte d'E.T.A. Hoffmann, c'est devenu l'un des ballets les plus joués pendant la période de Noël."
+  },
+  "q_art_029": {
+    "question": "Qui a peint « La Persistance de la mémoire », célèbre pour ses montres molles ?",
+    "correct": "Salvador Dalí",
+    "wrong": [
+      "René Magritte",
+      "Pablo Picasso",
+      "Max Ernst"
+    ],
+    "hint": "Ce peintre espagnol était connu pour sa personnalité flamboyante, sa moustache relevée et ses images oniriques bizarres.",
+    "explanation": "Salvador Dalí a peint La Persistance de la mémoire en 1931. Les montres molles représentent la fluidité du temps dans les rêves, un thème central du surréalisme."
   }
 }

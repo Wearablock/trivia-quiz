@@ -255,5 +255,19 @@
     "wrong": ["Apples", "Plums", "Cherries"],
     "hint": "France's Bordeaux and Italy's Tuscany are world-famous regions for growing this fruit, which comes in red and white varieties.",
     "explanation": "Grapes are the primary fruit used in winemaking. The practice of viticulture dates back over 8,000 years to the region around modern-day Georgia and Iran."
+  },
+  "q_foo_028": {
+    "question": "Which common spice is made from the dried bark of a tree?",
+    "correct": "Cinnamon",
+    "wrong": ["Nutmeg", "Clove", "Ginger"],
+    "hint": "This warm, sweet spice is often used in baking and is a popular addition to coffee and hot chocolate.",
+    "explanation": "Cinnamon comes from the inner bark of trees in the genus Cinnamomum. Sri Lanka produces the majority of the world's 'true cinnamon' (Ceylon cinnamon)."
+  },
+  "q_foo_029": {
+    "question": "Which popular fruit has its seeds on the outside?",
+    "correct": "Strawberry",
+    "wrong": ["Raspberry", "Cherry", "Blueberry"],
+    "hint": "This red, heart-shaped fruit has about 200 tiny yellow seeds visible on its surface.",
+    "explanation": "A strawberry is the only fruit that wears its seeds on the outside, with an average of about 200 seeds per fruit. Technically, each 'seed' is actually a tiny fruit called an achene."
   }
 }

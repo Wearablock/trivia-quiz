@@ -295,5 +295,38 @@
     ],
     "hint": "Questo fiume attraversa sette stati dell'ovest degli USA e sfocia nel Golfo di California in Messico.",
     "explanation": "Il Fiume Colorado ha scavato il Grand Canyon attraverso milioni di anni di erosione."
+  },
+  "q_geo_027": {
+    "question": "Quale paese ha il maggior numero di vulcani attivi?",
+    "correct": "Indonesia",
+    "wrong": [
+      "Giappone",
+      "Stati Uniti",
+      "Filippine"
+    ],
+    "hint": "Questo paese arcipelago si trova lungo la Cintura di Fuoco del Pacifico ed è composto da oltre 17.000 isole.",
+    "explanation": "L'Indonesia ha circa 130 vulcani attivi, il numero più alto di qualsiasi paese, grazie alla sua posizione lungo la Cintura di Fuoco del Pacifico."
+  },
+  "q_geo_028": {
+    "question": "Qual è il deserto non polare più arido del mondo?",
+    "correct": "Deserto di Atacama",
+    "wrong": [
+      "Namib",
+      "Gobi",
+      "Thar"
+    ],
+    "hint": "Situato in Sud America, alcune parti di questo deserto non hanno ricevuto pioggia per centinaia di anni.",
+    "explanation": "Il Deserto di Atacama in Cile è il deserto non polare più arido della Terra. Alcune stazioni meteorologiche non hanno mai registrato pioggia e la NASA lo utilizza per testare i rover marziani."
+  },
+  "q_geo_029": {
+    "question": "Qual è il più grande paese senza sbocco al mare del mondo?",
+    "correct": "Kazakistan",
+    "wrong": [
+      "Mongolia",
+      "Ciad",
+      "Etiopia"
+    ],
+    "hint": "Questo paese dell'Asia centrale confina con Russia e Cina e faceva parte dell'Unione Sovietica.",
+    "explanation": "Il Kazakistan copre circa 2,72 milioni di km², il che lo rende il più grande paese senza sbocco al mare del mondo e il nono paese più grande in assoluto."
   }
 }

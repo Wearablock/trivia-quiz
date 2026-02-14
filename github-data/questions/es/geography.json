@@ -295,5 +295,38 @@
     ],
     "hint": "Este río fluye a través de siete estados del oeste de EE.UU. y desemboca en el Golfo de California en México.",
     "explanation": "El Río Colorado talló el Gran Cañón durante millones de años de erosión."
+  },
+  "q_geo_027": {
+    "question": "¿Qué país tiene más volcanes activos?",
+    "correct": "Indonesia",
+    "wrong": [
+      "Japón",
+      "Estados Unidos",
+      "Filipinas"
+    ],
+    "hint": "Este país archipiélago se encuentra a lo largo del Cinturón de Fuego del Pacífico y está formado por más de 17.000 islas.",
+    "explanation": "Indonesia tiene unos 130 volcanes activos, la mayor cantidad de cualquier país, debido a su ubicación a lo largo del Cinturón de Fuego del Pacífico."
+  },
+  "q_geo_028": {
+    "question": "¿Cuál es el desierto no polar más seco del mundo?",
+    "correct": "Desierto de Atacama",
+    "wrong": [
+      "Namib",
+      "Gobi",
+      "Thar"
+    ],
+    "hint": "Ubicado en América del Sur, partes de este desierto no han recibido lluvia durante cientos de años.",
+    "explanation": "El desierto de Atacama en Chile es el desierto no polar más seco de la Tierra. Algunas estaciones meteorológicas nunca han registrado lluvia, y la NASA lo usa para probar rovers de Marte."
+  },
+  "q_geo_029": {
+    "question": "¿Cuál es el país sin litoral más grande del mundo?",
+    "correct": "Kazajistán",
+    "wrong": [
+      "Mongolia",
+      "Chad",
+      "Etiopía"
+    ],
+    "hint": "Este país de Asia Central limita con Rusia y China, y formaba parte de la Unión Soviética.",
+    "explanation": "Kazajistán cubre aproximadamente 2,72 millones de km², lo que lo convierte en el país sin litoral más grande del mundo y el noveno país más grande en general."
   }
 }

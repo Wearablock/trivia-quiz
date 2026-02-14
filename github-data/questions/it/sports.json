@@ -295,5 +295,27 @@
     ],
     "hint": "Si tiene ogni anno a Londra ed è famoso per il rigido codice di abbigliamento bianco e la tradizione delle fragole con panna.",
     "explanation": "Wimbledon si tiene dal 1877 all'All England Club di Londra."
+  },
+  "q_spo_028": {
+    "question": "Quale paese ha vinto il maggior numero di titoli della Coppa del Mondo di Cricket ICC?",
+    "correct": "Australia",
+    "wrong": [
+      "India",
+      "Indie Occidentali",
+      "Inghilterra"
+    ],
+    "hint": "La squadra di cricket di questo paese, nota per i colori verde e oro, ha dominato il torneo dagli anni '90.",
+    "explanation": "L'Australia ha vinto la Coppa del Mondo di Cricket ICC sei volte (1987, 1999, 2003, 2007, 2015 e 2023), più di qualsiasi altro paese."
+  },
+  "q_spo_029": {
+    "question": "Quale nuotatore ha vinto il maggior numero di medaglie d'oro olimpiche nella storia?",
+    "correct": "Michael Phelps",
+    "wrong": [
+      "Mark Spitz",
+      "Ian Thorpe",
+      "Ryan Lochte"
+    ],
+    "hint": "Questo nuotatore americano ha ottenuto le sue medaglie record in cinque Giochi Olimpici consecutivi dal 2000 al 2016.",
+    "explanation": "Michael Phelps ha vinto 23 medaglie d'oro olimpiche in cinque Giochi (2000-2016), diventando l'atleta olimpico più decorato di sempre con 28 medaglie totali."
   }
 }

@@ -306,5 +306,38 @@
     ],
     "hint": "Pur non essendo il più vicino al Sole, la sua densa atmosfera di CO₂ crea un effetto serra estremo di 465°C, e prende il nome dalla dea romana dell'amore.",
     "explanation": "Venere ha una temperatura superficiale di circa 465°C a causa del suo intenso effetto serra."
+  },
+  "q_sci_028": {
+    "question": "Qual è l'elemento più abbondante nella crosta terrestre?",
+    "correct": "Ossigeno",
+    "wrong": [
+      "Silicio",
+      "Alluminio",
+      "Ferro"
+    ],
+    "hint": "Questo elemento costituisce circa il 46% della massa della crosta terrestre, principalmente combinato con altri elementi nei minerali.",
+    "explanation": "L'ossigeno costituisce circa il 46% della massa della crosta terrestre, principalmente sotto forma di ossidi e silicati. Il silicio è il secondo con circa il 28%."
+  },
+  "q_sci_029": {
+    "question": "Qual è la velocità approssimativa del suono nell'aria a temperatura ambiente?",
+    "correct": "343 m/s",
+    "wrong": [
+      "150 m/s",
+      "500 m/s",
+      "1.000 m/s"
+    ],
+    "hint": "È circa 1.235 km/h, e gli aerei che volano più veloci infrangono la «barriera del suono».",
+    "explanation": "La velocità del suono nell'aria a 20°C è di circa 343 metri al secondo (1.235 km/h). Gli aerei che superano questa velocità volano a velocità supersonica."
+  },
+  "q_sci_030": {
+    "question": "Qual è l'elemento naturale più pesante presente sulla Terra?",
+    "correct": "Uranio",
+    "wrong": [
+      "Plutonio",
+      "Piombo",
+      "Oro"
+    ],
+    "hint": "Questo elemento radioattivo è usato come combustibile nelle centrali nucleari e ha numero atomico 92.",
+    "explanation": "L'uranio, con numero atomico 92, è l'elemento più pesante trovato in quantità significative in natura. È usato come combustibile nei reattori nucleari e nelle armi nucleari."
   }
 }

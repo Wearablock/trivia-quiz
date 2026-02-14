@@ -295,5 +295,27 @@
     ],
     "hint": "Kawasan Bordeaux di Prancis dan Tuscany di Italia terkenal di dunia untuk menanamnya, dengan varietas merah dan putih.",
     "explanation": "Anggur adalah buah utama yang digunakan untuk pembuatan wine."
+  },
+  "q_foo_028": {
+    "question": "Rempah umum apa yang dibuat dari kulit pohon kering?",
+    "correct": "Kayu manis",
+    "wrong": [
+      "Pala",
+      "Cengkeh",
+      "Jahe"
+    ],
+    "hint": "Rempah hangat dan manis ini sering digunakan dalam pembuatan kue dan merupakan tambahan populer untuk kopi dan cokelat panas.",
+    "explanation": "Kayu manis berasal dari kulit bagian dalam pohon genus Cinnamomum. Sri Lanka memproduksi sebagian besar 'kayu manis asli' (kayu manis Ceylon) dunia."
+  },
+  "q_foo_029": {
+    "question": "Buah populer apa yang memiliki biji di bagian luar?",
+    "correct": "Stroberi",
+    "wrong": [
+      "Raspberry",
+      "Ceri",
+      "Blueberry"
+    ],
+    "hint": "Buah merah berbentuk hati ini memiliki sekitar 200 biji kecil berwarna kuning yang terlihat di permukaannya.",
+    "explanation": "Stroberi adalah satu-satunya buah yang memiliki biji di bagian luar, dengan rata-rata sekitar 200 biji per buah. Secara teknis, setiap 'biji' sebenarnya adalah buah kecil yang disebut achene."
   }
 }

@@ -251,5 +251,19 @@
     "wrong": ["Antonine Wall", "Great Wall of China", "Offa's Dyke"],
     "hint": "Built in 122 AD on orders of a Roman emperor, this 73-mile stone wall stretched coast to coast and marked the empire's northern frontier in Britain.",
     "explanation": "Hadrian's Wall was built beginning in 122 AD under Emperor Hadrian. It stretches 73 miles (117 km) across northern England and is now a UNESCO World Heritage Site."
+  },
+  "q_his_028": {
+    "question": "Which treaty officially ended World War I?",
+    "correct": "Treaty of Versailles",
+    "wrong": ["Treaty of Paris", "Treaty of Ghent", "Treaty of Tordesillas"],
+    "hint": "This treaty was signed in a famous French palace in 1919.",
+    "explanation": "The Treaty of Versailles was signed on June 28, 1919, in the Hall of Mirrors at the Palace of Versailles. It imposed heavy reparations on Germany and redrew European borders."
+  },
+  "q_his_029": {
+    "question": "Who was the last pharaoh of Ancient Egypt?",
+    "correct": "Cleopatra VII",
+    "wrong": ["Nefertiti", "Hatshepsut", "Ramesses II"],
+    "hint": "She was romantically linked to both Julius Caesar and Mark Antony.",
+    "explanation": "Cleopatra VII ruled Egypt from 51 to 30 BCE. After her death, Egypt became a province of the Roman Empire, ending over 3,000 years of pharaonic rule."
   }
 }

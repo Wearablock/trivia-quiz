@@ -295,5 +295,27 @@
     ],
     "hint": "Esta muralha de 118 km cruzava o norte da Inglaterra de costa a costa e leva o nome do imperador que a encomendou em 122 d.C.",
     "explanation": "A Muralha de Adriano foi construída a partir de 122 d.C. para proteger a Britânia romana."
+  },
+  "q_his_028": {
+    "question": "Qual tratado encerrou oficialmente a Primeira Guerra Mundial?",
+    "correct": "Tratado de Versalhes",
+    "wrong": [
+      "Tratado de Paris",
+      "Tratado de Gante",
+      "Tratado de Tordesilhas"
+    ],
+    "hint": "Este tratado foi assinado em um famoso palácio francês em 1919.",
+    "explanation": "O Tratado de Versalhes foi assinado em 28 de junho de 1919 na Galeria dos Espelhos do Palácio de Versalhes. Impôs pesadas reparações à Alemanha e redesenhou as fronteiras europeias."
+  },
+  "q_his_029": {
+    "question": "Quem foi o último faraó do Antigo Egito?",
+    "correct": "Cleópatra VII",
+    "wrong": [
+      "Nefertiti",
+      "Hatshepsut",
+      "Ramsés II"
+    ],
+    "hint": "Ela teve romances com Júlio César e Marco Antônio.",
+    "explanation": "Cleópatra VII governou o Egito de 51 a 30 a.C. Após sua morte, o Egito tornou-se uma província do Império Romano, encerrando mais de 3.000 anos de governo faraônico."
   }
 }

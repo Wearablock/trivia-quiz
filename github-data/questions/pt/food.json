@@ -295,5 +295,27 @@
     ],
     "hint": "As regiões de Bordeaux na França e Toscana na Itália são mundialmente famosas pelo seu cultivo, com variedades tintas e brancas.",
     "explanation": "As uvas são a fruta principal utilizada na produção de vinho."
+  },
+  "q_foo_028": {
+    "question": "Qual tempero comum é feito da casca seca de uma árvore?",
+    "correct": "Canela",
+    "wrong": [
+      "Noz-moscada",
+      "Cravo",
+      "Gengibre"
+    ],
+    "hint": "Este tempero quente e doce é frequentemente usado em panificação e é um complemento popular para café e chocolate quente.",
+    "explanation": "A canela vem da casca interna das árvores do gênero Cinnamomum. O Sri Lanka produz a maior parte da 'canela verdadeira' (canela do Ceilão) do mundo."
+  },
+  "q_foo_029": {
+    "question": "Qual fruta popular tem as sementes do lado de fora?",
+    "correct": "Morango",
+    "wrong": [
+      "Framboesa",
+      "Cereja",
+      "Mirtilo"
+    ],
+    "hint": "Esta fruta vermelha em forma de coração tem cerca de 200 pequenas sementes amarelas visíveis em sua superfície.",
+    "explanation": "O morango é a única fruta que tem suas sementes do lado de fora, com uma média de cerca de 200 sementes por fruta. Tecnicamente, cada 'semente' é na verdade um pequeno fruto chamado aquênio."
   }
 }

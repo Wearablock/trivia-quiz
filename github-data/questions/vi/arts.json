@@ -295,5 +295,27 @@
     ],
     "hint": "Louis Armstrong và Duke Ellington là những người tiên phong vĩ đại nhất của thể loại dựa trên ứng tấu này.",
     "explanation": "Nhạc jazz ra đời tại New Orleans vào đầu những năm 1900."
+  },
+  "q_art_028": {
+    "question": "Ai sáng tác vở ballet 'Kẹp Hạt Dẻ'?",
+    "correct": "Pyotr Tchaikovsky",
+    "wrong": [
+      "Igor Stravinsky",
+      "Sergei Prokofiev",
+      "Frédéric Chopin"
+    ],
+    "hint": "Nhà soạn nhạc người Nga này cũng sáng tác các vở ballet 'Hồ Thiên Nga' và 'Người Đẹp Ngủ Trong Rừng'.",
+    "explanation": "Pyotr Tchaikovsky sáng tác Kẹp Hạt Dẻ năm 1892. Dựa trên câu chuyện của E.T.A. Hoffmann, đây đã trở thành một trong những vở ballet được trình diễn nhiều nhất trong mùa Giáng sinh."
+  },
+  "q_art_029": {
+    "question": "Ai vẽ bức 'Sự Bền Bỉ của Ký Ức', nổi tiếng với những chiếc đồng hồ tan chảy?",
+    "correct": "Salvador Dalí",
+    "wrong": [
+      "René Magritte",
+      "Pablo Picasso",
+      "Max Ernst"
+    ],
+    "hint": "Họa sĩ người Tây Ban Nha này nổi tiếng với tính cách phô trương, bộ ria mép vểnh lên và những hình ảnh kỳ lạ như trong giấc mơ.",
+    "explanation": "Salvador Dalí vẽ Sự Bền Bỉ của Ký Ức năm 1931. Những chiếc đồng hồ tan chảy được cho là đại diện cho sự lưu chuyển của thời gian trong giấc mơ, một chủ đề trung tâm của chủ nghĩa siêu thực."
   }
 }

@@ -284,5 +284,38 @@
     ],
     "hint": "Dikenal sebagai 'otak' komputer, chip ini menjalankan instruksi dan perhitungan untuk semua tugas perangkat.",
     "explanation": "CPU adalah komponen utama yang menjalankan instruksi dalam komputer."
+  },
+  "q_tec_027": {
+    "question": "Apa kepanjangan 'IoT' dalam teknologi?",
+    "correct": "Internet of Things",
+    "wrong": [
+      "Integration of Technology",
+      "Internal Operating Terminal",
+      "Interface of Transactions"
+    ],
+    "hint": "Konsep ini mengacu pada perangkat sehari-hari seperti lemari es dan termostat yang terhubung ke internet.",
+    "explanation": "IoT (Internet of Things) mengacu pada jaringan perangkat fisik yang dilengkapi sensor dan perangkat lunak yang terhubung ke internet untuk mengumpulkan dan bertukar data."
+  },
+  "q_tec_028": {
+    "question": "Siapa yang menemukan bohlam pijar praktis pertama?",
+    "correct": "Thomas Edison",
+    "wrong": [
+      "Nikola Tesla",
+      "Benjamin Franklin",
+      "Michael Faraday"
+    ],
+    "hint": "Penemu Amerika ini memiliki lebih dari 1.000 paten dan mendirikan laboratorium terkenal di Menlo Park, New Jersey.",
+    "explanation": "Thomas Edison mengembangkan bohlam pijar komersial praktis pertama pada tahun 1879, menggunakan filamen bambu yang dikarbonisasi yang dapat bertahan lebih dari 1.200 jam."
+  },
+  "q_tec_029": {
+    "question": "Pada tahun berapa pesan teks (SMS) pertama dikirim?",
+    "correct": "1992",
+    "wrong": [
+      "1985",
+      "1997",
+      "2001"
+    ],
+    "hint": "Pesan tersebut hanya bertuliskan 'Merry Christmas' dan dikirim oleh seorang insinyur Inggris.",
+    "explanation": "SMS pertama dikirim pada 3 Desember 1992 oleh Neil Papworth, seorang insinyur Inggris, kepada Richard Jarvis di Vodafone. Pesannya bertuliskan 'Merry Christmas'."
   }
 }

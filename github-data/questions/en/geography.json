@@ -251,5 +251,26 @@
     "wrong": ["Mississippi River", "Missouri River", "Rio Grande"],
     "hint": "Its name means 'colored red' in Spanish, reflecting its muddy waters — and it carved one of the world's most famous canyons over millions of years.",
     "explanation": "The Colorado River carved the Grand Canyon over approximately 5–6 million years. The canyon stretches 446 km long and up to 1,800 meters deep."
+  },
+  "q_geo_027": {
+    "question": "Which country has the most active volcanoes?",
+    "correct": "Indonesia",
+    "wrong": ["Japan", "United States", "Philippines"],
+    "hint": "This archipelago nation lies along the Pacific Ring of Fire and is made up of over 17,000 islands.",
+    "explanation": "Indonesia has about 130 active volcanoes, the most of any country, due to its location along the Pacific Ring of Fire where tectonic plates collide."
+  },
+  "q_geo_028": {
+    "question": "What is the driest non-polar desert in the world?",
+    "correct": "Atacama Desert",
+    "wrong": ["Namib", "Gobi", "Thar"],
+    "hint": "Located in South America, parts of this desert have not received rain for hundreds of years.",
+    "explanation": "The Atacama Desert in Chile is the driest non-polar desert on Earth. Some weather stations there have never recorded rain, and NASA uses it to test Mars rovers."
+  },
+  "q_geo_029": {
+    "question": "What is the largest landlocked country in the world?",
+    "correct": "Kazakhstan",
+    "wrong": ["Mongolia", "Chad", "Ethiopia"],
+    "hint": "This Central Asian country borders both Russia and China and was formerly part of the Soviet Union.",
+    "explanation": "Kazakhstan covers approximately 2.72 million km², making it the world's largest landlocked country and the ninth largest country overall."
   }
 }

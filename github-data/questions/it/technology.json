@@ -284,5 +284,38 @@
     ],
     "hint": "Conosciuto come il 'cervello' del computer, questo chip esegue le istruzioni e i calcoli per tutte le operazioni del dispositivo.",
     "explanation": "La CPU è il componente principale che esegue le istruzioni in un computer."
+  },
+  "q_tec_027": {
+    "question": "Cosa significa 'IoT' in ambito tecnologico?",
+    "correct": "Internet delle Cose",
+    "wrong": [
+      "Integrazione Tecnologica",
+      "Terminale Operativo Interno",
+      "Interfaccia delle Transazioni"
+    ],
+    "hint": "Questo concetto si riferisce a dispositivi quotidiani come frigoriferi e termostati connessi a internet.",
+    "explanation": "IoT (Internet delle Cose) si riferisce alla rete di dispositivi fisici dotati di sensori e software che si connettono a internet per raccogliere e scambiare dati."
+  },
+  "q_tec_028": {
+    "question": "Chi inventò la prima lampadina a incandescenza pratica?",
+    "correct": "Thomas Edison",
+    "wrong": [
+      "Nikola Tesla",
+      "Benjamin Franklin",
+      "Michael Faraday"
+    ],
+    "hint": "Questo inventore americano deteneva oltre 1.000 brevetti e fondò un famoso laboratorio a Menlo Park, nel New Jersey.",
+    "explanation": "Thomas Edison sviluppò la prima lampadina a incandescenza commercialmente pratica nel 1879, usando un filamento di bambù carbonizzato che poteva durare oltre 1.200 ore."
+  },
+  "q_tec_029": {
+    "question": "In che anno fu inviato il primo messaggio di testo (SMS)?",
+    "correct": "1992",
+    "wrong": [
+      "1985",
+      "1997",
+      "2001"
+    ],
+    "hint": "Il messaggio diceva semplicemente 'Buon Natale' ed è stato inviato da un ingegnere britannico.",
+    "explanation": "Il primo SMS fu inviato il 3 dicembre 1992 da Neil Papworth, un ingegnere britannico, a Richard Jarvis della Vodafone. Il messaggio diceva 'Buon Natale'."
   }
 }

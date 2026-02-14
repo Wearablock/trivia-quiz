@@ -306,5 +306,38 @@
     ],
     "hint": "Meski bukan planet terdekat dari Matahari, atmosfer CO₂-nya yang tebal menciptakan efek rumah kaca ekstrem 465°C, dan dinamai dewi cinta Romawi.",
     "explanation": "Venus memiliki suhu permukaan sekitar 465°C karena efek rumah kacanya yang intens."
+  },
+  "q_sci_028": {
+    "question": "Apa unsur paling melimpah di kerak Bumi?",
+    "correct": "Oksigen",
+    "wrong": [
+      "Silikon",
+      "Aluminium",
+      "Besi"
+    ],
+    "hint": "Unsur ini membentuk sekitar 46% massa kerak Bumi, sebagian besar bergabung dengan unsur lain dalam mineral.",
+    "explanation": "Oksigen membentuk sekitar 46% massa kerak Bumi, terutama dalam bentuk oksida dan silikat. Silikon berada di urutan kedua dengan sekitar 28%."
+  },
+  "q_sci_029": {
+    "question": "Berapa perkiraan kecepatan suara di udara pada suhu ruangan?",
+    "correct": "343 m/s",
+    "wrong": [
+      "150 m/s",
+      "500 m/s",
+      "1.000 m/s"
+    ],
+    "hint": "Sekitar 1.235 km/jam, dan pesawat yang terbang lebih cepat dari ini menembus 'dinding suara'.",
+    "explanation": "Kecepatan suara di udara pada 20°C adalah sekitar 343 meter per detik (1.235 km/jam). Pesawat yang melebihi kecepatan ini terbang dengan kecepatan supersonik."
+  },
+  "q_sci_030": {
+    "question": "Apa unsur alami terberat yang ditemukan di Bumi?",
+    "correct": "Uranium",
+    "wrong": [
+      "Plutonium",
+      "Timbal",
+      "Emas"
+    ],
+    "hint": "Unsur radioaktif ini digunakan sebagai bahan bakar di pembangkit listrik tenaga nuklir dan memiliki nomor atom 92.",
+    "explanation": "Uranium, dengan nomor atom 92, adalah unsur terberat yang ditemukan dalam jumlah signifikan di alam. Digunakan sebagai bahan bakar di reaktor nuklir dan senjata nuklir."
   }
 }

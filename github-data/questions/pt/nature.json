@@ -295,5 +295,38 @@
     ],
     "hint": "Esta criatura de movimento lento tem olhos que giram independentemente, uma língua projetável mais longa que seu corpo e uma cauda preênsil para se agarrar a galhos.",
     "explanation": "Os camaleões mudam de cor ajustando as células pigmentares de sua pele."
+  },
+  "q_nat_028": {
+    "question": "Qual é a maior espécie de urso do mundo?",
+    "correct": "Urso-polar",
+    "wrong": [
+      "Urso-pardo",
+      "Urso-marrom",
+      "Urso-negro"
+    ],
+    "hint": "Este predador de pelagem branca vive no Ártico e é classificado como mamífero marinho.",
+    "explanation": "O urso-polar é o maior carnívoro terrestre, com machos pesando até 700 kg. São classificados como mamíferos marinhos porque passam a maior parte de suas vidas no gelo marinho."
+  },
+  "q_nat_029": {
+    "question": "Qual ave tem a maior envergadura entre as aves vivas?",
+    "correct": "Albatroz-errante",
+    "wrong": [
+      "Condor-dos-andes",
+      "Águia-careca",
+      "Pelicano"
+    ],
+    "hint": "Esta ave marinha passa a maior parte de sua vida voando sobre o Oceano Antártico e pode planar por horas sem bater as asas.",
+    "explanation": "O albatroz-errante tem envergadura de até 3,5 metros (11,5 pés), a maior de qualquer ave viva. Podem voar milhares de quilômetros sem pousar."
+  },
+  "q_nat_030": {
+    "question": "Qual é a cobra mais venenosa do mundo?",
+    "correct": "Taipan-do-interior",
+    "wrong": [
+      "Cobra-real",
+      "Mamba-negra",
+      "Cobra-marrom-oriental"
+    ],
+    "hint": "Encontrada nas regiões semiáridas do centro da Austrália, uma única mordida contém veneno suficiente para matar mais de 100 humanos adultos.",
+    "explanation": "A taipan-do-interior da Austrália possui o veneno mais tóxico de qualquer cobra terrestre. Uma única mordida pode matar aproximadamente 100 adultos, embora encontros com humanos sejam extremamente raros."
   }
 }

@@ -306,5 +306,38 @@
     ],
     "hint": "Aunque no es el más cercano al Sol, su densa atmósfera de CO₂ crea un efecto invernadero extremo que alcanza 465°C, y lleva el nombre de la diosa romana del amor.",
     "explanation": "Venus tiene una temperatura superficial de unos 465°C debido a su intenso efecto invernadero."
+  },
+  "q_sci_028": {
+    "question": "¿Cuál es el elemento más abundante en la corteza terrestre?",
+    "correct": "Oxígeno",
+    "wrong": [
+      "Silicio",
+      "Aluminio",
+      "Hierro"
+    ],
+    "hint": "Este elemento constituye aproximadamente el 46% de la masa de la corteza terrestre, principalmente combinado con otros elementos en minerales.",
+    "explanation": "El oxígeno constituye aproximadamente el 46% de la masa de la corteza terrestre, principalmente en forma de óxidos y silicatos. El silicio es el segundo con aproximadamente el 28%."
+  },
+  "q_sci_029": {
+    "question": "¿Cuál es la velocidad aproximada del sonido en el aire a temperatura ambiente?",
+    "correct": "343 m/s",
+    "wrong": [
+      "150 m/s",
+      "500 m/s",
+      "1.000 m/s"
+    ],
+    "hint": "Es aproximadamente 1.235 km/h, y los aviones que vuelan más rápido rompen la «barrera del sonido».",
+    "explanation": "La velocidad del sonido en el aire a 20°C es aproximadamente 343 metros por segundo (1.235 km/h). Los aviones que superan esta velocidad vuelan a velocidades supersónicas."
+  },
+  "q_sci_030": {
+    "question": "¿Cuál es el elemento natural más pesado de la Tierra?",
+    "correct": "Uranio",
+    "wrong": [
+      "Plutonio",
+      "Plomo",
+      "Oro"
+    ],
+    "hint": "Este elemento radiactivo se utiliza como combustible en centrales nucleares y tiene un número atómico de 92.",
+    "explanation": "El uranio, con número atómico 92, es el elemento más pesado que se encuentra en cantidades significativas en la naturaleza. Se utiliza como combustible en reactores nucleares y en armas nucleares."
   }
 }

@@ -295,5 +295,27 @@
     ],
     "hint": "Vùng Bordeaux ở Pháp và Tuscany ở Ý nổi tiếng thế giới về trồng loại quả này, với giống đỏ và trắng.",
     "explanation": "Nho là loại trái cây chính được dùng để sản xuất rượu vang."
+  },
+  "q_foo_028": {
+    "question": "Gia vị phổ biến nào được làm từ vỏ cây khô?",
+    "correct": "Quế",
+    "wrong": [
+      "Nhục đậu khấu",
+      "Đinh hương",
+      "Gừng"
+    ],
+    "hint": "Gia vị ấm áp và ngọt ngào này thường được dùng trong làm bánh và là phần thêm phổ biến cho cà phê và sôcôla nóng.",
+    "explanation": "Quế đến từ vỏ bên trong của cây thuộc chi Cinnamomum. Sri Lanka sản xuất phần lớn 'quế thật' (quế Ceylon) trên thế giới."
+  },
+  "q_foo_029": {
+    "question": "Loại trái cây phổ biến nào có hạt ở bên ngoài?",
+    "correct": "Dâu tây",
+    "wrong": [
+      "Mâm xôi",
+      "Cherry",
+      "Việt quất"
+    ],
+    "hint": "Loại trái cây màu đỏ hình trái tim này có khoảng 200 hạt nhỏ màu vàng nhìn thấy được trên bề mặt.",
+    "explanation": "Dâu tây là loại trái cây duy nhất có hạt ở bên ngoài, trung bình khoảng 200 hạt mỗi quả. Về mặt kỹ thuật, mỗi 'hạt' thực ra là một quả nhỏ gọi là quả bế."
   }
 }

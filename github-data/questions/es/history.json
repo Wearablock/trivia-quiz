@@ -295,5 +295,27 @@
     ],
     "hint": "Este muro de 118 km de largo cruzaba el norte de Inglaterra de costa a costa y lleva el nombre del emperador que lo encargó en el año 122 d.C.",
     "explanation": "El Muro de Adriano fue construido a partir del 122 d.C. para proteger la Britania romana."
+  },
+  "q_his_028": {
+    "question": "¿Qué tratado puso fin oficialmente a la Primera Guerra Mundial?",
+    "correct": "Tratado de Versalles",
+    "wrong": [
+      "Tratado de París",
+      "Tratado de Gante",
+      "Tratado de Tordesillas"
+    ],
+    "hint": "Este tratado fue firmado en un famoso palacio francés en 1919.",
+    "explanation": "El Tratado de Versalles fue firmado el 28 de junio de 1919 en la Galería de los Espejos del Palacio de Versalles. Impuso fuertes reparaciones a Alemania y redibujó las fronteras europeas."
+  },
+  "q_his_029": {
+    "question": "¿Quién fue el último faraón del Antiguo Egipto?",
+    "correct": "Cleopatra VII",
+    "wrong": [
+      "Nefertiti",
+      "Hatshepsut",
+      "Ramsés II"
+    ],
+    "hint": "Mantuvo relaciones amorosas tanto con Julio César como con Marco Antonio.",
+    "explanation": "Cleopatra VII gobernó Egipto del 51 al 30 a.C. Tras su muerte, Egipto se convirtió en provincia del Imperio Romano, poniendo fin a más de 3.000 años de gobierno faraónico."
   }
 }

@@ -295,5 +295,27 @@
     ],
     "hint": "Les régions de Bordeaux en France et de Toscane en Italie sont mondialement célèbres pour sa culture, avec des variétés rouges et blanches.",
     "explanation": "Le raisin est le fruit principal utilisé pour la fabrication du vin."
+  },
+  "q_foo_028": {
+    "question": "Quelle épice courante est faite à partir de l'écorce séchée d'un arbre ?",
+    "correct": "Cannelle",
+    "wrong": [
+      "Noix de muscade",
+      "Clou de girofle",
+      "Gingembre"
+    ],
+    "hint": "Cette épice chaude et sucrée est souvent utilisée en pâtisserie et est un ajout populaire au café et au chocolat chaud.",
+    "explanation": "La cannelle provient de l'écorce intérieure des arbres du genre Cinnamomum. Le Sri Lanka produit la majorité de la « vraie cannelle » (cannelle de Ceylan) mondiale."
+  },
+  "q_foo_029": {
+    "question": "Quel fruit populaire a ses graines à l'extérieur ?",
+    "correct": "Fraise",
+    "wrong": [
+      "Framboise",
+      "Cerise",
+      "Myrtille"
+    ],
+    "hint": "Ce fruit rouge en forme de cœur a environ 200 petites graines jaunes visibles à sa surface.",
+    "explanation": "La fraise est le seul fruit dont les graines sont à l'extérieur, avec en moyenne environ 200 graines par fruit. Techniquement, chaque « graine » est en fait un petit fruit appelé akène."
   }
 }

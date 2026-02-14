@@ -295,5 +295,27 @@
     ],
     "hint": "Ce mur de 118 km traversait le nord de l'Angleterre d'une côte à l'autre et porte le nom de l'empereur qui l'a commandé en 122 apr. J.-C.",
     "explanation": "Le mur d'Hadrien a été construit à partir de 122 apr. J.-C. pour protéger la Bretagne romaine."
+  },
+  "q_his_028": {
+    "question": "Quel traité a officiellement mis fin à la Première Guerre mondiale ?",
+    "correct": "Traité de Versailles",
+    "wrong": [
+      "Traité de Paris",
+      "Traité de Gand",
+      "Traité de Tordesillas"
+    ],
+    "hint": "Ce traité a été signé dans un célèbre palais français en 1919.",
+    "explanation": "Le traité de Versailles a été signé le 28 juin 1919 dans la galerie des Glaces du château de Versailles. Il imposa de lourdes réparations à l'Allemagne et redessina les frontières européennes."
+  },
+  "q_his_029": {
+    "question": "Qui fut le dernier pharaon de l'Égypte ancienne ?",
+    "correct": "Cléopâtre VII",
+    "wrong": [
+      "Néfertiti",
+      "Hatchepsout",
+      "Ramsès II"
+    ],
+    "hint": "Elle a eu des relations amoureuses avec Jules César et Marc Antoine.",
+    "explanation": "Cléopâtre VII régna sur l'Égypte de 51 à 30 av. J.-C. Après sa mort, l'Égypte devint une province de l'Empire romain, mettant fin à plus de 3 000 ans de règne pharaonique."
   }
 }

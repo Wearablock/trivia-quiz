@@ -295,5 +295,27 @@
     ],
     "hint": "Louis Armstrong e Duke Ellington foram os maiores pioneiros deste gênero baseado na improvisação.",
     "explanation": "O jazz surgiu em Nova Orleans no início dos anos 1900."
+  },
+  "q_art_028": {
+    "question": "Quem compôs o balé 'O Quebra-Nozes'?",
+    "correct": "Piotr Tchaikovsky",
+    "wrong": [
+      "Igor Stravinsky",
+      "Sergei Prokofiev",
+      "Frédéric Chopin"
+    ],
+    "hint": "Este compositor russo também escreveu os balés 'O Lago dos Cisnes' e 'A Bela Adormecida'.",
+    "explanation": "Piotr Tchaikovsky compôs O Quebra-Nozes em 1892. Baseado no conto de E.T.A. Hoffmann, tornou-se um dos balés mais apresentados durante a temporada de Natal."
+  },
+  "q_art_029": {
+    "question": "Quem pintou 'A Persistência da Memória', famosa pelos relógios derretidos?",
+    "correct": "Salvador Dalí",
+    "wrong": [
+      "René Magritte",
+      "Pablo Picasso",
+      "Max Ernst"
+    ],
+    "hint": "Este artista espanhol era conhecido por sua personalidade extravagante, bigode curvado para cima e imagens oníricas bizarras.",
+    "explanation": "Salvador Dalí pintou A Persistência da Memória em 1931. Os relógios derretidos representam a fluidez do tempo nos sonhos, um tema central do surrealismo."
   }
 }

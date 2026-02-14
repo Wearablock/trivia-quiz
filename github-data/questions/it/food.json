@@ -295,5 +295,27 @@
     ],
     "hint": "Le regioni di Bordeaux in Francia e della Toscana in Italia sono famose in tutto il mondo per la sua coltivazione, con varietà rosse e bianche.",
     "explanation": "L'uva è il frutto principale utilizzato per la produzione del vino."
+  },
+  "q_foo_028": {
+    "question": "Quale spezia comune è ricavata dalla corteccia essiccata di un albero?",
+    "correct": "Cannella",
+    "wrong": [
+      "Noce moscata",
+      "Chiodo di garofano",
+      "Zenzero"
+    ],
+    "hint": "Questa spezia calda e dolce è spesso usata in pasticceria ed è un'aggiunta popolare al caffè e alla cioccolata calda.",
+    "explanation": "La cannella proviene dalla corteccia interna degli alberi del genere Cinnamomum. Lo Sri Lanka produce la maggior parte della 'vera cannella' (cannella di Ceylon) del mondo."
+  },
+  "q_foo_029": {
+    "question": "Quale frutto popolare ha i semi all'esterno?",
+    "correct": "Fragola",
+    "wrong": [
+      "Lampone",
+      "Ciliegia",
+      "Mirtillo"
+    ],
+    "hint": "Questo frutto rosso a forma di cuore ha circa 200 piccoli semi gialli visibili sulla sua superficie.",
+    "explanation": "La fragola è l'unico frutto che ha i semi all'esterno, con una media di circa 200 semi per frutto. Tecnicamente, ogni 'seme' è in realtà un piccolo frutto chiamato achenio."
   }
 }

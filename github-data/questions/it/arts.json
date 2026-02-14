@@ -295,5 +295,27 @@
     ],
     "hint": "Louis Armstrong e Duke Ellington furono i più grandi pionieri di questo genere basato sull'improvvisazione.",
     "explanation": "Il jazz nacque a New Orleans all'inizio del 1900."
+  },
+  "q_art_028": {
+    "question": "Chi compose il balletto 'Lo Schiaccianoci'?",
+    "correct": "Pëtr Čajkovskij",
+    "wrong": [
+      "Igor' Stravinskij",
+      "Sergej Prokof'ev",
+      "Fryderyk Chopin"
+    ],
+    "hint": "Questo compositore russo scrisse anche i balletti 'Il lago dei cigni' e 'La bella addormentata'.",
+    "explanation": "Pëtr Čajkovskij compose Lo Schiaccianoci nel 1892. Basato sul racconto di E.T.A. Hoffmann, è diventato uno dei balletti più rappresentati durante il periodo natalizio."
+  },
+  "q_art_029": {
+    "question": "Chi dipinse 'La persistenza della memoria', famosa per gli orologi molli?",
+    "correct": "Salvador Dalí",
+    "wrong": [
+      "René Magritte",
+      "Pablo Picasso",
+      "Max Ernst"
+    ],
+    "hint": "Questo artista spagnolo era noto per la sua personalità stravagante, i baffi all'insù e le bizzarre immagini oniriche.",
+    "explanation": "Salvador Dalí dipinse La persistenza della memoria nel 1931. Gli orologi molli rappresentano la fluidità del tempo nei sogni, un tema centrale del surrealismo."
   }
 }

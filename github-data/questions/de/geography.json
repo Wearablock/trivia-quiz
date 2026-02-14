@@ -295,5 +295,38 @@
     ],
     "hint": "Dieser Fluss durchfließt sieben Bundesstaaten im Westen der USA und mündet in den Golf von Kalifornien in Mexiko.",
     "explanation": "Der Colorado River hat den Grand Canyon über Millionen Jahre durch Erosion geformt."
+  },
+  "q_geo_027": {
+    "question": "Welches Land hat die meisten aktiven Vulkane?",
+    "correct": "Indonesien",
+    "wrong": [
+      "Japan",
+      "USA",
+      "Philippinen"
+    ],
+    "hint": "Dieser Inselstaat liegt entlang des Pazifischen Feuerrings und besteht aus über 17.000 Inseln.",
+    "explanation": "Indonesien hat etwa 130 aktive Vulkane, die meisten aller Länder, aufgrund seiner Lage am Pazifischen Feuerring."
+  },
+  "q_geo_028": {
+    "question": "Was ist die trockenste nicht-polare Wüste der Welt?",
+    "correct": "Atacama-Wüste",
+    "wrong": [
+      "Namib",
+      "Gobi",
+      "Thar"
+    ],
+    "hint": "In Südamerika gelegen, haben Teile dieser Wüste seit Hunderten von Jahren keinen Regen erhalten.",
+    "explanation": "Die Atacama-Wüste in Chile ist die trockenste nicht-polare Wüste der Erde. Einige Wetterstationen haben dort nie Regen aufgezeichnet, und die NASA testet dort Mars-Rover."
+  },
+  "q_geo_029": {
+    "question": "Was ist das größte Binnenland der Welt?",
+    "correct": "Kasachstan",
+    "wrong": [
+      "Mongolei",
+      "Tschad",
+      "Äthiopien"
+    ],
+    "hint": "Dieses zentralasiatische Land grenzt an Russland und China und gehörte einst zur Sowjetunion.",
+    "explanation": "Kasachstan erstreckt sich über etwa 2,72 Millionen km² und ist damit das größte Binnenland der Welt und das neuntgrößte Land insgesamt."
   }
 }

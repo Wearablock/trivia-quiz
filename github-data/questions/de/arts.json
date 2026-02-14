@@ -295,5 +295,27 @@
     ],
     "hint": "Louis Armstrong und Duke Ellington waren die größten Wegbereiter dieses auf Improvisation basierenden Genres.",
     "explanation": "Jazz entstand Anfang der 1900er Jahre in New Orleans."
+  },
+  "q_art_028": {
+    "question": "Wer komponierte das Ballett 'Der Nussknacker'?",
+    "correct": "Pjotr Tschaikowski",
+    "wrong": [
+      "Igor Strawinsky",
+      "Sergei Prokofjew",
+      "Frédéric Chopin"
+    ],
+    "hint": "Dieser russische Komponist schrieb auch die Ballette 'Schwanensee' und 'Dornröschen'.",
+    "explanation": "Pjotr Tschaikowski komponierte Der Nussknacker 1892. Basierend auf E.T.A. Hoffmanns Erzählung ist es eines der meistaufgeführten Ballette in der Weihnachtszeit."
+  },
+  "q_art_029": {
+    "question": "Wer malte 'Die Beständigkeit der Erinnerung', berühmt für ihre schmelzenden Uhren?",
+    "correct": "Salvador Dalí",
+    "wrong": [
+      "René Magritte",
+      "Pablo Picasso",
+      "Max Ernst"
+    ],
+    "hint": "Dieser spanische Künstler war bekannt für seine extravagante Persönlichkeit, seinen hochgezwirbelten Schnurrbart und seine bizarren traumhaften Bilder.",
+    "explanation": "Salvador Dalí malte Die Beständigkeit der Erinnerung 1931. Die schmelzenden Uhren sollen die Fließfähigkeit der Zeit in Träumen darstellen, ein zentrales Thema des Surrealismus."
   }
 }

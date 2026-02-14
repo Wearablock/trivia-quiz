@@ -295,5 +295,27 @@
     ],
     "hint": "Diese 118 km lange Mauer verlief quer durch den Norden Englands von Küste zu Küste und ist nach dem Kaiser benannt, der sie 122 n. Chr. in Auftrag gab.",
     "explanation": "Der Hadrianswall wurde ab 122 n. Chr. zum Schutz des römischen Britanniens errichtet."
+  },
+  "q_his_028": {
+    "question": "Welcher Vertrag beendete den Ersten Weltkrieg offiziell?",
+    "correct": "Vertrag von Versailles",
+    "wrong": [
+      "Pariser Vertrag",
+      "Vertrag von Gent",
+      "Vertrag von Tordesillas"
+    ],
+    "hint": "Dieser Vertrag wurde 1919 in einem berühmten französischen Palast unterzeichnet.",
+    "explanation": "Der Vertrag von Versailles wurde am 28. Juni 1919 im Spiegelsaal von Versailles unterzeichnet. Er legte Deutschland schwere Reparationen auf und zeichnete die europäischen Grenzen neu."
+  },
+  "q_his_029": {
+    "question": "Wer war der letzte Pharao des alten Ägypten?",
+    "correct": "Kleopatra VII.",
+    "wrong": [
+      "Nofretete",
+      "Hatschepsut",
+      "Ramses II."
+    ],
+    "hint": "Sie hatte romantische Beziehungen zu Julius Cäsar und Marcus Antonius.",
+    "explanation": "Kleopatra VII. regierte Ägypten von 51 bis 30 v. Chr. Nach ihrem Tod wurde Ägypten eine Provinz des Römischen Reiches und beendete über 3.000 Jahre pharaonischer Herrschaft."
   }
 }

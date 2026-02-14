@@ -262,5 +262,26 @@
     "wrong": ["Mercury", "Mars", "Jupiter"],
     "hint": "Despite not being the closest to the Sun, this planet's thick CO₂ atmosphere creates a runaway greenhouse effect with surface temperatures over 460°C.",
     "explanation": "Venus is the hottest planet with an average surface temperature of about 465°C, hotter than Mercury despite being farther from the Sun, due to its dense carbon dioxide atmosphere."
+  },
+  "q_sci_028": {
+    "question": "What is the most abundant element in Earth's crust?",
+    "correct": "Oxygen",
+    "wrong": ["Silicon", "Aluminum", "Iron"],
+    "hint": "This element makes up about 46% of Earth's crust by weight, mostly combined with other elements in minerals.",
+    "explanation": "Oxygen makes up approximately 46% of Earth's crust by mass, primarily in the form of oxides and silicates. Silicon is second at about 28%."
+  },
+  "q_sci_029": {
+    "question": "What is the approximate speed of sound in air at room temperature?",
+    "correct": "343 m/s",
+    "wrong": ["150 m/s", "500 m/s", "1,000 m/s"],
+    "hint": "It is roughly 1,235 km/h and aircraft flying faster than this break the 'sound barrier.'",
+    "explanation": "The speed of sound in air at 20°C is approximately 343 meters per second (1,235 km/h). Aircraft exceeding this speed are said to be flying at supersonic speeds."
+  },
+  "q_sci_030": {
+    "question": "What is the heaviest naturally occurring element on Earth?",
+    "correct": "Uranium",
+    "wrong": ["Plutonium", "Lead", "Gold"],
+    "hint": "This radioactive element is used as fuel in nuclear power plants and has an atomic number of 92.",
+    "explanation": "Uranium, with atomic number 92, is the heaviest element found in significant quantities in nature. It is used as fuel in nuclear reactors and in nuclear weapons."
   }
 }

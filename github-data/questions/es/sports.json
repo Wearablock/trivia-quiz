@@ -295,5 +295,27 @@
     ],
     "hint": "Se celebra cada año en Londres y es famoso por su estricto código de vestimenta blanca y la tradición de fresas con crema.",
     "explanation": "Wimbledon se celebra desde 1877 en el All England Club de Londres."
+  },
+  "q_spo_028": {
+    "question": "¿Qué país ha ganado más títulos de la Copa Mundial de Críquet de la ICC?",
+    "correct": "Australia",
+    "wrong": [
+      "India",
+      "Indias Occidentales",
+      "Inglaterra"
+    ],
+    "hint": "El equipo de críquet de este país, conocido por sus colores verde y dorado, ha dominado el torneo desde la década de 1990.",
+    "explanation": "Australia ha ganado la Copa Mundial de Críquet de la ICC seis veces (1987, 1999, 2003, 2007, 2015 y 2023), más que cualquier otro país."
+  },
+  "q_spo_029": {
+    "question": "¿Qué nadador ha ganado más medallas de oro olímpicas en la historia?",
+    "correct": "Michael Phelps",
+    "wrong": [
+      "Mark Spitz",
+      "Ian Thorpe",
+      "Ryan Lochte"
+    ],
+    "hint": "Este nadador estadounidense ganó sus récords de medallas en cinco Juegos Olímpicos consecutivos de 2000 a 2016.",
+    "explanation": "Michael Phelps ganó 23 medallas de oro olímpicas en cinco Juegos (2000-2016), convirtiéndose en el atleta olímpico más condecorado de todos los tiempos con 28 medallas en total."
   }
 }

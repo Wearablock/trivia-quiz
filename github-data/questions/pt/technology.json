@@ -284,5 +284,38 @@
     ],
     "hint": "Conhecido como o 'cérebro' do computador, este chip executa as instruções e cálculos para todas as tarefas do dispositivo.",
     "explanation": "A CPU é o componente principal que executa instruções em um computador."
+  },
+  "q_tec_027": {
+    "question": "O que significa 'IoT' em tecnologia?",
+    "correct": "Internet das Coisas",
+    "wrong": [
+      "Integração de Tecnologia",
+      "Terminal Operacional Interno",
+      "Interface de Transações"
+    ],
+    "hint": "Este conceito refere-se a dispositivos do dia a dia, como geladeiras e termostatos, conectados à internet.",
+    "explanation": "IoT (Internet das Coisas) refere-se à rede de dispositivos físicos com sensores e software integrados que se conectam à internet para coletar e trocar dados."
+  },
+  "q_tec_028": {
+    "question": "Quem inventou a primeira lâmpada incandescente prática?",
+    "correct": "Thomas Edison",
+    "wrong": [
+      "Nikola Tesla",
+      "Benjamin Franklin",
+      "Michael Faraday"
+    ],
+    "hint": "Este inventor americano detinha mais de 1.000 patentes e fundou um famoso laboratório em Menlo Park, Nova Jersey.",
+    "explanation": "Thomas Edison desenvolveu a primeira lâmpada incandescente comercialmente prática em 1879, usando um filamento de bambu carbonizado que durava mais de 1.200 horas."
+  },
+  "q_tec_029": {
+    "question": "Em que ano foi enviada a primeira mensagem de texto (SMS)?",
+    "correct": "1992",
+    "wrong": [
+      "1985",
+      "1997",
+      "2001"
+    ],
+    "hint": "A mensagem dizia simplesmente 'Feliz Natal' e foi enviada por um engenheiro britânico.",
+    "explanation": "O primeiro SMS foi enviado em 3 de dezembro de 1992 por Neil Papworth, um engenheiro britânico, para Richard Jarvis na Vodafone. A mensagem dizia 'Feliz Natal'."
   }
 }

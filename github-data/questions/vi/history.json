@@ -295,5 +295,27 @@
     ],
     "hint": "Bức tường dài 118 km này chạy ngang qua miền bắc nước Anh từ bờ biển này sang bờ biển kia, được đặt theo tên hoàng đế ra lệnh xây dựng năm 122 SCN.",
     "explanation": "Tường thành Hadrian được xây dựng từ năm 122 SCN để bảo vệ xứ Britannia thuộc La Mã."
+  },
+  "q_his_028": {
+    "question": "Hiệp ước nào chính thức kết thúc Thế chiến I?",
+    "correct": "Hiệp ước Versailles",
+    "wrong": [
+      "Hiệp ước Paris",
+      "Hiệp ước Ghent",
+      "Hiệp ước Tordesillas"
+    ],
+    "hint": "Hiệp ước này được ký tại một cung điện nổi tiếng ở Pháp năm 1919.",
+    "explanation": "Hiệp ước Versailles được ký vào ngày 28 tháng 6 năm 1919 tại Phòng Gương của Cung điện Versailles. Nó áp đặt bồi thường nặng nề lên Đức và vẽ lại biên giới châu Âu."
+  },
+  "q_his_029": {
+    "question": "Ai là pharaoh cuối cùng của Ai Cập cổ đại?",
+    "correct": "Cleopatra VII",
+    "wrong": [
+      "Nefertiti",
+      "Hatshepsut",
+      "Ramesses II"
+    ],
+    "hint": "Bà có mối quan hệ tình cảm với cả Julius Caesar và Mark Antony.",
+    "explanation": "Cleopatra VII cai trị Ai Cập từ năm 51 đến 30 TCN. Sau khi bà qua đời, Ai Cập trở thành một tỉnh của Đế chế La Mã, chấm dứt hơn 3.000 năm cai trị của các pharaoh."
   }
 }

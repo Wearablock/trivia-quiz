@@ -295,5 +295,27 @@
     ],
     "hint": "Las regiones de Burdeos en Francia y Toscana en Italia son mundialmente famosas por cultivarla, con variedades tintas y blancas.",
     "explanation": "Las uvas son la fruta principal utilizada para la elaboración del vino."
+  },
+  "q_foo_028": {
+    "question": "¿Qué especia común se hace de la corteza seca de un árbol?",
+    "correct": "Canela",
+    "wrong": [
+      "Nuez moscada",
+      "Clavo",
+      "Jengibre"
+    ],
+    "hint": "Esta especia cálida y dulce se usa frecuentemente en repostería y es un complemento popular para el café y el chocolate caliente.",
+    "explanation": "La canela proviene de la corteza interna de los árboles del género Cinnamomum. Sri Lanka produce la mayoría de la 'canela verdadera' (canela de Ceilán) del mundo."
+  },
+  "q_foo_029": {
+    "question": "¿Qué fruta popular tiene las semillas por fuera?",
+    "correct": "Fresa",
+    "wrong": [
+      "Frambuesa",
+      "Cereza",
+      "Arándano"
+    ],
+    "hint": "Esta fruta roja en forma de corazón tiene unas 200 pequeñas semillas amarillas visibles en su superficie.",
+    "explanation": "La fresa es la única fruta que tiene sus semillas por fuera, con un promedio de unas 200 semillas por fruta. Técnicamente, cada 'semilla' es en realidad un pequeño fruto llamado aquenio."
   }
 }

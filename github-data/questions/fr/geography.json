@@ -295,5 +295,38 @@
     ],
     "hint": "Ce fleuve traverse sept États de l'ouest des États-Unis et se jette dans le golfe de Californie au Mexique.",
     "explanation": "Le fleuve Colorado a creusé le Grand Canyon au fil de millions d'années d'érosion."
+  },
+  "q_geo_027": {
+    "question": "Quel pays possède le plus de volcans actifs ?",
+    "correct": "Indonésie",
+    "wrong": [
+      "Japon",
+      "États-Unis",
+      "Philippines"
+    ],
+    "hint": "Ce pays archipel est situé le long de la ceinture de feu du Pacifique et comprend plus de 17 000 îles.",
+    "explanation": "L'Indonésie compte environ 130 volcans actifs, le plus grand nombre au monde, en raison de sa position sur la ceinture de feu du Pacifique."
+  },
+  "q_geo_028": {
+    "question": "Quel est le désert non polaire le plus sec du monde ?",
+    "correct": "Désert d'Atacama",
+    "wrong": [
+      "Namib",
+      "Gobi",
+      "Thar"
+    ],
+    "hint": "Situé en Amérique du Sud, certaines parties de ce désert n'ont pas reçu de pluie depuis des centaines d'années.",
+    "explanation": "Le désert d'Atacama au Chili est le désert non polaire le plus sec de la Terre. Certaines stations météo n'y ont jamais enregistré de pluie, et la NASA y teste ses rovers martiens."
+  },
+  "q_geo_029": {
+    "question": "Quel est le plus grand pays enclavé du monde ?",
+    "correct": "Kazakhstan",
+    "wrong": [
+      "Mongolie",
+      "Tchad",
+      "Éthiopie"
+    ],
+    "hint": "Ce pays d'Asie centrale borde la Russie et la Chine et faisait autrefois partie de l'Union soviétique.",
+    "explanation": "Le Kazakhstan couvre environ 2,72 millions de km², ce qui en fait le plus grand pays enclavé du monde et le neuvième plus grand pays au total."
   }
 }

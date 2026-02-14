@@ -306,5 +306,38 @@
     ],
     "hint": "Embora não seja o mais próximo do Sol, sua densa atmosfera de CO₂ cria um efeito estufa extremo de 465°C, e leva o nome da deusa romana do amor.",
     "explanation": "Vênus tem uma temperatura de superfície de cerca de 465°C devido ao seu intenso efeito estufa."
+  },
+  "q_sci_028": {
+    "question": "Qual é o elemento mais abundante na crosta terrestre?",
+    "correct": "Oxigênio",
+    "wrong": [
+      "Silício",
+      "Alumínio",
+      "Ferro"
+    ],
+    "hint": "Este elemento compõe cerca de 46% da massa da crosta terrestre, principalmente combinado com outros elementos em minerais.",
+    "explanation": "O oxigênio compõe aproximadamente 46% da massa da crosta terrestre, principalmente na forma de óxidos e silicatos. O silício é o segundo com cerca de 28%."
+  },
+  "q_sci_029": {
+    "question": "Qual é a velocidade aproximada do som no ar à temperatura ambiente?",
+    "correct": "343 m/s",
+    "wrong": [
+      "150 m/s",
+      "500 m/s",
+      "1.000 m/s"
+    ],
+    "hint": "É aproximadamente 1.235 km/h, e aeronaves que voam mais rápido quebram a «barreira do som».",
+    "explanation": "A velocidade do som no ar a 20°C é de aproximadamente 343 metros por segundo (1.235 km/h). Aeronaves que excedem essa velocidade voam em velocidades supersônicas."
+  },
+  "q_sci_030": {
+    "question": "Qual é o elemento natural mais pesado encontrado na Terra?",
+    "correct": "Urânio",
+    "wrong": [
+      "Plutônio",
+      "Chumbo",
+      "Ouro"
+    ],
+    "hint": "Este elemento radioativo é usado como combustível em usinas nucleares e tem número atômico 92.",
+    "explanation": "O urânio, com número atômico 92, é o elemento mais pesado encontrado em quantidades significativas na natureza. É usado como combustível em reatores nucleares e em armas nucleares."
   }
 }

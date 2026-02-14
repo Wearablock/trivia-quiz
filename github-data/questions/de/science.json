@@ -306,5 +306,38 @@
     ],
     "hint": "Obwohl sie nicht der sonnennächste Planet ist, erzeugt ihre dichte CO₂-Atmosphäre einen extremen Treibhauseffekt von 465°C, und sie ist nach der römischen Göttin der Liebe benannt.",
     "explanation": "Die Venus hat eine Oberflächentemperatur von etwa 465°C aufgrund ihres intensiven Treibhauseffekts."
+  },
+  "q_sci_028": {
+    "question": "Was ist das häufigste Element in der Erdkruste?",
+    "correct": "Sauerstoff",
+    "wrong": [
+      "Silizium",
+      "Aluminium",
+      "Eisen"
+    ],
+    "hint": "Dieses Element macht etwa 46 % der Masse der Erdkruste aus, hauptsächlich in Verbindung mit anderen Elementen in Mineralen.",
+    "explanation": "Sauerstoff macht etwa 46 % der Erdkrustenmasse aus, hauptsächlich in Form von Oxiden und Silikaten. Silizium liegt mit etwa 28 % an zweiter Stelle."
+  },
+  "q_sci_029": {
+    "question": "Wie hoch ist die ungefähre Schallgeschwindigkeit in der Luft bei Raumtemperatur?",
+    "correct": "343 m/s",
+    "wrong": [
+      "150 m/s",
+      "500 m/s",
+      "1.000 m/s"
+    ],
+    "hint": "Das sind etwa 1.235 km/h, und Flugzeuge, die schneller fliegen, durchbrechen die 'Schallmauer'.",
+    "explanation": "Die Schallgeschwindigkeit in Luft bei 20°C beträgt ungefähr 343 Meter pro Sekunde (1.235 km/h). Flugzeuge, die diese Geschwindigkeit überschreiten, fliegen mit Überschallgeschwindigkeit."
+  },
+  "q_sci_030": {
+    "question": "Was ist das schwerste natürlich vorkommende Element auf der Erde?",
+    "correct": "Uran",
+    "wrong": [
+      "Plutonium",
+      "Blei",
+      "Gold"
+    ],
+    "hint": "Dieses radioaktive Element wird als Brennstoff in Kernkraftwerken verwendet und hat die Ordnungszahl 92.",
+    "explanation": "Uran mit der Ordnungszahl 92 ist das schwerste Element, das in nennenswerten Mengen in der Natur vorkommt. Es wird als Brennstoff in Kernreaktoren verwendet."
   }
 }

@@ -284,5 +284,38 @@
     ],
     "hint": "Được mệnh danh là 'bộ não' của máy tính, chip này thực hiện mọi lệnh và phép tính cho thiết bị.",
     "explanation": "CPU là thành phần chính thực hiện các lệnh trong máy tính."
+  },
+  "q_tec_027": {
+    "question": "'IoT' trong công nghệ là viết tắt của gì?",
+    "correct": "Internet Vạn Vật",
+    "wrong": [
+      "Tích hợp Công nghệ",
+      "Thiết bị Vận hành Nội bộ",
+      "Giao diện Giao dịch"
+    ],
+    "hint": "Khái niệm này đề cập đến các thiết bị hàng ngày như tủ lạnh và bộ điều nhiệt được kết nối với internet.",
+    "explanation": "IoT (Internet Vạn Vật) đề cập đến mạng lưới các thiết bị vật lý được nhúng cảm biến và phần mềm, kết nối internet để thu thập và trao đổi dữ liệu."
+  },
+  "q_tec_028": {
+    "question": "Ai phát minh ra bóng đèn sợi đốt thực dụng đầu tiên?",
+    "correct": "Thomas Edison",
+    "wrong": [
+      "Nikola Tesla",
+      "Benjamin Franklin",
+      "Michael Faraday"
+    ],
+    "hint": "Nhà phát minh người Mỹ này nắm giữ hơn 1.000 bằng sáng chế và thành lập phòng thí nghiệm nổi tiếng tại Menlo Park, New Jersey.",
+    "explanation": "Thomas Edison phát triển bóng đèn sợi đốt thương mại đầu tiên năm 1879, sử dụng sợi tre than hóa có thể hoạt động hơn 1.200 giờ."
+  },
+  "q_tec_029": {
+    "question": "Tin nhắn văn bản (SMS) đầu tiên được gửi vào năm nào?",
+    "correct": "1992",
+    "wrong": [
+      "1985",
+      "1997",
+      "2001"
+    ],
+    "hint": "Tin nhắn chỉ đơn giản viết 'Merry Christmas' và được gửi bởi một kỹ sư người Anh.",
+    "explanation": "SMS đầu tiên được gửi vào ngày 3 tháng 12 năm 1992 bởi Neil Papworth, kỹ sư người Anh, gửi cho Richard Jarvis tại Vodafone. Tin nhắn viết 'Merry Christmas'."
   }
 }

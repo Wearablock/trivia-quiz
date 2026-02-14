@@ -295,5 +295,38 @@
     ],
     "hint": "Dieses langsame Tier hat Augen, die sich unabhängig voneinander drehen, eine Schleuderzunge, die länger als sein Körper ist, und einen Greifschwanz zum Festhalten an Ästen.",
     "explanation": "Chamäleons wechseln ihre Farbe, indem sie die Pigmentzellen in ihrer Haut anpassen."
+  },
+  "q_nat_028": {
+    "question": "Was ist die größte Bärenart der Welt?",
+    "correct": "Eisbär",
+    "wrong": [
+      "Grizzlybär",
+      "Braunbär",
+      "Schwarzbär"
+    ],
+    "hint": "Dieses weiß bepelzte Raubtier lebt in der Arktis und wird als Meeressäugetier eingestuft.",
+    "explanation": "Eisbären sind die größten Landraubtiere, wobei Männchen bis zu 700 kg wiegen. Sie werden als Meeressäugetiere eingestuft, da sie den Großteil ihres Lebens auf dem Meereis verbringen."
+  },
+  "q_nat_029": {
+    "question": "Welcher Vogel hat die größte Flügelspannweite aller lebenden Vögel?",
+    "correct": "Wanderalbatros",
+    "wrong": [
+      "Andenkondor",
+      "Weißkopfseeadler",
+      "Pelikan"
+    ],
+    "hint": "Dieser Seevogel verbringt den Großteil seines Lebens über dem Südpolarmeer und kann stundenlang gleiten, ohne mit den Flügeln zu schlagen.",
+    "explanation": "Der Wanderalbatros hat eine Flügelspannweite von bis zu 3,5 Metern (11,5 Fuß), die größte aller lebenden Vögel. Sie können Tausende von Kilometern fliegen, ohne zu landen."
+  },
+  "q_nat_030": {
+    "question": "Was ist die giftigste Schlange der Welt?",
+    "correct": "Inlandtaipan",
+    "wrong": [
+      "Königskobra",
+      "Schwarze Mamba",
+      "Östliche Braunschlange"
+    ],
+    "hint": "In den halbtrockenen Regionen Zentralaustraliens beheimatet, enthält ein einziger Biss genug Gift, um über 100 erwachsene Menschen zu töten.",
+    "explanation": "Der Inlandtaipan aus Australien besitzt das stärkste Gift aller Landschlangen. Ein einziger Biss kann etwa 100 Erwachsene töten, obwohl Begegnungen mit Menschen äußerst selten sind."
   }
 }

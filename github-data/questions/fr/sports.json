@@ -295,5 +295,27 @@
     ],
     "hint": "Il se tient chaque année à Londres et est célèbre pour son strict code vestimentaire blanc et sa tradition de fraises à la crème.",
     "explanation": "Wimbledon se tient depuis 1877 au All England Club de Londres."
+  },
+  "q_spo_028": {
+    "question": "Quel pays a remporté le plus de titres de la Coupe du monde de cricket de l'ICC ?",
+    "correct": "Australie",
+    "wrong": [
+      "Inde",
+      "Antilles",
+      "Angleterre"
+    ],
+    "hint": "L'équipe de cricket de ce pays, connue pour ses couleurs vert et or, domine le tournoi depuis les années 1990.",
+    "explanation": "L'Australie a remporté la Coupe du monde de cricket de l'ICC six fois (1987, 1999, 2003, 2007, 2015 et 2023), plus que tout autre pays."
+  },
+  "q_spo_029": {
+    "question": "Quel nageur a remporté le plus de médailles d'or olympiques dans l'histoire ?",
+    "correct": "Michael Phelps",
+    "wrong": [
+      "Mark Spitz",
+      "Ian Thorpe",
+      "Ryan Lochte"
+    ],
+    "hint": "Ce nageur américain a obtenu ses médailles record lors de cinq Jeux olympiques consécutifs de 2000 à 2016.",
+    "explanation": "Michael Phelps a remporté 23 médailles d'or olympiques lors de cinq Jeux (2000-2016), devenant l'athlète olympique le plus décoré de tous les temps avec 28 médailles au total."
   }
 }

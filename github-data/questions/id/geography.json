@@ -295,5 +295,38 @@
     ],
     "hint": "Sungai ini mengalir melalui tujuh negara bagian di barat AS dan bermuara di Teluk California di Meksiko.",
     "explanation": "Sungai Colorado membentuk Grand Canyon selama jutaan tahun erosi."
+  },
+  "q_geo_027": {
+    "question": "Negara mana yang memiliki gunung berapi aktif terbanyak?",
+    "correct": "Indonesia",
+    "wrong": [
+      "Jepang",
+      "Amerika Serikat",
+      "Filipina"
+    ],
+    "hint": "Negara kepulauan ini terletak di sepanjang Cincin Api Pasifik dan terdiri dari lebih dari 17.000 pulau.",
+    "explanation": "Indonesia memiliki sekitar 130 gunung berapi aktif, terbanyak di dunia, karena lokasinya di sepanjang Cincin Api Pasifik."
+  },
+  "q_geo_028": {
+    "question": "Apa gurun non-kutub paling kering di dunia?",
+    "correct": "Gurun Atacama",
+    "wrong": [
+      "Namib",
+      "Gobi",
+      "Thar"
+    ],
+    "hint": "Terletak di Amerika Selatan, beberapa bagian gurun ini tidak menerima hujan selama ratusan tahun.",
+    "explanation": "Gurun Atacama di Chili adalah gurun non-kutub paling kering di Bumi. Beberapa stasiun cuaca tidak pernah mencatat hujan, dan NASA menggunakannya untuk menguji rover Mars."
+  },
+  "q_geo_029": {
+    "question": "Apa negara terkurung daratan terbesar di dunia?",
+    "correct": "Kazakhstan",
+    "wrong": [
+      "Mongolia",
+      "Chad",
+      "Ethiopia"
+    ],
+    "hint": "Negara Asia Tengah ini berbatasan dengan Rusia dan China serta dulunya merupakan bagian dari Uni Soviet.",
+    "explanation": "Kazakhstan mencakup sekitar 2,72 juta km², menjadikannya negara terkurung daratan terbesar di dunia dan negara terbesar kesembilan secara keseluruhan."
   }
 }

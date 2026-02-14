@@ -306,5 +306,38 @@
     ],
     "hint": "Dù không phải hành tinh gần Mặt Trời nhất, bầu khí quyển CO₂ dày đặc tạo hiệu ứng nhà kính cực đoan lên tới 465°C, được đặt theo tên nữ thần tình yêu La Mã.",
     "explanation": "Sao Kim có nhiệt độ bề mặt khoảng 465°C do hiệu ứng nhà kính mãnh liệt."
+  },
+  "q_sci_028": {
+    "question": "Nguyên tố phổ biến nhất trong vỏ Trái Đất là gì?",
+    "correct": "Oxy",
+    "wrong": [
+      "Silic",
+      "Nhôm",
+      "Sắt"
+    ],
+    "hint": "Nguyên tố này chiếm khoảng 46% khối lượng vỏ Trái Đất, chủ yếu kết hợp với các nguyên tố khác trong khoáng vật.",
+    "explanation": "Oxy chiếm khoảng 46% khối lượng vỏ Trái Đất, chủ yếu ở dạng oxit và silicat. Silic đứng thứ hai với khoảng 28%."
+  },
+  "q_sci_029": {
+    "question": "Tốc độ âm thanh trong không khí ở nhiệt độ phòng xấp xỉ bao nhiêu?",
+    "correct": "343 m/s",
+    "wrong": [
+      "150 m/s",
+      "500 m/s",
+      "1.000 m/s"
+    ],
+    "hint": "Khoảng 1.235 km/h, và máy bay bay nhanh hơn sẽ phá vỡ 'rào cản âm thanh'.",
+    "explanation": "Tốc độ âm thanh trong không khí ở 20°C là khoảng 343 mét/giây (1.235 km/h). Máy bay vượt quá tốc độ này được gọi là bay siêu thanh."
+  },
+  "q_sci_030": {
+    "question": "Nguyên tố tự nhiên nặng nhất trên Trái Đất là gì?",
+    "correct": "Uranium",
+    "wrong": [
+      "Plutonium",
+      "Chì",
+      "Vàng"
+    ],
+    "hint": "Nguyên tố phóng xạ này được sử dụng làm nhiên liệu trong nhà máy điện hạt nhân và có số hiệu nguyên tử là 92.",
+    "explanation": "Uranium, với số hiệu nguyên tử 92, là nguyên tố nặng nhất được tìm thấy với số lượng đáng kể trong tự nhiên. Nó được sử dụng làm nhiên liệu trong lò phản ứng hạt nhân và vũ khí hạt nhân."
   }
 }

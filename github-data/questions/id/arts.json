@@ -295,5 +295,27 @@
     ],
     "hint": "Louis Armstrong dan Duke Ellington adalah pelopor terbesar genre berbasis improvisasi ini.",
     "explanation": "Jazz lahir di New Orleans pada awal 1900-an."
+  },
+  "q_art_028": {
+    "question": "Siapa yang menggubah balet 'The Nutcracker'?",
+    "correct": "Pyotr Tchaikovsky",
+    "wrong": [
+      "Igor Stravinsky",
+      "Sergei Prokofiev",
+      "Frédéric Chopin"
+    ],
+    "hint": "Komposer Rusia ini juga menggubah balet 'Swan Lake' dan 'Sleeping Beauty'.",
+    "explanation": "Pyotr Tchaikovsky menggubah The Nutcracker pada tahun 1892. Berdasarkan cerita E.T.A. Hoffmann, karya ini menjadi salah satu balet yang paling sering dipentaskan selama musim Natal."
+  },
+  "q_art_029": {
+    "question": "Siapa yang melukis 'The Persistence of Memory' yang terkenal dengan jam-jam melelehnya?",
+    "correct": "Salvador Dalí",
+    "wrong": [
+      "René Magritte",
+      "Pablo Picasso",
+      "Max Ernst"
+    ],
+    "hint": "Pelukis Spanyol ini dikenal dengan kepribadiannya yang flamboyan, kumis yang melengkung ke atas, dan citra mimpi yang aneh.",
+    "explanation": "Salvador Dalí melukis The Persistence of Memory pada tahun 1931. Jam-jam yang meleleh dikatakan mewakili kelenturan waktu dalam mimpi, tema sentral dalam Surealisme."
   }
 }

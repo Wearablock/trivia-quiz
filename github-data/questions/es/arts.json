@@ -295,5 +295,27 @@
     ],
     "hint": "Louis Armstrong y Duke Ellington fueron los más grandes pioneros de este género basado en la improvisación.",
     "explanation": "El jazz se originó en Nueva Orleans a principios de los años 1900."
+  },
+  "q_art_028": {
+    "question": "¿Quién compuso el ballet 'El cascanueces'?",
+    "correct": "Piotr Chaikovski",
+    "wrong": [
+      "Ígor Stravinski",
+      "Serguéi Prokófiev",
+      "Frédéric Chopin"
+    ],
+    "hint": "Este compositor ruso también escribió los ballets 'El lago de los cisnes' y 'La bella durmiente'.",
+    "explanation": "Piotr Chaikovski compuso El cascanueces en 1892. Basado en el cuento de E.T.A. Hoffmann, se ha convertido en uno de los ballets más representados durante la temporada navideña."
+  },
+  "q_art_029": {
+    "question": "¿Quién pintó 'La persistencia de la memoria', famosa por sus relojes derretidos?",
+    "correct": "Salvador Dalí",
+    "wrong": [
+      "René Magritte",
+      "Pablo Picasso",
+      "Max Ernst"
+    ],
+    "hint": "Este artista español era conocido por su personalidad extravagante, su bigote levantado y sus extrañas imágenes oníricas.",
+    "explanation": "Salvador Dalí pintó La persistencia de la memoria en 1931. Los relojes derretidos representan la fluidez del tiempo en los sueños, un tema central del surrealismo."
   }
 }

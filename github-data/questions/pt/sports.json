@@ -295,5 +295,27 @@
     ],
     "hint": "Realizado anualmente em Londres, é famoso por seu rigoroso código de vestimenta branca e pela tradição de morangos com creme.",
     "explanation": "Wimbledon é realizado desde 1877 no All England Club, em Londres."
+  },
+  "q_spo_028": {
+    "question": "Qual país ganhou mais títulos da Copa do Mundo de Críquete da ICC?",
+    "correct": "Austrália",
+    "wrong": [
+      "Índia",
+      "Índias Ocidentais",
+      "Inglaterra"
+    ],
+    "hint": "A equipe de críquete deste país, conhecida por suas cores verde e dourada, dominou o torneio desde a década de 1990.",
+    "explanation": "A Austrália ganhou a Copa do Mundo de Críquete da ICC seis vezes (1987, 1999, 2003, 2007, 2015 e 2023), mais do que qualquer outro país."
+  },
+  "q_spo_029": {
+    "question": "Qual nadador ganhou mais medalhas de ouro olímpicas na história?",
+    "correct": "Michael Phelps",
+    "wrong": [
+      "Mark Spitz",
+      "Ian Thorpe",
+      "Ryan Lochte"
+    ],
+    "hint": "Este nadador americano conquistou suas medalhas recordes em cinco Jogos Olímpicos consecutivos de 2000 a 2016.",
+    "explanation": "Michael Phelps conquistou 23 medalhas de ouro olímpicas em cinco Jogos (2000-2016), tornando-se o atleta olímpico mais condecorado de todos os tempos com 28 medalhas no total."
   }
 }

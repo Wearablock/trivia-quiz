@@ -251,5 +251,19 @@
     "wrong": ["Australian Open", "US Open", "French Open"],
     "hint": "Held annually in London, this tournament is famous for its strict all-white dress code and strawberries-and-cream tradition.",
     "explanation": "Wimbledon, held at the All England Club in London since 1877, is the oldest tennis tournament and the only Grand Slam still played on grass courts."
+  },
+  "q_spo_028": {
+    "question": "Which country has won the most ICC Cricket World Cup titles?",
+    "correct": "Australia",
+    "wrong": ["India", "West Indies", "England"],
+    "hint": "This country's cricket team, known for its green and gold colors, has dominated the tournament since the 1990s.",
+    "explanation": "Australia has won the ICC Cricket World Cup six times (1987, 1999, 2003, 2007, 2015, and 2023), more than any other country."
+  },
+  "q_spo_029": {
+    "question": "Which swimmer has won the most Olympic gold medals in history?",
+    "correct": "Michael Phelps",
+    "wrong": ["Mark Spitz", "Ian Thorpe", "Ryan Lochte"],
+    "hint": "This American swimmer earned his record-breaking medals across five consecutive Olympic Games from 2000 to 2016.",
+    "explanation": "Michael Phelps won 23 Olympic gold medals across five Games (2000–2016), making him the most decorated Olympic athlete of all time with 28 total medals."
   }
 }

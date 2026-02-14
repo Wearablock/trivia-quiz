@@ -295,5 +295,38 @@
     ],
     "hint": "Makhluk lambat ini memiliki mata yang berputar secara independen, lidah proyektil lebih panjang dari tubuhnya, dan ekor pegang untuk berpegangan pada cabang.",
     "explanation": "Bunglon berubah warna dengan menyesuaikan sel pigmen di kulitnya."
+  },
+  "q_nat_028": {
+    "question": "Apa spesies beruang terbesar di dunia?",
+    "correct": "Beruang kutub",
+    "wrong": [
+      "Beruang grizzly",
+      "Beruang cokelat",
+      "Beruang hitam"
+    ],
+    "hint": "Predator berbulu putih ini hidup di Arktik dan diklasifikasikan sebagai mamalia laut.",
+    "explanation": "Beruang kutub adalah karnivora darat terbesar, dengan jantan berbobot hingga 700 kg. Mereka diklasifikasikan sebagai mamalia laut karena menghabiskan sebagian besar hidupnya di es laut."
+  },
+  "q_nat_029": {
+    "question": "Burung apa yang memiliki rentang sayap terbesar di antara burung yang masih hidup?",
+    "correct": "Albatros pengembara",
+    "wrong": [
+      "Kondor Andes",
+      "Elang botak",
+      "Pelikan"
+    ],
+    "hint": "Burung laut ini menghabiskan sebagian besar hidupnya melayang di atas Samudra Selatan dan dapat meluncur selama berjam-jam tanpa mengepakkan sayap.",
+    "explanation": "Albatros pengembara memiliki rentang sayap hingga 3,5 meter (11,5 kaki), terbesar di antara semua burung yang masih hidup. Mereka dapat terbang ribuan kilometer tanpa mendarat."
+  },
+  "q_nat_030": {
+    "question": "Apa ular paling berbisa di dunia?",
+    "correct": "Taipan pedalaman",
+    "wrong": [
+      "King kobra",
+      "Mamba hitam",
+      "Ular cokelat timur"
+    ],
+    "hint": "Ditemukan di daerah semi-kering Australia tengah, satu gigitan mengandung cukup bisa untuk membunuh lebih dari 100 manusia dewasa.",
+    "explanation": "Taipan pedalaman Australia memiliki bisa paling beracun di antara semua ular darat. Satu gigitan dapat membunuh sekitar 100 orang dewasa, meskipun pertemuan dengan manusia sangat jarang."
   }
 }

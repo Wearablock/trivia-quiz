@@ -295,5 +295,27 @@
     ],
     "hint": "Tembok sepanjang 118 km ini melintasi utara Inggris dari pantai ke pantai, dinamai kaisar yang memerintahkan pembangunannya pada 122 M.",
     "explanation": "Tembok Hadrian dibangun mulai 122 M untuk melindungi Britannia Romawi."
+  },
+  "q_his_028": {
+    "question": "Perjanjian apa yang secara resmi mengakhiri Perang Dunia I?",
+    "correct": "Perjanjian Versailles",
+    "wrong": [
+      "Perjanjian Paris",
+      "Perjanjian Ghent",
+      "Perjanjian Tordesillas"
+    ],
+    "hint": "Perjanjian ini ditandatangani di istana Prancis yang terkenal pada tahun 1919.",
+    "explanation": "Perjanjian Versailles ditandatangani pada 28 Juni 1919 di Galeri Cermin Istana Versailles. Perjanjian ini memberlakukan reparasi berat pada Jerman dan menggambar ulang perbatasan Eropa."
+  },
+  "q_his_029": {
+    "question": "Siapa firaun terakhir Mesir Kuno?",
+    "correct": "Kleopatra VII",
+    "wrong": [
+      "Nefertiti",
+      "Hatshepsut",
+      "Ramses II"
+    ],
+    "hint": "Dia memiliki hubungan romantis dengan Julius Caesar dan Marcus Antonius.",
+    "explanation": "Kleopatra VII memerintah Mesir dari 51 hingga 30 SM. Setelah kematiannya, Mesir menjadi provinsi Kekaisaran Romawi, mengakhiri lebih dari 3.000 tahun pemerintahan firaun."
   }
 }

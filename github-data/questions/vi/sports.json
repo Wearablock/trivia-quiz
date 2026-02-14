@@ -295,5 +295,27 @@
     ],
     "hint": "Được tổ chức hàng năm tại London, nổi tiếng với quy định trang phục trắng nghiêm ngặt và truyền thống dâu tây với kem.",
     "explanation": "Wimbledon được tổ chức từ năm 1877 tại All England Club ở London."
+  },
+  "q_spo_028": {
+    "question": "Quốc gia nào giành được nhiều chức vô địch ICC Cricket World Cup nhất?",
+    "correct": "Úc",
+    "wrong": [
+      "Ấn Độ",
+      "Tây Ấn",
+      "Anh"
+    ],
+    "hint": "Đội cricket của quốc gia này, nổi tiếng với màu xanh lá và vàng, đã thống trị giải đấu từ những năm 1990.",
+    "explanation": "Úc đã giành chức vô địch ICC Cricket World Cup sáu lần (1987, 1999, 2003, 2007, 2015 và 2023), nhiều hơn bất kỳ quốc gia nào khác."
+  },
+  "q_spo_029": {
+    "question": "Vận động viên bơi lội nào giành được nhiều huy chương vàng Olympic nhất trong lịch sử?",
+    "correct": "Michael Phelps",
+    "wrong": [
+      "Mark Spitz",
+      "Ian Thorpe",
+      "Ryan Lochte"
+    ],
+    "hint": "Vận động viên bơi lội người Mỹ này giành được số huy chương kỷ lục tại năm kỳ Olympic liên tiếp từ 2000 đến 2016.",
+    "explanation": "Michael Phelps giành 23 huy chương vàng Olympic qua năm kỳ Thế vận hội (2000-2016), trở thành vận động viên Olympic được trao nhiều huy chương nhất mọi thời đại với tổng cộng 28 huy chương."
   }
 }

@@ -295,5 +295,38 @@
     ],
     "hint": "Esta criatura de movimiento lento tiene ojos que rotan independientemente, una lengua proyectil más larga que su cuerpo y una cola prensil para agarrarse a las ramas.",
     "explanation": "Los camaleones cambian de color ajustando las células pigmentarias de su piel."
+  },
+  "q_nat_028": {
+    "question": "¿Cuál es la especie de oso más grande del mundo?",
+    "correct": "Oso polar",
+    "wrong": [
+      "Oso grizzly",
+      "Oso pardo",
+      "Oso negro"
+    ],
+    "hint": "Este depredador de pelaje blanco vive en el Ártico y está clasificado como mamífero marino.",
+    "explanation": "Los osos polares son los carnívoros terrestres más grandes, con machos que pesan hasta 700 kg. Se clasifican como mamíferos marinos porque pasan la mayor parte de su vida en el hielo marino."
+  },
+  "q_nat_029": {
+    "question": "¿Qué ave tiene la mayor envergadura de todas las aves vivas?",
+    "correct": "Albatros viajero",
+    "wrong": [
+      "Cóndor andino",
+      "Águila calva",
+      "Pelícano"
+    ],
+    "hint": "Esta ave marina pasa la mayor parte de su vida sobrevolando el Océano Austral y puede planear durante horas sin batir las alas.",
+    "explanation": "El albatros viajero tiene una envergadura de hasta 3,5 metros (11,5 pies), la mayor de cualquier ave viva. Pueden volar miles de kilómetros sin aterrizar."
+  },
+  "q_nat_030": {
+    "question": "¿Cuál es la serpiente más venenosa del mundo?",
+    "correct": "Taipán del interior",
+    "wrong": [
+      "Cobra real",
+      "Mamba negra",
+      "Serpiente marrón oriental"
+    ],
+    "hint": "Se encuentra en las regiones semiáridas del centro de Australia, y una sola mordedura contiene veneno suficiente para matar a más de 100 humanos adultos.",
+    "explanation": "El taipán del interior de Australia tiene el veneno más tóxico de cualquier serpiente terrestre. Una sola mordedura puede matar a aproximadamente 100 humanos adultos, aunque los encuentros con humanos son extremadamente raros."
   }
 }

@@ -295,5 +295,38 @@
     ],
     "hint": "Con sông này chảy qua 7 bang miền tây Hoa Kỳ và đổ ra Vịnh California ở Mexico.",
     "explanation": "Sông Colorado đã bào mòn tạo ra Grand Canyon qua hàng triệu năm."
+  },
+  "q_geo_027": {
+    "question": "Quốc gia nào có nhiều núi lửa đang hoạt động nhất?",
+    "correct": "Indonesia",
+    "wrong": [
+      "Nhật Bản",
+      "Hoa Kỳ",
+      "Philippines"
+    ],
+    "hint": "Quốc gia quần đảo này nằm dọc theo Vành đai Lửa Thái Bình Dương và gồm hơn 17.000 đảo.",
+    "explanation": "Indonesia có khoảng 130 núi lửa đang hoạt động, nhiều nhất thế giới, do vị trí nằm trên Vành đai Lửa Thái Bình Dương."
+  },
+  "q_geo_028": {
+    "question": "Sa mạc phi cực khô nhất thế giới là gì?",
+    "correct": "Sa mạc Atacama",
+    "wrong": [
+      "Namib",
+      "Gobi",
+      "Thar"
+    ],
+    "hint": "Nằm ở Nam Mỹ, một số phần của sa mạc này không có mưa trong hàng trăm năm.",
+    "explanation": "Sa mạc Atacama ở Chile là sa mạc phi cực khô nhất trên Trái Đất. Một số trạm khí tượng chưa bao giờ ghi nhận mưa, và NASA sử dụng nơi này để thử nghiệm xe thám hiểm Sao Hỏa."
+  },
+  "q_geo_029": {
+    "question": "Quốc gia không giáp biển lớn nhất thế giới là gì?",
+    "correct": "Kazakhstan",
+    "wrong": [
+      "Mông Cổ",
+      "Chad",
+      "Ethiopia"
+    ],
+    "hint": "Quốc gia Trung Á này giáp cả Nga và Trung Quốc, từng là một phần của Liên Xô.",
+    "explanation": "Kazakhstan có diện tích khoảng 2,72 triệu km², là quốc gia không giáp biển lớn nhất thế giới và là quốc gia lớn thứ 9 nói chung."
   }
 }

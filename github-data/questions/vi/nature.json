@@ -295,5 +295,38 @@
     ],
     "hint": "Sinh vật di chuyển chậm này có mắt quay độc lập, lưỡi bắn dài hơn thân và đuôi cuốn để bám cành cây.",
     "explanation": "Tắc kè hoa đổi màu bằng cách điều chỉnh các tế bào sắc tố trong da."
+  },
+  "q_nat_028": {
+    "question": "Loài gấu lớn nhất thế giới là gì?",
+    "correct": "Gấu Bắc Cực",
+    "wrong": [
+      "Gấu xám",
+      "Gấu nâu",
+      "Gấu đen"
+    ],
+    "hint": "Kẻ săn mồi lông trắng này sống ở Bắc Cực và được phân loại là động vật có vú biển.",
+    "explanation": "Gấu Bắc Cực là loài ăn thịt trên cạn lớn nhất, con đực nặng tới 700 kg. Chúng được phân loại là động vật có vú biển vì dành phần lớn cuộc đời trên băng biển."
+  },
+  "q_nat_029": {
+    "question": "Loài chim nào có sải cánh lớn nhất trong các loài chim còn sống?",
+    "correct": "Hải âu lang thang",
+    "wrong": [
+      "Kền kền Andes",
+      "Đại bàng đầu trắng",
+      "Bồ nông"
+    ],
+    "hint": "Loài chim biển này dành phần lớn cuộc đời bay lượn trên Nam Đại Dương và có thể lướt nhiều giờ mà không vỗ cánh.",
+    "explanation": "Hải âu lang thang có sải cánh lên tới 3,5 mét (11,5 feet), lớn nhất trong tất cả các loài chim còn sống. Chúng có thể bay hàng nghìn km mà không hạ cánh."
+  },
+  "q_nat_030": {
+    "question": "Loài rắn độc nhất thế giới là gì?",
+    "correct": "Rắn Taipan nội địa",
+    "wrong": [
+      "Rắn hổ mang chúa",
+      "Mamba đen",
+      "Rắn nâu phương Đông"
+    ],
+    "hint": "Được tìm thấy ở vùng bán khô hạn miền trung nước Úc, một vết cắn duy nhất chứa đủ nọc độc để giết hơn 100 người trưởng thành.",
+    "explanation": "Rắn Taipan nội địa của Úc có nọc độc mạnh nhất trong tất cả các loài rắn trên cạn. Một vết cắn duy nhất có thể giết khoảng 100 người trưởng thành, dù gặp gỡ với con người là cực kỳ hiếm."
   }
 }

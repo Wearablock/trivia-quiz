@@ -295,5 +295,27 @@
     ],
     "hint": "Es findet jedes Jahr in London statt und ist berühmt für die strenge weiße Kleiderordnung und die Tradition von Erdbeeren mit Sahne.",
     "explanation": "Wimbledon wird seit 1877 im All England Club in London ausgetragen."
+  },
+  "q_spo_028": {
+    "question": "Welches Land hat die meisten ICC Cricket-Weltmeisterschaftstitel gewonnen?",
+    "correct": "Australien",
+    "wrong": [
+      "Indien",
+      "Westindien",
+      "England"
+    ],
+    "hint": "Das Cricket-Team dieses Landes, bekannt für seine grün-goldenen Farben, dominiert das Turnier seit den 1990er Jahren.",
+    "explanation": "Australien hat die ICC Cricket-Weltmeisterschaft sechsmal gewonnen (1987, 1999, 2003, 2007, 2015 und 2023), mehr als jedes andere Land."
+  },
+  "q_spo_029": {
+    "question": "Welcher Schwimmer hat die meisten olympischen Goldmedaillen in der Geschichte gewonnen?",
+    "correct": "Michael Phelps",
+    "wrong": [
+      "Mark Spitz",
+      "Ian Thorpe",
+      "Ryan Lochte"
+    ],
+    "hint": "Dieser amerikanische Schwimmer gewann seine Rekordmedaillen bei fünf aufeinanderfolgenden Olympischen Spielen von 2000 bis 2016.",
+    "explanation": "Michael Phelps gewann 23 olympische Goldmedaillen bei fünf Spielen (2000-2016) und wurde mit insgesamt 28 Medaillen zum erfolgreichsten Olympioniken aller Zeiten."
   }
 }

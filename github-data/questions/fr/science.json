@@ -306,5 +306,38 @@
     ],
     "hint": "Bien qu'elle ne soit pas la plus proche du Soleil, son atmosphère dense de CO₂ crée un effet de serre extrême atteignant 465°C, et elle porte le nom de la déesse romaine de l'amour.",
     "explanation": "Vénus a une température de surface d'environ 465°C en raison de son intense effet de serre."
+  },
+  "q_sci_028": {
+    "question": "Quel est l'élément le plus abondant dans la croûte terrestre ?",
+    "correct": "Oxygène",
+    "wrong": [
+      "Silicium",
+      "Aluminium",
+      "Fer"
+    ],
+    "hint": "Cet élément représente environ 46 % de la masse de la croûte terrestre, principalement combiné à d'autres éléments dans les minéraux.",
+    "explanation": "L'oxygène représente environ 46 % de la masse de la croûte terrestre, principalement sous forme d'oxydes et de silicates. Le silicium est deuxième avec environ 28 %."
+  },
+  "q_sci_029": {
+    "question": "Quelle est la vitesse approximative du son dans l'air à température ambiante ?",
+    "correct": "343 m/s",
+    "wrong": [
+      "150 m/s",
+      "500 m/s",
+      "1 000 m/s"
+    ],
+    "hint": "C'est environ 1 235 km/h, et les avions volant plus vite franchissent le « mur du son ».",
+    "explanation": "La vitesse du son dans l'air à 20°C est d'environ 343 mètres par seconde (1 235 km/h). Les avions dépassant cette vitesse volent à des vitesses supersoniques."
+  },
+  "q_sci_030": {
+    "question": "Quel est l'élément naturel le plus lourd sur Terre ?",
+    "correct": "Uranium",
+    "wrong": [
+      "Plutonium",
+      "Plomb",
+      "Or"
+    ],
+    "hint": "Cet élément radioactif est utilisé comme combustible dans les centrales nucléaires et a un numéro atomique de 92.",
+    "explanation": "L'uranium, de numéro atomique 92, est l'élément le plus lourd trouvé en quantités significatives dans la nature. Il est utilisé comme combustible dans les réacteurs nucléaires."
   }
 }

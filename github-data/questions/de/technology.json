@@ -284,5 +284,38 @@
     ],
     "hint": "Als ‚Gehirn' des Computers bekannt, führt dieser Chip die Befehle und Berechnungen für alle Aufgaben des Geräts aus.",
     "explanation": "Die CPU ist die Hauptkomponente, die Befehle in einem Computer ausführt."
+  },
+  "q_tec_027": {
+    "question": "Wofür steht 'IoT' in der Technologie?",
+    "correct": "Internet der Dinge",
+    "wrong": [
+      "Integration von Technologie",
+      "Internes Betriebsterminal",
+      "Schnittstelle für Transaktionen"
+    ],
+    "hint": "Dieses Konzept bezieht sich auf Alltagsgeräte wie Kühlschränke und Thermostate, die mit dem Internet verbunden sind.",
+    "explanation": "IoT (Internet der Dinge) bezeichnet ein Netzwerk physischer Geräte mit eingebetteten Sensoren und Software, die mit dem Internet verbunden sind und Daten sammeln und austauschen können."
+  },
+  "q_tec_028": {
+    "question": "Wer erfand die erste praktische Glühbirne?",
+    "correct": "Thomas Edison",
+    "wrong": [
+      "Nikola Tesla",
+      "Benjamin Franklin",
+      "Michael Faraday"
+    ],
+    "hint": "Dieser amerikanische Erfinder besaß über 1.000 Patente und gründete ein berühmtes Labor in Menlo Park, New Jersey.",
+    "explanation": "Thomas Edison entwickelte 1879 die erste kommerziell praktische Glühbirne mit einem karbonisierten Bambusfaden, der über 1.200 Stunden halten konnte."
+  },
+  "q_tec_029": {
+    "question": "In welchem Jahr wurde die erste Textnachricht (SMS) gesendet?",
+    "correct": "1992",
+    "wrong": [
+      "1985",
+      "1997",
+      "2001"
+    ],
+    "hint": "Die Nachricht lautete einfach 'Frohe Weihnachten' und wurde von einem britischen Ingenieur gesendet.",
+    "explanation": "Die erste SMS wurde am 3. Dezember 1992 von Neil Papworth, einem britischen Ingenieur, an Richard Jarvis bei Vodafone gesendet. Die Nachricht lautete 'Frohe Weihnachten'."
   }
 }

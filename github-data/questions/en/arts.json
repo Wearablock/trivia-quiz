@@ -255,5 +255,19 @@
     "wrong": ["Blues", "Rock and Roll", "Country"],
     "hint": "Louis Armstrong and Duke Ellington were among its greatest pioneers, blending African rhythms, blues, and improvisation into a revolutionary new sound.",
     "explanation": "Jazz originated in New Orleans around the early 1900s, blending African American musical traditions with blues and ragtime. It became a defining American art form."
+  },
+  "q_art_028": {
+    "question": "Who composed the ballet 'The Nutcracker'?",
+    "correct": "Pyotr Tchaikovsky",
+    "wrong": ["Igor Stravinsky", "Sergei Prokofiev", "Frédéric Chopin"],
+    "hint": "This Russian composer also wrote the ballets 'Swan Lake' and 'Sleeping Beauty.'",
+    "explanation": "Pyotr Tchaikovsky composed The Nutcracker in 1892. Based on E.T.A. Hoffmann's story, it has become one of the most popular ballets performed during the Christmas season."
+  },
+  "q_art_029": {
+    "question": "Who painted 'The Persistence of Memory,' famous for its melting clocks?",
+    "correct": "Salvador Dalí",
+    "wrong": ["René Magritte", "Pablo Picasso", "Max Ernst"],
+    "hint": "This Spanish artist was known for his flamboyant personality, upturned mustache, and bizarre dream-like imagery.",
+    "explanation": "Salvador Dalí painted The Persistence of Memory in 1931. The melting watches are said to represent the fluidity of time in dreams, a central theme in Surrealism."
   }
 }

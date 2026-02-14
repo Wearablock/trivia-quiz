@@ -295,5 +295,38 @@
     ],
     "hint": "Cette créature à déplacement lent a des yeux qui tournent indépendamment, une langue projectile plus longue que son corps et une queue préhensile pour s'accrocher aux branches.",
     "explanation": "Les caméléons changent de couleur en ajustant les cellules pigmentaires de leur peau."
+  },
+  "q_nat_028": {
+    "question": "Quelle est la plus grande espèce d'ours au monde ?",
+    "correct": "Ours polaire",
+    "wrong": [
+      "Grizzly",
+      "Ours brun",
+      "Ours noir"
+    ],
+    "hint": "Ce prédateur à fourrure blanche vit dans l'Arctique et est classé comme mammifère marin.",
+    "explanation": "L'ours polaire est le plus grand carnivore terrestre, les mâles pesant jusqu'à 700 kg. Ils sont classés comme mammifères marins car ils passent la majeure partie de leur vie sur la banquise."
+  },
+  "q_nat_029": {
+    "question": "Quel oiseau a la plus grande envergure parmi les oiseaux vivants ?",
+    "correct": "Albatros hurleur",
+    "wrong": [
+      "Condor des Andes",
+      "Pygargue à tête blanche",
+      "Pélican"
+    ],
+    "hint": "Cet oiseau marin passe la majeure partie de sa vie à planer au-dessus de l'océan Austral et peut planer pendant des heures sans battre des ailes.",
+    "explanation": "L'albatros hurleur a une envergure allant jusqu'à 3,5 mètres (11,5 pieds), la plus grande de tous les oiseaux vivants. Ils peuvent voler des milliers de kilomètres sans se poser."
+  },
+  "q_nat_030": {
+    "question": "Quel est le serpent le plus venimeux du monde ?",
+    "correct": "Taïpan du désert",
+    "wrong": [
+      "Cobra royal",
+      "Mamba noir",
+      "Serpent brun oriental"
+    ],
+    "hint": "On le trouve dans les régions semi-arides du centre de l'Australie, et une seule morsure contient assez de venin pour tuer plus de 100 humains adultes.",
+    "explanation": "Le taïpan du désert d'Australie possède le venin le plus toxique de tous les serpents terrestres. Une seule morsure peut tuer environ 100 adultes, bien que les rencontres avec l'homme soient extrêmement rares."
   }
 }
