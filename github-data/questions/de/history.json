@@ -317,5 +317,49 @@
     ],
     "hint": "Sie hatte romantische Beziehungen zu Julius Cäsar und Marcus Antonius.",
     "explanation": "Kleopatra VII. regierte Ägypten von 51 bis 30 v. Chr. Nach ihrem Tod wurde Ägypten eine Provinz des Römischen Reiches und beendete über 3.000 Jahre pharaonischer Herrschaft."
+  },
+  "q_his_030": {
+    "question": "In welchem Jahr ereignete sich der Große Brand von London?",
+    "correct": "1666",
+    "wrong": [
+      "1606",
+      "1712",
+      "1588"
+    ],
+    "explanation": "Der Große Brand von London im Jahr 1666 zerstörte über 13.000 Häuser und 87 Kirchen in vier Tagen.",
+    "hint": "Er begann in einer Bäckerei in der Pudding Lane."
+  },
+  "q_his_031": {
+    "question": "Welcher portugiesische Entdecker erreichte als erster Europäer Indien auf dem Seeweg?",
+    "correct": "Vasco da Gama",
+    "wrong": [
+      "Bartolomeu Dias",
+      "Pedro Álvares Cabral",
+      "Heinrich der Seefahrer"
+    ],
+    "explanation": "Vasco da Gama erreichte Calicut, Indien, im Jahr 1498.",
+    "hint": "Er segelte um das Kap der Guten Hoffnung."
+  },
+  "q_his_032": {
+    "question": "Welches antike Weltwunder befand sich angeblich in Babylon?",
+    "correct": "Hängende Gärten",
+    "wrong": [
+      "Koloss von Rhodos",
+      "Große Bibliothek",
+      "Turm zu Babel"
+    ],
+    "explanation": "Die Hängenden Gärten von Babylon sind das einzige der Sieben Weltwunder, dessen Existenz umstritten ist.",
+    "hint": "Der Legende nach ließ König Nebukadnezar II. sie für seine heimwehkranke Frau erbauen."
+  },
+  "q_his_033": {
+    "question": "Wer verfasste gemeinsam mit Friedrich Engels 1848 das „Kommunistische Manifest“?",
+    "correct": "Karl Marx",
+    "wrong": [
+      "Adam Smith",
+      "John Stuart Mill",
+      "Georg Hegel"
+    ],
+    "explanation": "Karl Marx schrieb das „Kommunistische Manifest“ gemeinsam mit Engels.",
+    "hint": "Er ist auch für sein Hauptwerk „Das Kapital“ bekannt."
   }
 }

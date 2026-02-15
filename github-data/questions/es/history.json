@@ -317,5 +317,49 @@
     ],
     "hint": "Mantuvo relaciones amorosas tanto con Julio César como con Marco Antonio.",
     "explanation": "Cleopatra VII gobernó Egipto del 51 al 30 a.C. Tras su muerte, Egipto se convirtió en provincia del Imperio Romano, poniendo fin a más de 3.000 años de gobierno faraónico."
+  },
+  "q_his_030": {
+    "question": "¿En qué año ocurrió el Gran Incendio de Londres?",
+    "correct": "1666",
+    "wrong": [
+      "1606",
+      "1712",
+      "1588"
+    ],
+    "explanation": "El Gran Incendio de Londres de 1666 destruyó más de 13.000 casas y 87 iglesias en cuatro días.",
+    "hint": "Comenzó en una panadería en Pudding Lane."
+  },
+  "q_his_031": {
+    "question": "¿Qué explorador portugués fue el primer europeo en llegar a la India por mar?",
+    "correct": "Vasco da Gama",
+    "wrong": [
+      "Bartolomé Días",
+      "Pedro Álvares Cabral",
+      "Enrique el Navegante"
+    ],
+    "explanation": "Vasco da Gama llegó a Calicut, India, en 1498.",
+    "hint": "Navegó rodeando el Cabo de Buena Esperanza."
+  },
+  "q_his_032": {
+    "question": "¿Qué antigua maravilla del mundo se encontraba supuestamente en Babilonia?",
+    "correct": "Jardines Colgantes",
+    "wrong": [
+      "Coloso de Rodas",
+      "Gran Biblioteca",
+      "Torre de Babel"
+    ],
+    "explanation": "Los Jardines Colgantes de Babilonia son la única de las Siete Maravillas cuya existencia es debatida.",
+    "hint": "La leyenda dice que fueron construidos por el rey Nabucodonosor II para su esposa nostálgica."
+  },
+  "q_his_033": {
+    "question": "¿Quién coescribió 'El Manifiesto Comunista' con Friedrich Engels en 1848?",
+    "correct": "Karl Marx",
+    "wrong": [
+      "Adam Smith",
+      "John Stuart Mill",
+      "Georg Hegel"
+    ],
+    "explanation": "Karl Marx coescribió 'El Manifiesto Comunista' con Engels.",
+    "hint": "También es conocido por su obra principal 'El Capital'."
   }
 }

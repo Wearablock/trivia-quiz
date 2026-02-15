@@ -178,99 +178,199 @@
   "q_geo_016": {
     "question": "Which is the largest island in the world?",
     "correct": "Greenland",
-    "wrong": ["Borneo", "Madagascar", "New Guinea"],
+    "wrong": [
+      "Borneo",
+      "Madagascar",
+      "New Guinea"
+    ],
     "hint": "This island is an autonomous territory of Denmark.",
     "explanation": "Greenland, with an area of about 2.166 million km², is the world's largest island. Australia is larger but is classified as a continent."
   },
   "q_geo_017": {
     "question": "What is the deepest lake in the world?",
     "correct": "Lake Baikal",
-    "wrong": ["Lake Tanganyika", "Lake Malawi", "Crater Lake"],
+    "wrong": [
+      "Lake Tanganyika",
+      "Lake Malawi",
+      "Crater Lake"
+    ],
     "hint": "This lake is located in Siberia, Russia.",
     "explanation": "Lake Baikal in Russia reaches a depth of 1,642 meters, making it the deepest and oldest freshwater lake in the world."
   },
   "q_geo_018": {
     "question": "What is the smallest ocean in the world?",
     "correct": "Arctic Ocean",
-    "wrong": ["Indian Ocean", "Southern Ocean", "Atlantic Ocean"],
+    "wrong": [
+      "Indian Ocean",
+      "Southern Ocean",
+      "Atlantic Ocean"
+    ],
     "hint": "This ocean surrounds the North Pole and is mostly covered by sea ice.",
     "explanation": "The Arctic Ocean covers about 14.06 million km², making it the smallest and shallowest of the five oceans."
   },
   "q_geo_019": {
     "question": "Which African country has the largest land area?",
     "correct": "Algeria",
-    "wrong": ["Democratic Republic of the Congo", "Libya", "Nigeria"],
+    "wrong": [
+      "Democratic Republic of the Congo",
+      "Libya",
+      "Nigeria"
+    ],
     "hint": "This North African country borders the Mediterranean Sea and the Sahara Desert covers most of its territory.",
     "explanation": "Algeria is the largest country in Africa with an area of about 2.38 million km², surpassing the DR Congo after South Sudan's independence in 2011."
   },
   "q_geo_020": {
     "question": "Which river is the longest in Europe?",
     "correct": "Volga",
-    "wrong": ["Danube", "Rhine", "Elbe"],
+    "wrong": [
+      "Danube",
+      "Rhine",
+      "Elbe"
+    ],
     "hint": "This river flows entirely within Russia and empties into the Caspian Sea.",
     "explanation": "The Volga River is approximately 3,530 km long, making it the longest river in Europe. It flows through central Russia to the Caspian Sea."
   },
   "q_geo_021": {
     "question": "Which country has the most islands in the world?",
     "correct": "Sweden",
-    "wrong": ["Indonesia", "Philippines", "Norway"],
+    "wrong": [
+      "Indonesia",
+      "Philippines",
+      "Norway"
+    ],
     "hint": "This Scandinavian country has over 267,000 islands, mostly small and uninhabited.",
     "explanation": "Sweden has approximately 267,570 islands, more than any other country, though most are tiny and uninhabited."
   },
   "q_geo_022": {
     "question": "What is the capital of Brazil?",
     "correct": "Brasília",
-    "wrong": ["Rio de Janeiro", "São Paulo", "Salvador"],
+    "wrong": [
+      "Rio de Janeiro",
+      "São Paulo",
+      "Salvador"
+    ],
     "hint": "This purpose-built city was designed by architect Oscar Niemeyer and urban planner Lúcio Costa.",
     "explanation": "Brasília became Brazil's capital in 1960, replacing Rio de Janeiro. It was planned and built from scratch in just 41 months."
   },
   "q_geo_023": {
     "question": "What is the tallest waterfall in the world?",
     "correct": "Angel Falls",
-    "wrong": ["Niagara Falls", "Victoria Falls", "Iguazu Falls"],
+    "wrong": [
+      "Niagara Falls",
+      "Victoria Falls",
+      "Iguazu Falls"
+    ],
     "hint": "Located in Venezuela, water drops from a flat-topped mountain called a 'tepui' — so high that much of it turns to mist before reaching the ground.",
     "explanation": "Angel Falls in Venezuela drops 979 meters, making it the world's tallest uninterrupted waterfall. It was named after Jimmy Angel, a US aviator who flew over it in 1933."
   },
   "q_geo_024": {
     "question": "Which country is known as the 'Land of the Rising Sun'?",
     "correct": "Japan",
-    "wrong": ["China", "Thailand", "South Korea"],
+    "wrong": [
+      "China",
+      "Thailand",
+      "South Korea"
+    ],
     "hint": "This island nation's flag features a red circle on a white background, symbolizing the sun.",
     "explanation": "Japan is called the 'Land of the Rising Sun' because it lies east of the Asian mainland. The Japanese name 'Nihon' literally means 'origin of the sun.'"
   },
   "q_geo_025": {
     "question": "What is the largest country in the world by area?",
     "correct": "Russia",
-    "wrong": ["Canada", "China", "United States"],
+    "wrong": [
+      "Canada",
+      "China",
+      "United States"
+    ],
     "hint": "Spanning 11 time zones from Eastern Europe to the Pacific, this country covers more than one-eighth of Earth's inhabited land.",
     "explanation": "Russia covers approximately 17.1 million km², making it the largest country by area — nearly twice the size of Canada, the second largest."
   },
   "q_geo_026": {
     "question": "Which river flows through the Grand Canyon?",
     "correct": "Colorado River",
-    "wrong": ["Mississippi River", "Missouri River", "Rio Grande"],
+    "wrong": [
+      "Mississippi River",
+      "Missouri River",
+      "Rio Grande"
+    ],
     "hint": "Its name means 'colored red' in Spanish, reflecting its muddy waters — and it carved one of the world's most famous canyons over millions of years.",
     "explanation": "The Colorado River carved the Grand Canyon over approximately 5–6 million years. The canyon stretches 446 km long and up to 1,800 meters deep."
   },
   "q_geo_027": {
     "question": "Which country has the most active volcanoes?",
     "correct": "Indonesia",
-    "wrong": ["Japan", "United States", "Philippines"],
+    "wrong": [
+      "Japan",
+      "United States",
+      "Philippines"
+    ],
     "hint": "This archipelago nation lies along the Pacific Ring of Fire and is made up of over 17,000 islands.",
     "explanation": "Indonesia has about 130 active volcanoes, the most of any country, due to its location along the Pacific Ring of Fire where tectonic plates collide."
   },
   "q_geo_028": {
     "question": "What is the driest non-polar desert in the world?",
     "correct": "Atacama Desert",
-    "wrong": ["Namib", "Gobi", "Thar"],
+    "wrong": [
+      "Namib",
+      "Gobi",
+      "Thar"
+    ],
     "hint": "Located in South America, parts of this desert have not received rain for hundreds of years.",
     "explanation": "The Atacama Desert in Chile is the driest non-polar desert on Earth. Some weather stations there have never recorded rain, and NASA uses it to test Mars rovers."
   },
   "q_geo_029": {
     "question": "What is the largest landlocked country in the world?",
     "correct": "Kazakhstan",
-    "wrong": ["Mongolia", "Chad", "Ethiopia"],
+    "wrong": [
+      "Mongolia",
+      "Chad",
+      "Ethiopia"
+    ],
     "hint": "This Central Asian country borders both Russia and China and was formerly part of the Soviet Union.",
     "explanation": "Kazakhstan covers approximately 2.72 million km², making it the world's largest landlocked country and the ninth largest country overall."
+  },
+  "q_geo_030": {
+    "question": "Which European country is often called the 'Land of a Thousand Lakes'?",
+    "correct": "Finland",
+    "wrong": [
+      "Norway",
+      "Sweden",
+      "Iceland"
+    ],
+    "hint": "It is one of the Nordic countries and shares a long eastern border with Russia.",
+    "explanation": "Finland has approximately 188,000 lakes, earning it the nickname 'Land of a Thousand Lakes.' The Finnish Lakeland is the largest lake district in Europe."
+  },
+  "q_geo_031": {
+    "question": "What strait separates Africa from Europe?",
+    "correct": "Strait of Gibraltar",
+    "wrong": [
+      "Strait of Hormuz",
+      "Strait of Malacca",
+      "Bering Strait"
+    ],
+    "hint": "It connects the Atlantic Ocean to the Mediterranean Sea.",
+    "explanation": "The Strait of Gibraltar is about 14 km wide at its narrowest point, separating Spain from Morocco. It has been a strategic maritime passage throughout history."
+  },
+  "q_geo_032": {
+    "question": "What is the capital of New Zealand?",
+    "correct": "Wellington",
+    "wrong": [
+      "Auckland",
+      "Christchurch",
+      "Queenstown"
+    ],
+    "hint": "It is located at the southern tip of the North Island.",
+    "explanation": "Wellington has been the capital of New Zealand since 1865. Despite being smaller than Auckland, it serves as the country's political and cultural center."
+  },
+  "q_geo_033": {
+    "question": "Which river forms part of the border between the United States and Mexico?",
+    "correct": "Rio Grande",
+    "wrong": [
+      "Mississippi River",
+      "Missouri River",
+      "Columbia River"
+    ],
+    "hint": "In Mexico, this river is known as 'Río Bravo del Norte.'",
+    "explanation": "The Rio Grande stretches about 3,051 km and forms a natural border between Texas and the Mexican states of Chihuahua, Coahuila, Nuevo León, and Tamaulipas."
   }
 }

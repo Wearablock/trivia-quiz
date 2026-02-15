@@ -317,5 +317,38 @@
     ],
     "hint": "Diese rote, herzförmige Frucht hat etwa 200 kleine gelbe Samen sichtbar auf ihrer Oberfläche.",
     "explanation": "Die Erdbeere ist die einzige Frucht, die ihre Samen außen trägt, mit durchschnittlich etwa 200 Samen pro Frucht. Technisch gesehen ist jeder 'Samen' tatsächlich eine kleine Frucht, eine sogenannte Achäne."
+  },
+  "q_foo_030": {
+    "question": "Aus welcher Pflanzenfamilie stammt das Vanillearoma?",
+    "correct": "Orchidee",
+    "wrong": [
+      "Lilie",
+      "Rose",
+      "Minze"
+    ],
+    "explanation": "Vanille stammt von der Orchidee Vanilla planifolia.",
+    "hint": "Die Pflanze produziert lange, dünne Schoten."
+  },
+  "q_foo_031": {
+    "question": "Was ist die Hauptzutat im traditionellen japanischen Mochi?",
+    "correct": "Reis",
+    "wrong": [
+      "Weizen",
+      "Kartoffel",
+      "Mais"
+    ],
+    "explanation": "Er wird aus Klebreis (Mochigome) hergestellt.",
+    "hint": "Er wird zu einer klebrigen, zähen Masse gestampft."
+  },
+  "q_foo_032": {
+    "question": "Welches Land ist der weltweit größte Produzent von Kakaobohnen?",
+    "correct": "Elfenbeinküste",
+    "wrong": [
+      "Ghana",
+      "Brasilien",
+      "Indonesien"
+    ],
+    "explanation": "Es produziert jährlich etwa 2 Millionen Tonnen.",
+    "hint": "Dieses westafrikanische Land produziert fast 40 % des weltweiten Angebots."
   }
 }

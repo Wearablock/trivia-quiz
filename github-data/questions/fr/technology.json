@@ -317,5 +317,38 @@
     ],
     "hint": "Le message disait simplement « Joyeux Noël » et a été envoyé par un ingénieur britannique.",
     "explanation": "Le premier SMS a été envoyé le 3 décembre 1992 par Neil Papworth, un ingénieur britannique, à Richard Jarvis chez Vodafone. Le message disait « Joyeux Noël »."
+  },
+  "q_tec_030": {
+    "question": "Quel langage de programmation a été créé par Guido van Rossum en 1991 ?",
+    "correct": "Python",
+    "wrong": [
+      "Java",
+      "Ruby",
+      "Perl"
+    ],
+    "explanation": "Son nom vient du groupe comique britannique Monty Python's Flying Circus.",
+    "hint": "Nommé d'après un groupe comique britannique, pas un serpent."
+  },
+  "q_tec_031": {
+    "question": "Que signifie « NASA » ?",
+    "correct": "Administration nationale de l'aéronautique et de l'espace",
+    "wrong": [
+      "Agence nationale de l'aviation et de l'espace",
+      "Administration nord-américaine de l'espace",
+      "Administration nationale de l'aérospatiale et de la science"
+    ],
+    "explanation": "Elle a été créée en 1958.",
+    "hint": "Agence du gouvernement américain pour l'exploration spatiale civile."
+  },
+  "q_tec_032": {
+    "question": "Que signifie « QR » dans « code QR » ?",
+    "correct": "Quick Response (Réponse rapide)",
+    "wrong": [
+      "Query Read",
+      "Quantum Reference",
+      "Quality Recognition"
+    ],
+    "explanation": "Inventé en 1994 par Denso Wave.",
+    "hint": "Conçu à l'origine pour l'industrie automobile au Japon."
   }
 }

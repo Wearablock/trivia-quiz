@@ -328,5 +328,49 @@
     ],
     "hint": "Este país da Ásia Central faz fronteira com a Rússia e a China e fazia parte da União Soviética.",
     "explanation": "O Cazaquistão cobre aproximadamente 2,72 milhões de km², sendo o maior país sem litoral do mundo e o nono maior país em geral."
+  },
+  "q_geo_030": {
+    "question": "Qual país europeu é frequentemente chamado de 'Terra dos Mil Lagos'?",
+    "correct": "Finlândia",
+    "wrong": [
+      "Noruega",
+      "Suécia",
+      "Islândia"
+    ],
+    "hint": "É um dos países nórdicos e compartilha uma longa fronteira oriental com a Rússia.",
+    "explanation": "A Finlândia possui aproximadamente 188.000 lagos, o que lhe rendeu o apelido de 'Terra dos Mil Lagos'. A região dos lagos finlandeses é o maior distrito lacustre da Europa."
+  },
+  "q_geo_031": {
+    "question": "Qual estreito separa a África da Europa?",
+    "correct": "Estreito de Gibraltar",
+    "wrong": [
+      "Estreito de Ormuz",
+      "Estreito de Malaca",
+      "Estreito de Bering"
+    ],
+    "hint": "Ele conecta o Oceano Atlântico ao Mar Mediterrâneo.",
+    "explanation": "O Estreito de Gibraltar tem cerca de 14 km de largura no seu ponto mais estreito, separando a Espanha do Marrocos."
+  },
+  "q_geo_032": {
+    "question": "Qual é a capital da Nova Zelândia?",
+    "correct": "Wellington",
+    "wrong": [
+      "Auckland",
+      "Christchurch",
+      "Queenstown"
+    ],
+    "hint": "Está localizada na ponta sul da Ilha Norte.",
+    "explanation": "Wellington é a capital da Nova Zelândia desde 1865."
+  },
+  "q_geo_033": {
+    "question": "Qual rio forma parte da fronteira entre os Estados Unidos e o México?",
+    "correct": "Rio Grande",
+    "wrong": [
+      "Rio Mississippi",
+      "Rio Missouri",
+      "Rio Columbia"
+    ],
+    "hint": "No México, este rio é conhecido como 'Río Bravo del Norte'.",
+    "explanation": "O Rio Grande se estende por cerca de 3.051 km e forma uma fronteira natural entre o Texas e os estados mexicanos."
   }
 }

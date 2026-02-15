@@ -317,5 +317,49 @@
     ],
     "hint": "Họa sĩ người Tây Ban Nha này nổi tiếng với tính cách phô trương, bộ ria mép vểnh lên và những hình ảnh kỳ lạ như trong giấc mơ.",
     "explanation": "Salvador Dalí vẽ Sự Bền Bỉ của Ký Ức năm 1931. Những chiếc đồng hồ tan chảy được cho là đại diện cho sự lưu chuyển của thời gian trong giấc mơ, một chủ đề trung tâm của chủ nghĩa siêu thực."
+  },
+  "q_art_030": {
+    "question": "Ai đã viết tiểu thuyết 'Chiến tranh và Hòa bình'?",
+    "correct": "Leo Tolstoy",
+    "wrong": [
+      "Fyodor Dostoevsky",
+      "Anton Chekhov",
+      "Ivan Turgenev"
+    ],
+    "hint": "Nhà văn Nga được coi là một trong những nhà văn vĩ đại nhất mọi thời đại.",
+    "explanation": "Leo Tolstoy xuất bản 'Chiến tranh và Hòa bình' từ 1865 đến 1869. Tiểu thuyết sử thi mô tả xã hội Nga trong thời kỳ chiến tranh Napoleon."
+  },
+  "q_art_031": {
+    "question": "Trường phái nghệ thuật nào do Pablo Picasso đồng sáng lập, đặc trưng bởi các hình khối hình học phân mảnh?",
+    "correct": "Chủ nghĩa Lập thể",
+    "wrong": [
+      "Chủ nghĩa Ấn tượng",
+      "Chủ nghĩa Biểu hiện",
+      "Chủ nghĩa Dada"
+    ],
+    "hint": "Xuất hiện vào đầu thế kỷ 20 tại Paris.",
+    "explanation": "Chủ nghĩa Lập thể được đồng sáng lập bởi Picasso và Georges Braque vào khoảng năm 1907, cách mạng hóa nghệ thuật."
+  },
+  "q_art_032": {
+    "question": "Nghệ thuật gấp giấy của Nhật Bản thành các hình trang trí được gọi là gì?",
+    "correct": "Origami",
+    "wrong": [
+      "Ikebana",
+      "Ukiyo-e",
+      "Kintsugi"
+    ],
+    "hint": "Từ này kết hợp các từ tiếng Nhật có nghĩa là 'gấp' và 'giấy'.",
+    "explanation": "Origami bắt nguồn từ 'ori' (gấp) và 'kami' (giấy). Nghệ thuật này có từ thế kỷ 17."
+  },
+  "q_art_033": {
+    "question": "Niccolò Paganini nổi tiếng với việc chơi nhạc cụ nào?",
+    "correct": "Violin",
+    "wrong": [
+      "Cello",
+      "Viola",
+      "Guitar"
+    ],
+    "hint": "Ông là nghệ sĩ tài năng người Ý đầu thế kỷ 19.",
+    "explanation": "Niccolò Paganini (1782-1840) được coi là một trong những nghệ sĩ violin vĩ đại nhất mọi thời đại."
   }
 }

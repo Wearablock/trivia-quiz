@@ -328,5 +328,49 @@
     ],
     "hint": "Se encuentra en las regiones semiáridas del centro de Australia, y una sola mordedura contiene veneno suficiente para matar a más de 100 humanos adultos.",
     "explanation": "El taipán del interior de Australia tiene el veneno más tóxico de cualquier serpiente terrestre. Una sola mordedura puede matar a aproximadamente 100 humanos adultos, aunque los encuentros con humanos son extremadamente raros."
+  },
+  "q_nat_031": {
+    "question": "¿Cuál es la especie de lagarto viva más grande?",
+    "correct": "Dragón de Komodo",
+    "wrong": [
+      "Iguana verde",
+      "Varano del Nilo",
+      "Monstruo de Gila"
+    ],
+    "explanation": "Puede crecer hasta 3 metros de largo y pesar más de 70 kg.",
+    "hint": "Se encuentra en varias islas de Indonesia."
+  },
+  "q_nat_032": {
+    "question": "¿Cuál es el sistema de arrecifes de coral más grande del mundo?",
+    "correct": "Gran Barrera de Coral",
+    "wrong": [
+      "Arrecife Mesoamericano",
+      "Arrecife de Coral del Mar Rojo",
+      "Barrera de Coral de Nueva Caledonia"
+    ],
+    "explanation": "Frente a la costa de Queensland, Australia, se extiende por más de 2.300 km.",
+    "hint": "Frente a la costa noreste de un continente del hemisferio sur."
+  },
+  "q_nat_033": {
+    "question": "¿Qué tipo de animal es un delfín?",
+    "correct": "Mamífero",
+    "wrong": [
+      "Pez",
+      "Anfibio",
+      "Reptil"
+    ],
+    "explanation": "Los delfines son mamíferos del orden Cetáceos.",
+    "hint": "Respiran aire y amamantan a sus crías con leche."
+  },
+  "q_nat_034": {
+    "question": "¿Qué insecto produce luz mediante bioluminiscencia?",
+    "correct": "Luciérnaga",
+    "wrong": [
+      "Grillo",
+      "Polilla",
+      "Cigarra"
+    ],
+    "explanation": "Las luciérnagas producen luz mediante luciferina y luciferasa.",
+    "hint": "Crean un espectáculo de luz natural en las cálidas noches de verano."
   }
 }

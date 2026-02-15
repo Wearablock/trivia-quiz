@@ -178,92 +178,177 @@
   "q_tec_017": {
     "question": "What does 'LED' stand for?",
     "correct": "Light Emitting Diode",
-    "wrong": ["Light Energy Display", "Laser Emission Device", "Low Energy Driver"],
+    "wrong": [
+      "Light Energy Display",
+      "Laser Emission Device",
+      "Low Energy Driver"
+    ],
     "hint": "This technology is used in modern TV screens, light bulbs, and smartphone displays.",
     "explanation": "LED (Light Emitting Diode) is a semiconductor device that emits light when current flows through it, widely used for energy-efficient lighting."
   },
   "q_tec_018": {
     "question": "In what year was the first email sent?",
     "correct": "1971",
-    "wrong": ["1965", "1978", "1983"],
+    "wrong": [
+      "1965",
+      "1978",
+      "1983"
+    ],
     "hint": "Ray Tomlinson sent it over ARPANET, the precursor to the internet.",
     "explanation": "Ray Tomlinson sent the first email in 1971 using ARPANET. He also introduced the '@' symbol for email addresses."
   },
   "q_tec_019": {
     "question": "What does 'PDF' stand for?",
     "correct": "Portable Document Format",
-    "wrong": ["Printed Data File", "Page Design Format", "Personal Document File"],
+    "wrong": [
+      "Printed Data File",
+      "Page Design Format",
+      "Personal Document File"
+    ],
     "hint": "Adobe developed this file format in the early 1990s.",
     "explanation": "PDF (Portable Document Format) was created by Adobe in 1992 to present documents consistently across different devices and platforms."
   },
   "q_tec_020": {
     "question": "Which technology is named after a 10th-century Scandinavian king?",
     "correct": "Bluetooth",
-    "wrong": ["Wi-Fi", "NFC", "Ethernet"],
+    "wrong": [
+      "Wi-Fi",
+      "NFC",
+      "Ethernet"
+    ],
     "hint": "This wireless technology is used for short-range data transfer between devices.",
     "explanation": "Bluetooth is named after Harald Bluetooth, a 10th-century Danish king who united warring factions, symbolizing the technology's goal of uniting communication protocols."
   },
   "q_tec_021": {
     "question": "What does 'HTML' stand for?",
     "correct": "HyperText Markup Language",
-    "wrong": ["High Tech Modern Language", "HyperText Machine Language", "Home Tool Markup Language"],
+    "wrong": [
+      "High Tech Modern Language",
+      "HyperText Machine Language",
+      "Home Tool Markup Language"
+    ],
     "hint": "This is the standard language used to create and structure content on web pages.",
     "explanation": "HTML (HyperText Markup Language) was created by Tim Berners-Lee in 1991 and is the foundational language for all web pages."
   },
   "q_tec_022": {
     "question": "Who co-founded Apple alongside Steve Jobs?",
     "correct": "Steve Wozniak",
-    "wrong": ["Bill Gates", "Tim Cook", "Jony Ive"],
+    "wrong": [
+      "Bill Gates",
+      "Tim Cook",
+      "Jony Ive"
+    ],
     "hint": "This engineer built the Apple I computer by hand in a garage.",
     "explanation": "Steve Wozniak co-founded Apple with Steve Jobs and Ronald Wayne in 1976. Wozniak designed the Apple I and Apple II computers."
   },
   "q_tec_023": {
     "question": "In what year was Wikipedia launched?",
     "correct": "2001",
-    "wrong": ["1998", "2003", "2005"],
+    "wrong": [
+      "1998",
+      "2003",
+      "2005"
+    ],
     "hint": "Jimmy Wales and Larry Sanger created this free online encyclopedia.",
     "explanation": "Wikipedia was launched on January 15, 2001, by Jimmy Wales and Larry Sanger. It has since become the largest encyclopedia ever compiled."
   },
   "q_tec_024": {
     "question": "What does 'VPN' stand for?",
     "correct": "Virtual Private Network",
-    "wrong": ["Virtual Processing Node", "Verified Protocol Network", "Visual Private Node"],
+    "wrong": [
+      "Virtual Processing Node",
+      "Verified Protocol Network",
+      "Visual Private Node"
+    ],
     "hint": "This technology creates an encrypted tunnel for your internet traffic, hiding your IP address and often used to access content from other countries.",
     "explanation": "A VPN (Virtual Private Network) creates a secure, encrypted connection over the internet, protecting user privacy and allowing access to region-restricted content."
   },
   "q_tec_025": {
     "question": "Who founded Amazon?",
     "correct": "Jeff Bezos",
-    "wrong": ["Elon Musk", "Mark Zuckerberg", "Larry Page"],
+    "wrong": [
+      "Elon Musk",
+      "Mark Zuckerberg",
+      "Larry Page"
+    ],
     "hint": "He started this e-commerce giant in his garage in 1994 as an online bookstore, and later founded the space company Blue Origin.",
     "explanation": "Jeff Bezos founded Amazon in 1994 in Bellevue, Washington. Originally an online bookstore, Amazon has grown into the world's largest e-commerce and cloud computing company."
   },
   "q_tec_026": {
     "question": "What does 'CPU' stand for?",
     "correct": "Central Processing Unit",
-    "wrong": ["Computer Processing Unit", "Central Program Utility", "Core Processing Unit"],
+    "wrong": [
+      "Computer Processing Unit",
+      "Central Program Utility",
+      "Core Processing Unit"
+    ],
     "hint": "Often called the 'brain' of a computer, this chip executes instructions and performs calculations for every task your device handles.",
     "explanation": "The CPU (Central Processing Unit) is the primary component of a computer that executes instructions. Intel and AMD are the two largest CPU manufacturers for personal computers."
   },
   "q_tec_027": {
     "question": "What does 'IoT' stand for in technology?",
     "correct": "Internet of Things",
-    "wrong": ["Integration of Technology", "Internal Operating Terminal", "Interface of Transactions"],
+    "wrong": [
+      "Integration of Technology",
+      "Internal Operating Terminal",
+      "Interface of Transactions"
+    ],
     "hint": "This concept refers to everyday devices like refrigerators and thermostats being connected to the internet.",
     "explanation": "IoT (Internet of Things) refers to the network of physical devices embedded with sensors and software that connect to the internet, enabling them to collect and exchange data."
   },
   "q_tec_028": {
     "question": "Who invented the first practical incandescent light bulb?",
     "correct": "Thomas Edison",
-    "wrong": ["Nikola Tesla", "Benjamin Franklin", "Michael Faraday"],
+    "wrong": [
+      "Nikola Tesla",
+      "Benjamin Franklin",
+      "Michael Faraday"
+    ],
     "hint": "This American inventor held over 1,000 patents and established a famous laboratory in Menlo Park, New Jersey.",
     "explanation": "Thomas Edison developed the first commercially practical incandescent light bulb in 1879, using a carbonized bamboo filament that could last over 1,200 hours."
   },
   "q_tec_029": {
     "question": "In what year was the first text message (SMS) sent?",
     "correct": "1992",
-    "wrong": ["1985", "1997", "2001"],
+    "wrong": [
+      "1985",
+      "1997",
+      "2001"
+    ],
     "hint": "The message simply read 'Merry Christmas' and was sent by a British engineer.",
     "explanation": "The first SMS was sent on December 3, 1992, by Neil Papworth, a British engineer, to Richard Jarvis at Vodafone. The message read 'Merry Christmas.'"
+  },
+  "q_tec_030": {
+    "question": "What programming language was created by Guido van Rossum in 1991?",
+    "correct": "Python",
+    "wrong": [
+      "Java",
+      "Ruby",
+      "Perl"
+    ],
+    "hint": "It is named after a British comedy group, not a snake.",
+    "explanation": "Python was created by Guido van Rossum and first released in 1991. Named after Monty Python's Flying Circus, it has become one of the most popular programming languages worldwide."
+  },
+  "q_tec_031": {
+    "question": "What does 'NASA' stand for?",
+    "correct": "National Aeronautics and Space Administration",
+    "wrong": [
+      "National Aviation and Space Agency",
+      "North American Space Administration",
+      "National Aerospace and Science Administration"
+    ],
+    "hint": "This U.S. government agency is responsible for civilian space exploration.",
+    "explanation": "NASA was established in 1958 and has led major achievements including the Apollo Moon landings, the Space Shuttle program, and the Mars rover missions."
+  },
+  "q_tec_032": {
+    "question": "What does 'QR' stand for in 'QR code'?",
+    "correct": "Quick Response",
+    "wrong": [
+      "Query Read",
+      "Quantum Reference",
+      "Quality Recognition"
+    ],
+    "hint": "These square-shaped codes were originally designed for the automotive industry in Japan.",
+    "explanation": "QR codes were invented in 1994 by Denso Wave, a Japanese company, for tracking automotive parts. 'Quick Response' refers to the code's ability to be read quickly by scanners."
   }
 }

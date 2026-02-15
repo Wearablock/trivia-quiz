@@ -328,5 +328,49 @@
     ],
     "hint": "Ce pays d'Asie centrale borde la Russie et la Chine et faisait autrefois partie de l'Union soviétique.",
     "explanation": "Le Kazakhstan couvre environ 2,72 millions de km², ce qui en fait le plus grand pays enclavé du monde et le neuvième plus grand pays au total."
+  },
+  "q_geo_030": {
+    "question": "Quel pays européen est souvent appelé le « Pays aux mille lacs » ?",
+    "correct": "Finlande",
+    "wrong": [
+      "Norvège",
+      "Suède",
+      "Islande"
+    ],
+    "explanation": "La Finlande compte environ 188 000 lacs, ce qui lui a valu le surnom de « Pays aux mille lacs ». La région des lacs finlandais est le plus grand district lacustre d'Europe.",
+    "hint": "C'est l'un des pays nordiques et il partage une longue frontière orientale avec la Russie."
+  },
+  "q_geo_031": {
+    "question": "Quel détroit sépare l'Afrique de l'Europe ?",
+    "correct": "Détroit de Gibraltar",
+    "wrong": [
+      "Détroit d'Ormuz",
+      "Détroit de Malacca",
+      "Détroit de Béring"
+    ],
+    "explanation": "Le détroit de Gibraltar mesure environ 14 km de large à son point le plus étroit, séparant l'Espagne du Maroc.",
+    "hint": "Il relie l'océan Atlantique à la mer Méditerranée."
+  },
+  "q_geo_032": {
+    "question": "Quelle est la capitale de la Nouvelle-Zélande ?",
+    "correct": "Wellington",
+    "wrong": [
+      "Auckland",
+      "Christchurch",
+      "Queenstown"
+    ],
+    "explanation": "Wellington est la capitale de la Nouvelle-Zélande depuis 1865.",
+    "hint": "Elle est située à l'extrémité sud de l'île du Nord."
+  },
+  "q_geo_033": {
+    "question": "Quel fleuve forme une partie de la frontière entre les États-Unis et le Mexique ?",
+    "correct": "Rio Grande",
+    "wrong": [
+      "Mississippi",
+      "Missouri",
+      "Columbia"
+    ],
+    "explanation": "Le Rio Grande s'étend sur environ 3 051 km et forme une frontière naturelle entre le Texas et les États mexicains.",
+    "hint": "Au Mexique, ce fleuve est connu sous le nom de « Río Bravo del Norte »."
   }
 }

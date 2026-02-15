@@ -317,5 +317,49 @@
     ],
     "hint": "Questo artista spagnolo era noto per la sua personalità stravagante, i baffi all'insù e le bizzarre immagini oniriche.",
     "explanation": "Salvador Dalí dipinse La persistenza della memoria nel 1931. Gli orologi molli rappresentano la fluidità del tempo nei sogni, un tema centrale del surrealismo."
+  },
+  "q_art_030": {
+    "question": "Chi ha scritto il romanzo 'Guerra e pace'?",
+    "correct": "Lev Tolstoj",
+    "wrong": [
+      "Fëdor Dostoevskij",
+      "Anton Čechov",
+      "Ivan Turgenev"
+    ],
+    "hint": "Autore russo, uno dei più grandi scrittori di tutti i tempi.",
+    "explanation": "Pubblicato tra il 1865 e il 1869, ritrae la società russa durante le guerre napoleoniche."
+  },
+  "q_art_031": {
+    "question": "Quale movimento artistico, cofondato da Pablo Picasso, presenta forme geometriche frammentate?",
+    "correct": "Cubismo",
+    "wrong": [
+      "Impressionismo",
+      "Espressionismo",
+      "Dadaismo"
+    ],
+    "hint": "Emerse all'inizio del XX secolo a Parigi.",
+    "explanation": "Cofondato da Picasso e Georges Braque intorno al 1907."
+  },
+  "q_art_032": {
+    "question": "Come si chiama l'arte giapponese di piegare la carta in forme decorative?",
+    "correct": "Origami",
+    "wrong": [
+      "Ikebana",
+      "Ukiyo-e",
+      "Kintsugi"
+    ],
+    "hint": "La parola combina i termini giapponesi per 'piegare' e 'carta'.",
+    "explanation": "Origami deriva da 'ori' (piegare) e 'kami' (carta)."
+  },
+  "q_art_033": {
+    "question": "Quale strumento era famoso per suonare Niccolò Paganini?",
+    "correct": "Violino",
+    "wrong": [
+      "Violoncello",
+      "Viola",
+      "Chitarra"
+    ],
+    "hint": "Virtuoso italiano dell'inizio del XIX secolo.",
+    "explanation": "Paganini (1782–1840) fu uno dei più grandi virtuosi del violino di sempre."
   }
 }

@@ -317,5 +317,49 @@
     ],
     "hint": "Este artista espanhol era conhecido por sua personalidade extravagante, bigode curvado para cima e imagens oníricas bizarras.",
     "explanation": "Salvador Dalí pintou A Persistência da Memória em 1931. Os relógios derretidos representam a fluidez do tempo nos sonhos, um tema central do surrealismo."
+  },
+  "q_art_030": {
+    "question": "Quem escreveu o romance 'Guerra e Paz'?",
+    "correct": "Lev Tolstói",
+    "wrong": [
+      "Fiódor Dostoiévski",
+      "Anton Tchékhov",
+      "Ivan Turguêniev"
+    ],
+    "hint": "Autor russo, um dos maiores escritores de todos os tempos.",
+    "explanation": "Publicado entre 1865 e 1869, retrata a sociedade russa durante as Guerras Napoleônicas."
+  },
+  "q_art_031": {
+    "question": "Qual movimento artístico, cofundado por Pablo Picasso, apresenta formas geométricas fragmentadas?",
+    "correct": "Cubismo",
+    "wrong": [
+      "Impressionismo",
+      "Expressionismo",
+      "Dadaísmo"
+    ],
+    "hint": "Surgiu no início do século XX em Paris.",
+    "explanation": "Cofundado por Picasso e Georges Braque por volta de 1907."
+  },
+  "q_art_032": {
+    "question": "Como se chama a arte japonesa de dobrar papel em formas decorativas?",
+    "correct": "Origami",
+    "wrong": [
+      "Ikebana",
+      "Ukiyo-e",
+      "Kintsugi"
+    ],
+    "hint": "A palavra combina os termos japoneses para 'dobrar' e 'papel'.",
+    "explanation": "Origami vem de 'ori' (dobrar) e 'kami' (papel)."
+  },
+  "q_art_033": {
+    "question": "Qual instrumento Niccolò Paganini era famoso por tocar?",
+    "correct": "Violino",
+    "wrong": [
+      "Violoncelo",
+      "Viola",
+      "Guitarra"
+    ],
+    "hint": "Virtuoso italiano do início do século XIX.",
+    "explanation": "Paganini (1782–1840) foi um dos maiores virtuosos do violino de todos os tempos."
   }
 }

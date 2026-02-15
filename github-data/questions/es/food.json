@@ -317,5 +317,38 @@
     ],
     "hint": "Esta fruta roja en forma de corazón tiene unas 200 pequeñas semillas amarillas visibles en su superficie.",
     "explanation": "La fresa es la única fruta que tiene sus semillas por fuera, con un promedio de unas 200 semillas por fruta. Técnicamente, cada 'semilla' es en realidad un pequeño fruto llamado aquenio."
+  },
+  "q_foo_030": {
+    "question": "¿De qué familia de plantas proviene el saborizante de vainilla?",
+    "correct": "Orquídea",
+    "wrong": [
+      "Lirio",
+      "Rosa",
+      "Menta"
+    ],
+    "explanation": "La vainilla proviene de la orquídea Vanilla planifolia.",
+    "hint": "La planta produce vainas largas y delgadas."
+  },
+  "q_foo_031": {
+    "question": "¿Cuál es el ingrediente principal del mochi japonés tradicional?",
+    "correct": "Arroz",
+    "wrong": [
+      "Trigo",
+      "Papa",
+      "Maíz"
+    ],
+    "explanation": "Se elabora con arroz glutinoso (mochigome).",
+    "hint": "Se machaca hasta obtener una pasta pegajosa y masticable."
+  },
+  "q_foo_032": {
+    "question": "¿Qué país es el mayor productor mundial de granos de cacao?",
+    "correct": "Costa de Marfil",
+    "wrong": [
+      "Ghana",
+      "Brasil",
+      "Indonesia"
+    ],
+    "explanation": "Produce aproximadamente 2 millones de toneladas al año.",
+    "hint": "Este país de África Occidental produce casi el 40% del suministro mundial."
   }
 }

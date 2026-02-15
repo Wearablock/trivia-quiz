@@ -339,5 +339,49 @@
     ],
     "hint": "Este elemento radiactivo se utiliza como combustible en centrales nucleares y tiene un número atómico de 92.",
     "explanation": "El uranio, con número atómico 92, es el elemento más pesado que se encuentra en cantidades significativas en la naturaleza. Se utiliza como combustible en reactores nucleares y en armas nucleares."
+  },
+  "q_sci_031": {
+    "question": "¿Cuál es el símbolo químico del plomo?",
+    "correct": "Pb",
+    "wrong": [
+      "Ld",
+      "Le",
+      "Pl"
+    ],
+    "explanation": "El símbolo del plomo, Pb, proviene del latín 'plumbum'.",
+    "hint": "Su símbolo proviene de la palabra latina 'plumbum'."
+  },
+  "q_sci_032": {
+    "question": "¿Cuál es la unidad del SI para la corriente eléctrica?",
+    "correct": "Amperio",
+    "wrong": [
+      "Voltio",
+      "Vatio",
+      "Culombio"
+    ],
+    "explanation": "El amperio es una de las siete unidades base del SI.",
+    "hint": "Lleva el nombre de un físico francés."
+  },
+  "q_sci_033": {
+    "question": "¿Cuántos planetas de nuestro sistema solar tienen sistemas de anillos?",
+    "correct": "4",
+    "wrong": [
+      "2",
+      "3",
+      "5"
+    ],
+    "explanation": "Júpiter, Saturno, Urano y Neptuno tienen sistemas de anillos.",
+    "hint": "Los anillos más famosos pertenecen al sexto planeta desde el Sol."
+  },
+  "q_sci_034": {
+    "question": "¿Qué partícula subatómica tiene carga eléctrica negativa?",
+    "correct": "Electrón",
+    "wrong": [
+      "Protón",
+      "Neutrón",
+      "Fotón"
+    ],
+    "explanation": "Los electrones tienen una carga negativa esencial para los enlaces químicos y la electricidad.",
+    "hint": "Orbita alrededor del núcleo de un átomo."
   }
 }

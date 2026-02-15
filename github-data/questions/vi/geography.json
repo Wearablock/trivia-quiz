@@ -328,5 +328,49 @@
     ],
     "hint": "Quốc gia Trung Á này giáp cả Nga và Trung Quốc, từng là một phần của Liên Xô.",
     "explanation": "Kazakhstan có diện tích khoảng 2,72 triệu km², là quốc gia không giáp biển lớn nhất thế giới và là quốc gia lớn thứ 9 nói chung."
+  },
+  "q_geo_030": {
+    "question": "Quốc gia châu Âu nào thường được gọi là 'Xứ sở nghìn hồ'?",
+    "correct": "Phần Lan",
+    "wrong": [
+      "Na Uy",
+      "Thụy Điển",
+      "Iceland"
+    ],
+    "hint": "Đây là một trong những quốc gia Bắc Âu và có đường biên giới phía đông dài với Nga.",
+    "explanation": "Phần Lan có khoảng 188.000 hồ nước, mang lại cho nước này biệt danh 'Xứ sở nghìn hồ'. Vùng hồ Phần Lan là khu vực hồ lớn nhất châu Âu."
+  },
+  "q_geo_031": {
+    "question": "Eo biển nào ngăn cách châu Phi và châu Âu?",
+    "correct": "Eo biển Gibraltar",
+    "wrong": [
+      "Eo biển Hormuz",
+      "Eo biển Malacca",
+      "Eo biển Bering"
+    ],
+    "hint": "Nó nối Đại Tây Dương với Biển Địa Trung Hải.",
+    "explanation": "Eo biển Gibraltar rộng khoảng 14 km tại điểm hẹp nhất, ngăn cách Tây Ban Nha và Maroc."
+  },
+  "q_geo_032": {
+    "question": "Thủ đô của New Zealand là gì?",
+    "correct": "Wellington",
+    "wrong": [
+      "Auckland",
+      "Christchurch",
+      "Queenstown"
+    ],
+    "hint": "Nằm ở cực nam của Đảo Bắc.",
+    "explanation": "Wellington là thủ đô của New Zealand từ năm 1865. Dù nhỏ hơn Auckland, nó là trung tâm chính trị và văn hóa của đất nước."
+  },
+  "q_geo_033": {
+    "question": "Con sông nào tạo thành một phần biên giới giữa Hoa Kỳ và Mexico?",
+    "correct": "Rio Grande",
+    "wrong": [
+      "Sông Mississippi",
+      "Sông Missouri",
+      "Sông Columbia"
+    ],
+    "hint": "Ở Mexico, con sông này được gọi là 'Río Bravo del Norte'.",
+    "explanation": "Sông Rio Grande dài khoảng 3.051 km và tạo thành biên giới tự nhiên giữa Texas và các bang của Mexico."
   }
 }

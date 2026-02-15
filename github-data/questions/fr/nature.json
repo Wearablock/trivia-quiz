@@ -328,5 +328,49 @@
     ],
     "hint": "On le trouve dans les régions semi-arides du centre de l'Australie, et une seule morsure contient assez de venin pour tuer plus de 100 humains adultes.",
     "explanation": "Le taïpan du désert d'Australie possède le venin le plus toxique de tous les serpents terrestres. Une seule morsure peut tuer environ 100 adultes, bien que les rencontres avec l'homme soient extrêmement rares."
+  },
+  "q_nat_031": {
+    "question": "Quelle est la plus grande espèce vivante de lézard ?",
+    "correct": "Dragon de Komodo",
+    "wrong": [
+      "Iguane vert",
+      "Varan du Nil",
+      "Monstre de Gila"
+    ],
+    "explanation": "Il peut atteindre 3 mètres de long et peser plus de 70 kg.",
+    "hint": "On le trouve sur plusieurs îles d'Indonésie."
+  },
+  "q_nat_032": {
+    "question": "Quel est le plus grand système de récifs coralliens au monde ?",
+    "correct": "Grande Barrière de corail",
+    "wrong": [
+      "Récif mésoaméricain",
+      "Récif corallien de la mer Rouge",
+      "Barrière de corail de Nouvelle-Calédonie"
+    ],
+    "explanation": "Au large du Queensland, en Australie, il s'étend sur plus de 2 300 km.",
+    "hint": "Au large de la côte nord-est d'un continent de l'hémisphère sud."
+  },
+  "q_nat_033": {
+    "question": "Quel type d'animal est un dauphin ?",
+    "correct": "Mammifère",
+    "wrong": [
+      "Poisson",
+      "Amphibien",
+      "Reptile"
+    ],
+    "explanation": "Les dauphins sont des mammifères de l'ordre des Cétacés.",
+    "hint": "Ils respirent de l'air et allaitent leurs petits."
+  },
+  "q_nat_034": {
+    "question": "Quel insecte produit de la lumière par bioluminescence ?",
+    "correct": "Luciole",
+    "wrong": [
+      "Grillon",
+      "Papillon de nuit",
+      "Cigale"
+    ],
+    "explanation": "Les lucioles produisent de la lumière grâce à la luciférine et la luciférase.",
+    "hint": "Elles créent un spectacle lumineux naturel lors des chaudes soirées d'été."
   }
 }

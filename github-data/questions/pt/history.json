@@ -317,5 +317,49 @@
     ],
     "hint": "Ela teve romances com Júlio César e Marco Antônio.",
     "explanation": "Cleópatra VII governou o Egito de 51 a 30 a.C. Após sua morte, o Egito tornou-se uma província do Império Romano, encerrando mais de 3.000 anos de governo faraônico."
+  },
+  "q_his_030": {
+    "question": "Em que ano ocorreu o Grande Incêndio de Londres?",
+    "correct": "1666",
+    "wrong": [
+      "1606",
+      "1712",
+      "1588"
+    ],
+    "hint": "Começou em uma padaria na Pudding Lane.",
+    "explanation": "O Grande Incêndio de Londres em 1666 destruiu mais de 13.000 casas e 87 igrejas ao longo de quatro dias."
+  },
+  "q_his_031": {
+    "question": "Qual explorador português foi o primeiro europeu a chegar à Índia por mar?",
+    "correct": "Vasco da Gama",
+    "wrong": [
+      "Bartolomeu Dias",
+      "Pedro Álvares Cabral",
+      "Infante D. Henrique"
+    ],
+    "hint": "Ele navegou ao redor do Cabo da Boa Esperança.",
+    "explanation": "Vasco da Gama chegou a Calicute, na Índia, em 1498."
+  },
+  "q_his_032": {
+    "question": "Qual maravilha antiga do mundo supostamente ficava na Babilônia?",
+    "correct": "Jardins Suspensos",
+    "wrong": [
+      "Colosso de Rodes",
+      "Grande Biblioteca",
+      "Torre de Babel"
+    ],
+    "hint": "Diz a lenda que foram construídos pelo rei Nabucodonosor II para sua esposa saudosa de casa.",
+    "explanation": "Os Jardins Suspensos da Babilônia são a única das Sete Maravilhas cuja existência é debatida."
+  },
+  "q_his_033": {
+    "question": "Quem coautorou 'O Manifesto Comunista' com Friedrich Engels em 1848?",
+    "correct": "Karl Marx",
+    "wrong": [
+      "Adam Smith",
+      "John Stuart Mill",
+      "Georg Hegel"
+    ],
+    "hint": "Ele também é conhecido por sua grande obra 'O Capital'.",
+    "explanation": "Karl Marx coescreveu 'O Manifesto Comunista' com Engels."
   }
 }

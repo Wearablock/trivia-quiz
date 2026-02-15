@@ -339,5 +339,49 @@
     ],
     "hint": "Unsur radioaktif ini digunakan sebagai bahan bakar di pembangkit listrik tenaga nuklir dan memiliki nomor atom 92.",
     "explanation": "Uranium, dengan nomor atom 92, adalah unsur terberat yang ditemukan dalam jumlah signifikan di alam. Digunakan sebagai bahan bakar di reaktor nuklir dan senjata nuklir."
+  },
+  "q_sci_031": {
+    "question": "Apa simbol kimia untuk timbal?",
+    "correct": "Pb",
+    "wrong": [
+      "Ld",
+      "Le",
+      "Pl"
+    ],
+    "hint": "Simbolnya berasal dari kata Latin 'plumbum'.",
+    "explanation": "Simbol kimia Pb untuk timbal berasal dari bahasa Latin 'plumbum'. Ini juga asal kata 'plumber' (tukang ledeng) dalam bahasa Inggris."
+  },
+  "q_sci_032": {
+    "question": "Apa satuan SI untuk arus listrik?",
+    "correct": "Ampere",
+    "wrong": [
+      "Volt",
+      "Watt",
+      "Coulomb"
+    ],
+    "hint": "Dinamai menurut seorang fisikawan Prancis.",
+    "explanation": "Ampere, dinamai menurut André-Marie Ampère, adalah salah satu dari tujuh satuan dasar SI."
+  },
+  "q_sci_033": {
+    "question": "Berapa planet di tata surya kita yang memiliki sistem cincin?",
+    "correct": "4",
+    "wrong": [
+      "2",
+      "3",
+      "5"
+    ],
+    "hint": "Cincin yang paling terkenal dimiliki oleh planet keenam dari Matahari.",
+    "explanation": "Jupiter, Saturnus, Uranus, dan Neptunus semuanya memiliki sistem cincin. Cincin Saturnus adalah yang paling menonjol."
+  },
+  "q_sci_034": {
+    "question": "Partikel subatom apa yang bermuatan listrik negatif?",
+    "correct": "Elektron",
+    "wrong": [
+      "Proton",
+      "Neutron",
+      "Foton"
+    ],
+    "hint": "Mengorbit inti atom.",
+    "explanation": "Elektron adalah partikel subatom bermuatan negatif yang penting untuk ikatan kimia dan listrik."
   }
 }

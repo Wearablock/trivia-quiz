@@ -317,5 +317,38 @@
     ],
     "hint": "Ce fruit rouge en forme de cœur a environ 200 petites graines jaunes visibles à sa surface.",
     "explanation": "La fraise est le seul fruit dont les graines sont à l'extérieur, avec en moyenne environ 200 graines par fruit. Techniquement, chaque « graine » est en fait un petit fruit appelé akène."
+  },
+  "q_foo_030": {
+    "question": "De quelle famille de plantes provient l'arôme de vanille ?",
+    "correct": "Orchidée",
+    "wrong": [
+      "Lis",
+      "Rose",
+      "Menthe"
+    ],
+    "explanation": "La vanille provient de l'orchidée Vanilla planifolia.",
+    "hint": "La plante produit de longues et fines gousses."
+  },
+  "q_foo_031": {
+    "question": "Quel est l'ingrédient principal du mochi japonais traditionnel ?",
+    "correct": "Riz",
+    "wrong": [
+      "Blé",
+      "Pomme de terre",
+      "Maïs"
+    ],
+    "explanation": "Il est fabriqué à partir de riz gluant (mochigome).",
+    "hint": "Pilé jusqu'à obtenir une pâte collante et élastique."
+  },
+  "q_foo_032": {
+    "question": "Quel pays est le plus grand producteur mondial de fèves de cacao ?",
+    "correct": "Côte d'Ivoire",
+    "wrong": [
+      "Ghana",
+      "Brésil",
+      "Indonésie"
+    ],
+    "explanation": "Il produit environ 2 millions de tonnes par an.",
+    "hint": "Ce pays d'Afrique de l'Ouest produit près de 40 % de l'offre mondiale."
   }
 }

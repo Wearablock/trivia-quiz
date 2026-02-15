@@ -317,5 +317,49 @@
     ],
     "hint": "Este nadador estadounidense ganó sus récords de medallas en cinco Juegos Olímpicos consecutivos de 2000 a 2016.",
     "explanation": "Michael Phelps ganó 23 medallas de oro olímpicas en cinco Juegos (2000-2016), convirtiéndose en el atleta olímpico más condecorado de todos los tiempos con 28 medallas en total."
+  },
+  "q_spo_030": {
+    "question": "¿Cuál es el deporte nacional de verano oficial de Canadá?",
+    "correct": "Lacrosse",
+    "wrong": [
+      "Béisbol",
+      "Críquet",
+      "Hockey sobre hierba"
+    ],
+    "explanation": "Fue declarado deporte nacional de verano de Canadá en 1994.",
+    "hint": "Tiene orígenes indígenas y se juega con un palo que tiene una red en la punta."
+  },
+  "q_spo_031": {
+    "question": "¿En qué año se celebraron los primeros Juegos Olímpicos modernos?",
+    "correct": "1896",
+    "wrong": [
+      "1900",
+      "1888",
+      "1904"
+    ],
+    "explanation": "Se celebraron en Atenas, Grecia, en 1896.",
+    "hint": "En el país donde se originaron los Juegos Olímpicos antiguos."
+  },
+  "q_spo_032": {
+    "question": "¿Qué arte marcial, originaria de Japón, se traduce como 'camino suave'?",
+    "correct": "Judo",
+    "wrong": [
+      "Karate",
+      "Aikido",
+      "Kendo"
+    ],
+    "explanation": "Judo significa 'camino suave'.",
+    "hint": "Fundado por Jigoro Kano en 1882."
+  },
+  "q_spo_033": {
+    "question": "¿Cuál es la longitud estándar de una piscina olímpica en metros?",
+    "correct": "50 metros",
+    "wrong": [
+      "25 metros",
+      "100 metros",
+      "75 metros"
+    ],
+    "explanation": "50 metros de largo, 25 metros de ancho, al menos 2 metros de profundidad.",
+    "hint": "La mitad de una décima de kilómetro."
   }
 }

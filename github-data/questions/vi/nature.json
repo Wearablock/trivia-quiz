@@ -328,5 +328,49 @@
     ],
     "hint": "Được tìm thấy ở vùng bán khô hạn miền trung nước Úc, một vết cắn duy nhất chứa đủ nọc độc để giết hơn 100 người trưởng thành.",
     "explanation": "Rắn Taipan nội địa của Úc có nọc độc mạnh nhất trong tất cả các loài rắn trên cạn. Một vết cắn duy nhất có thể giết khoảng 100 người trưởng thành, dù gặp gỡ với con người là cực kỳ hiếm."
+  },
+  "q_nat_031": {
+    "question": "Loài thằn lằn lớn nhất còn sống là gì?",
+    "correct": "Rồng Komodo",
+    "wrong": [
+      "Kỳ nhông xanh",
+      "Kỳ đà sông Nile",
+      "Quái vật Gila"
+    ],
+    "hint": "Được tìm thấy trên một số đảo của Indonesia.",
+    "explanation": "Rồng Komodo có thể dài tới 3 mét và nặng hơn 70 kg. Chúng chủ yếu sống trên các đảo Komodo, Rinca, Flores và Gili Motang."
+  },
+  "q_nat_032": {
+    "question": "Hệ thống rạn san hô lớn nhất thế giới là gì?",
+    "correct": "Rạn san hô Great Barrier",
+    "wrong": [
+      "Rạn san hô Mesoamerican",
+      "Rạn san hô Biển Đỏ",
+      "Rạn san hô New Caledonia"
+    ],
+    "hint": "Nằm ngoài khơi bờ biển đông bắc của một lục địa ở Nam bán cầu.",
+    "explanation": "Rạn san hô Great Barrier ngoài khơi Queensland, Úc, trải dài hơn 2.300 km và có thể nhìn thấy từ không gian."
+  },
+  "q_nat_033": {
+    "question": "Cá heo thuộc loại động vật gì?",
+    "correct": "Động vật có vú",
+    "wrong": [
+      "Cá",
+      "Động vật lưỡng cư",
+      "Bò sát"
+    ],
+    "hint": "Giống con người, chúng thở không khí và nuôi con bằng sữa.",
+    "explanation": "Dù sống dưới nước, cá heo là động vật có vú thuộc bộ Cá voi. Chúng thở qua lỗ phun trên đầu và nuôi con bằng sữa."
+  },
+  "q_nat_034": {
+    "question": "Loài côn trùng nào tạo ra ánh sáng nhờ phát quang sinh học?",
+    "correct": "Đom đóm",
+    "wrong": [
+      "Dế",
+      "Bướm đêm",
+      "Ve sầu"
+    ],
+    "hint": "Chúng tạo ra màn trình diễn ánh sáng tự nhiên vào những đêm hè ấm áp.",
+    "explanation": "Đom đóm tạo ra ánh sáng qua phản ứng hóa học liên quan đến luciferin và luciferase trong bụng. Chúng dùng ánh sáng chủ yếu để thu hút bạn tình."
   }
 }

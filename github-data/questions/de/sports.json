@@ -317,5 +317,49 @@
     ],
     "hint": "Dieser amerikanische Schwimmer gewann seine Rekordmedaillen bei fünf aufeinanderfolgenden Olympischen Spielen von 2000 bis 2016.",
     "explanation": "Michael Phelps gewann 23 olympische Goldmedaillen bei fünf Spielen (2000-2016) und wurde mit insgesamt 28 Medaillen zum erfolgreichsten Olympioniken aller Zeiten."
+  },
+  "q_spo_030": {
+    "question": "Was ist der offizielle nationale Sommersport Kanadas?",
+    "correct": "Lacrosse",
+    "wrong": [
+      "Baseball",
+      "Cricket",
+      "Feldhockey"
+    ],
+    "explanation": "1994 zum nationalen Sommersport Kanadas erklärt.",
+    "hint": "Hat indigene Ursprünge und wird mit einem Stock mit Netztasche gespielt."
+  },
+  "q_spo_031": {
+    "question": "In welchem Jahr fanden die ersten modernen Olympischen Spiele statt?",
+    "correct": "1896",
+    "wrong": [
+      "1900",
+      "1888",
+      "1904"
+    ],
+    "explanation": "Sie fanden 1896 in Athen, Griechenland, statt.",
+    "hint": "In dem Land, in dem die antiken Olympischen Spiele ihren Ursprung hatten."
+  },
+  "q_spo_032": {
+    "question": "Welche Kampfkunst aus Japan bedeutet übersetzt „sanfter Weg“?",
+    "correct": "Judo",
+    "wrong": [
+      "Karate",
+      "Aikido",
+      "Kendo"
+    ],
+    "explanation": "Judo bedeutet „sanfter Weg“.",
+    "hint": "1882 von Jigoro Kano gegründet."
+  },
+  "q_spo_033": {
+    "question": "Wie lang ist ein olympisches Schwimmbecken standardmäßig in Metern?",
+    "correct": "50 Meter",
+    "wrong": [
+      "25 Meter",
+      "100 Meter",
+      "75 Meter"
+    ],
+    "explanation": "50 Meter lang, 25 Meter breit, mindestens 2 Meter tief.",
+    "hint": "Die Hälfte eines Zehntels eines Kilometers."
   }
 }

@@ -328,5 +328,49 @@
     ],
     "hint": "Si trova nelle regioni semi-aride dell'Australia centrale; un singolo morso contiene abbastanza veleno da uccidere oltre 100 esseri umani adulti.",
     "explanation": "Il taipan dell'interno australiano possiede il veleno più tossico di qualsiasi serpente terrestre. Un singolo morso può uccidere circa 100 adulti, sebbene gli incontri con l'uomo siano estremamente rari."
+  },
+  "q_nat_031": {
+    "question": "Qual è la più grande specie vivente di lucertola?",
+    "correct": "Drago di Komodo",
+    "wrong": [
+      "Iguana verde",
+      "Varano del Nilo",
+      "Mostro di Gila"
+    ],
+    "hint": "Si trova su diverse isole indonesiane.",
+    "explanation": "Può crescere fino a 3 metri di lunghezza e pesare oltre 70 kg."
+  },
+  "q_nat_032": {
+    "question": "Qual è il più grande sistema di barriera corallina del mondo?",
+    "correct": "Grande Barriera Corallina",
+    "wrong": [
+      "Barriera Mesoamericana",
+      "Barriera Corallina del Mar Rosso",
+      "Barriera Corallina della Nuova Caledonia"
+    ],
+    "hint": "Al largo della costa nord-orientale di un continente dell'emisfero australe.",
+    "explanation": "Al largo del Queensland, Australia, si estende per oltre 2.300 km."
+  },
+  "q_nat_033": {
+    "question": "Che tipo di animale è un delfino?",
+    "correct": "Mammifero",
+    "wrong": [
+      "Pesce",
+      "Anfibio",
+      "Rettile"
+    ],
+    "hint": "Respirano aria e allattano i loro piccoli con il latte.",
+    "explanation": "I delfini sono mammiferi dell'ordine dei Cetacei."
+  },
+  "q_nat_034": {
+    "question": "Quale insetto produce luce attraverso la bioluminescenza?",
+    "correct": "Lucciola",
+    "wrong": [
+      "Grillo",
+      "Falena",
+      "Cicala"
+    ],
+    "hint": "Creano uno spettacolo di luce naturale nelle calde sere d'estate.",
+    "explanation": "Le lucciole producono luce tramite luciferina e luciferasi."
   }
 }

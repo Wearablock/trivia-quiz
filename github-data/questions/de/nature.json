@@ -328,5 +328,49 @@
     ],
     "hint": "In den halbtrockenen Regionen Zentralaustraliens beheimatet, enthält ein einziger Biss genug Gift, um über 100 erwachsene Menschen zu töten.",
     "explanation": "Der Inlandtaipan aus Australien besitzt das stärkste Gift aller Landschlangen. Ein einziger Biss kann etwa 100 Erwachsene töten, obwohl Begegnungen mit Menschen äußerst selten sind."
+  },
+  "q_nat_031": {
+    "question": "Was ist die größte lebende Eidechsenart?",
+    "correct": "Komodowaran",
+    "wrong": [
+      "Grüner Leguan",
+      "Nilwaran",
+      "Gila-Krustenechse"
+    ],
+    "explanation": "Er kann bis zu 3 Meter lang werden und über 70 kg wiegen.",
+    "hint": "Er kommt auf mehreren indonesischen Inseln vor."
+  },
+  "q_nat_032": {
+    "question": "Was ist das größte Korallenriffsystem der Welt?",
+    "correct": "Great Barrier Reef",
+    "wrong": [
+      "Mesoamerikanisches Riff",
+      "Korallenriff des Roten Meeres",
+      "Neukaledonisches Barriereriff"
+    ],
+    "explanation": "Vor der Küste von Queensland, Australien, erstreckt es sich über mehr als 2.300 km.",
+    "hint": "Vor der Nordostküste eines Kontinents der Südhalbkugel."
+  },
+  "q_nat_033": {
+    "question": "Was für ein Tier ist ein Delfin?",
+    "correct": "Säugetier",
+    "wrong": [
+      "Fisch",
+      "Amphibie",
+      "Reptil"
+    ],
+    "explanation": "Delfine sind Säugetiere aus der Ordnung der Wale (Cetacea).",
+    "hint": "Sie atmen Luft und säugen ihre Jungen mit Milch."
+  },
+  "q_nat_034": {
+    "question": "Welches Insekt erzeugt Licht durch Biolumineszenz?",
+    "correct": "Glühwürmchen",
+    "wrong": [
+      "Grille",
+      "Motte",
+      "Zikade"
+    ],
+    "explanation": "Glühwürmchen erzeugen Licht durch Luciferin und Luciferase.",
+    "hint": "Sie erzeugen an warmen Sommerabenden ein natürliches Lichtspektakel."
   }
 }

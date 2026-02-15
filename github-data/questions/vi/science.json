@@ -339,5 +339,49 @@
     ],
     "hint": "Nguyên tố phóng xạ này được sử dụng làm nhiên liệu trong nhà máy điện hạt nhân và có số hiệu nguyên tử là 92.",
     "explanation": "Uranium, với số hiệu nguyên tử 92, là nguyên tố nặng nhất được tìm thấy với số lượng đáng kể trong tự nhiên. Nó được sử dụng làm nhiên liệu trong lò phản ứng hạt nhân và vũ khí hạt nhân."
+  },
+  "q_sci_031": {
+    "question": "Ký hiệu hóa học của chì là gì?",
+    "correct": "Pb",
+    "wrong": [
+      "Ld",
+      "Le",
+      "Pl"
+    ],
+    "hint": "Ký hiệu bắt nguồn từ tiếng Latin 'plumbum'.",
+    "explanation": "Ký hiệu Pb của chì bắt nguồn từ tiếng Latin 'plumbum'. Đây cũng là nguồn gốc của từ 'plumber' (thợ ống nước) trong tiếng Anh."
+  },
+  "q_sci_032": {
+    "question": "Đơn vị SI của dòng điện là gì?",
+    "correct": "Ampe",
+    "wrong": [
+      "Vôn",
+      "Oát",
+      "Coulomb"
+    ],
+    "hint": "Được đặt theo tên một nhà vật lý người Pháp.",
+    "explanation": "Ampe, được đặt theo tên André-Marie Ampère, là một trong bảy đơn vị cơ bản của hệ SI."
+  },
+  "q_sci_033": {
+    "question": "Có bao nhiêu hành tinh trong hệ Mặt Trời có hệ thống vành đai?",
+    "correct": "4",
+    "wrong": [
+      "2",
+      "3",
+      "5"
+    ],
+    "hint": "Vành đai nổi tiếng nhất thuộc về hành tinh thứ sáu tính từ Mặt Trời.",
+    "explanation": "Sao Mộc, Sao Thổ, Sao Thiên Vương và Sao Hải Vương đều có hệ thống vành đai. Vành đai của Sao Thổ nổi bật và dễ thấy nhất."
+  },
+  "q_sci_034": {
+    "question": "Hạt hạ nguyên tử nào mang điện tích âm?",
+    "correct": "Electron",
+    "wrong": [
+      "Proton",
+      "Neutron",
+      "Photon"
+    ],
+    "hint": "Nó quay quanh hạt nhân của nguyên tử.",
+    "explanation": "Electron là hạt hạ nguyên tử mang điện tích âm, đóng vai trò thiết yếu trong liên kết hóa học và điện."
   }
 }

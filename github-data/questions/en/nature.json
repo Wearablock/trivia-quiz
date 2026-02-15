@@ -178,99 +178,199 @@
   "q_nat_017": {
     "question": "What is the largest land animal?",
     "correct": "African Elephant",
-    "wrong": ["White Rhinoceros", "Hippopotamus", "Giraffe"],
+    "wrong": [
+      "White Rhinoceros",
+      "Hippopotamus",
+      "Giraffe"
+    ],
     "hint": "Males of this species can weigh up to 6,000 kg and have large ears shaped like the African continent.",
     "explanation": "The African elephant is the largest living land animal, with males standing up to 4 meters tall and weighing up to 6,000 kg."
   },
   "q_nat_018": {
     "question": "What type of animal is a Komodo dragon?",
     "correct": "Lizard",
-    "wrong": ["Crocodile", "Snake", "Dinosaur"],
+    "wrong": [
+      "Crocodile",
+      "Snake",
+      "Dinosaur"
+    ],
     "hint": "It is the largest living species of its kind, found on Indonesian islands.",
     "explanation": "The Komodo dragon is the largest living lizard, growing up to 3 meters long. It is native to several Indonesian islands."
   },
   "q_nat_019": {
     "question": "What is the fastest fish in the ocean?",
     "correct": "Sailfish",
-    "wrong": ["Swordfish", "Marlin", "Tuna"],
+    "wrong": [
+      "Swordfish",
+      "Marlin",
+      "Tuna"
+    ],
     "hint": "This fish has a large dorsal fin that resembles a sail and can be raised or lowered.",
     "explanation": "The sailfish can reach speeds of up to 110 km/h (68 mph), making it the fastest fish in the ocean."
   },
   "q_nat_020": {
     "question": "Which animal has the strongest bite force?",
     "correct": "Saltwater Crocodile",
-    "wrong": ["Great White Shark", "Hippopotamus", "Grizzly Bear"],
+    "wrong": [
+      "Great White Shark",
+      "Hippopotamus",
+      "Grizzly Bear"
+    ],
     "hint": "This large reptile lives in coastal areas from Southeast Asia to Australia.",
     "explanation": "The saltwater crocodile has a bite force of about 3,700 psi, the strongest of any living animal. They can grow up to 6 meters long."
   },
   "q_nat_021": {
     "question": "What is the largest living organism on Earth by area?",
     "correct": "Honey fungus",
-    "wrong": ["Blue whale", "Giant sequoia", "Great Barrier Reef"],
+    "wrong": [
+      "Blue whale",
+      "Giant sequoia",
+      "Great Barrier Reef"
+    ],
     "hint": "This organism spreads underground through a network of filaments and can cover thousands of acres.",
     "explanation": "A honey fungus (Armillaria ostoyae) in Oregon's Malheur National Forest covers about 2,385 acres (965 hectares) and is estimated to be over 2,400 years old."
   },
   "q_nat_022": {
     "question": "What percentage of Earth's water is freshwater?",
     "correct": "About 3%",
-    "wrong": ["About 10%", "About 25%", "About 50%"],
+    "wrong": [
+      "About 10%",
+      "About 25%",
+      "About 50%"
+    ],
     "hint": "Most of this small percentage is locked in glaciers and ice caps.",
     "explanation": "Only about 3% of Earth's water is freshwater, and of that, roughly 69% is locked in glaciers and ice caps, making less than 1% easily accessible."
   },
   "q_nat_023": {
     "question": "Which animal produces the loudest sound in the animal kingdom?",
     "correct": "Sperm whale",
-    "wrong": ["Blue whale", "Howler monkey", "Pistol shrimp"],
+    "wrong": [
+      "Blue whale",
+      "Howler monkey",
+      "Pistol shrimp"
+    ],
     "hint": "This deep-diving marine mammal uses clicking sounds for echolocation.",
     "explanation": "Sperm whales produce clicking sounds that can reach up to 230 decibels, making them the loudest animals on Earth. They use these clicks for echolocation while hunting in deep waters."
   },
   "q_nat_024": {
     "question": "What is the tallest animal in the world?",
     "correct": "Giraffe",
-    "wrong": ["Elephant", "Moose", "Ostrich"],
+    "wrong": [
+      "Elephant",
+      "Moose",
+      "Ostrich"
+    ],
     "hint": "This African animal has a tongue up to 50 cm long, a neck with only 7 vertebrae (same as humans), and a unique spotted pattern like a fingerprint.",
     "explanation": "Giraffes can reach heights of up to 5.7 meters, making them the tallest living terrestrial animals. Despite their long necks, they have the same number of neck vertebrae as humans."
   },
   "q_nat_025": {
     "question": "Which insect is the most important pollinator of food crops worldwide?",
     "correct": "Honeybee",
-    "wrong": ["Butterfly", "Ladybug", "Ant"],
+    "wrong": [
+      "Butterfly",
+      "Ladybug",
+      "Ant"
+    ],
     "hint": "Living in hives with a queen, these social insects perform 'waggle dances' to tell each other where flowers are and produce a sweet golden liquid.",
     "explanation": "Honeybees pollinate about 80% of flowering plants and one-third of the food we eat. A single colony can pollinate 300 million flowers per day."
   },
   "q_nat_026": {
     "question": "What is the largest species of big cat in the world?",
     "correct": "Tiger",
-    "wrong": ["Lion", "Jaguar", "Leopard"],
+    "wrong": [
+      "Lion",
+      "Jaguar",
+      "Leopard"
+    ],
     "hint": "The Siberian subspecies is the biggest, with distinctive orange fur and black stripes — no two individuals share the same pattern.",
     "explanation": "The tiger is the largest big cat, with Siberian tigers weighing up to 300 kg. They are solitary hunters found across Asia, though all subspecies are endangered."
   },
   "q_nat_027": {
     "question": "Which reptile is famous for its ability to change skin color?",
     "correct": "Chameleon",
-    "wrong": ["Iguana", "Gecko", "Anole"],
+    "wrong": [
+      "Iguana",
+      "Gecko",
+      "Anole"
+    ],
     "hint": "This slow-moving creature has eyes that rotate independently, a projectile tongue longer than its body, and a curling prehensile tail for gripping branches.",
     "explanation": "Chameleons change color by adjusting special cells called chromatophores in their skin. They do this primarily for communication and temperature regulation, not just camouflage."
   },
   "q_nat_028": {
     "question": "What is the largest species of bear in the world?",
     "correct": "Polar bear",
-    "wrong": ["Grizzly bear", "Brown bear", "Black bear"],
+    "wrong": [
+      "Grizzly bear",
+      "Brown bear",
+      "Black bear"
+    ],
     "hint": "This white-furred predator lives in the Arctic and is classified as a marine mammal.",
     "explanation": "Polar bears are the largest land carnivores, with males weighing up to 700 kg. They are classified as marine mammals because they spend most of their lives on sea ice."
   },
   "q_nat_029": {
     "question": "Which bird has the largest wingspan of any living bird?",
     "correct": "Wandering Albatross",
-    "wrong": ["Andean Condor", "Bald Eagle", "Pelican"],
+    "wrong": [
+      "Andean Condor",
+      "Bald Eagle",
+      "Pelican"
+    ],
     "hint": "This seabird spends most of its life soaring over the Southern Ocean and can glide for hours without flapping.",
     "explanation": "The wandering albatross has a wingspan of up to 3.5 meters (11.5 feet), the largest of any living bird. They can fly thousands of kilometers without landing."
   },
   "q_nat_030": {
     "question": "What is the most venomous snake in the world?",
     "correct": "Inland Taipan",
-    "wrong": ["King Cobra", "Black Mamba", "Eastern Brown Snake"],
+    "wrong": [
+      "King Cobra",
+      "Black Mamba",
+      "Eastern Brown Snake"
+    ],
     "hint": "Found in the remote semi-arid regions of central Australia, a single bite from this snake contains enough venom to kill over 100 adult humans.",
     "explanation": "The inland taipan of Australia has the most toxic venom of any land snake. A single bite contains enough venom to kill approximately 100 adult humans, though human encounters are extremely rare."
+  },
+  "q_nat_031": {
+    "question": "What is the largest living species of lizard?",
+    "correct": "Komodo dragon",
+    "wrong": [
+      "Green iguana",
+      "Nile monitor",
+      "Gila monster"
+    ],
+    "hint": "It is found on several Indonesian islands.",
+    "explanation": "The Komodo dragon can grow up to 3 meters long and weigh over 70 kg. It is found primarily on the Indonesian islands of Komodo, Rinca, Flores, and Gili Motang."
+  },
+  "q_nat_032": {
+    "question": "What is the largest coral reef system in the world?",
+    "correct": "Great Barrier Reef",
+    "wrong": [
+      "Mesoamerican Reef",
+      "Red Sea Coral Reef",
+      "New Caledonia Barrier Reef"
+    ],
+    "hint": "It is located off the northeast coast of a Southern Hemisphere continent.",
+    "explanation": "The Great Barrier Reef, off the coast of Queensland, Australia, stretches over 2,300 km and is the world's largest coral reef system. It is visible from space."
+  },
+  "q_nat_033": {
+    "question": "What type of animal is a dolphin?",
+    "correct": "Mammal",
+    "wrong": [
+      "Fish",
+      "Amphibian",
+      "Reptile"
+    ],
+    "hint": "Like humans, they breathe air and nurse their young with milk.",
+    "explanation": "Despite living in water, dolphins are mammals of the order Cetacea. They breathe through a blowhole, give live birth, and nurse their calves with milk."
+  },
+  "q_nat_034": {
+    "question": "Which insect produces light through bioluminescence?",
+    "correct": "Firefly",
+    "wrong": [
+      "Cricket",
+      "Moth",
+      "Cicada"
+    ],
+    "hint": "They create a natural light show on warm summer evenings.",
+    "explanation": "Fireflies produce light through a chemical reaction involving luciferin and luciferase in their abdomen. They use this light primarily to attract mates."
   }
 }

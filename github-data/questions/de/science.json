@@ -339,5 +339,49 @@
     ],
     "hint": "Dieses radioaktive Element wird als Brennstoff in Kernkraftwerken verwendet und hat die Ordnungszahl 92.",
     "explanation": "Uran mit der Ordnungszahl 92 ist das schwerste Element, das in nennenswerten Mengen in der Natur vorkommt. Es wird als Brennstoff in Kernreaktoren verwendet."
+  },
+  "q_sci_031": {
+    "question": "Was ist das chemische Symbol für Blei?",
+    "correct": "Pb",
+    "wrong": [
+      "Ld",
+      "Le",
+      "Pl"
+    ],
+    "explanation": "Das Symbol Pb für Blei leitet sich vom lateinischen Wort „plumbum“ ab.",
+    "hint": "Sein Symbol stammt vom lateinischen Wort „plumbum“."
+  },
+  "q_sci_032": {
+    "question": "Was ist die SI-Einheit der elektrischen Stromstärke?",
+    "correct": "Ampere",
+    "wrong": [
+      "Volt",
+      "Watt",
+      "Coulomb"
+    ],
+    "explanation": "Das Ampere ist eine der sieben SI-Basiseinheiten.",
+    "hint": "Benannt nach einem französischen Physiker."
+  },
+  "q_sci_033": {
+    "question": "Wie viele Planeten in unserem Sonnensystem haben Ringsysteme?",
+    "correct": "4",
+    "wrong": [
+      "2",
+      "3",
+      "5"
+    ],
+    "explanation": "Jupiter, Saturn, Uranus und Neptun haben alle Ringsysteme.",
+    "hint": "Die berühmtesten Ringe gehören zum sechsten Planeten von der Sonne aus."
+  },
+  "q_sci_034": {
+    "question": "Welches subatomare Teilchen trägt eine negative elektrische Ladung?",
+    "correct": "Elektron",
+    "wrong": [
+      "Proton",
+      "Neutron",
+      "Photon"
+    ],
+    "explanation": "Elektronen haben eine negative Ladung, die für chemische Bindungen und Elektrizität wesentlich ist.",
+    "hint": "Es umkreist den Kern eines Atoms."
   }
 }

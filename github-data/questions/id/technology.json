@@ -317,5 +317,38 @@
     ],
     "hint": "Pesan tersebut hanya bertuliskan 'Merry Christmas' dan dikirim oleh seorang insinyur Inggris.",
     "explanation": "SMS pertama dikirim pada 3 Desember 1992 oleh Neil Papworth, seorang insinyur Inggris, kepada Richard Jarvis di Vodafone. Pesannya bertuliskan 'Merry Christmas'."
+  },
+  "q_tec_030": {
+    "question": "Bahasa pemrograman apa yang diciptakan oleh Guido van Rossum pada tahun 1991?",
+    "correct": "Python",
+    "wrong": [
+      "Java",
+      "Ruby",
+      "Perl"
+    ],
+    "hint": "Dinamai menurut grup komedi Inggris, bukan ular.",
+    "explanation": "Python diciptakan oleh Guido van Rossum dan dirilis pertama kali pada tahun 1991. Dinamai menurut Monty Python's Flying Circus."
+  },
+  "q_tec_031": {
+    "question": "Apa kepanjangan dari 'NASA'?",
+    "correct": "National Aeronautics and Space Administration",
+    "wrong": [
+      "National Aviation and Space Agency",
+      "North American Space Administration",
+      "National Aerospace and Science Administration"
+    ],
+    "hint": "Badan pemerintah AS yang bertanggung jawab atas eksplorasi ruang angkasa sipil.",
+    "explanation": "NASA didirikan pada tahun 1958 dan telah memimpin pencapaian besar termasuk pendaratan di Bulan melalui program Apollo."
+  },
+  "q_tec_032": {
+    "question": "Apa kepanjangan 'QR' dalam 'kode QR'?",
+    "correct": "Quick Response",
+    "wrong": [
+      "Query Read",
+      "Quantum Reference",
+      "Quality Recognition"
+    ],
+    "hint": "Kode berbentuk persegi ini awalnya dirancang untuk industri otomotif di Jepang.",
+    "explanation": "Kode QR ditemukan pada tahun 1994 oleh Denso Wave, sebuah perusahaan Jepang. 'QR' singkatan dari 'Quick Response' yang merujuk pada kemampuan kode untuk dibaca dengan cepat."
   }
 }

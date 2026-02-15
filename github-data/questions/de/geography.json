@@ -328,5 +328,49 @@
     ],
     "hint": "Dieses zentralasiatische Land grenzt an Russland und China und gehörte einst zur Sowjetunion.",
     "explanation": "Kasachstan erstreckt sich über etwa 2,72 Millionen km² und ist damit das größte Binnenland der Welt und das neuntgrößte Land insgesamt."
+  },
+  "q_geo_030": {
+    "question": "Welches europäische Land wird oft als „Land der tausend Seen“ bezeichnet?",
+    "correct": "Finnland",
+    "wrong": [
+      "Norwegen",
+      "Schweden",
+      "Island"
+    ],
+    "explanation": "Finnland hat etwa 188.000 Seen, was ihm den Beinamen „Land der tausend Seen“ eingebracht hat. Die finnische Seenplatte ist das größte Seengebiet Europas.",
+    "hint": "Es ist eines der nordischen Länder und teilt eine lange Ostgrenze mit Russland."
+  },
+  "q_geo_031": {
+    "question": "Welche Meerenge trennt Afrika von Europa?",
+    "correct": "Straße von Gibraltar",
+    "wrong": [
+      "Straße von Hormus",
+      "Straße von Malakka",
+      "Beringstraße"
+    ],
+    "explanation": "Die Straße von Gibraltar ist an ihrer engsten Stelle etwa 14 km breit und trennt Spanien von Marokko.",
+    "hint": "Sie verbindet den Atlantischen Ozean mit dem Mittelmeer."
+  },
+  "q_geo_032": {
+    "question": "Was ist die Hauptstadt von Neuseeland?",
+    "correct": "Wellington",
+    "wrong": [
+      "Auckland",
+      "Christchurch",
+      "Queenstown"
+    ],
+    "explanation": "Wellington ist seit 1865 die Hauptstadt von Neuseeland.",
+    "hint": "Sie liegt an der Südspitze der Nordinsel."
+  },
+  "q_geo_033": {
+    "question": "Welcher Fluss bildet einen Teil der Grenze zwischen den Vereinigten Staaten und Mexiko?",
+    "correct": "Rio Grande",
+    "wrong": [
+      "Mississippi",
+      "Missouri",
+      "Columbia"
+    ],
+    "explanation": "Der Rio Grande erstreckt sich über etwa 3.051 km und bildet eine natürliche Grenze zwischen Texas und den mexikanischen Bundesstaaten.",
+    "hint": "In Mexiko ist dieser Fluss als „Río Bravo del Norte“ bekannt."
   }
 }

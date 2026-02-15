@@ -339,5 +339,49 @@
     ],
     "hint": "Cet élément radioactif est utilisé comme combustible dans les centrales nucléaires et a un numéro atomique de 92.",
     "explanation": "L'uranium, de numéro atomique 92, est l'élément le plus lourd trouvé en quantités significatives dans la nature. Il est utilisé comme combustible dans les réacteurs nucléaires."
+  },
+  "q_sci_031": {
+    "question": "Quel est le symbole chimique du plomb ?",
+    "correct": "Pb",
+    "wrong": [
+      "Ld",
+      "Le",
+      "Pl"
+    ],
+    "explanation": "Le symbole du plomb, Pb, vient du latin « plumbum ».",
+    "hint": "Son symbole provient du mot latin « plumbum »."
+  },
+  "q_sci_032": {
+    "question": "Quelle est l'unité SI du courant électrique ?",
+    "correct": "Ampère",
+    "wrong": [
+      "Volt",
+      "Watt",
+      "Coulomb"
+    ],
+    "explanation": "L'ampère est l'une des sept unités de base du SI.",
+    "hint": "Nommé d'après un physicien français."
+  },
+  "q_sci_033": {
+    "question": "Combien de planètes de notre système solaire possèdent des systèmes d'anneaux ?",
+    "correct": "4",
+    "wrong": [
+      "2",
+      "3",
+      "5"
+    ],
+    "explanation": "Jupiter, Saturne, Uranus et Neptune possèdent tous des systèmes d'anneaux.",
+    "hint": "Les anneaux les plus célèbres appartiennent à la sixième planète en partant du Soleil."
+  },
+  "q_sci_034": {
+    "question": "Quelle particule subatomique porte une charge électrique négative ?",
+    "correct": "Électron",
+    "wrong": [
+      "Proton",
+      "Neutron",
+      "Photon"
+    ],
+    "explanation": "Les électrons possèdent une charge négative essentielle aux liaisons chimiques et à l'électricité.",
+    "hint": "Il orbite autour du noyau d'un atome."
   }
 }

@@ -317,5 +317,49 @@
     ],
     "hint": "Perenang Amerika ini meraih medali rekornya di lima Olimpiade berturut-turut dari 2000 hingga 2016.",
     "explanation": "Michael Phelps memenangkan 23 medali emas Olimpiade di lima Olimpiade (2000-2016), menjadikannya atlet Olimpiade paling berprestasi sepanjang masa dengan total 28 medali."
+  },
+  "q_spo_030": {
+    "question": "Apa olahraga nasional musim panas resmi Kanada?",
+    "correct": "Lacrosse",
+    "wrong": [
+      "Bisbol",
+      "Kriket",
+      "Hoki Lapangan"
+    ],
+    "hint": "Berasal dari penduduk asli, dimainkan dengan tongkat berjaring.",
+    "explanation": "Lacrosse dinyatakan sebagai olahraga nasional musim panas Kanada pada tahun 1994. Olahraga ini berasal dari penduduk asli Amerika Utara."
+  },
+  "q_spo_031": {
+    "question": "Pada tahun berapa Olimpiade modern pertama diadakan?",
+    "correct": "1896",
+    "wrong": [
+      "1900",
+      "1888",
+      "1904"
+    ],
+    "hint": "Diadakan di negara tempat Olimpiade kuno berasal.",
+    "explanation": "Olimpiade modern pertama diadakan di Athena, Yunani, pada tahun 1896, diorganisir oleh Pierre de Coubertin."
+  },
+  "q_spo_032": {
+    "question": "Seni bela diri apa yang berasal dari Jepang dan berarti 'jalan yang lembut'?",
+    "correct": "Judo",
+    "wrong": [
+      "Karate",
+      "Aikido",
+      "Kendo"
+    ],
+    "hint": "Didirikan oleh Jigoro Kano pada tahun 1882.",
+    "explanation": "Judo (柔道) didirikan oleh Jigoro Kano pada tahun 1882. Namanya berarti 'jalan yang lembut', menekankan penggunaan kekuatan lawan melawan dirinya sendiri."
+  },
+  "q_spo_033": {
+    "question": "Berapa panjang standar kolam renang Olimpiade dalam meter?",
+    "correct": "50 meter",
+    "wrong": [
+      "25 meter",
+      "100 meter",
+      "75 meter"
+    ],
+    "hint": "Setengah dari sepersepuluh kilometer.",
+    "explanation": "Kolam renang Olimpiade panjangnya 50 meter, lebarnya 25 meter, dan kedalamannya minimal 2 meter."
   }
 }

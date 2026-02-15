@@ -317,5 +317,38 @@
     ],
     "hint": "Tin nhắn chỉ đơn giản viết 'Merry Christmas' và được gửi bởi một kỹ sư người Anh.",
     "explanation": "SMS đầu tiên được gửi vào ngày 3 tháng 12 năm 1992 bởi Neil Papworth, kỹ sư người Anh, gửi cho Richard Jarvis tại Vodafone. Tin nhắn viết 'Merry Christmas'."
+  },
+  "q_tec_030": {
+    "question": "Ngôn ngữ lập trình nào được Guido van Rossum tạo ra vào năm 1991?",
+    "correct": "Python",
+    "wrong": [
+      "Java",
+      "Ruby",
+      "Perl"
+    ],
+    "hint": "Được đặt theo tên một nhóm hài kịch Anh, không phải con trăn.",
+    "explanation": "Python được Guido van Rossum tạo ra và phát hành lần đầu năm 1991. Tên gọi lấy từ Monty Python's Flying Circus."
+  },
+  "q_tec_031": {
+    "question": "'NASA' là viết tắt của cụm từ nào?",
+    "correct": "Cơ quan Hàng không và Vũ trụ Quốc gia",
+    "wrong": [
+      "Cơ quan Hàng không và Không gian Quốc gia",
+      "Cơ quan Vũ trụ Bắc Mỹ",
+      "Cơ quan Khoa học Vũ trụ Quốc gia"
+    ],
+    "hint": "Cơ quan chính phủ Hoa Kỳ phụ trách thám hiểm vũ trụ dân sự.",
+    "explanation": "NASA được thành lập năm 1958 và đã dẫn đầu nhiều thành tựu lớn bao gồm chương trình đổ bộ Mặt Trăng Apollo."
+  },
+  "q_tec_032": {
+    "question": "'QR' trong 'mã QR' là viết tắt của từ gì?",
+    "correct": "Quick Response (Phản hồi nhanh)",
+    "wrong": [
+      "Query Read",
+      "Quantum Reference",
+      "Quality Recognition"
+    ],
+    "hint": "Những mã hình vuông này ban đầu được thiết kế cho ngành công nghiệp ô tô tại Nhật Bản.",
+    "explanation": "Mã QR được phát minh năm 1994 bởi Denso Wave, một công ty Nhật Bản. 'QR' nghĩa là 'Quick Response' (Phản hồi nhanh)."
   }
 }

@@ -317,5 +317,38 @@
     ],
     "hint": "Loại trái cây màu đỏ hình trái tim này có khoảng 200 hạt nhỏ màu vàng nhìn thấy được trên bề mặt.",
     "explanation": "Dâu tây là loại trái cây duy nhất có hạt ở bên ngoài, trung bình khoảng 200 hạt mỗi quả. Về mặt kỹ thuật, mỗi 'hạt' thực ra là một quả nhỏ gọi là quả bế."
+  },
+  "q_foo_030": {
+    "question": "Hương vị vani có nguồn gốc từ họ thực vật nào?",
+    "correct": "Lan",
+    "wrong": [
+      "Huệ",
+      "Hồng",
+      "Bạc hà"
+    ],
+    "hint": "Cây cho ra những quả dài, mỏng chứa hạt thơm.",
+    "explanation": "Vani đến từ quả của cây lan Vanilla planifolia, có nguồn gốc từ Mexico. Đây là một trong những gia vị đắt nhất do quá trình thụ phấn và chế biến tốn công."
+  },
+  "q_foo_031": {
+    "question": "Nguyên liệu chính trong bánh mochi truyền thống Nhật Bản là gì?",
+    "correct": "Gạo",
+    "wrong": [
+      "Lúa mì",
+      "Khoai tây",
+      "Ngô"
+    ],
+    "hint": "Được giã thành khối dẻo, dai.",
+    "explanation": "Mochi được làm từ gạo nếp (mochigome) được ngâm, hấp, rồi giã thành khối bột mịn, dẻo. Đây là món ăn truyền thống trong lễ năm mới Nhật Bản."
+  },
+  "q_foo_032": {
+    "question": "Quốc gia nào là nhà sản xuất hạt ca cao lớn nhất thế giới?",
+    "correct": "Bờ Biển Ngà",
+    "wrong": [
+      "Ghana",
+      "Brazil",
+      "Indonesia"
+    ],
+    "hint": "Quốc gia Tây Phi này sản xuất gần 40% sản lượng thế giới.",
+    "explanation": "Bờ Biển Ngà (Côte d'Ivoire) sản xuất khoảng 2 triệu tấn hạt ca cao mỗi năm, chiếm khoảng 38% sản lượng toàn cầu."
   }
 }

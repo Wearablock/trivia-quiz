@@ -317,5 +317,38 @@
     ],
     "hint": "Esta fruta vermelha em forma de coração tem cerca de 200 pequenas sementes amarelas visíveis em sua superfície.",
     "explanation": "O morango é a única fruta que tem suas sementes do lado de fora, com uma média de cerca de 200 sementes por fruta. Tecnicamente, cada 'semente' é na verdade um pequeno fruto chamado aquênio."
+  },
+  "q_foo_030": {
+    "question": "De qual família de plantas se origina o sabor de baunilha?",
+    "correct": "Orquídea",
+    "wrong": [
+      "Lírio",
+      "Rosa",
+      "Menta"
+    ],
+    "hint": "A planta produz vagens longas e finas.",
+    "explanation": "A baunilha vem da orquídea Vanilla planifolia."
+  },
+  "q_foo_031": {
+    "question": "Qual é o ingrediente principal do mochi japonês tradicional?",
+    "correct": "Arroz",
+    "wrong": [
+      "Trigo",
+      "Batata",
+      "Milho"
+    ],
+    "hint": "Socado até formar uma pasta pegajosa e elástica.",
+    "explanation": "Feito de arroz glutinoso (mochigome)."
+  },
+  "q_foo_032": {
+    "question": "Qual país é o maior produtor mundial de grãos de cacau?",
+    "correct": "Costa do Marfim",
+    "wrong": [
+      "Gana",
+      "Brasil",
+      "Indonésia"
+    ],
+    "hint": "Este país da África Ocidental produz quase 40% da oferta mundial.",
+    "explanation": "Produz aproximadamente 2 milhões de toneladas anualmente."
   }
 }

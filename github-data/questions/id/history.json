@@ -317,5 +317,49 @@
     ],
     "hint": "Dia memiliki hubungan romantis dengan Julius Caesar dan Marcus Antonius.",
     "explanation": "Kleopatra VII memerintah Mesir dari 51 hingga 30 SM. Setelah kematiannya, Mesir menjadi provinsi Kekaisaran Romawi, mengakhiri lebih dari 3.000 tahun pemerintahan firaun."
+  },
+  "q_his_030": {
+    "question": "Pada tahun berapa Kebakaran Besar London terjadi?",
+    "correct": "1666",
+    "wrong": [
+      "1606",
+      "1712",
+      "1588"
+    ],
+    "hint": "Bermula dari sebuah toko roti di Pudding Lane.",
+    "explanation": "Kebakaran Besar London tahun 1666 menghancurkan lebih dari 13.000 rumah dan 87 gereja selama empat hari."
+  },
+  "q_his_031": {
+    "question": "Penjelajah Portugis mana yang menjadi orang Eropa pertama yang mencapai India melalui laut?",
+    "correct": "Vasco da Gama",
+    "wrong": [
+      "Bartolomeu Dias",
+      "Pedro Álvares Cabral",
+      "Pangeran Henry"
+    ],
+    "hint": "Ia berlayar mengelilingi Tanjung Harapan di Afrika.",
+    "explanation": "Vasco da Gama mencapai Calicut, India, pada tahun 1498, membuka jalur laut langsung dari Eropa ke Asia."
+  },
+  "q_his_032": {
+    "question": "Keajaiban dunia kuno mana yang konon terletak di Babilonia?",
+    "correct": "Taman Gantung",
+    "wrong": [
+      "Patung Raksasa Rhodes",
+      "Perpustakaan Besar",
+      "Menara Babel"
+    ],
+    "hint": "Legenda mengatakan dibangun oleh Raja Nebukadnezar II untuk istrinya yang rindu kampung halaman.",
+    "explanation": "Taman Gantung Babilonia adalah satu-satunya dari Tujuh Keajaiban Dunia Kuno yang keberadaannya masih diperdebatkan."
+  },
+  "q_his_033": {
+    "question": "Siapa yang menulis 'Manifesto Komunis' bersama Friedrich Engels pada tahun 1848?",
+    "correct": "Karl Marx",
+    "wrong": [
+      "Adam Smith",
+      "John Stuart Mill",
+      "Georg Hegel"
+    ],
+    "hint": "Ia juga dikenal dengan karya utamanya 'Das Kapital'.",
+    "explanation": "Karl Marx, filsuf dan ekonom Jerman, menulis 'Manifesto Komunis' bersama Engels yang menjadi salah satu dokumen politik paling berpengaruh."
   }
 }

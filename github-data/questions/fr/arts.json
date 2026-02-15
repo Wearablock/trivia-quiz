@@ -317,5 +317,49 @@
     ],
     "hint": "Ce peintre espagnol était connu pour sa personnalité flamboyante, sa moustache relevée et ses images oniriques bizarres.",
     "explanation": "Salvador Dalí a peint La Persistance de la mémoire en 1931. Les montres molles représentent la fluidité du temps dans les rêves, un thème central du surréalisme."
+  },
+  "q_art_030": {
+    "question": "Qui a écrit le roman « Guerre et Paix » ?",
+    "correct": "Léon Tolstoï",
+    "wrong": [
+      "Fiodor Dostoïevski",
+      "Anton Tchekhov",
+      "Ivan Tourgueniev"
+    ],
+    "explanation": "Publié entre 1865 et 1869, il dépeint la société russe pendant les guerres napoléoniennes.",
+    "hint": "Auteur russe, considéré comme l'un des plus grands écrivains de tous les temps."
+  },
+  "q_art_031": {
+    "question": "Quel mouvement artistique, cofondé par Pablo Picasso, présente des formes géométriques fragmentées ?",
+    "correct": "Cubisme",
+    "wrong": [
+      "Impressionnisme",
+      "Expressionnisme",
+      "Dadaïsme"
+    ],
+    "explanation": "Cofondé par Picasso et Georges Braque vers 1907.",
+    "hint": "Il est apparu au début du XXe siècle à Paris."
+  },
+  "q_art_032": {
+    "question": "Comment appelle-t-on l'art japonais du pliage de papier en formes décoratives ?",
+    "correct": "Origami",
+    "wrong": [
+      "Ikebana",
+      "Ukiyo-e",
+      "Kintsugi"
+    ],
+    "explanation": "Origami vient de « ori » (plier) et « kami » (papier).",
+    "hint": "Le mot combine les termes japonais pour « plier » et « papier »."
+  },
+  "q_art_033": {
+    "question": "De quel instrument Niccolò Paganini était-il célèbre pour jouer ?",
+    "correct": "Violon",
+    "wrong": [
+      "Violoncelle",
+      "Alto",
+      "Guitare"
+    ],
+    "explanation": "Paganini (1782–1840) fut l'un des plus grands virtuoses du violon de l'histoire.",
+    "hint": "Virtuose italien du début du XIXe siècle."
   }
 }

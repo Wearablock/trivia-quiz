@@ -317,5 +317,49 @@
     ],
     "hint": "Dieser spanische Künstler war bekannt für seine extravagante Persönlichkeit, seinen hochgezwirbelten Schnurrbart und seine bizarren traumhaften Bilder.",
     "explanation": "Salvador Dalí malte Die Beständigkeit der Erinnerung 1931. Die schmelzenden Uhren sollen die Fließfähigkeit der Zeit in Träumen darstellen, ein zentrales Thema des Surrealismus."
+  },
+  "q_art_030": {
+    "question": "Wer schrieb den Roman „Krieg und Frieden“?",
+    "correct": "Leo Tolstoi",
+    "wrong": [
+      "Fjodor Dostojewski",
+      "Anton Tschechow",
+      "Iwan Turgenjew"
+    ],
+    "explanation": "Zwischen 1865 und 1869 veröffentlicht, schildert er die russische Gesellschaft während der Napoleonischen Kriege.",
+    "hint": "Russischer Autor, gilt als einer der größten Schriftsteller aller Zeiten."
+  },
+  "q_art_031": {
+    "question": "Welche Kunstrichtung, mitbegründet von Pablo Picasso, zeigt fragmentierte geometrische Formen?",
+    "correct": "Kubismus",
+    "wrong": [
+      "Impressionismus",
+      "Expressionismus",
+      "Dadaismus"
+    ],
+    "explanation": "Mitbegründet von Picasso und Georges Braque um 1907.",
+    "hint": "Entstand Anfang des 20. Jahrhunderts in Paris."
+  },
+  "q_art_032": {
+    "question": "Wie heißt die japanische Kunst des Papierfaltens zu dekorativen Formen?",
+    "correct": "Origami",
+    "wrong": [
+      "Ikebana",
+      "Ukiyo-e",
+      "Kintsugi"
+    ],
+    "explanation": "Origami kommt von „ori“ (falten) und „kami“ (Papier).",
+    "hint": "Das Wort setzt sich aus den japanischen Wörtern für „falten“ und „Papier“ zusammen."
+  },
+  "q_art_033": {
+    "question": "Welches Instrument war Niccolò Paganini berühmt zu spielen?",
+    "correct": "Violine",
+    "wrong": [
+      "Cello",
+      "Bratsche",
+      "Gitarre"
+    ],
+    "explanation": "Paganini (1782–1840) war einer der größten Geigenvirtuosen aller Zeiten.",
+    "hint": "Italienischer Virtuose des frühen 19. Jahrhunderts."
   }
 }

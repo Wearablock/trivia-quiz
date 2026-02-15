@@ -317,5 +317,49 @@
     ],
     "hint": "Pelukis Spanyol ini dikenal dengan kepribadiannya yang flamboyan, kumis yang melengkung ke atas, dan citra mimpi yang aneh.",
     "explanation": "Salvador Dalí melukis The Persistence of Memory pada tahun 1931. Jam-jam yang meleleh dikatakan mewakili kelenturan waktu dalam mimpi, tema sentral dalam Surealisme."
+  },
+  "q_art_030": {
+    "question": "Siapa yang menulis novel 'Perang dan Damai'?",
+    "correct": "Leo Tolstoy",
+    "wrong": [
+      "Fyodor Dostoevsky",
+      "Anton Chekhov",
+      "Ivan Turgenev"
+    ],
+    "hint": "Penulis Rusia yang dianggap sebagai salah satu penulis terbesar sepanjang masa.",
+    "explanation": "Leo Tolstoy menerbitkan 'Perang dan Damai' antara tahun 1865 dan 1869. Novel epik ini menggambarkan masyarakat Rusia selama Perang Napoleon."
+  },
+  "q_art_031": {
+    "question": "Gerakan seni apa yang didirikan bersama Pablo Picasso dan menampilkan bentuk-bentuk geometris terfragmentasi?",
+    "correct": "Kubisme",
+    "wrong": [
+      "Impresionisme",
+      "Ekspresionisme",
+      "Dadaisme"
+    ],
+    "hint": "Muncul pada awal abad ke-20 di Paris.",
+    "explanation": "Kubisme didirikan bersama oleh Picasso dan Georges Braque sekitar tahun 1907, merevolusi seni dengan menggambarkan subjek dari berbagai sudut pandang."
+  },
+  "q_art_032": {
+    "question": "Apa nama seni melipat kertas Jepang menjadi bentuk-bentuk dekoratif?",
+    "correct": "Origami",
+    "wrong": [
+      "Ikebana",
+      "Ukiyo-e",
+      "Kintsugi"
+    ],
+    "hint": "Kata ini menggabungkan kata Jepang untuk 'melipat' dan 'kertas'.",
+    "explanation": "Origami berasal dari kata 'ori' (melipat) dan 'kami' (kertas). Seni ini sudah ada sejak abad ke-17."
+  },
+  "q_art_033": {
+    "question": "Alat musik apa yang terkenal dimainkan oleh Niccolò Paganini?",
+    "correct": "Biola",
+    "wrong": [
+      "Cello",
+      "Viola",
+      "Gitar"
+    ],
+    "hint": "Virtuoso Italia pada awal abad ke-19.",
+    "explanation": "Niccolò Paganini (1782-1840) dianggap sebagai salah satu pemain biola terhebat sepanjang masa."
   }
 }

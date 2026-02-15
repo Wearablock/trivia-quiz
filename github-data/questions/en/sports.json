@@ -178,92 +178,188 @@
   "q_spo_017": {
     "question": "In which sport do teams compete for the Stanley Cup?",
     "correct": "Ice Hockey",
-    "wrong": ["Basketball", "Baseball", "American Football"],
+    "wrong": [
+      "Basketball",
+      "Baseball",
+      "American Football"
+    ],
     "hint": "This trophy was donated by the Governor General of Canada in 1892.",
     "explanation": "The Stanley Cup is the championship trophy of the NHL (National Hockey League), the oldest professional sports trophy in North America."
   },
   "q_spo_018": {
     "question": "Which country has won the most Olympic gold medals in history?",
     "correct": "United States",
-    "wrong": ["Soviet Union", "China", "Great Britain"],
+    "wrong": [
+      "Soviet Union",
+      "China",
+      "Great Britain"
+    ],
     "hint": "This country has hosted the Summer Olympics four times.",
     "explanation": "The United States has won over 1,000 Olympic gold medals across both Summer and Winter Games, more than any other country."
   },
   "q_spo_019": {
     "question": "How many points is a touchdown worth in American football?",
     "correct": "6",
-    "wrong": ["3", "5", "7"],
+    "wrong": [
+      "3",
+      "5",
+      "7"
+    ],
     "hint": "After scoring this, a team can attempt an extra point kick for one more point.",
     "explanation": "A touchdown is worth 6 points in American football. The team can then attempt an extra point (1 point) or a two-point conversion."
   },
   "q_spo_020": {
     "question": "Which country hosted the first FIFA World Cup in 1930?",
     "correct": "Uruguay",
-    "wrong": ["Brazil", "Italy", "France"],
+    "wrong": [
+      "Brazil",
+      "Italy",
+      "France"
+    ],
     "hint": "This South American country also won the tournament that year.",
     "explanation": "Uruguay hosted and won the first FIFA World Cup in 1930, defeating Argentina 4-2 in the final in Montevideo."
   },
   "q_spo_021": {
     "question": "What is the diameter of a standard basketball hoop in inches?",
     "correct": "18 inches",
-    "wrong": ["16 inches", "20 inches", "22 inches"],
+    "wrong": [
+      "16 inches",
+      "20 inches",
+      "22 inches"
+    ],
     "hint": "The rim is just slightly larger than twice the diameter of the basketball.",
     "explanation": "A standard basketball hoop has an inner diameter of 18 inches (46 cm), while an NBA basketball has a diameter of about 9.4 inches."
   },
   "q_spo_022": {
     "question": "Which country won the first Rugby World Cup in 1987?",
     "correct": "New Zealand",
-    "wrong": ["Australia", "South Africa", "England"],
+    "wrong": [
+      "Australia",
+      "South Africa",
+      "England"
+    ],
     "hint": "This country's rugby team is known as the All Blacks.",
     "explanation": "New Zealand won the first Rugby World Cup in 1987, defeating France 29-9 in the final held in Auckland."
   },
   "q_spo_023": {
     "question": "What is the maximum break score in snooker?",
     "correct": "147",
-    "wrong": ["155", "170", "180"],
+    "wrong": [
+      "155",
+      "170",
+      "180"
+    ],
     "hint": "This score requires potting all 15 reds with blacks, followed by all six colors.",
     "explanation": "A maximum break of 147 in snooker is achieved by potting 15 reds (each followed by the black ball) and then all six colors in sequence."
   },
   "q_spo_024": {
     "question": "In which country did the martial art of judo originate?",
     "correct": "Japan",
-    "wrong": ["China", "South Korea", "Brazil"],
+    "wrong": [
+      "China",
+      "South Korea",
+      "Brazil"
+    ],
     "hint": "Created by Jigoro Kano in 1882, this martial art's name means 'the gentle way' and has been an Olympic sport since 1964.",
     "explanation": "Judo was created in Japan by Jigoro Kano in 1882 as a modern martial art derived from jujitsu. It became an Olympic sport at the 1964 Tokyo Games."
   },
   "q_spo_025": {
     "question": "Which martial art, known for its high kicks, originated in Korea and became an Olympic sport in 2000?",
     "correct": "Taekwondo",
-    "wrong": ["Karate", "Kung Fu", "Judo"],
+    "wrong": [
+      "Karate",
+      "Kung Fu",
+      "Judo"
+    ],
     "hint": "Its name means 'the way of the foot and fist,' and South Korea has won the most Olympic gold medals in this sport.",
     "explanation": "Taekwondo originated in Korea in the 1940s–50s and became a full Olympic medal sport at the 2000 Sydney Games. It emphasizes head-height kicks, jumping, and spinning kicks."
   },
   "q_spo_026": {
     "question": "Which racket sport uses a shuttlecock instead of a ball?",
     "correct": "Badminton",
-    "wrong": ["Squash", "Table Tennis", "Racquetball"],
+    "wrong": [
+      "Squash",
+      "Table Tennis",
+      "Racquetball"
+    ],
     "hint": "Named after a country estate in England, this is the fastest racket sport — the projectile can travel over 400 km/h.",
     "explanation": "Badminton uses a shuttlecock (also called a 'birdie'). The sport gets its name from Badminton House in Gloucestershire, England, where it was first played in the 19th century."
   },
   "q_spo_027": {
     "question": "Which Grand Slam tennis tournament is the only one played on grass courts?",
     "correct": "Wimbledon",
-    "wrong": ["Australian Open", "US Open", "French Open"],
+    "wrong": [
+      "Australian Open",
+      "US Open",
+      "French Open"
+    ],
     "hint": "Held annually in London, this tournament is famous for its strict all-white dress code and strawberries-and-cream tradition.",
     "explanation": "Wimbledon, held at the All England Club in London since 1877, is the oldest tennis tournament and the only Grand Slam still played on grass courts."
   },
   "q_spo_028": {
     "question": "Which country has won the most ICC Cricket World Cup titles?",
     "correct": "Australia",
-    "wrong": ["India", "West Indies", "England"],
+    "wrong": [
+      "India",
+      "West Indies",
+      "England"
+    ],
     "hint": "This country's cricket team, known for its green and gold colors, has dominated the tournament since the 1990s.",
     "explanation": "Australia has won the ICC Cricket World Cup six times (1987, 1999, 2003, 2007, 2015, and 2023), more than any other country."
   },
   "q_spo_029": {
     "question": "Which swimmer has won the most Olympic gold medals in history?",
     "correct": "Michael Phelps",
-    "wrong": ["Mark Spitz", "Ian Thorpe", "Ryan Lochte"],
+    "wrong": [
+      "Mark Spitz",
+      "Ian Thorpe",
+      "Ryan Lochte"
+    ],
     "hint": "This American swimmer earned his record-breaking medals across five consecutive Olympic Games from 2000 to 2016.",
     "explanation": "Michael Phelps won 23 Olympic gold medals across five Games (2000–2016), making him the most decorated Olympic athlete of all time with 28 total medals."
+  },
+  "q_spo_030": {
+    "question": "What is the official national summer sport of Canada?",
+    "correct": "Lacrosse",
+    "wrong": [
+      "Baseball",
+      "Cricket",
+      "Field Hockey"
+    ],
+    "hint": "This sport has Indigenous origins and is played with a stick that has a net pocket.",
+    "explanation": "Lacrosse was declared Canada's national summer sport in 1994. It originated from Indigenous peoples of North America and was originally played as a form of training and spiritual practice."
+  },
+  "q_spo_031": {
+    "question": "In what year were the first modern Olympic Games held?",
+    "correct": "1896",
+    "wrong": [
+      "1900",
+      "1888",
+      "1904"
+    ],
+    "hint": "They took place in the country where the ancient Olympics originated.",
+    "explanation": "The first modern Olympic Games were held in Athens, Greece, in 1896, organized by Pierre de Coubertin. Athletes from 14 nations competed in 43 events."
+  },
+  "q_spo_032": {
+    "question": "Which martial art, originating in Japan, translates to 'gentle way'?",
+    "correct": "Judo",
+    "wrong": [
+      "Karate",
+      "Aikido",
+      "Kendo"
+    ],
+    "hint": "It was founded by Jigoro Kano in 1882.",
+    "explanation": "Judo was founded by Jigoro Kano in 1882. The name means 'gentle way,' emphasizing using an opponent's force against them rather than direct opposition."
+  },
+  "q_spo_033": {
+    "question": "What is the standard length of an Olympic swimming pool in meters?",
+    "correct": "50 meters",
+    "wrong": [
+      "25 meters",
+      "100 meters",
+      "75 meters"
+    ],
+    "hint": "It is exactly half of one-tenth of a kilometer.",
+    "explanation": "Olympic swimming pools are 50 meters long, 25 meters wide, and at least 2 meters deep. This standardized length is used for 'long course' competitions."
   }
 }

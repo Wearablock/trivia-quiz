@@ -189,85 +189,166 @@
   "q_foo_018": {
     "question": "Which country is the origin of pizza?",
     "correct": "Italy",
-    "wrong": ["Greece", "Turkey", "United States"],
+    "wrong": [
+      "Greece",
+      "Turkey",
+      "United States"
+    ],
     "hint": "The modern version of this dish was born in Naples in the 18th century.",
     "explanation": "Pizza originated in Naples, Italy. The classic Margherita pizza was supposedly created in 1889 to honor Queen Margherita of Italy."
   },
   "q_foo_019": {
     "question": "From which bean is tofu made?",
     "correct": "Soybean",
-    "wrong": ["Lima bean", "Chickpea", "Mung bean"],
+    "wrong": [
+      "Lima bean",
+      "Chickpea",
+      "Mung bean"
+    ],
     "hint": "This legume is also used to make soy sauce, tempeh, and miso.",
     "explanation": "Tofu is made from soybeans by coagulating soy milk. It originated in China over 2,000 years ago."
   },
   "q_foo_020": {
     "question": "Which country is the largest producer of olive oil?",
     "correct": "Spain",
-    "wrong": ["Italy", "Greece", "Turkey"],
+    "wrong": [
+      "Italy",
+      "Greece",
+      "Turkey"
+    ],
     "hint": "This European country produces nearly half of the world's supply.",
     "explanation": "Spain produces about 45% of the world's olive oil, with the Andalusia region being the largest producing area."
   },
   "q_foo_021": {
     "question": "Which country is the origin of chocolate?",
     "correct": "Mexico",
-    "wrong": ["Belgium", "Switzerland", "Ghana"],
+    "wrong": [
+      "Belgium",
+      "Switzerland",
+      "Ghana"
+    ],
     "hint": "The ancient Aztecs and Maya of this region consumed it as a bitter drink.",
     "explanation": "Chocolate originated in Mesoamerica (modern-day Mexico), where the Aztecs and Maya cultivated cacao and prepared it as a bitter beverage called 'xocolātl'."
   },
   "q_foo_022": {
     "question": "Which fruit is botanically classified as a berry?",
     "correct": "Banana",
-    "wrong": ["Strawberry", "Raspberry", "Blackberry"],
+    "wrong": [
+      "Strawberry",
+      "Raspberry",
+      "Blackberry"
+    ],
     "hint": "Despite its shape and peel, this tropical fruit meets all the botanical criteria of a berry.",
     "explanation": "Botanically, a banana is a berry because it develops from a single ovary and contains seeds embedded in the flesh. Strawberries and raspberries are not true berries."
   },
   "q_foo_023": {
     "question": "Which country is the largest consumer of tea per capita?",
     "correct": "Turkey",
-    "wrong": ["China", "India", "United Kingdom"],
+    "wrong": [
+      "China",
+      "India",
+      "United Kingdom"
+    ],
     "hint": "This country bridges Europe and Asia and serves tea in distinctive tulip-shaped glasses.",
     "explanation": "Turkey has the highest per capita tea consumption in the world, with each person drinking an average of about 3 kg of tea per year."
   },
   "q_foo_024": {
     "question": "What type of food is 'naan'?",
     "correct": "Bread",
-    "wrong": ["Rice", "Curry", "Dessert"],
+    "wrong": [
+      "Rice",
+      "Curry",
+      "Dessert"
+    ],
     "hint": "This flatbread is a staple in South Asian cuisine and is traditionally baked in a tandoor oven.",
     "explanation": "Naan is a leavened flatbread popular in South and Central Asian cuisines. It is traditionally baked in a tandoor (clay oven) and served with curries."
   },
   "q_foo_025": {
     "question": "What is the main herb in traditional Italian pesto sauce?",
     "correct": "Basil",
-    "wrong": ["Oregano", "Parsley", "Rosemary"],
+    "wrong": [
+      "Oregano",
+      "Parsley",
+      "Rosemary"
+    ],
     "hint": "This fragrant green herb from Genoa is blended with pine nuts, garlic, Parmesan cheese, and olive oil to create the classic sauce.",
     "explanation": "Traditional pesto alla Genovese is made with fresh basil leaves, pine nuts, garlic, Parmesan cheese, and olive oil. It originated in Genoa, Italy."
   },
   "q_foo_026": {
     "question": "Which grain is used to make traditional Scottish porridge?",
     "correct": "Oats",
-    "wrong": ["Wheat", "Barley", "Rye"],
+    "wrong": [
+      "Wheat",
+      "Barley",
+      "Rye"
+    ],
     "hint": "Also used in granola bars and overnight breakfast bowls, this whole grain is heart-healthy and known for lowering cholesterol.",
     "explanation": "Oats have been a staple in Scottish cuisine for centuries. Traditional Scottish porridge is made by simmering oats with water and a pinch of salt."
   },
   "q_foo_027": {
     "question": "What fruit is traditionally used to make wine?",
     "correct": "Grapes",
-    "wrong": ["Apples", "Plums", "Cherries"],
+    "wrong": [
+      "Apples",
+      "Plums",
+      "Cherries"
+    ],
     "hint": "France's Bordeaux and Italy's Tuscany are world-famous regions for growing this fruit, which comes in red and white varieties.",
     "explanation": "Grapes are the primary fruit used in winemaking. The practice of viticulture dates back over 8,000 years to the region around modern-day Georgia and Iran."
   },
   "q_foo_028": {
     "question": "Which common spice is made from the dried bark of a tree?",
     "correct": "Cinnamon",
-    "wrong": ["Nutmeg", "Clove", "Ginger"],
+    "wrong": [
+      "Nutmeg",
+      "Clove",
+      "Ginger"
+    ],
     "hint": "This warm, sweet spice is often used in baking and is a popular addition to coffee and hot chocolate.",
     "explanation": "Cinnamon comes from the inner bark of trees in the genus Cinnamomum. Sri Lanka produces the majority of the world's 'true cinnamon' (Ceylon cinnamon)."
   },
   "q_foo_029": {
     "question": "Which popular fruit has its seeds on the outside?",
     "correct": "Strawberry",
-    "wrong": ["Raspberry", "Cherry", "Blueberry"],
+    "wrong": [
+      "Raspberry",
+      "Cherry",
+      "Blueberry"
+    ],
     "hint": "This red, heart-shaped fruit has about 200 tiny yellow seeds visible on its surface.",
     "explanation": "A strawberry is the only fruit that wears its seeds on the outside, with an average of about 200 seeds per fruit. Technically, each 'seed' is actually a tiny fruit called an achene."
+  },
+  "q_foo_030": {
+    "question": "From which plant family does vanilla flavoring originate?",
+    "correct": "Orchid",
+    "wrong": [
+      "Lily",
+      "Rose",
+      "Mint"
+    ],
+    "hint": "The plant produces long, thin pods that contain the aromatic seeds.",
+    "explanation": "Vanilla comes from the pods of the Vanilla planifolia orchid, native to Mexico. It is one of the most expensive spices due to the labor-intensive pollination and curing process."
+  },
+  "q_foo_031": {
+    "question": "What is the primary ingredient in traditional Japanese mochi?",
+    "correct": "Rice",
+    "wrong": [
+      "Wheat",
+      "Potato",
+      "Corn"
+    ],
+    "hint": "This ingredient is pounded into a sticky, chewy paste.",
+    "explanation": "Mochi is made from glutinous rice (mochigome) that is soaked, steamed, and then pounded into a smooth, sticky dough. It is a staple of Japanese New Year celebrations."
+  },
+  "q_foo_032": {
+    "question": "Which country is the world's largest producer of cocoa beans?",
+    "correct": "Ivory Coast",
+    "wrong": [
+      "Ghana",
+      "Brazil",
+      "Indonesia"
+    ],
+    "hint": "This West African country produces nearly 40% of the world's supply.",
+    "explanation": "Ivory Coast (Côte d'Ivoire) produces approximately 2 million tonnes of cocoa beans annually, about 38% of global production, making it the world's leading cocoa producer."
   }
 }

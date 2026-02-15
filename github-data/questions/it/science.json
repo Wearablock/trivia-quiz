@@ -339,5 +339,49 @@
     ],
     "hint": "Questo elemento radioattivo è usato come combustibile nelle centrali nucleari e ha numero atomico 92.",
     "explanation": "L'uranio, con numero atomico 92, è l'elemento più pesante trovato in quantità significative in natura. È usato come combustibile nei reattori nucleari e nelle armi nucleari."
+  },
+  "q_sci_031": {
+    "question": "Qual è il simbolo chimico del piombo?",
+    "correct": "Pb",
+    "wrong": [
+      "Ld",
+      "Le",
+      "Pl"
+    ],
+    "hint": "Il suo simbolo deriva dalla parola latina 'plumbum'.",
+    "explanation": "Il simbolo Pb del piombo deriva dal latino 'plumbum'."
+  },
+  "q_sci_032": {
+    "question": "Qual è l'unità SI della corrente elettrica?",
+    "correct": "Ampere",
+    "wrong": [
+      "Volt",
+      "Watt",
+      "Coulomb"
+    ],
+    "hint": "Prende il nome da un fisico francese.",
+    "explanation": "L'ampere è una delle sette unità di base del SI."
+  },
+  "q_sci_033": {
+    "question": "Quanti pianeti del nostro sistema solare hanno sistemi di anelli?",
+    "correct": "4",
+    "wrong": [
+      "2",
+      "3",
+      "5"
+    ],
+    "hint": "Gli anelli più famosi appartengono al sesto pianeta dal Sole.",
+    "explanation": "Giove, Saturno, Urano e Nettuno hanno tutti sistemi di anelli."
+  },
+  "q_sci_034": {
+    "question": "Quale particella subatomica ha una carica elettrica negativa?",
+    "correct": "Elettrone",
+    "wrong": [
+      "Protone",
+      "Neutrone",
+      "Fotone"
+    ],
+    "hint": "Orbita attorno al nucleo di un atomo.",
+    "explanation": "Gli elettroni hanno una carica negativa essenziale per i legami chimici e l'elettricità."
   }
 }

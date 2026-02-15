@@ -317,5 +317,49 @@
     ],
     "hint": "Elle a eu des relations amoureuses avec Jules César et Marc Antoine.",
     "explanation": "Cléopâtre VII régna sur l'Égypte de 51 à 30 av. J.-C. Après sa mort, l'Égypte devint une province de l'Empire romain, mettant fin à plus de 3 000 ans de règne pharaonique."
+  },
+  "q_his_030": {
+    "question": "En quelle année le Grand Incendie de Londres a-t-il eu lieu ?",
+    "correct": "1666",
+    "wrong": [
+      "1606",
+      "1712",
+      "1588"
+    ],
+    "explanation": "Le Grand Incendie de Londres de 1666 a détruit plus de 13 000 maisons et 87 églises en quatre jours.",
+    "hint": "Il a commencé dans une boulangerie de Pudding Lane."
+  },
+  "q_his_031": {
+    "question": "Quel explorateur portugais fut le premier Européen à atteindre l'Inde par la mer ?",
+    "correct": "Vasco de Gama",
+    "wrong": [
+      "Bartolomeu Dias",
+      "Pedro Álvares Cabral",
+      "Henri le Navigateur"
+    ],
+    "explanation": "Vasco de Gama a atteint Calicut, en Inde, en 1498.",
+    "hint": "Il a navigué en contournant le cap de Bonne-Espérance."
+  },
+  "q_his_032": {
+    "question": "Quelle merveille du monde antique se trouvait prétendument à Babylone ?",
+    "correct": "Jardins suspendus",
+    "wrong": [
+      "Colosse de Rhodes",
+      "Grande Bibliothèque",
+      "Tour de Babel"
+    ],
+    "explanation": "Les Jardins suspendus de Babylone sont la seule des Sept Merveilles dont l'existence est contestée.",
+    "hint": "La légende raconte qu'ils furent construits par le roi Nabuchodonosor II pour son épouse nostalgique."
+  },
+  "q_his_033": {
+    "question": "Qui a coécrit « Le Manifeste du Parti communiste » avec Friedrich Engels en 1848 ?",
+    "correct": "Karl Marx",
+    "wrong": [
+      "Adam Smith",
+      "John Stuart Mill",
+      "Georg Hegel"
+    ],
+    "explanation": "Karl Marx a coécrit « Le Manifeste du Parti communiste » avec Engels.",
+    "hint": "Il est également connu pour son œuvre majeure « Le Capital »."
   }
 }

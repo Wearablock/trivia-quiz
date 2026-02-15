@@ -339,5 +339,49 @@
     ],
     "hint": "Este elemento radioativo é usado como combustível em usinas nucleares e tem número atômico 92.",
     "explanation": "O urânio, com número atômico 92, é o elemento mais pesado encontrado em quantidades significativas na natureza. É usado como combustível em reatores nucleares e em armas nucleares."
+  },
+  "q_sci_031": {
+    "question": "Qual é o símbolo químico do chumbo?",
+    "correct": "Pb",
+    "wrong": [
+      "Ld",
+      "Le",
+      "Pl"
+    ],
+    "hint": "Seu símbolo vem da palavra latina 'plumbum'.",
+    "explanation": "O símbolo Pb do chumbo deriva do latim 'plumbum'."
+  },
+  "q_sci_032": {
+    "question": "Qual é a unidade SI de corrente elétrica?",
+    "correct": "Ampere",
+    "wrong": [
+      "Volt",
+      "Watt",
+      "Coulomb"
+    ],
+    "hint": "Nomeada em homenagem a um físico francês.",
+    "explanation": "O ampere é uma das sete unidades de base do SI."
+  },
+  "q_sci_033": {
+    "question": "Quantos planetas do nosso sistema solar possuem sistemas de anéis?",
+    "correct": "4",
+    "wrong": [
+      "2",
+      "3",
+      "5"
+    ],
+    "hint": "Os anéis mais famosos pertencem ao sexto planeta a partir do Sol.",
+    "explanation": "Júpiter, Saturno, Urano e Netuno possuem sistemas de anéis."
+  },
+  "q_sci_034": {
+    "question": "Qual partícula subatômica possui carga elétrica negativa?",
+    "correct": "Elétron",
+    "wrong": [
+      "Próton",
+      "Nêutron",
+      "Fóton"
+    ],
+    "hint": "Ela orbita o núcleo de um átomo.",
+    "explanation": "Os elétrons possuem carga negativa, essencial para ligações químicas e eletricidade."
   }
 }

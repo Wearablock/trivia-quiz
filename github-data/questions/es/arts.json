@@ -317,5 +317,49 @@
     ],
     "hint": "Este artista español era conocido por su personalidad extravagante, su bigote levantado y sus extrañas imágenes oníricas.",
     "explanation": "Salvador Dalí pintó La persistencia de la memoria en 1931. Los relojes derretidos representan la fluidez del tiempo en los sueños, un tema central del surrealismo."
+  },
+  "q_art_030": {
+    "question": "¿Quién escribió la novela 'Guerra y Paz'?",
+    "correct": "León Tolstói",
+    "wrong": [
+      "Fiódor Dostoyevski",
+      "Antón Chéjov",
+      "Iván Turguénev"
+    ],
+    "explanation": "Publicada entre 1865 y 1869, retrata la sociedad rusa durante las Guerras Napoleónicas.",
+    "hint": "Autor ruso, considerado uno de los más grandes escritores de todos los tiempos."
+  },
+  "q_art_031": {
+    "question": "¿Qué movimiento artístico, cofundado por Pablo Picasso, presenta formas geométricas fragmentadas?",
+    "correct": "Cubismo",
+    "wrong": [
+      "Impresionismo",
+      "Expresionismo",
+      "Dadaísmo"
+    ],
+    "explanation": "Cofundado por Picasso y Georges Braque alrededor de 1907.",
+    "hint": "Surgió a principios del siglo XX en París."
+  },
+  "q_art_032": {
+    "question": "¿Cómo se llama el arte japonés de plegar papel en formas decorativas?",
+    "correct": "Origami",
+    "wrong": [
+      "Ikebana",
+      "Ukiyo-e",
+      "Kintsugi"
+    ],
+    "explanation": "Origami proviene de 'ori' (plegar) y 'kami' (papel).",
+    "hint": "La palabra combina los términos japoneses para 'plegar' y 'papel'."
+  },
+  "q_art_033": {
+    "question": "¿Qué instrumento era famoso por tocar Niccolò Paganini?",
+    "correct": "Violín",
+    "wrong": [
+      "Violonchelo",
+      "Viola",
+      "Guitarra"
+    ],
+    "explanation": "Paganini (1782–1840) fue uno de los más grandes virtuosos del violín de la historia.",
+    "hint": "Virtuoso italiano de principios del siglo XIX."
   }
 }

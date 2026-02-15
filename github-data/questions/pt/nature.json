@@ -328,5 +328,49 @@
     ],
     "hint": "Encontrada nas regiões semiáridas do centro da Austrália, uma única mordida contém veneno suficiente para matar mais de 100 humanos adultos.",
     "explanation": "A taipan-do-interior da Austrália possui o veneno mais tóxico de qualquer cobra terrestre. Uma única mordida pode matar aproximadamente 100 adultos, embora encontros com humanos sejam extremamente raros."
+  },
+  "q_nat_031": {
+    "question": "Qual é a maior espécie viva de lagarto?",
+    "correct": "Dragão-de-komodo",
+    "wrong": [
+      "Iguana-verde",
+      "Varano-do-nilo",
+      "Monstro-de-gila"
+    ],
+    "hint": "Encontrado em várias ilhas da Indonésia.",
+    "explanation": "Pode crescer até 3 metros de comprimento e pesar mais de 70 kg."
+  },
+  "q_nat_032": {
+    "question": "Qual é o maior sistema de recifes de coral do mundo?",
+    "correct": "Grande Barreira de Coral",
+    "wrong": [
+      "Recife Mesoamericano",
+      "Recife de Coral do Mar Vermelho",
+      "Barreira de Coral da Nova Caledônia"
+    ],
+    "hint": "Fica na costa nordeste de um continente do Hemisfério Sul.",
+    "explanation": "Localizada na costa de Queensland, Austrália, estende-se por mais de 2.300 km."
+  },
+  "q_nat_033": {
+    "question": "Que tipo de animal é um golfinho?",
+    "correct": "Mamífero",
+    "wrong": [
+      "Peixe",
+      "Anfíbio",
+      "Réptil"
+    ],
+    "hint": "Eles respiram ar e amamentam seus filhotes com leite.",
+    "explanation": "Golfinhos são mamíferos da ordem Cetacea."
+  },
+  "q_nat_034": {
+    "question": "Qual inseto produz luz por meio de bioluminescência?",
+    "correct": "Vaga-lume",
+    "wrong": [
+      "Grilo",
+      "Mariposa",
+      "Cigarra"
+    ],
+    "hint": "Eles criam um espetáculo de luz natural nas noites quentes de verão.",
+    "explanation": "Os vaga-lumes produzem luz por meio de luciferina e luciferase."
   }
 }

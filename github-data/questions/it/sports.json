@@ -317,5 +317,49 @@
     ],
     "hint": "Questo nuotatore americano ha ottenuto le sue medaglie record in cinque Giochi Olimpici consecutivi dal 2000 al 2016.",
     "explanation": "Michael Phelps ha vinto 23 medaglie d'oro olimpiche in cinque Giochi (2000-2016), diventando l'atleta olimpico più decorato di sempre con 28 medaglie totali."
+  },
+  "q_spo_030": {
+    "question": "Qual è lo sport nazionale estivo ufficiale del Canada?",
+    "correct": "Lacrosse",
+    "wrong": [
+      "Baseball",
+      "Cricket",
+      "Hockey su prato"
+    ],
+    "hint": "Ha origini indigene e si gioca con un bastone dotato di una rete.",
+    "explanation": "Dichiarato sport nazionale estivo del Canada nel 1994."
+  },
+  "q_spo_031": {
+    "question": "In che anno si tennero i primi Giochi Olimpici moderni?",
+    "correct": "1896",
+    "wrong": [
+      "1900",
+      "1888",
+      "1904"
+    ],
+    "hint": "Nel paese dove ebbero origine le Olimpiadi antiche.",
+    "explanation": "Si tennero ad Atene, in Grecia, nel 1896."
+  },
+  "q_spo_032": {
+    "question": "Quale arte marziale, originaria del Giappone, significa 'via della gentilezza'?",
+    "correct": "Judo",
+    "wrong": [
+      "Karate",
+      "Aikido",
+      "Kendo"
+    ],
+    "hint": "Fondata da Jigoro Kano nel 1882.",
+    "explanation": "Judo significa 'via della gentilezza'."
+  },
+  "q_spo_033": {
+    "question": "Qual è la lunghezza standard di una piscina olimpica in metri?",
+    "correct": "50 metri",
+    "wrong": [
+      "25 metri",
+      "100 metri",
+      "75 metri"
+    ],
+    "hint": "La metà di un decimo di chilometro.",
+    "explanation": "50 metri di lunghezza, 25 metri di larghezza e almeno 2 metri di profondità."
   }
 }

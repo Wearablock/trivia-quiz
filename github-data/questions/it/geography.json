@@ -328,5 +328,49 @@
     ],
     "hint": "Questo paese dell'Asia centrale confina con Russia e Cina e faceva parte dell'Unione Sovietica.",
     "explanation": "Il Kazakistan copre circa 2,72 milioni di km², il che lo rende il più grande paese senza sbocco al mare del mondo e il nono paese più grande in assoluto."
+  },
+  "q_geo_030": {
+    "question": "Quale paese europeo è spesso chiamato la 'Terra dei Mille Laghi'?",
+    "correct": "Finlandia",
+    "wrong": [
+      "Norvegia",
+      "Svezia",
+      "Islanda"
+    ],
+    "hint": "È uno dei paesi nordici e condivide un lungo confine orientale con la Russia.",
+    "explanation": "La Finlandia possiede circa 188.000 laghi, il che le è valso il soprannome di 'Terra dei Mille Laghi'. La regione dei laghi finlandesi è il più grande distretto lacustre d'Europa."
+  },
+  "q_geo_031": {
+    "question": "Quale stretto separa l'Africa dall'Europa?",
+    "correct": "Stretto di Gibilterra",
+    "wrong": [
+      "Stretto di Hormuz",
+      "Stretto di Malacca",
+      "Stretto di Bering"
+    ],
+    "hint": "Collega l'Oceano Atlantico al Mar Mediterraneo.",
+    "explanation": "Lo Stretto di Gibilterra è largo circa 14 km nel suo punto più stretto, separando la Spagna dal Marocco."
+  },
+  "q_geo_032": {
+    "question": "Qual è la capitale della Nuova Zelanda?",
+    "correct": "Wellington",
+    "wrong": [
+      "Auckland",
+      "Christchurch",
+      "Queenstown"
+    ],
+    "hint": "Si trova all'estremità meridionale dell'Isola del Nord.",
+    "explanation": "Wellington è la capitale della Nuova Zelanda dal 1865."
+  },
+  "q_geo_033": {
+    "question": "Quale fiume forma parte del confine tra gli Stati Uniti e il Messico?",
+    "correct": "Rio Grande",
+    "wrong": [
+      "Mississippi",
+      "Missouri",
+      "Columbia"
+    ],
+    "hint": "In Messico, questo fiume è conosciuto come 'Río Bravo del Norte'.",
+    "explanation": "Il Rio Grande si estende per circa 3.051 km e forma un confine naturale tra il Texas e gli stati messicani."
   }
 }

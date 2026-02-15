@@ -189,99 +189,199 @@
   "q_sci_017": {
     "question": "What is the closest planet to the Sun?",
     "correct": "Mercury",
-    "wrong": ["Venus", "Earth", "Mars"],
+    "wrong": [
+      "Venus",
+      "Earth",
+      "Mars"
+    ],
     "hint": "This planet has no atmosphere and extreme temperature swings between day and night.",
     "explanation": "Mercury orbits the Sun at an average distance of about 58 million km, making it the closest planet to our star."
   },
   "q_sci_018": {
     "question": "What is the unit of electrical resistance?",
     "correct": "Ohm",
-    "wrong": ["Volt", "Ampere", "Watt"],
+    "wrong": [
+      "Volt",
+      "Ampere",
+      "Watt"
+    ],
     "hint": "It is named after a German physicist and is symbolized by the Greek letter omega (Ω).",
     "explanation": "The ohm (Ω) is the SI unit of electrical resistance, named after Georg Simon Ohm who formulated Ohm's Law."
   },
   "q_sci_019": {
     "question": "How many bones are in the adult human body?",
     "correct": "206",
-    "wrong": ["186", "256", "300"],
+    "wrong": [
+      "186",
+      "256",
+      "300"
+    ],
     "hint": "Babies are born with about 270 bones, but many fuse together as they grow.",
     "explanation": "An adult human body has 206 bones. Babies are born with approximately 270 bones, many of which fuse together during development."
   },
   "q_sci_020": {
     "question": "What is the chemical symbol for potassium?",
     "correct": "K",
-    "wrong": ["P", "Po", "Pt"],
+    "wrong": [
+      "P",
+      "Po",
+      "Pt"
+    ],
     "hint": "The symbol comes from the Latin word 'kalium'.",
     "explanation": "Potassium's chemical symbol K comes from the Latin 'kalium', derived from the Arabic word for plant ash, 'al-qalyah'."
   },
   "q_sci_021": {
     "question": "What is the largest organ in the human body?",
     "correct": "Skin",
-    "wrong": ["Liver", "Brain", "Lungs"],
+    "wrong": [
+      "Liver",
+      "Brain",
+      "Lungs"
+    ],
     "hint": "This organ covers the entire body and serves as a protective barrier.",
     "explanation": "The skin is the largest organ of the human body, covering about 1.5 to 2 square meters in an adult and weighing about 3.6 kg."
   },
   "q_sci_022": {
     "question": "Which planet in our solar system has the strongest gravity?",
     "correct": "Jupiter",
-    "wrong": ["Saturn", "Neptune", "Earth"],
+    "wrong": [
+      "Saturn",
+      "Neptune",
+      "Earth"
+    ],
     "hint": "This gas giant is the largest planet in our solar system.",
     "explanation": "Jupiter has the strongest surface gravity of any planet in our solar system at about 24.79 m/s², approximately 2.5 times Earth's gravity."
   },
   "q_sci_023": {
     "question": "What is the rarest naturally occurring element in Earth's crust?",
     "correct": "Astatine",
-    "wrong": ["Francium", "Plutonium", "Radium"],
+    "wrong": [
+      "Francium",
+      "Plutonium",
+      "Radium"
+    ],
     "hint": "This radioactive halogen has a half-life of only about 8 hours.",
     "explanation": "Astatine is the rarest naturally occurring element, with less than 30 grams estimated to exist in the entire Earth's crust at any given time."
   },
   "q_sci_024": {
     "question": "What is the chemical symbol for silver?",
     "correct": "Ag",
-    "wrong": ["Si", "Sr", "Sn"],
+    "wrong": [
+      "Si",
+      "Sr",
+      "Sn"
+    ],
     "hint": "Derived from the Latin word 'argentum,' this symbol also gave the country Argentina its name.",
     "explanation": "Silver's chemical symbol Ag comes from the Latin 'argentum.' Silver is one of the best conductors of electricity and has been used in coins, jewelry, and photography."
   },
   "q_sci_025": {
     "question": "How many chromosomes do humans have?",
     "correct": "46",
-    "wrong": ["23", "44", "48"],
+    "wrong": [
+      "23",
+      "44",
+      "48"
+    ],
     "hint": "They come in 23 pairs — one set from each parent — and include two that determine your biological sex.",
     "explanation": "Humans have 46 chromosomes arranged in 23 pairs. Of these, 22 pairs are autosomes and one pair is sex chromosomes (XX or XY)."
   },
   "q_sci_026": {
     "question": "What force keeps planets in orbit around the Sun?",
     "correct": "Gravity",
-    "wrong": ["Magnetism", "Inertia", "Friction"],
+    "wrong": [
+      "Magnetism",
+      "Inertia",
+      "Friction"
+    ],
     "hint": "Isaac Newton is said to have understood this invisible force after watching an apple fall from a tree.",
     "explanation": "Gravity, as described by Newton's law of universal gravitation, keeps planets in orbit. Einstein later refined the concept with general relativity, describing it as the curvature of spacetime."
   },
   "q_sci_027": {
     "question": "What is the hottest planet in our solar system?",
     "correct": "Venus",
-    "wrong": ["Mercury", "Mars", "Jupiter"],
+    "wrong": [
+      "Mercury",
+      "Mars",
+      "Jupiter"
+    ],
     "hint": "Despite not being the closest to the Sun, this planet's thick CO₂ atmosphere creates a runaway greenhouse effect with surface temperatures over 460°C.",
     "explanation": "Venus is the hottest planet with an average surface temperature of about 465°C, hotter than Mercury despite being farther from the Sun, due to its dense carbon dioxide atmosphere."
   },
   "q_sci_028": {
     "question": "What is the most abundant element in Earth's crust?",
     "correct": "Oxygen",
-    "wrong": ["Silicon", "Aluminum", "Iron"],
+    "wrong": [
+      "Silicon",
+      "Aluminum",
+      "Iron"
+    ],
     "hint": "This element makes up about 46% of Earth's crust by weight, mostly combined with other elements in minerals.",
     "explanation": "Oxygen makes up approximately 46% of Earth's crust by mass, primarily in the form of oxides and silicates. Silicon is second at about 28%."
   },
   "q_sci_029": {
     "question": "What is the approximate speed of sound in air at room temperature?",
     "correct": "343 m/s",
-    "wrong": ["150 m/s", "500 m/s", "1,000 m/s"],
+    "wrong": [
+      "150 m/s",
+      "500 m/s",
+      "1,000 m/s"
+    ],
     "hint": "It is roughly 1,235 km/h and aircraft flying faster than this break the 'sound barrier.'",
     "explanation": "The speed of sound in air at 20°C is approximately 343 meters per second (1,235 km/h). Aircraft exceeding this speed are said to be flying at supersonic speeds."
   },
   "q_sci_030": {
     "question": "What is the heaviest naturally occurring element on Earth?",
     "correct": "Uranium",
-    "wrong": ["Plutonium", "Lead", "Gold"],
+    "wrong": [
+      "Plutonium",
+      "Lead",
+      "Gold"
+    ],
     "hint": "This radioactive element is used as fuel in nuclear power plants and has an atomic number of 92.",
     "explanation": "Uranium, with atomic number 92, is the heaviest element found in significant quantities in nature. It is used as fuel in nuclear reactors and in nuclear weapons."
+  },
+  "q_sci_031": {
+    "question": "What is the chemical symbol for lead?",
+    "correct": "Pb",
+    "wrong": [
+      "Ld",
+      "Le",
+      "Pl"
+    ],
+    "hint": "Its symbol comes from the Latin word 'plumbum.'",
+    "explanation": "Lead's chemical symbol Pb derives from the Latin 'plumbum.' This is also the origin of the word 'plumber,' as ancient Romans used lead pipes for plumbing."
+  },
+  "q_sci_032": {
+    "question": "What is the SI unit of electric current?",
+    "correct": "Ampere",
+    "wrong": [
+      "Volt",
+      "Watt",
+      "Coulomb"
+    ],
+    "hint": "This unit is named after a French physicist and mathematician.",
+    "explanation": "The ampere, named after André-Marie Ampère, is one of the seven base SI units. It measures the flow of electric charge through a conductor."
+  },
+  "q_sci_033": {
+    "question": "How many planets in our solar system have ring systems?",
+    "correct": "4",
+    "wrong": [
+      "2",
+      "3",
+      "5"
+    ],
+    "hint": "The most famous rings belong to the sixth planet from the Sun.",
+    "explanation": "Jupiter, Saturn, Uranus, and Neptune all have ring systems. Saturn's rings are the most prominent and visible, while the others are much fainter."
+  },
+  "q_sci_034": {
+    "question": "What subatomic particle carries a negative electric charge?",
+    "correct": "Electron",
+    "wrong": [
+      "Proton",
+      "Neutron",
+      "Photon"
+    ],
+    "hint": "It orbits the nucleus of an atom.",
+    "explanation": "Electrons are subatomic particles with a negative charge of approximately -1.6 × 10⁻¹⁹ coulombs. They are essential for chemical bonding and electricity."
   }
 }

@@ -317,5 +317,49 @@
     ],
     "hint": "Ebbe relazioni sentimentali sia con Giulio Cesare che con Marco Antonio.",
     "explanation": "Cleopatra VII governò l'Egitto dal 51 al 30 a.C. Dopo la sua morte, l'Egitto divenne una provincia dell'Impero Romano, ponendo fine a oltre 3.000 anni di dominio faraonico."
+  },
+  "q_his_030": {
+    "question": "In che anno si verificò il Grande Incendio di Londra?",
+    "correct": "1666",
+    "wrong": [
+      "1606",
+      "1712",
+      "1588"
+    ],
+    "hint": "Iniziò in un panificio in Pudding Lane.",
+    "explanation": "Il Grande Incendio di Londra del 1666 distrusse oltre 13.000 case e 87 chiese in quattro giorni."
+  },
+  "q_his_031": {
+    "question": "Quale esploratore portoghese fu il primo europeo a raggiungere l'India via mare?",
+    "correct": "Vasco da Gama",
+    "wrong": [
+      "Bartolomeo Diaz",
+      "Pedro Álvares Cabral",
+      "Enrico il Navigatore"
+    ],
+    "hint": "Navigò intorno al Capo di Buona Speranza.",
+    "explanation": "Vasco da Gama raggiunse Calicut, in India, nel 1498."
+  },
+  "q_his_032": {
+    "question": "Quale antica meraviglia del mondo si trovava presumibilmente a Babilonia?",
+    "correct": "Giardini pensili",
+    "wrong": [
+      "Colosso di Rodi",
+      "Grande Biblioteca",
+      "Torre di Babele"
+    ],
+    "hint": "La leggenda narra che furono costruiti dal re Nabucodonosor II per la moglie nostalgica.",
+    "explanation": "I Giardini pensili di Babilonia sono l'unica delle Sette Meraviglie la cui esistenza è discussa."
+  },
+  "q_his_033": {
+    "question": "Chi scrisse 'Il Manifesto del Partito Comunista' insieme a Friedrich Engels nel 1848?",
+    "correct": "Karl Marx",
+    "wrong": [
+      "Adam Smith",
+      "John Stuart Mill",
+      "Georg Hegel"
+    ],
+    "hint": "È noto anche per la sua opera principale 'Il Capitale'.",
+    "explanation": "Karl Marx scrisse 'Il Manifesto del Partito Comunista' con Engels."
   }
 }

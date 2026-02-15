@@ -317,5 +317,49 @@
     ],
     "hint": "Bà có mối quan hệ tình cảm với cả Julius Caesar và Mark Antony.",
     "explanation": "Cleopatra VII cai trị Ai Cập từ năm 51 đến 30 TCN. Sau khi bà qua đời, Ai Cập trở thành một tỉnh của Đế chế La Mã, chấm dứt hơn 3.000 năm cai trị của các pharaoh."
+  },
+  "q_his_030": {
+    "question": "Đại hỏa hoạn London xảy ra vào năm nào?",
+    "correct": "1666",
+    "wrong": [
+      "1606",
+      "1712",
+      "1588"
+    ],
+    "hint": "Nó bắt đầu từ một tiệm bánh trên phố Pudding Lane.",
+    "explanation": "Đại hỏa hoạn London năm 1666 phá hủy hơn 13.000 ngôi nhà và 87 nhà thờ trong bốn ngày."
+  },
+  "q_his_031": {
+    "question": "Nhà thám hiểm Bồ Đào Nha nào là người châu Âu đầu tiên đến Ấn Độ bằng đường biển?",
+    "correct": "Vasco da Gama",
+    "wrong": [
+      "Bartolomeu Dias",
+      "Pedro Álvares Cabral",
+      "Hoàng tử Henry"
+    ],
+    "hint": "Ông đã đi vòng qua Mũi Hảo Vọng ở châu Phi.",
+    "explanation": "Vasco da Gama đến Calicut, Ấn Độ, vào năm 1498, thiết lập tuyến đường biển trực tiếp từ châu Âu đến châu Á."
+  },
+  "q_his_032": {
+    "question": "Kỳ quan cổ đại nào của thế giới được cho là nằm ở Babylon?",
+    "correct": "Vườn treo",
+    "wrong": [
+      "Tượng thần Mặt Trời ở Rhodes",
+      "Thư viện Lớn",
+      "Tháp Babel"
+    ],
+    "hint": "Truyền thuyết kể rằng chúng được vua Nebuchadnezzar II xây cho người vợ nhớ quê.",
+    "explanation": "Vườn treo Babylon là kỳ quan duy nhất trong Bảy kỳ quan thế giới cổ đại mà sự tồn tại vẫn còn bị tranh cãi."
+  },
+  "q_his_033": {
+    "question": "Ai đã đồng tác giả 'Tuyên ngôn Cộng sản' với Friedrich Engels năm 1848?",
+    "correct": "Karl Marx",
+    "wrong": [
+      "Adam Smith",
+      "John Stuart Mill",
+      "Georg Hegel"
+    ],
+    "hint": "Ông cũng được biết đến với tác phẩm chính 'Tư bản luận'.",
+    "explanation": "Karl Marx, nhà triết học và kinh tế học người Đức, đồng tác giả 'Tuyên ngôn Cộng sản' với Engels."
   }
 }

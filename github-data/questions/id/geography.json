@@ -328,5 +328,49 @@
     ],
     "hint": "Negara Asia Tengah ini berbatasan dengan Rusia dan China serta dulunya merupakan bagian dari Uni Soviet.",
     "explanation": "Kazakhstan mencakup sekitar 2,72 juta km², menjadikannya negara terkurung daratan terbesar di dunia dan negara terbesar kesembilan secara keseluruhan."
+  },
+  "q_geo_030": {
+    "question": "Negara Eropa mana yang sering dijuluki 'Negeri Seribu Danau'?",
+    "correct": "Finlandia",
+    "wrong": [
+      "Norwegia",
+      "Swedia",
+      "Islandia"
+    ],
+    "hint": "Negara ini merupakan salah satu negara Nordik dan berbagi perbatasan timur yang panjang dengan Rusia.",
+    "explanation": "Finlandia memiliki sekitar 188.000 danau, sehingga mendapat julukan 'Negeri Seribu Danau'. Wilayah Danau Finlandia adalah kawasan danau terbesar di Eropa."
+  },
+  "q_geo_031": {
+    "question": "Selat apa yang memisahkan Afrika dari Eropa?",
+    "correct": "Selat Gibraltar",
+    "wrong": [
+      "Selat Hormuz",
+      "Selat Malaka",
+      "Selat Bering"
+    ],
+    "hint": "Menghubungkan Samudra Atlantik dengan Laut Mediterania.",
+    "explanation": "Selat Gibraltar lebarnya sekitar 14 km pada titik tersempit, memisahkan Spanyol dari Maroko."
+  },
+  "q_geo_032": {
+    "question": "Apa ibu kota Selandia Baru?",
+    "correct": "Wellington",
+    "wrong": [
+      "Auckland",
+      "Christchurch",
+      "Queenstown"
+    ],
+    "hint": "Terletak di ujung selatan Pulau Utara.",
+    "explanation": "Wellington telah menjadi ibu kota Selandia Baru sejak tahun 1865. Meskipun lebih kecil dari Auckland, kota ini menjadi pusat politik dan budaya negara."
+  },
+  "q_geo_033": {
+    "question": "Sungai mana yang membentuk sebagian perbatasan antara Amerika Serikat dan Meksiko?",
+    "correct": "Rio Grande",
+    "wrong": [
+      "Sungai Mississippi",
+      "Sungai Missouri",
+      "Sungai Columbia"
+    ],
+    "hint": "Di Meksiko, sungai ini dikenal sebagai 'Río Bravo del Norte'.",
+    "explanation": "Sungai Rio Grande membentang sekitar 3.051 km dan membentuk perbatasan alami antara Texas dan negara-negara bagian Meksiko."
   }
 }

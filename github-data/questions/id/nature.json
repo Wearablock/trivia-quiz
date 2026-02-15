@@ -328,5 +328,49 @@
     ],
     "hint": "Ditemukan di daerah semi-kering Australia tengah, satu gigitan mengandung cukup bisa untuk membunuh lebih dari 100 manusia dewasa.",
     "explanation": "Taipan pedalaman Australia memiliki bisa paling beracun di antara semua ular darat. Satu gigitan dapat membunuh sekitar 100 orang dewasa, meskipun pertemuan dengan manusia sangat jarang."
+  },
+  "q_nat_031": {
+    "question": "Apa spesies kadal terbesar yang masih hidup?",
+    "correct": "Komodo",
+    "wrong": [
+      "Iguana hijau",
+      "Biawak Nil",
+      "Monster Gila"
+    ],
+    "hint": "Ditemukan di beberapa pulau di Indonesia.",
+    "explanation": "Komodo dapat tumbuh hingga 3 meter dan berat lebih dari 70 kg. Ditemukan terutama di pulau Komodo, Rinca, Flores, dan Gili Motang."
+  },
+  "q_nat_032": {
+    "question": "Apa sistem terumbu karang terbesar di dunia?",
+    "correct": "Great Barrier Reef",
+    "wrong": [
+      "Terumbu Mesoamerika",
+      "Terumbu Karang Laut Merah",
+      "Terumbu Karang Kaledonia Baru"
+    ],
+    "hint": "Terletak di lepas pantai timur laut sebuah benua di belahan bumi selatan.",
+    "explanation": "Great Barrier Reef di lepas pantai Queensland, Australia, membentang lebih dari 2.300 km dan terlihat dari luar angkasa."
+  },
+  "q_nat_033": {
+    "question": "Lumba-lumba termasuk jenis hewan apa?",
+    "correct": "Mamalia",
+    "wrong": [
+      "Ikan",
+      "Amfibi",
+      "Reptil"
+    ],
+    "hint": "Seperti manusia, mereka bernapas dengan udara dan menyusui anak-anaknya.",
+    "explanation": "Meskipun hidup di air, lumba-lumba adalah mamalia dari ordo Cetacea. Mereka bernapas melalui lubang sembur dan menyusui anak-anaknya."
+  },
+  "q_nat_034": {
+    "question": "Serangga apa yang menghasilkan cahaya melalui bioluminesensi?",
+    "correct": "Kunang-kunang",
+    "wrong": [
+      "Jangkrik",
+      "Ngengat",
+      "Tonggeret"
+    ],
+    "hint": "Mereka menciptakan pertunjukan cahaya alami pada malam musim panas yang hangat.",
+    "explanation": "Kunang-kunang menghasilkan cahaya melalui reaksi kimia yang melibatkan lusiferin dan lusiferase di perutnya."
   }
 }

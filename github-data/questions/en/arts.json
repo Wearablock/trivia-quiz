@@ -189,85 +189,177 @@
   "q_art_018": {
     "question": "Who wrote 'Don Quixote'?",
     "correct": "Miguel de Cervantes",
-    "wrong": ["Gabriel García Márquez", "Federico García Lorca", "Jorge Luis Borges"],
+    "wrong": [
+      "Gabriel García Márquez",
+      "Federico García Lorca",
+      "Jorge Luis Borges"
+    ],
     "hint": "This Spanish novelist published the book in two parts, in 1605 and 1615.",
     "explanation": "Miguel de Cervantes wrote Don Quixote, often considered the first modern novel and one of the greatest works of literature ever written."
   },
   "q_art_019": {
     "question": "Which architect designed the Sagrada Família in Barcelona?",
     "correct": "Antoni Gaudí",
-    "wrong": ["Santiago Calatrava", "Le Corbusier", "Frank Lloyd Wright"],
+    "wrong": [
+      "Santiago Calatrava",
+      "Le Corbusier",
+      "Frank Lloyd Wright"
+    ],
     "hint": "This Catalan architect's work is characterized by organic, nature-inspired forms.",
     "explanation": "Antoni Gaudí began designing the Sagrada Família in 1882. The basilica remains under construction over 140 years later."
   },
   "q_art_020": {
     "question": "Who painted the ceiling of the Sistine Chapel?",
     "correct": "Michelangelo",
-    "wrong": ["Raphael", "Sandro Botticelli", "Caravaggio"],
+    "wrong": [
+      "Raphael",
+      "Sandro Botticelli",
+      "Caravaggio"
+    ],
     "hint": "This Italian artist also sculpted the famous statue of David in Florence.",
     "explanation": "Michelangelo painted the Sistine Chapel ceiling between 1508 and 1512, commissioned by Pope Julius II. It includes the iconic 'Creation of Adam'."
   },
   "q_art_021": {
     "question": "Who wrote 'Pride and Prejudice'?",
     "correct": "Jane Austen",
-    "wrong": ["Charlotte Brontë", "Emily Brontë", "Virginia Woolf"],
+    "wrong": [
+      "Charlotte Brontë",
+      "Emily Brontë",
+      "Virginia Woolf"
+    ],
     "hint": "This English novelist is known for her sharp social commentary on Regency-era England.",
     "explanation": "Jane Austen published Pride and Prejudice in 1813. It is one of the most beloved novels in English literature."
   },
   "q_art_022": {
     "question": "Which painting technique uses small dots of color to form an image?",
     "correct": "Pointillism",
-    "wrong": ["Impressionism", "Cubism", "Fauvism"],
+    "wrong": [
+      "Impressionism",
+      "Cubism",
+      "Fauvism"
+    ],
     "hint": "Georges Seurat's 'A Sunday Afternoon on the Island of La Grande Jatte' is a famous example.",
     "explanation": "Pointillism was developed by Georges Seurat and Paul Signac in the 1880s, using tiny distinct dots of color applied in patterns to form an image."
   },
   "q_art_023": {
     "question": "What is the name of the ancient Greek sculpture depicting a discus thrower?",
     "correct": "Discobolus",
-    "wrong": ["Venus de Milo", "Laocoön", "Nike of Samothrace"],
+    "wrong": [
+      "Venus de Milo",
+      "Laocoön",
+      "Nike of Samothrace"
+    ],
     "hint": "This sculpture captures an athlete in mid-motion and was created by the sculptor Myron.",
     "explanation": "Discobolus (The Discus Thrower) was created by the sculptor Myron around 450 BCE. The original bronze is lost, but Roman marble copies survive."
   },
   "q_art_024": {
     "question": "Who wrote 'The Great Gatsby'?",
     "correct": "F. Scott Fitzgerald",
-    "wrong": ["Ernest Hemingway", "John Steinbeck", "William Faulkner"],
+    "wrong": [
+      "Ernest Hemingway",
+      "John Steinbeck",
+      "William Faulkner"
+    ],
     "hint": "This American author captured the glamour and excess of the Jazz Age 1920s, setting his most famous story on Long Island, New York.",
     "explanation": "F. Scott Fitzgerald published The Great Gatsby in 1925. The novel explores themes of wealth, class, and the American Dream during the Roaring Twenties."
   },
   "q_art_025": {
     "question": "Who painted 'The Birth of Venus'?",
     "correct": "Sandro Botticelli",
-    "wrong": ["Raphael", "Titian", "Caravaggio"],
+    "wrong": [
+      "Raphael",
+      "Titian",
+      "Caravaggio"
+    ],
     "hint": "This Italian Renaissance master depicted the Roman goddess emerging from the sea, standing on a giant scallop shell.",
     "explanation": "Sandro Botticelli painted The Birth of Venus around 1485. The painting depicts the goddess Venus arriving at the shore after her birth from sea foam."
   },
   "q_art_026": {
     "question": "Who wrote 'Les Misérables'?",
     "correct": "Victor Hugo",
-    "wrong": ["Alexandre Dumas", "Émile Zola", "Gustave Flaubert"],
+    "wrong": [
+      "Alexandre Dumas",
+      "Émile Zola",
+      "Gustave Flaubert"
+    ],
     "hint": "This French literary giant also wrote 'The Hunchback of Notre-Dame' and was exiled for 19 years for opposing Napoleon III.",
     "explanation": "Victor Hugo published Les Misérables in 1862. The epic novel follows former convict Jean Valjean through post-revolutionary France."
   },
   "q_art_027": {
     "question": "Which musical genre originated in New Orleans in the early 20th century?",
     "correct": "Jazz",
-    "wrong": ["Blues", "Rock and Roll", "Country"],
+    "wrong": [
+      "Blues",
+      "Rock and Roll",
+      "Country"
+    ],
     "hint": "Louis Armstrong and Duke Ellington were among its greatest pioneers, blending African rhythms, blues, and improvisation into a revolutionary new sound.",
     "explanation": "Jazz originated in New Orleans around the early 1900s, blending African American musical traditions with blues and ragtime. It became a defining American art form."
   },
   "q_art_028": {
     "question": "Who composed the ballet 'The Nutcracker'?",
     "correct": "Pyotr Tchaikovsky",
-    "wrong": ["Igor Stravinsky", "Sergei Prokofiev", "Frédéric Chopin"],
+    "wrong": [
+      "Igor Stravinsky",
+      "Sergei Prokofiev",
+      "Frédéric Chopin"
+    ],
     "hint": "This Russian composer also wrote the ballets 'Swan Lake' and 'Sleeping Beauty.'",
     "explanation": "Pyotr Tchaikovsky composed The Nutcracker in 1892. Based on E.T.A. Hoffmann's story, it has become one of the most popular ballets performed during the Christmas season."
   },
   "q_art_029": {
     "question": "Who painted 'The Persistence of Memory,' famous for its melting clocks?",
     "correct": "Salvador Dalí",
-    "wrong": ["René Magritte", "Pablo Picasso", "Max Ernst"],
+    "wrong": [
+      "René Magritte",
+      "Pablo Picasso",
+      "Max Ernst"
+    ],
     "hint": "This Spanish artist was known for his flamboyant personality, upturned mustache, and bizarre dream-like imagery.",
     "explanation": "Salvador Dalí painted The Persistence of Memory in 1931. The melting watches are said to represent the fluidity of time in dreams, a central theme in Surrealism."
+  },
+  "q_art_030": {
+    "question": "Who wrote the novel 'War and Peace'?",
+    "correct": "Leo Tolstoy",
+    "wrong": [
+      "Fyodor Dostoevsky",
+      "Anton Chekhov",
+      "Ivan Turgenev"
+    ],
+    "hint": "He was a Russian author considered one of the greatest writers of all time.",
+    "explanation": "Leo Tolstoy published 'War and Peace' between 1865 and 1869. The epic novel depicts Russian society during the Napoleonic Wars and is widely regarded as one of the greatest works of literature."
+  },
+  "q_art_031": {
+    "question": "Which art movement, co-founded by Pablo Picasso, features fragmented geometric forms?",
+    "correct": "Cubism",
+    "wrong": [
+      "Impressionism",
+      "Expressionism",
+      "Dadaism"
+    ],
+    "hint": "This movement emerged in the early 20th century in Paris.",
+    "explanation": "Cubism was co-founded by Pablo Picasso and Georges Braque around 1907. It revolutionized art by depicting subjects from multiple viewpoints using geometric shapes."
+  },
+  "q_art_032": {
+    "question": "What is the Japanese art of folding paper into decorative shapes called?",
+    "correct": "Origami",
+    "wrong": [
+      "Ikebana",
+      "Ukiyo-e",
+      "Kintsugi"
+    ],
+    "hint": "The word combines the Japanese words for 'folding' and 'paper.'",
+    "explanation": "Origami comes from the Japanese words 'ori' (folding) and 'kami' (paper). This art form dates back to the 17th century and ranges from simple figures to complex sculptures."
+  },
+  "q_art_033": {
+    "question": "What instrument was Niccolò Paganini famous for playing?",
+    "correct": "Violin",
+    "wrong": [
+      "Cello",
+      "Viola",
+      "Guitar"
+    ],
+    "hint": "He was an Italian virtuoso of the early 19th century known for his extraordinary technique.",
+    "explanation": "Niccolò Paganini (1782–1840) was an Italian violinist widely considered one of the greatest violin virtuosos ever. His 24 Caprices remain among the most challenging works for the instrument."
   }
 }

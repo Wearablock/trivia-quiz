@@ -178,92 +178,188 @@
   "q_his_017": {
     "question": "Who was the first woman to fly solo across the Atlantic Ocean?",
     "correct": "Amelia Earhart",
-    "wrong": ["Harriet Quimby", "Bessie Coleman", "Jacqueline Cochran"],
+    "wrong": [
+      "Harriet Quimby",
+      "Bessie Coleman",
+      "Jacqueline Cochran"
+    ],
     "hint": "She mysteriously disappeared during an attempt to circumnavigate the globe in 1937.",
     "explanation": "Amelia Earhart completed her solo transatlantic flight on May 20-21, 1932, flying from Newfoundland to Northern Ireland."
   },
   "q_his_018": {
     "question": "In which year did the Russian Revolution begin?",
     "correct": "1917",
-    "wrong": ["1905", "1914", "1920"],
+    "wrong": [
+      "1905",
+      "1914",
+      "1920"
+    ],
     "hint": "This revolution led to the overthrow of the Tsar and the rise of the Bolsheviks.",
     "explanation": "The Russian Revolution of 1917 consisted of two revolutions: the February Revolution that ended the monarchy and the October Revolution that brought the Bolsheviks to power."
   },
   "q_his_019": {
     "question": "Which civilization built Machu Picchu?",
     "correct": "Inca Empire",
-    "wrong": ["Aztec Empire", "Maya civilization", "Olmec civilization"],
+    "wrong": [
+      "Aztec Empire",
+      "Maya civilization",
+      "Olmec civilization"
+    ],
     "hint": "This citadel sits high in the Andes mountains of Peru.",
     "explanation": "Machu Picchu was built by the Inca Empire in the 15th century, perched at about 2,430 meters above sea level in the Peruvian Andes."
   },
   "q_his_020": {
     "question": "Who invented the movable type printing press in Europe?",
     "correct": "Johannes Gutenberg",
-    "wrong": ["William Caxton", "Aldus Manutius", "Bi Sheng"],
+    "wrong": [
+      "William Caxton",
+      "Aldus Manutius",
+      "Bi Sheng"
+    ],
     "hint": "His invention around 1440 in Germany revolutionized the spread of knowledge.",
     "explanation": "Johannes Gutenberg invented the movable type printing press around 1440, enabling mass production of books and fueling the Renaissance and Reformation."
   },
   "q_his_021": {
     "question": "Which empire was the largest in history by land area?",
     "correct": "British Empire",
-    "wrong": ["Mongol Empire", "Roman Empire", "Russian Empire"],
+    "wrong": [
+      "Mongol Empire",
+      "Roman Empire",
+      "Russian Empire"
+    ],
     "hint": "It was said that 'the sun never sets' on this empire.",
     "explanation": "The British Empire at its peak in 1920 covered about 35.5 million km², roughly a quarter of the world's total land area."
   },
   "q_his_022": {
     "question": "In which year did the United States declare independence?",
     "correct": "1776",
-    "wrong": ["1783", "1774", "1781"],
+    "wrong": [
+      "1783",
+      "1774",
+      "1781"
+    ],
     "hint": "The declaration was adopted on July 4th, now celebrated as a national holiday.",
     "explanation": "The United States Declaration of Independence was adopted on July 4, 1776, declaring freedom from British rule."
   },
   "q_his_023": {
     "question": "Who was the first emperor of Rome?",
     "correct": "Augustus",
-    "wrong": ["Julius Caesar", "Nero", "Tiberius"],
+    "wrong": [
+      "Julius Caesar",
+      "Nero",
+      "Tiberius"
+    ],
     "hint": "Born as Octavian, he was the adopted heir of Julius Caesar.",
     "explanation": "Augustus (born Gaius Octavius) became the first Roman Emperor in 27 BCE and ruled until 14 CE, initiating the Pax Romana."
   },
   "q_his_024": {
     "question": "Whose expedition was the first to circumnavigate the globe?",
     "correct": "Ferdinand Magellan",
-    "wrong": ["Christopher Columbus", "James Cook", "Vasco da Gama"],
+    "wrong": [
+      "Christopher Columbus",
+      "James Cook",
+      "Vasco da Gama"
+    ],
     "hint": "This Portuguese explorer set sail from Spain in 1519 with five ships, but was killed in the Philippines — his crew completed the voyage without him.",
     "explanation": "Ferdinand Magellan's expedition (1519–1522) was the first to circumnavigate the Earth. Magellan himself died in the Philippines in 1521; Juan Sebastián Elcano completed the journey."
   },
   "q_his_025": {
     "question": "Who led the Indian independence movement through non-violent resistance?",
     "correct": "Mahatma Gandhi",
-    "wrong": ["Jawaharlal Nehru", "Subhas Chandra Bose", "Bhagat Singh"],
+    "wrong": [
+      "Jawaharlal Nehru",
+      "Subhas Chandra Bose",
+      "Bhagat Singh"
+    ],
     "hint": "Known as the 'Father of the Nation' in India, he led the famous Salt March in 1930 and always wore simple hand-spun cloth.",
     "explanation": "Mahatma Gandhi led India to independence from British rule in 1947 through non-violent civil disobedience. His philosophy inspired civil rights movements worldwide."
   },
   "q_his_026": {
     "question": "Which ancient civilization developed cuneiform, one of the earliest writing systems?",
     "correct": "Sumerians",
-    "wrong": ["Ancient Egyptians", "Phoenicians", "Indus Valley civilization"],
+    "wrong": [
+      "Ancient Egyptians",
+      "Phoenicians",
+      "Indus Valley civilization"
+    ],
     "hint": "Living in Mesopotamia (modern-day Iraq), they pressed wedge-shaped marks into wet clay tablets around 3400 BCE.",
     "explanation": "The Sumerians of Mesopotamia developed cuneiform writing around 3400 BCE. Originally used for record-keeping, it evolved to express literature, law, and science."
   },
   "q_his_027": {
     "question": "What is the name of the defensive wall built across northern Britain by the Romans?",
     "correct": "Hadrian's Wall",
-    "wrong": ["Antonine Wall", "Great Wall of China", "Offa's Dyke"],
+    "wrong": [
+      "Antonine Wall",
+      "Great Wall of China",
+      "Offa's Dyke"
+    ],
     "hint": "Built in 122 AD on orders of a Roman emperor, this 73-mile stone wall stretched coast to coast and marked the empire's northern frontier in Britain.",
     "explanation": "Hadrian's Wall was built beginning in 122 AD under Emperor Hadrian. It stretches 73 miles (117 km) across northern England and is now a UNESCO World Heritage Site."
   },
   "q_his_028": {
     "question": "Which treaty officially ended World War I?",
     "correct": "Treaty of Versailles",
-    "wrong": ["Treaty of Paris", "Treaty of Ghent", "Treaty of Tordesillas"],
+    "wrong": [
+      "Treaty of Paris",
+      "Treaty of Ghent",
+      "Treaty of Tordesillas"
+    ],
     "hint": "This treaty was signed in a famous French palace in 1919.",
     "explanation": "The Treaty of Versailles was signed on June 28, 1919, in the Hall of Mirrors at the Palace of Versailles. It imposed heavy reparations on Germany and redrew European borders."
   },
   "q_his_029": {
     "question": "Who was the last pharaoh of Ancient Egypt?",
     "correct": "Cleopatra VII",
-    "wrong": ["Nefertiti", "Hatshepsut", "Ramesses II"],
+    "wrong": [
+      "Nefertiti",
+      "Hatshepsut",
+      "Ramesses II"
+    ],
     "hint": "She was romantically linked to both Julius Caesar and Mark Antony.",
     "explanation": "Cleopatra VII ruled Egypt from 51 to 30 BCE. After her death, Egypt became a province of the Roman Empire, ending over 3,000 years of pharaonic rule."
+  },
+  "q_his_030": {
+    "question": "In what year did the Great Fire of London occur?",
+    "correct": "1666",
+    "wrong": [
+      "1606",
+      "1712",
+      "1588"
+    ],
+    "hint": "It started in a bakery on Pudding Lane.",
+    "explanation": "The Great Fire of London in 1666 destroyed over 13,000 houses and 87 churches, including the original St. Paul's Cathedral, over four days."
+  },
+  "q_his_031": {
+    "question": "Which Portuguese explorer was the first European to reach India by sea?",
+    "correct": "Vasco da Gama",
+    "wrong": [
+      "Bartolomeu Dias",
+      "Pedro Álvares Cabral",
+      "Prince Henry"
+    ],
+    "hint": "He sailed around the Cape of Good Hope in Africa.",
+    "explanation": "Vasco da Gama reached Calicut, India, in 1498, establishing a direct sea route from Europe to Asia that transformed global trade."
+  },
+  "q_his_032": {
+    "question": "Which ancient wonder of the world was reportedly located in Babylon?",
+    "correct": "Hanging Gardens",
+    "wrong": [
+      "Colossus of Rhodes",
+      "Great Library",
+      "Tower of Babel"
+    ],
+    "hint": "Legend says they were built by King Nebuchadnezzar II for his homesick wife.",
+    "explanation": "The Hanging Gardens of Babylon are the only one of the Seven Wonders of the Ancient World whose existence is debated. They were said to be elaborate terraced gardens irrigated by the Euphrates River."
+  },
+  "q_his_033": {
+    "question": "Who co-authored 'The Communist Manifesto' with Friedrich Engels in 1848?",
+    "correct": "Karl Marx",
+    "wrong": [
+      "Adam Smith",
+      "John Stuart Mill",
+      "Georg Hegel"
+    ],
+    "hint": "He is also known for his major work 'Das Kapital.'",
+    "explanation": "Karl Marx, a German philosopher and economist, co-wrote 'The Communist Manifesto' with Engels. It became one of the most influential political documents in history."
   }
 }

@@ -317,5 +317,38 @@
     ],
     "hint": "Buah merah berbentuk hati ini memiliki sekitar 200 biji kecil berwarna kuning yang terlihat di permukaannya.",
     "explanation": "Stroberi adalah satu-satunya buah yang memiliki biji di bagian luar, dengan rata-rata sekitar 200 biji per buah. Secara teknis, setiap 'biji' sebenarnya adalah buah kecil yang disebut achene."
+  },
+  "q_foo_030": {
+    "question": "Dari keluarga tanaman apa perisa vanila berasal?",
+    "correct": "Anggrek",
+    "wrong": [
+      "Lili",
+      "Mawar",
+      "Mint"
+    ],
+    "hint": "Tanaman ini menghasilkan polong panjang dan tipis yang berisi biji aromatik.",
+    "explanation": "Vanila berasal dari polong anggrek Vanilla planifolia yang berasal dari Meksiko. Ini adalah salah satu rempah termahal karena proses penyerbukan dan pengawetan yang intensif."
+  },
+  "q_foo_031": {
+    "question": "Apa bahan utama dalam mochi tradisional Jepang?",
+    "correct": "Beras",
+    "wrong": [
+      "Gandum",
+      "Kentang",
+      "Jagung"
+    ],
+    "hint": "Ditumbuk hingga menjadi adonan lengket dan kenyal.",
+    "explanation": "Mochi dibuat dari beras ketan (mochigome) yang direndam, dikukus, lalu ditumbuk hingga menjadi adonan halus. Ini adalah makanan pokok perayaan Tahun Baru Jepang."
+  },
+  "q_foo_032": {
+    "question": "Negara mana yang merupakan produsen biji kakao terbesar di dunia?",
+    "correct": "Pantai Gading",
+    "wrong": [
+      "Ghana",
+      "Brasil",
+      "Indonesia"
+    ],
+    "hint": "Negara Afrika Barat ini menghasilkan hampir 40% pasokan dunia.",
+    "explanation": "Pantai Gading (Côte d'Ivoire) memproduksi sekitar 2 juta ton biji kakao per tahun, sekitar 38% dari produksi global."
   }
 }

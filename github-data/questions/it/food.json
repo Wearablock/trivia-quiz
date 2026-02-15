@@ -317,5 +317,38 @@
     ],
     "hint": "Questo frutto rosso a forma di cuore ha circa 200 piccoli semi gialli visibili sulla sua superficie.",
     "explanation": "La fragola è l'unico frutto che ha i semi all'esterno, con una media di circa 200 semi per frutto. Tecnicamente, ogni 'seme' è in realtà un piccolo frutto chiamato achenio."
+  },
+  "q_foo_030": {
+    "question": "Da quale famiglia di piante proviene l'aroma di vaniglia?",
+    "correct": "Orchidea",
+    "wrong": [
+      "Giglio",
+      "Rosa",
+      "Menta"
+    ],
+    "hint": "La pianta produce baccelli lunghi e sottili.",
+    "explanation": "La vaniglia proviene dall'orchidea Vanilla planifolia."
+  },
+  "q_foo_031": {
+    "question": "Qual è l'ingrediente principale del mochi giapponese tradizionale?",
+    "correct": "Riso",
+    "wrong": [
+      "Grano",
+      "Patata",
+      "Mais"
+    ],
+    "hint": "Pestato fino a diventare una pasta appiccicosa e gommosa.",
+    "explanation": "Fatto con riso glutinoso (mochigome)."
+  },
+  "q_foo_032": {
+    "question": "Quale paese è il maggior produttore mondiale di fave di cacao?",
+    "correct": "Costa d'Avorio",
+    "wrong": [
+      "Ghana",
+      "Brasile",
+      "Indonesia"
+    ],
+    "hint": "Questo paese dell'Africa occidentale produce quasi il 40% dell'offerta mondiale.",
+    "explanation": "Produce circa 2 milioni di tonnellate all'anno."
   }
 }

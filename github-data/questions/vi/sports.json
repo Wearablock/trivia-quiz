@@ -317,5 +317,49 @@
     ],
     "hint": "Vận động viên bơi lội người Mỹ này giành được số huy chương kỷ lục tại năm kỳ Olympic liên tiếp từ 2000 đến 2016.",
     "explanation": "Michael Phelps giành 23 huy chương vàng Olympic qua năm kỳ Thế vận hội (2000-2016), trở thành vận động viên Olympic được trao nhiều huy chương nhất mọi thời đại với tổng cộng 28 huy chương."
+  },
+  "q_spo_030": {
+    "question": "Môn thể thao mùa hè chính thức của Canada là gì?",
+    "correct": "Lacrosse",
+    "wrong": [
+      "Bóng chày",
+      "Cricket",
+      "Khúc côn cầu trên cỏ"
+    ],
+    "hint": "Có nguồn gốc từ người bản địa, chơi bằng gậy có lưới ở đầu.",
+    "explanation": "Lacrosse được công nhận là môn thể thao mùa hè quốc gia của Canada năm 1994. Nó bắt nguồn từ người bản địa Bắc Mỹ."
+  },
+  "q_spo_031": {
+    "question": "Thế vận hội Olympic hiện đại đầu tiên được tổ chức vào năm nào?",
+    "correct": "1896",
+    "wrong": [
+      "1900",
+      "1888",
+      "1904"
+    ],
+    "hint": "Được tổ chức tại quốc gia nơi Olympic cổ đại bắt nguồn.",
+    "explanation": "Thế vận hội Olympic hiện đại đầu tiên được tổ chức tại Athens, Hy Lạp, năm 1896 do Pierre de Coubertin tổ chức."
+  },
+  "q_spo_032": {
+    "question": "Môn võ thuật nào có nguồn gốc từ Nhật Bản có nghĩa là 'con đường nhu thuận'?",
+    "correct": "Judo",
+    "wrong": [
+      "Karate",
+      "Aikido",
+      "Kendo"
+    ],
+    "hint": "Được sáng lập bởi Jigoro Kano năm 1882.",
+    "explanation": "Judo (柔道) được Jigoro Kano sáng lập năm 1882. Tên gọi có nghĩa là 'con đường nhu thuận', nhấn mạnh việc dùng sức mạnh đối thủ chống lại chính họ."
+  },
+  "q_spo_033": {
+    "question": "Chiều dài tiêu chuẩn của bể bơi Olympic là bao nhiêu mét?",
+    "correct": "50 mét",
+    "wrong": [
+      "25 mét",
+      "100 mét",
+      "75 mét"
+    ],
+    "hint": "Bằng một nửa của một phần mười kilômét.",
+    "explanation": "Bể bơi Olympic dài 50 mét, rộng 25 mét và sâu ít nhất 2 mét."
   }
 }
