@@ -95,7 +95,7 @@
       "45 km",
       "50 km"
     ],
-    "hint": "A distancia foi padronizada nos Jogos Olimpicos de Londres em 1908.",
+    "hint": "Um pouco mais de 42 km — a distância foi padronizada nos Jogos Olímpicos de Londres de 1908.",
     "explanation": "Uma maratona tem 42,195 km (26,2 milhas), distancia estabelecida nos Jogos Olimpicos de Londres de 1908."
   },
   "q_spo_010": {
@@ -139,7 +139,7 @@
       "7",
       "8"
     ],
-    "hint": "Os jogadores fazem rodízio de posição a cada saque conquistado.",
+    "hint": "Cada equipe tem 3 jogadores na linha de frente e 3 na linha de trás, que rotacionam posições após ganhar o saque.",
     "explanation": "Cada equipe de vôlei tem 6 jogadores em quadra."
   },
   "q_spo_014": {
@@ -337,7 +337,7 @@
       "1888",
       "1904"
     ],
-    "hint": "No país onde as Olimpíadas antigas tiveram origem.",
+    "hint": "Foram realizados em Atenas no final da década de 1890, organizados por Pierre de Coubertin.",
     "explanation": "Realizados em Atenas, Grécia, em 1896."
   },
   "q_spo_032": {

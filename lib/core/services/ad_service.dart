@@ -34,6 +34,7 @@ class AdService extends ChangeNotifier {
   InterstitialAd? _interstitialAd;
   bool _isInterstitialAdReady = false;
   DateTime? _lastInterstitialShowTime;
+  int _interstitialRetryCount = 0;
 
   bool get isInterstitialAdReady => _isInterstitialAdReady;
 
@@ -42,8 +43,12 @@ class AdService extends ChangeNotifier {
   // ============================================================
   RewardedAd? _rewardedAd;
   bool _isRewardedAdReady = false;
+  int _rewardedRetryCount = 0;
 
   bool get isRewardedAdReady => _isRewardedAdReady;
+
+  // 재시도 설정
+  static const int _maxRetryCount = 5;
 
   // ============================================================
   // 초기화
@@ -73,14 +78,15 @@ class AdService extends ChangeNotifier {
     }
   }
 
-  /// 전면/보상형 광고 미리 로드
-  Future<void> preloadAds() async {
+  /// 전면/보상형 광고 미리 로드 (3초 간격 분산 로드)
+  void preloadAds() {
     if (!_isInitialized || !AdConfig.adsEnabled) return;
 
-    await Future.wait([
-      _loadInterstitialAd(),
-      _loadRewardedAd(),
-    ]);
+    _loadInterstitialAd();
+    // 보상형 광고는 3초 후 로드 (동시 로드 방지)
+    Future.delayed(const Duration(seconds: 3), () {
+      _loadRewardedAd();
+    });
   }
 
   // ============================================================
@@ -134,16 +140,17 @@ class AdService extends ChangeNotifier {
   // ============================================================
 
   /// 전면 광고 로드
-  Future<void> _loadInterstitialAd() async {
+  void _loadInterstitialAd() {
     if (_isInterstitialAdReady) return;
 
-    await InterstitialAd.load(
+    InterstitialAd.load(
       adUnitId: AdConfig.interstitialAdUnitId,
       request: const AdRequest(),
       adLoadCallback: InterstitialAdLoadCallback(
         onAdLoaded: (ad) {
           _interstitialAd = ad;
           _isInterstitialAdReady = true;
+          _interstitialRetryCount = 0;
           debugPrint('[AdService] 전면 광고 로드 성공');
 
           ad.fullScreenContentCallback = FullScreenContentCallback(
@@ -151,7 +158,7 @@ class AdService extends ChangeNotifier {
               ad.dispose();
               _interstitialAd = null;
               _isInterstitialAdReady = false;
-              _loadInterstitialAd(); // 재로드
+              _loadInterstitialAd();
             },
             onAdFailedToShowFullScreenContent: (ad, error) {
               ad.dispose();
@@ -163,10 +170,25 @@ class AdService extends ChangeNotifier {
         },
         onAdFailedToLoad: (error) {
           _isInterstitialAdReady = false;
-          debugPrint('[AdService] 전면 광고 로드 실패: ${error.message}');
+          debugPrint('[AdService] 전면 광고 로드 실패 (시도 ${_interstitialRetryCount + 1}): ${error.message}');
+          _retryLoadInterstitialAd();
         },
       ),
     );
+  }
+
+  /// 전면 광고 지수 백오프 재시도
+  void _retryLoadInterstitialAd() {
+    if (_interstitialRetryCount >= _maxRetryCount) {
+      debugPrint('[AdService] 전면 광고 재시도 횟수 초과');
+      _interstitialRetryCount = 0;
+      return;
+    }
+    final delay = Duration(seconds: 1 << _interstitialRetryCount);
+    _interstitialRetryCount++;
+    Future.delayed(delay, () {
+      if (!_isInterstitialAdReady) _loadInterstitialAd();
+    });
   }
 
   /// 전면 광고 표시 (퀴즈 종료 시)
@@ -204,16 +226,17 @@ class AdService extends ChangeNotifier {
   // ============================================================
 
   /// 보상형 광고 로드
-  Future<void> _loadRewardedAd() async {
+  void _loadRewardedAd() {
     if (_isRewardedAdReady) return;
 
-    await RewardedAd.load(
+    RewardedAd.load(
       adUnitId: AdConfig.rewardedAdUnitId,
       request: const AdRequest(),
       rewardedAdLoadCallback: RewardedAdLoadCallback(
         onAdLoaded: (ad) {
           _rewardedAd = ad;
           _isRewardedAdReady = true;
+          _rewardedRetryCount = 0;
           notifyListeners();
           debugPrint('[AdService] 보상형 광고 로드 성공');
 
@@ -223,7 +246,7 @@ class AdService extends ChangeNotifier {
               _rewardedAd = null;
               _isRewardedAdReady = false;
               notifyListeners();
-              _loadRewardedAd(); // 재로드
+              _loadRewardedAd();
             },
             onAdFailedToShowFullScreenContent: (ad, error) {
               ad.dispose();
@@ -237,10 +260,25 @@ class AdService extends ChangeNotifier {
         onAdFailedToLoad: (error) {
           _isRewardedAdReady = false;
           notifyListeners();
-          debugPrint('[AdService] 보상형 광고 로드 실패: ${error.message}');
+          debugPrint('[AdService] 보상형 광고 로드 실패 (시도 ${_rewardedRetryCount + 1}): ${error.message}');
+          _retryLoadRewardedAd();
         },
       ),
     );
+  }
+
+  /// 보상형 광고 지수 백오프 재시도
+  void _retryLoadRewardedAd() {
+    if (_rewardedRetryCount >= _maxRetryCount) {
+      debugPrint('[AdService] 보상형 광고 재시도 횟수 초과');
+      _rewardedRetryCount = 0;
+      return;
+    }
+    final delay = Duration(seconds: 1 << _rewardedRetryCount);
+    _rewardedRetryCount++;
+    Future.delayed(delay, () {
+      if (!_isRewardedAdReady) _loadRewardedAd();
+    });
   }
 
   /// 보상형 광고 표시 (힌트 보기 시)

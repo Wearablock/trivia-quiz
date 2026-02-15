@@ -95,7 +95,7 @@
       "45 km",
       "50 km"
     ],
-    "hint": "Die Distanz wurde bei den Olympischen Spielen 1908 in London standardisiert.",
+    "hint": "Etwas länger als 42 km — die Distanz wurde bei den Olympischen Spielen 1908 in London standardisiert.",
     "explanation": "Ein Marathon ist 42,195 km (26,2 Meilen) lang, eine Distanz, die 1908 bei den Olympischen Spielen in London festgelegt wurde."
   },
   "q_spo_010": {
@@ -139,7 +139,7 @@
       "7",
       "8"
     ],
-    "hint": "Die Spieler rotieren ihre Positionen nach jedem gewonnenen Aufschlag.",
+    "hint": "Jedes Team hat 3 Vorderreihen- und 3 Hinterreihenspieler, die nach dem Gewinn des Aufschlags rotieren.",
     "explanation": "Jedes Volleyballteam hat 6 Spieler auf dem Feld."
   },
   "q_spo_014": {
@@ -338,7 +338,7 @@
       "1904"
     ],
     "explanation": "Sie fanden 1896 in Athen, Griechenland, statt.",
-    "hint": "In dem Land, in dem die antiken Olympischen Spiele ihren Ursprung hatten."
+    "hint": "Sie fanden Ende der 1890er Jahre in Athen statt, organisiert von Pierre de Coubertin."
   },
   "q_spo_032": {
     "question": "Welche Kampfkunst aus Japan bedeutet übersetzt „sanfter Weg“?",

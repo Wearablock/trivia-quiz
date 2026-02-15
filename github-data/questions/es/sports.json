@@ -95,7 +95,7 @@
       "45 km",
       "50 km"
     ],
-    "hint": "La distancia se estandarizo en los Juegos Olimpicos de Londres de 1908.",
+    "hint": "Un poco más de 42 km — la distancia fue estandarizada en los Juegos Olímpicos de Londres de 1908.",
     "explanation": "Un maraton mide 42,195 km (26,2 millas), distancia establecida en los Juegos Olimpicos de Londres de 1908."
   },
   "q_spo_010": {
@@ -139,7 +139,7 @@
       "7",
       "8"
     ],
-    "hint": "Los jugadores rotan posiciones cada vez que ganan el saque.",
+    "hint": "Cada equipo tiene 3 jugadores en la fila delantera y 3 en la trasera, que rotan posiciones tras ganar el saque.",
     "explanation": "Cada equipo de voleibol tiene 6 jugadores en la cancha."
   },
   "q_spo_014": {
@@ -338,7 +338,7 @@
       "1904"
     ],
     "explanation": "Se celebraron en Atenas, Grecia, en 1896.",
-    "hint": "En el país donde se originaron los Juegos Olímpicos antiguos."
+    "hint": "Se celebraron en Atenas a finales de la década de 1890, organizados por Pierre de Coubertin."
   },
   "q_spo_032": {
     "question": "¿Qué arte marcial, originaria de Japón, se traduce como 'camino suave'?",

@@ -25,9 +25,8 @@ void main() async {
   // );
   // FlutterError.onError = FirebaseCrashlytics.instance.recordFlutterFatalError;
 
-  // AdMob 초기화
+  // AdMob 초기화 (광고 프리로드는 UI 렌더링 후 지연 실행)
   await AdService().initialize();
-  AdService().preloadAds();
 
   // IAP 초기화
   await IAPService().initialize();

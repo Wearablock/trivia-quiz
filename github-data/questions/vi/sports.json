@@ -95,7 +95,7 @@
       "45 km",
       "50 km"
     ],
-    "hint": "Cự ly này được chuẩn hóa tại Thế vận hội London năm 1908.",
+    "hint": "Dài hơn 42 km một chút — khoảng cách được chuẩn hóa tại Thế vận hội London năm 1908.",
     "explanation": "Marathon có cự ly 42,195 km (26,2 dặm), được chuẩn hóa tại Thế vận hội London năm 1908."
   },
   "q_spo_010": {
@@ -139,7 +139,7 @@
       "7",
       "8"
     ],
-    "hint": "Các cầu thủ xoay vòng vị trí mỗi khi giành quyền giao bóng.",
+    "hint": "Mỗi đội có 3 người hàng trước và 3 người hàng sau, luân chuyển vị trí sau khi thắng quyền phát bóng.",
     "explanation": "Mỗi đội bóng chuyền có 6 cầu thủ trên sân."
   },
   "q_spo_014": {
@@ -337,7 +337,7 @@
       "1888",
       "1904"
     ],
-    "hint": "Được tổ chức tại quốc gia nơi Olympic cổ đại bắt nguồn.",
+    "hint": "Được tổ chức tại Athens vào cuối thập niên 1890, do Pierre de Coubertin tổ chức.",
     "explanation": "Thế vận hội Olympic hiện đại đầu tiên được tổ chức tại Athens, Hy Lạp, năm 1896 do Pierre de Coubertin tổ chức."
   },
   "q_spo_032": {

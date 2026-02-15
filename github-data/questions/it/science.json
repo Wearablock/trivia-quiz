@@ -117,7 +117,7 @@
       "100 milioni °C",
       "6.000 °C"
     ],
-    "hint": "Abbastanza caldo da fondere atomi di idrogeno in elio.",
+    "hint": "Tra 10 e 20 milioni di gradi — abbastanza caldo da fondere atomi di idrogeno in elio.",
     "explanation": "Il nucleo del Sole raggiunge circa 15 milioni di gradi Celsius, consentendo la fusione nucleare."
   },
   "q_sci_011": {
@@ -370,7 +370,7 @@
       "3",
       "5"
     ],
-    "hint": "Gli anelli più famosi appartengono al sesto pianeta dal Sole.",
+    "hint": "Oltre a Saturno, anche altri tre pianeti esterni hanno sistemi di anelli meno visibili.",
     "explanation": "Giove, Saturno, Urano e Nettuno hanno tutti sistemi di anelli."
   },
   "q_sci_034": {

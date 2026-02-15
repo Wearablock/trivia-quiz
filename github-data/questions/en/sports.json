@@ -95,7 +95,7 @@
       "45 km",
       "50 km"
     ],
-    "hint": "The distance was standardized at the 1908 London Olympics.",
+    "hint": "It's slightly longer than 42 km — the distance was standardized at the 1908 London Olympics.",
     "explanation": "A marathon is 42.195 km (26.2 miles), a distance set at the 1908 London Olympics to finish in front of the royal box."
   },
   "q_spo_010": {
@@ -139,7 +139,7 @@
       "7",
       "8"
     ],
-    "hint": "Players rotate positions each time their team wins the serve.",
+    "hint": "Each team has 3 front-row and 3 back-row players who rotate positions after winning the serve.",
     "explanation": "Each volleyball team has 6 players on the court, rotating clockwise through positions after winning a rally."
   },
   "q_spo_014": {
@@ -337,7 +337,7 @@
       "1888",
       "1904"
     ],
-    "hint": "They took place in the country where the ancient Olympics originated.",
+    "hint": "They were held in Athens in the late 1890s, organized by Pierre de Coubertin.",
     "explanation": "The first modern Olympic Games were held in Athens, Greece, in 1896, organized by Pierre de Coubertin. Athletes from 14 nations competed in 43 events."
   },
   "q_spo_032": {

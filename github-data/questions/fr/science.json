@@ -117,7 +117,7 @@
       "100 millions °C",
       "6 000 °C"
     ],
-    "hint": "Assez chaud pour fusionner des atomes d'hydrogene en helium.",
+    "hint": "Entre 10 et 20 millions de degrés — assez chaud pour fusionner des atomes d'hydrogène en hélium.",
     "explanation": "Le noyau du Soleil atteint environ 15 millions de degres Celsius, permettant la fusion nucleaire."
   },
   "q_sci_011": {
@@ -371,7 +371,7 @@
       "5"
     ],
     "explanation": "Jupiter, Saturne, Uranus et Neptune possèdent tous des systèmes d'anneaux.",
-    "hint": "Les anneaux les plus célèbres appartiennent à la sixième planète en partant du Soleil."
+    "hint": "Outre Saturne, trois autres planètes extérieures possèdent également des systèmes d'anneaux moins visibles."
   },
   "q_sci_034": {
     "question": "Quelle particule subatomique porte une charge électrique négative ?",

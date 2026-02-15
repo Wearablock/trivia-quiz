@@ -117,7 +117,7 @@
       "100 milhoes °C",
       "6.000 °C"
     ],
-    "hint": "Quente o suficiente para fundir atomos de hidrogenio em helio.",
+    "hint": "Entre 10 e 20 milhões de graus — quente o suficiente para fundir átomos de hidrogênio em hélio.",
     "explanation": "O nucleo do Sol atinge cerca de 15 milhoes de graus Celsius, permitindo a fusao nuclear."
   },
   "q_sci_011": {
@@ -370,7 +370,7 @@
       "3",
       "5"
     ],
-    "hint": "Os anéis mais famosos pertencem ao sexto planeta a partir do Sol.",
+    "hint": "Além de Saturno, outros três planetas exteriores também possuem sistemas de anéis menos visíveis.",
     "explanation": "Júpiter, Saturno, Urano e Netuno possuem sistemas de anéis."
   },
   "q_sci_034": {

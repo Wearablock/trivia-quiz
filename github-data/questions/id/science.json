@@ -117,7 +117,7 @@
       "100 juta °C",
       "6.000 °C"
     ],
-    "hint": "Cukup panas untuk melebur atom hidrogen menjadi helium.",
+    "hint": "Antara 10 dan 20 juta derajat — cukup panas untuk meleburkan atom hidrogen menjadi helium.",
     "explanation": "Inti Matahari mencapai sekitar 15 juta derajat Celsius, memungkinkan terjadinya fusi nuklir."
   },
   "q_sci_011": {
@@ -370,7 +370,7 @@
       "3",
       "5"
     ],
-    "hint": "Cincin yang paling terkenal dimiliki oleh planet keenam dari Matahari.",
+    "hint": "Selain Saturnus, tiga planet luar lainnya juga memiliki sistem cincin yang kurang terlihat.",
     "explanation": "Jupiter, Saturnus, Uranus, dan Neptunus semuanya memiliki sistem cincin. Cincin Saturnus adalah yang paling menonjol."
   },
   "q_sci_034": {

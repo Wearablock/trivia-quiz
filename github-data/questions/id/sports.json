@@ -95,7 +95,7 @@
       "45 km",
       "50 km"
     ],
-    "hint": "Jarak ini distandarisasi pada Olimpiade London tahun 1908.",
+    "hint": "Sedikit lebih dari 42 km — jarak ini distandarkan pada Olimpiade London 1908.",
     "explanation": "Maraton berjarak 42,195 km (26,2 mil), distandarisasi pada Olimpiade London tahun 1908."
   },
   "q_spo_010": {
@@ -139,7 +139,7 @@
       "7",
       "8"
     ],
-    "hint": "Pemain berputar posisi setiap mendapat giliran servis.",
+    "hint": "Setiap tim memiliki 3 pemain baris depan dan 3 pemain baris belakang, yang berrotasi posisi setelah memenangkan servis.",
     "explanation": "Setiap tim voli memiliki 6 pemain di lapangan."
   },
   "q_spo_014": {
@@ -337,7 +337,7 @@
       "1888",
       "1904"
     ],
-    "hint": "Diadakan di negara tempat Olimpiade kuno berasal.",
+    "hint": "Diadakan di Athena pada akhir 1890-an, diorganisir oleh Pierre de Coubertin.",
     "explanation": "Olimpiade modern pertama diadakan di Athena, Yunani, pada tahun 1896, diorganisir oleh Pierre de Coubertin."
   },
   "q_spo_032": {

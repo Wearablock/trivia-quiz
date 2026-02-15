@@ -95,7 +95,7 @@
       "45 km",
       "50 km"
     ],
-    "hint": "La distanza fu standardizzata alle Olimpiadi di Londra del 1908.",
+    "hint": "Poco più di 42 km — la distanza fu standardizzata alle Olimpiadi di Londra del 1908.",
     "explanation": "Una maratona e lunga 42,195 km (26,2 miglia), distanza stabilita alle Olimpiadi di Londra del 1908."
   },
   "q_spo_010": {
@@ -139,7 +139,7 @@
       "7",
       "8"
     ],
-    "hint": "I giocatori ruotano posizione ogni volta che vincono il servizio.",
+    "hint": "Ogni squadra ha 3 giocatori in prima fila e 3 in seconda fila, che ruotano le posizioni dopo aver vinto il servizio.",
     "explanation": "Ogni squadra di pallavolo ha 6 giocatori in campo."
   },
   "q_spo_014": {
@@ -337,7 +337,7 @@
       "1888",
       "1904"
     ],
-    "hint": "Nel paese dove ebbero origine le Olimpiadi antiche.",
+    "hint": "Si tennero ad Atene alla fine degli anni 1890, organizzati da Pierre de Coubertin.",
     "explanation": "Si tennero ad Atene, in Grecia, nel 1896."
   },
   "q_spo_032": {

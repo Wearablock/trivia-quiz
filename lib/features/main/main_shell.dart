@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import '../../l10n/generated/app_localizations.dart';
+import '../../core/services/ad_service.dart';
 import '../../presentation/screens/home/home_screen.dart';
 import '../../presentation/screens/stats/stats_screen.dart';
 import '../../presentation/screens/review/review_screen.dart';
@@ -15,6 +16,17 @@ class MainShell extends StatefulWidget {
 
 class _MainShellState extends State<MainShell> {
   int _selectedIndex = 0;
+
+  @override
+  void initState() {
+    super.initState();
+    // UI 렌더링 완료 후 2초 지연하여 광고 프리로드
+    WidgetsBinding.instance.addPostFrameCallback((_) {
+      Future.delayed(const Duration(seconds: 2), () {
+        AdService().preloadAds();
+      });
+    });
+  }
 
   @override
   Widget build(BuildContext context) {

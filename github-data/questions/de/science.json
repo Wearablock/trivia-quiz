@@ -117,7 +117,7 @@
       "100 Millionen °C",
       "6.000 °C"
     ],
-    "hint": "Heiß genug, um Wasserstoffatome zu Helium zu verschmelzen.",
+    "hint": "Zwischen 10 und 20 Millionen Grad — heiß genug, um Wasserstoffatome zu Helium zu verschmelzen.",
     "explanation": "Der Sonnenkern erreicht etwa 15 Millionen Grad Celsius, was Kernfusion ermöglicht."
   },
   "q_sci_011": {
@@ -371,7 +371,7 @@
       "5"
     ],
     "explanation": "Jupiter, Saturn, Uranus und Neptun haben alle Ringsysteme.",
-    "hint": "Die berühmtesten Ringe gehören zum sechsten Planeten von der Sonne aus."
+    "hint": "Neben Saturn haben auch drei weitere äußere Planeten weniger sichtbare Ringsysteme."
   },
   "q_sci_034": {
     "question": "Welches subatomare Teilchen trägt eine negative elektrische Ladung?",

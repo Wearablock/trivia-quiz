@@ -62,7 +62,7 @@
       "100 million °C",
       "6,000 °C"
     ],
-    "hint": "It's hot enough to fuse hydrogen atoms into helium.",
+    "hint": "It's between 10 and 20 million degrees — hot enough to fuse hydrogen atoms into helium.",
     "explanation": "The Sun's core reaches about 15 million degrees Celsius, enabling nuclear fusion."
   },
   "q_sci_006": {
@@ -370,7 +370,7 @@
       "3",
       "5"
     ],
-    "hint": "The most famous rings belong to the sixth planet from the Sun.",
+    "hint": "Besides Saturn, three other outer planets also have less visible ring systems.",
     "explanation": "Jupiter, Saturn, Uranus, and Neptune all have ring systems. Saturn's rings are the most prominent and visible, while the others are much fainter."
   },
   "q_sci_034": {

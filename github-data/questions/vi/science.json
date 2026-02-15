@@ -117,7 +117,7 @@
       "100 triệu °C",
       "6.000 °C"
     ],
-    "hint": "Đủ nóng để hợp nhất các nguyên tử hydro thành heli.",
+    "hint": "Từ 10 đến 20 triệu độ — đủ nóng để hợp nhất nguyên tử hydro thành heli.",
     "explanation": "Lõi Mặt Trời đạt khoảng 15 triệu độ C, cho phép phản ứng nhiệt hạch xảy ra."
   },
   "q_sci_011": {
@@ -370,7 +370,7 @@
       "3",
       "5"
     ],
-    "hint": "Vành đai nổi tiếng nhất thuộc về hành tinh thứ sáu tính từ Mặt Trời.",
+    "hint": "Ngoài Sao Thổ, ba hành tinh bên ngoài khác cũng có hệ thống vành đai ít rõ ràng hơn.",
     "explanation": "Sao Mộc, Sao Thổ, Sao Thiên Vương và Sao Hải Vương đều có hệ thống vành đai. Vành đai của Sao Thổ nổi bật và dễ thấy nhất."
   },
   "q_sci_034": {

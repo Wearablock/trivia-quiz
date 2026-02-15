@@ -95,7 +95,7 @@
       "45 km",
       "50 km"
     ],
-    "hint": "La distance a ete standardisee lors des Jeux olympiques de Londres en 1908.",
+    "hint": "Un peu plus de 42 km — la distance a été standardisée aux Jeux olympiques de Londres en 1908.",
     "explanation": "Un marathon mesure 42,195 km (26,2 miles), une distance fixee aux Jeux olympiques de Londres en 1908."
   },
   "q_spo_010": {
@@ -139,7 +139,7 @@
       "7",
       "8"
     ],
-    "hint": "Les joueurs tournent de position à chaque service gagné.",
+    "hint": "Chaque équipe a 3 joueurs en première ligne et 3 en deuxième ligne, qui changent de position après avoir gagné le service.",
     "explanation": "Chaque équipe de volleyball a 6 joueurs sur le terrain."
   },
   "q_spo_014": {
@@ -338,7 +338,7 @@
       "1904"
     ],
     "explanation": "Ils se sont tenus à Athènes, en Grèce, en 1896.",
-    "hint": "Dans le pays où les Jeux olympiques antiques ont vu le jour."
+    "hint": "Ils se sont tenus à Athènes à la fin des années 1890, organisés par Pierre de Coubertin."
   },
   "q_spo_032": {
     "question": "Quel art martial, originaire du Japon, se traduit par « voie de la souplesse » ?",
